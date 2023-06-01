@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2023-03</title>
+		<dateCreated>Mon, 01 May 2023 12:55:02 GMT</dateCreated>
+		<dateModified>Mon, 01 May 2023 12:55:23 GMT</dateModified>
+		<ownerId>frank.mcpherson@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>1</expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="March 2023" created="Wed, 01 Mar 2023 14:52:00 GMT" name="march2023" type="calendarMonth">
+			<outline text="March 28" created="Tue, 28 Mar 2023 14:56:02 GMT" type="calendarDay" name="28">
+				<outline text="Just lost a good chunk of writing because Drummer stopped saving a file. I think the web app crashed or something in the browser. Lesson learned is to not trust Drummer.  " created="Tue, 28 Mar 2023 22:36:32 GMT" type="outline"/>
+				<outline text="What is perennial philosophy? " created="Tue, 28 Mar 2023 14:56:03 GMT" type="markdown">
+					<outline text="&gt; The Perennial Philosophy is a term used to describe a set of spiritual beliefs that are shared across many different religions and philosophical traditions. It is based on the idea that there is an underlying truth that is common to all spiritual traditions, and that this truth can be experienced through direct spiritual experience. The Perennial Philosophy is also sometimes referred to as the “Eternal Wisdom” or the “Primordial Tradition”." created="Tue, 28 Mar 2023 14:56:39 GMT" type="markdown"/>
+					<outline text="Source: chatGPT " created="Tue, 28 Mar 2023 14:57:18 GMT" type="outline"/>
+					</outline>
+				</outline>
+			<outline text="March 27" created="Mon, 27 Mar 2023 13:43:15 GMT" type="calendarDay" name="27">
+				<outline text="Many politicians seem eager to &lt;a href=&quot;https://www.lawfareblog.com/tiktok-and-law-primer-case-you-need-explain-things-your-teenager&quot;&gt;shutdown Tiktok&lt;/a&gt; despite what appear to be First Amendment constraints (the government shutting down Tiktok will infringe on American's free speech rights). Can you really claim shutting down Tiktok is in a national interest while leaving Facebook, for which we found evidence of how it was used to influence elections by adversaries, alone? And, I wonder about the political ramifications with 150 million Americans using it every day. Yeah, you might think it's just kids, but those kids will be voters some day." created="Mon, 27 Mar 2023 13:43:16 GMT" type="outline"/>
+				</outline>
+			<outline text="March 24" created="Fri, 24 Mar 2023 14:01:59 GMT" type="calendarDay" name="24">
+				<outline text="I am not sure of the value of &lt;a href=&quot;http://scripting.com/2023/03/23/182517.html&quot;&gt;a Large Language Model for my own writing&lt;/a&gt;, just a really good index and search will do. However, I do like the idea of having a personal search engine that I could point toward my personal data stores of my writing and being able to search for prior writing. Daytona was giving me this with what I write here, but it is now broken after Drummer moved to HTTPS. I get this from Roam and from Evernote." created="Fri, 24 Mar 2023 14:02:00 GMT" type="outline"/>
+				</outline>
+			<outline text="March 23" created="Thu, 23 Mar 2023 13:56:46 GMT" type="calendarDay" name="23">
+				<outline text="Reading &lt;a href=&quot;https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/&quot;&gt;Stephen Wolfram's explanation of chatGPT&lt;/a&gt;, and I am getting the impression that chatGPT is a demonstration of what can be done with a massive amount of fast computing power." created="Thu, 23 Mar 2023 14:14:33 GMT" type="outline"/>
+				<outline text="I don't get having &lt;a href=&quot;https://9to5google.com/2023/03/22/gmail-generative-ai-insight/&quot;&gt;bots writing for me&lt;/a&gt; when it seems you have to spend as much time thinking about and writing the prompts as you do the actual writing. I am using my chatGPT bot how to do things, so far mostly with bash script and Linux commands. " created="Thu, 23 Mar 2023 13:56:47 GMT" type="outline"/>
+				</outline>
+			<outline text="March 22" created="Wed, 22 Mar 2023 15:18:12 GMT" type="calendarDay" name="22">
+				<outline text="I've continued to use &lt;a href=&quot;http://oldschool.scripting.com/frank.mcpherson@gmail.com/2023/03/03.html&quot;&gt;the Python script that I have&lt;/a&gt; to ask chatGPT 3 questions, and have found it to be useful. Like Internet search, much depends on how one phrases a question." created="Wed, 22 Mar 2023 15:24:50 GMT" type="outline"/>
+				<outline text="Are &lt;a href=&quot;https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/&quot;&gt;Large Language Models&lt;/a&gt; artificial intelligence and will they ever be? They appear to be a useful tool, but only as good as prediction will ever be. I got an invite to try &lt;a href=&quot;https://blog.google/technology/ai/bard-google-ai-search-updates/&quot;&gt;Google Bard&lt;/a&gt; but I don't have the interest of trying every LLM-enhanced chatbot that comes in to existence. I do think that such LLM-enhanced chatbots are useful for getting answers to questions, which is one of the purposes of Internet search. " created="Wed, 22 Mar 2023 15:18:13 GMT" type="outline"/>
+				</outline>
+			<outline text="March 16" created="Thu, 16 Mar 2023 17:49:40 GMT" type="calendarDay" name="16">
+				<outline text="It is interesting to me how &lt;a href=&quot;https://www.theverge.com/2023/3/14/23639273/google-ai-features-docs-gmail-slides-sheets-workspace&quot;&gt;Google&lt;/a&gt; and &lt;a href=&quot;https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/&quot;&gt;Microsoft&lt;/a&gt; are focusing on how to have their large language model chatbots assist with making things rather than learning things. I am not sure whether this is the best use of this large language model, which is being called AI but is not really, functionality" created="Thu, 16 Mar 2023 17:49:41 GMT" type="outline"/>
+				</outline>
+			<outline text="March 15" created="Wed, 15 Mar 2023 17:56:35 GMT" type="calendarDay" name="15">
+				<outline text="Pixel 7a pricing &lt;a href=&quot;https://9to5google.com/2023/03/15/pixel-7a-pixel-fold-price-rumor/&quot;&gt;rumored to be&lt;/a&gt; in the $450 to $500 range." created="Wed, 15 Mar 2023 18:01:32 GMT" type="outline"/>
+				<outline text="What Is A Large Language Model?" created="Wed, 15 Mar 2023 17:56:36 GMT" type="outline">
+					<outline text="&gt;A large language model is a type of artificial intelligence (AI) system that uses a large corpus of natural language data to learn the structure and meaning of language. It is trained on large amounts of text data and can generate new text that is similar to the input data. Large language models are used for natural language processing tasks such as language translation, text summarization, and question answering." created="Wed, 15 Mar 2023 17:56:46 GMT" type="markdown"/>
+					<outline text="Source: chatGPT " created="Thu, 16 Mar 2023 17:54:24 GMT"/>
+					</outline>
+				</outline>
+			<outline text="March 13" created="Mon, 13 Mar 2023 15:19:53 GMT" type="calendarDay" name="13">
+				<outline text="It looks like the Pixel 7a is &lt;a href=&quot;https://9to5google.com/2023/03/12/pixel-7a-leak-ram-hardware/&quot;&gt;going to be a significant upgrade&lt;/a&gt; from my Pixel 4a.  " created="Mon, 13 Mar 2023 15:41:48 GMT" type="outline"/>
+				<outline text="I expect &lt;a href=&quot;https://stratechery.com/2023/the-death-of-silicon-valley-bank/&quot;&gt;the Silicon Valley Bank collapse&lt;/a&gt; is going to be quickly politicized. Before we get to who is doing what wrong, there should be an attempt to explain to the average American why it matters to them. These situations keep coming across as simply bail outs for rich people making mistakes, at the expense of the average person. " created="Mon, 13 Mar 2023 15:19:54 GMT" type="outline"/>
+				</outline>
+			<outline text="March 9" created="Thu, 09 Mar 2023 14:09:34 GMT" type="calendarDay" name="09">
+				<outline text="&lt;a href=&quot;https://www.thefp.com/p/trump-dominates-cpac-but-young-conservatives&quot;&gt;What is fake news&lt;/a&gt;? Broadly, it appears to be any news reported by any service/publication/broadcast that is a for-profit business, because fake news appears to be whatever news is published by someone with an agenda. Every company that is in business is biased towards making money. If the consumers of news only pay for what we want to hear then the businesses providing that news is going to optimize for what we are willing buy buy. See, this all comes down to how money corrupts. A society that has every aspect dependent on money is a corrupted society." created="Thu, 09 Mar 2023 14:55:28 GMT" type="outline"/>
+				<outline text="When I do watch any &quot;news opinion&quot; service I pay attention to what they seem to obsess over. I've been watching &lt;a href=&quot;https://www.youtube.com/c/breakingpoints/videos&quot;&gt;Breaking Points&lt;/a&gt; for a while, it has a familiar format with a conservative and liberal host to project a balanced view. In terms of it's politics Break Points is somewhat balanced, but it obsesses over &quot;mainstream media&quot; and how bad it is, and while that is not wrong, the constant bashing and re-hashing of the same message projects the message &quot;watch us, we are different, don't watch them&quot; that frankly is in fact no different than Fox News and MSNBC. " created="Thu, 09 Mar 2023 14:44:07 GMT" type="outline"/>
+				<outline text="Wish I had a way to track which of my RSS feeds that I read the most. " created="Thu, 09 Mar 2023 14:41:11 GMT" type="outline"/>
+				<outline text="DuckDuckGo &lt;a href=&quot;https://www.spreadprivacy.com/duckassist-launch/?s=pr-hd&quot;&gt;is adding&lt;/a&gt; a chat assistant (chatGPT like) for Wikipedia. I've been using DuckDuckGo as the default search engine of my desktop web browsers. " created="Thu, 09 Mar 2023 14:12:44 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://www.macrumors.com/2023/03/08/google-one-vpn-expansion/&quot;&gt;I read&lt;/a&gt; that Google is providing their VPN service now to all Google One subscribers, but how do I use it? I started the Google One app on my Pixel 4a and it still says I need to upgrade to the &quot;premium&quot; 2 TB plan. Checked for updates and I don't see one for the Google One app, so looks like I may have to wait until it is available for me. I am curious whether this applies to my Chromebooks too. I would think that if is seamless enough that it would just be enabled, it could run in the background with out one every knowing." created="Thu, 09 Mar 2023 14:10:57 GMT" type="outline"/>
+				<outline text="Another winter weather advisory today for 3 to 6 inches of snow starting at 10 PM tonight until Friday afternoon. Once we reached meteorological the snow started to fall. " created="Thu, 09 Mar 2023 14:09:35 GMT" type="outline"/>
+				</outline>
+			<outline text="March 3" created="Fri, 03 Mar 2023 14:31:22 GMT" type="calendarDay" name="03">
+				<outline text="&lt;a href=&quot;https://frankmcpherson.blog/2023/03/03/dave-writes-of.html&quot;&gt;I use a Python script to interact with ChatGPT&lt;/a&gt;, and therefore I can copy and paste answers from a terminal window, examples for which are below using markdown. The script is really simple (see below) and I bet it could be translated to Drummer script pretty easily if there is an equivalent to the Python requests package." created="Fri, 03 Mar 2023 15:07:44 GMT" type="outline"/>
+				<outline text="ChatGPT: What is meteorological spring?" created="Fri, 03 Mar 2023 15:04:59 GMT" type="markdown">
+					<outline text="```" created="Fri, 03 Mar 2023 15:05:44 GMT"/>
+					<outline text="What is your question?&gt; what is meterological spring?" created="Fri, 03 Mar 2023 15:06:12 GMT"/>
+					<outline text="Meteorological spring is the season that falls between winter and summer, and typically lasts from March 1st to May 31st. It is based on annual temperature cycles rather than the astronomical definition of the seasons, which is based on the position of the Earth in relation to the sun." created="Fri, 03 Mar 2023 15:06:19 GMT"/>
+					<outline text="```" created="Fri, 03 Mar 2023 15:06:26 GMT"/>
+					</outline>
+				<outline text="A ChatGPT Python Script" created="Fri, 03 Mar 2023 14:41:29 GMT" type="markdown">
+					<outline text="The following is an example of a Python script that can be used to interact with ChatGPT:" created="Fri, 03 Mar 2023 14:42:36 GMT"/>
+					<outline text="```" created="Fri, 03 Mar 2023 14:44:12 GMT"/>
+					<outline text="import requests" created="Fri, 03 Mar 2023 14:42:42 GMT"/>
+					<outline text="# Create a session with your ChatGPT API key" created="Fri, 03 Mar 2023 14:43:54 GMT"/>
+					<outline text="session = requests.Session()"/>
+					<outline text="session.headers.update({'Authorization': '&lt;YOUR_CHATGPT_API_KEY&gt;'})"/>
+					<outline text="# Set up a loop to keep the conversation going"/>
+					<outline text="while True:" created="Fri, 03 Mar 2023 14:42:52 GMT">
+						<outline text="# Get the user's input"/>
+						<outline text="user_input = input('You: ')"/>
+						<outline text="# Send the user's input to ChatGPT and get the response"/>
+						<outline text="response = session.post('https://api.chatgpt.com/query', json={'text': user_input}).json()"/>
+						<outline text="# Print the ChatGPT response"/>
+						<outline text="print('ChatGPT: ' + response['response'])" created="Fri, 03 Mar 2023 14:44:17 GMT"/>
+						<outline text="```" created="Fri, 03 Mar 2023 14:44:18 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Dave has shared &lt;a href=&quot;https://github.com/scripting/drummerSupport/wiki/Using-Drummer-to-edit-your-micro.blog-site&quot;&gt;the script he wrote to publish posts&lt;/a&gt; written in Drummer to micro.blog. I've been posting to micro.blog to Drummer for some time, so I am not sure why this different script is needed. " created="Fri, 03 Mar 2023 14:31:23 GMT" type="outline"/>
+				</outline>
+			<outline text="March 1" created="Wed, 01 Mar 2023 14:52:01 GMT" type="calendarDay" name="01">
+				<outline text="I just noticed that while Drummer itself is accessible using HTTPS, the server hosting this blog is still only accessed using HTTP. Viewing the page source, I see one script src is still configured for HTTP. (emojify.js) " created="Wed, 01 Mar 2023 14:59:21 GMT" type="outline"/>
+				<outline text="Hopefully, if Dave upgrades Daytona he will move the old index over, otherwise we will need to re-index all the past OPML files. If he moves over the data then all I will need to do is ping Daytona to index the archive files starting in January, 2023, and the blog OPML file." created="Wed, 01 Mar 2023 14:55:48 GMT" type="outline"/>
+				<outline text="Today I executed the steps I normally do once a month to archive past posts here and update Daytona. I expected that the Daytona portion of the process would fail, and it did. I will need to pay attention to whether and when Dave enables Daytona to work with this new version of Drummer. Indexing was working up until the point at which the old version of Drummer was shut down and you can still get to the site, but I note it is still using the old authentication method that relies on Twitter. " created="Wed, 01 Mar 2023 14:52:02 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

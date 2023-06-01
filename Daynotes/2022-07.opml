@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2022-07</title>
+		<dateCreated>Thu, 01 Sep 2022 12:52:30 GMT</dateCreated>
+		<dateModified>Thu, 01 Sep 2022 12:52:40 GMT</dateModified>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="" created="Thu, 01 Sep 2022 12:52:30 GMT"/>
+		</body>
+	</opml>
