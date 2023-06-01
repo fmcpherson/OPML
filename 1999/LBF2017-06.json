@@ -1,0 +1,500 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Fri, 24 Dec 2021 19:43:02 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2017-06.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2017-06.json",
+        "flPublic": true,
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "dateCreated": "Fri, 24 Dec 2021 19:43:02 GMT"
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "6/5/2017",
+                "created": "Mon, 05 Jun 2017 20:14:48 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Mon, 05 Jun 2017 20:14:48 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Why does Apple not have the same storage sizes available for <a href=\"https://www.apple.com/ipad/compare/\">all iPad versions</a>?",
+                                "created": "Mon, 05 Jun 2017 20:14:49 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/7/2017",
+                "created": "Wed, 07 Jun 2017 16:53:08 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 07 Jun 2017 16:53:08 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://scripting.com/2017/06/07.html#a110643\">Three words</a>: military industrial complex. I imagine there are some people who think that a full-scale war in the middle east will result in more money and more jobs for the United States. Never mind the consequences of the de-stablization that will cause.&nbsp;",
+                                "created": "Wed, 07 Jun 2017 16:53:09 GMT"
+                            },
+                            {
+                                "text": "These will be the same people who thought the Iraq war was a good thing.",
+                                "created": "Wed, 07 Jun 2017 16:53:10 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 07 Jun 2017 18:47:48 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"https://www.thurrott.com/mobile/ios/117758/hands-ios-11-beta?_hsenc=p2ANqtz-88kqXO4OMyV9AgBlZ9WE5UmboA7LufGeAhmEmf_8awgJW8yE8QQ_G1HTm8g4SYCiA0Kn_VrqPf0bK9M0dP6bd_n4i2gP6Lwhx4PVr_c1P5387oCs8&amp;_hsmi=52842369\">Replacement of the \"app icon wiggle\"</a> associated with moving icons around is <a href=\"http://writing.frankmcpherson.org/2016/06/26/0089.html\">for me</a> the single biggest improvement in iOS 11.&nbsp;",
+                                "created": "Wed, 07 Jun 2017 18:47:49 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/13/2017",
+                "created": "Tue, 13 Jun 2017 12:43:38 GMT",
+                "subs": [
+                    {
+                        "text": "Testing Android O Battery Life",
+                        "created": "Tue, 13 Jun 2017 12:43:38 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I installed <a href=\"https://www.engadget.com/2017/03/21/android-o-developer-preview-announced/\">Android O</a> on my Nexus 6P last week. My observation is that battery life has not been ask good as with Android N. I've installed <a href=\"https://www.accubatteryapp.com/\">AccuBattery </a>and over night the battery decreased 21%, which seems to me to be a higher percentage than it should be. I thought doze mode in Android N dramatically slowed that rate down when the phone is sitting, unused, with the screen off.&nbsp;",
+                                "created": "Tue, 13 Jun 2017 12:43:39 GMT"
+                            },
+                            {
+                                "text": "Granted, the version of Android O I am using is a beta, or Developer Preview 3, and there is a chance battery life will improve with a later release.",
+                                "created": "Tue, 13 Jun 2017 12:43:40 GMT"
+                            },
+                            {
+                                "text": "<b>Update</b>: I restarted my phone, and the battery drain is much more in line with expectations at the moment; probably should have restarted my phone after the upgrade finished. I am anxious to see what the battery drain is like tonight.&nbsp;",
+                                "created": "Tue, 13 Jun 2017 12:43:41 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Tue, 13 Jun 2017 19:23:51 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Quick test, I have discovered Loom, which is a desktop video capture extension for Chrome. <a href=\"https://www.useloom.com/share/b757c1027669486694bcd213f8b85e14\">Here is a desktop video</a> I created as a test.",
+                                "created": "Tue, 13 Jun 2017 19:23:52 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/14/2017",
+                "created": "Wed, 14 Jun 2017 17:11:01 GMT",
+                "subs": [
+                    {
+                        "text": "June 14, 2017",
+                        "created": "Wed, 14 Jun 2017 17:11:01 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Last time I charged my phone was at 11:45 PM last night for 10 minutes, it got to 59%. It is now at 19% for a drop of 40% over 13 hours, 22 minutes. The screen has been off for 13 h, 10 minutes, and screen off discharge speed has been at 2.3% per hour. &nbsp;Based on 12 sessions, average screen off discharge speed is 3.1%/hour, screen on is 46.5%/hour. The question is, is this normal?&nbsp;<h4>Reason #1001 Why I Am Not A Normal PC User</h4>",
+                                "created": "Wed, 14 Jun 2017 17:11:02 GMT"
+                            },
+                            {
+                                "text": "Most of the iPad Pro reviews/first impressions have been negative. <a href=\"https://www.thurrott.com/mobile/ios/118276/apple-ipad-pro-10-5-first-impressions-post-pc-world-isnt-yet\">Paul Thurrott's</a> take is from a 2-in-1 perspective. I own, and use, a 2-in-1, the Surface 3, but I hardly use the keyboard, I mostly use the Surface as a tablet and write in OneNote using the Surface Pen. Consequently, I think I am the target audience for the 10.5-inch iPad Pro with Pencil, and that is why I will most likely buy one. The one thing the Surface 3 has that I will miss with the iPad Pro is the built-in kick stand. Otherwise, I expect that I will be able to write in OneNote using the Pencil as I do with the Surface 3.&nbsp;",
+                                "created": "Wed, 14 Jun 2017 17:11:03 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://www.macstories.net/stories/workflows-of-a-casual-apple-pencil-user/\">The Apple Pencil is not a stylus</a>. Good point!",
+                                "created": "Wed, 14 Jun 2017 17:11:04 GMT"
+                            },
+                            {
+                                "text": "I am beginning to think I am the only one still using <a href=\"http://1999.io\">1999.io</a>.&nbsp;",
+                                "created": "Wed, 14 Jun 2017 17:11:05 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/16/2017",
+                "created": "Fri, 16 Jun 2017 13:28:05 GMT",
+                "subs": [
+                    {
+                        "text": "Android 0 Battery Life Update",
+                        "created": "Fri, 16 Jun 2017 13:28:05 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Based on 23 sessions over the last seven days, my Nexus 6P running Android 0 consumes 3.3% of battery per hour while the screen is off, 45.8% while the screen is on. Overall that seems to be decent battery life, but I don't think the phone is going in to deep sleep (Doze) long enough over night. Last night, during a 9 hour, 31 minute stretch of time, the phone was in deep seep for 2 hours, 33 minutes. Not even half the time.",
+                                "created": "Fri, 16 Jun 2017 13:28:06 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "June 16, 2017",
+                        "created": "Fri, 16 Jun 2017 13:37:24 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://www.logitech.com/en-us/product/slimcombo?wt.ac=HPB3-CTA1-slimcombo\">Logitech's Slim Combo case/keyboard</a> for the iPad Pro 10.5\" appears to be the keyboard to get for the new iPad Pro.",
+                                "created": "Fri, 16 Jun 2017 13:37:25 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://www.raspberrypi.org/blog/mira-robot-alonso-martinez/\">Mira</a> is a cool little robot with a Raspberry Pi for a brain. &nbsp;Very cool!",
+                                "created": "Fri, 16 Jun 2017 13:37:26 GMT"
+                            },
+                            {
+                                "text": "I am reading articles about people building things with parts they print on a 3D printer, and I think to myself, who can afford a 3D printer? Then I thought, what if I Google \"<a href=\"https://www.google.com/search?q=3d+printers+near+me&amp;rlz=1C1CHXU_enUS732US732&amp;oq=3d+printers+near+me&amp;aqs=chrome..69i57j0l4.4020j0j7&amp;sourceid=chrome&amp;ie=UTF-8\">3D printers near me</a>\" and I see that UPS Stores have 3D Printers, although the nearest one is in Kalamazoo. However, it looks like there is a way to send a drawing over the Internet to <a href=\"https://www.makexyz.com/\">a place that can print something for you</a>.&nbsp;",
+                                "created": "Fri, 16 Jun 2017 13:37:27 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://www.i3detroit.org/\">i3Detroit</a>, which is a maker space in Ferndale, has <a href=\"https://www.i3detroit.org/wiki/Category:Equipment\">several 3D printers</a>.",
+                                "created": "Fri, 16 Jun 2017 13:37:28 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/17/2017",
+                "created": "Sat, 17 Jun 2017 21:23:05 GMT",
+                "subs": [
+                    {
+                        "text": "My iPad Pro Out of Box Experience",
+                        "created": "Sat, 17 Jun 2017 21:23:05 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I bought the iPad Pro 10.5\" base model and am setting it up. The out of box experience has not exactly been stellar.",
+                                "created": "Sat, 17 Jun 2017 21:23:06 GMT"
+                            },
+                            {
+                                "text": "I've been using an iPad Mini 4, from which I am trying to set up the Pro from, but the problem is that I have iOS 10.3.3 beta on the Mini, while the Pro has 10.3.2, so I cannot restore from a recent backup.",
+                                "created": "Sat, 17 Jun 2017 21:23:07 GMT"
+                            },
+                            {
+                                "text": "I do have a backup of the Mini running 10.3.2 from just a couple of weeks ago, which I have used to restore from, however, not all of the apps that I had on the Mini have been restored to the Pro. It looks like I will have a fair amount of manual configuration to get it set up as I want.",
+                                "created": "Sat, 17 Jun 2017 21:23:08 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/19/2017",
+                "created": "Mon, 19 Jun 2017 14:35:40 GMT",
+                "subs": [
+                    {
+                        "text": "June 19, 2017",
+                        "created": "Mon, 19 Jun 2017 14:35:40 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Happy Monday!",
+                                "created": "Mon, 19 Jun 2017 14:35:41 GMT"
+                            },
+                            {
+                                "text": "Ed Bott writes about&nbsp;<a href=\"http://www.zdnet.com/article/kiwi-for-gmail-lets-windows-users-break-free-of-the-browser/\">Kiwi, which&nbsp;</a>is a wrapper for Gmail that enables you to use Gmail as a standalone app on Windows or Mac OS X. I wonder if it was created using Electron? I don't have a problem using Gmail/Inbox in a browser, I basically view Chrome as my personal virtual machine. On my work laptop, I open Chrome in a second Windows 10 session and only have tabs open to my main personal apps: Inbox, <a href=\"http://littleoutliner.com\">Little Outliner</a>, River5, Instapaper, and <a href=\"http://1999.io\">1999</a>. &nbsp;",
+                                "created": "Mon, 19 Jun 2017 14:35:42 GMT"
+                            },
+                            {
+                                "text": "Today is the first day that I using the iPad Pro at work. My biggest issue is working with OneNote. I've made some structural changes to my main OneNote notebook that should be syncing and so far that seems to be taking a long time to complete.",
+                                "created": "Mon, 19 Jun 2017 14:35:43 GMT"
+                            },
+                            {
+                                "text": "I do like the size of the screen and the amount of information displayed in Outlook on the iPad Pro, but I wish that Microsoft would provide a way to specify a number of days to display like you can with the Windows 10 calendar app.",
+                                "created": "Mon, 19 Jun 2017 14:35:44 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://www.mlbtraderumors.com/2017/06/rosenthals-latest-mccutchen-cole-hand-cubs.html\">Rosenthal's comments</a> about the Cubs and Indians pitching problems this year has me thinking that the MLB season is too long. Teams that make it to the World Series are penalized the next year by forcing their pitchers to play too many games. MLB ought to think about whether it is smarter to cut back on some ticket sales for the sake of having a higher chance of repeating success on a yearly basis. In my opinion, the World Series should not be played in November!&nbsp;",
+                                "created": "Mon, 19 Jun 2017 14:35:45 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/20/2017",
+                "created": "Tue, 20 Jun 2017 13:42:57 GMT",
+                "subs": [
+                    {
+                        "text": "June 20, 2017",
+                        "created": "Tue, 20 Jun 2017 13:42:57 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "What is the best SSH/Telnet app for the iPad?&nbsp;",
+                                "created": "Tue, 20 Jun 2017 13:42:58 GMT"
+                            },
+                            {
+                                "text": "How well can I write a blog post from my iPad? This well, I am writing this sentence on the Pro.",
+                                "created": "Tue, 20 Jun 2017 13:42:59 GMT"
+                            },
+                            {
+                                "text": "There is no way to access the developer's console in Chrome or Safari on iOS, therefore, I cannot switch <a href=\"http://littleoutliner.com\">Little Outliner</a> to my personal server on iOS.&nbsp;",
+                                "created": "Tue, 20 Jun 2017 13:43:00 GMT"
+                            },
+                            {
+                                "text": "How much should one pay for an iOS app? <a href=\"https://www.omnigroup.com/omnioutliner/ios/\">OmniOutliner 2 costs $30</a>, which feels expensive unless you start thinking of the iPad as a full time computer. The up side of OmniOutliner is that it supports OPML.&nbsp;",
+                                "created": "Tue, 20 Jun 2017 13:43:01 GMT"
+                            },
+                            {
+                                "text": "I don't get <a href=\"https://www.theverge.com/2017/6/20/15820802/oneplus-5-review-one-plus-phone\">The Verge's hang up</a> on the OnePlus 5's price at $479. Sure, it is more expensive than prior models and therefore loses its high specs for low price appeal, but it is still hundreds of dollars cheaper than the Samsung S8 and the Google Pixel. I am thinking this is likely my next smartphone.",
+                                "created": "Tue, 20 Jun 2017 13:43:02 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/21/2017",
+                "created": "Wed, 21 Jun 2017 15:15:30 GMT",
+                "subs": [
+                    {
+                        "text": "Blogrolls and RSS",
+                        "created": "Wed, 21 Jun 2017 15:15:30 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I remember <a href=\"http://scripting.com/2017/06/21.html#a060651\">the blogrolls that Dave talks about</a>, I had one on my original blogs too. Question: what is the purpose of a blogroll? Is it advertising of other blogs you read or is it a list of links (bookmarks) from which one goes to read other blogs?",
+                                "created": "Wed, 21 Jun 2017 15:15:31 GMT"
+                            },
+                            {
+                                "text": "For me, I used my blogroll as a bookmarks list, but that has been replaced by RSS. Today, I don't open blog web sites to read, I browse through <a href=\"http://mywebstream.net\">my news river</a> and share links of items I want to read to Radio3. I added a step to the process Dave describes where I have an <a href=\"http://ifttt.com\">IFTTT</a> applet that adds items that I add to my Radio3 linkblog to Instapaper and Pocket for later reading.",
+                                "created": "Wed, 21 Jun 2017 15:15:32 GMT"
+                            },
+                            {
+                                "text": "Basically, <a href=\"http://instantoutliner.com/43\">my RSS subscription list</a> is my blogroll.&nbsp;",
+                                "created": "Wed, 21 Jun 2017 15:15:33 GMT"
+                            },
+                            {
+                                "text": "In regards to the question of how to monitor a particular blogging topic, like IndieWeb or say 1999 blogs, that can be done with a topic-specific River. As an example, back when <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;was new and getting attention, Andy Sylvester created <a href=\"http://1999bloggers.andysylvester.com/\">a 1999 river</a> from feeds created just by blogs written on in 1999. Sadly, it looks like may one of the only 1999 bloggers left.",
+                                "created": "Wed, 21 Jun 2017 15:15:34 GMT"
+                            },
+                            {
+                                "text": "The &nbsp;missing item would be a way from the topic specific river to get a page of the sites that part of the river subscription list.&nbsp;",
+                                "created": "Wed, 21 Jun 2017 15:15:35 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Using OneNote On The iPad",
+                        "created": "Wed, 21 Jun 2017 15:38:06 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I started using OneNote as my electronic notebook a couple of years ago when I bought the <a href=\"https://www.microsoft.com/surface/en-us/products/surface-3\">Surface 3</a>. With my purchase of the 10.5-inch iPad Pro, I've been using OneNote with it and the Apple Pencil.&nbsp;",
+                                "created": "Wed, 21 Jun 2017 15:38:07 GMT"
+                            },
+                            {
+                                "text": "A big difference between the two is that I can use the full Windows desktop version of OneNote on the Surface 3, while the mobile version is the only one available for the iPad. I believe the iOS version is the same as the Windows Store version that I could use on the Surface 3.",
+                                "created": "Wed, 21 Jun 2017 15:38:08 GMT"
+                            },
+                            {
+                                "text": "For the most part OneNote works well on the iPad, but there are a few annoying nits. For example, I use ruled lines which are added to ever new note I create in the full desktop version, but for some reason does not persist in the mobile version, I have to manually add them every time I create a new note.",
+                                "created": "Wed, 21 Jun 2017 15:38:09 GMT"
+                            },
+                            {
+                                "text": "The other problem I have run in to is that the iOS version does not support collapsing of subpages. If you have a lot of pages and subpages in a list, you want to be able to collapse them so they are easier to manage.&nbsp;",
+                                "created": "Wed, 21 Jun 2017 15:38:10 GMT"
+                            },
+                            {
+                                "text": "Finally, inking is not really \"native\" to the iOS version with Apple Pencil. By this I mean, you have to select drawing mode in order to enable inking, it does not automatically detect.&nbsp;",
+                                "created": "Wed, 21 Jun 2017 15:38:11 GMT"
+                            },
+                            {
+                                "text": "My feedback to Microsoft is that if you fix these three areas, OneNote will be much better to use on iOS.&nbsp;",
+                                "created": "Wed, 21 Jun 2017 15:38:12 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/22/2017",
+                "created": "Thu, 22 Jun 2017 14:24:31 GMT",
+                "subs": [
+                    {
+                        "text": "June 22, 2017",
+                        "created": "Thu, 22 Jun 2017 14:24:31 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "IFTTT's <a href=\"https://ifttt.com/blog/2017/06/introducing-the-data-access-project\">Data Access Project</a> uses RSS, which I think means RSS continues to be valuable.&nbsp;",
+                                "created": "Thu, 22 Jun 2017 14:24:32 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/23/2017",
+                "created": "Fri, 23 Jun 2017 16:06:22 GMT",
+                "subs": [
+                    {
+                        "text": "June 23, 2017",
+                        "created": "Fri, 23 Jun 2017 16:06:22 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I absolutely hate Apple's no refund policy on apps in their App Store. I've wasted $10 looking for an outlining app, basically trying to avoid spending $25 on OmniOutline.&nbsp;",
+                                "created": "Fri, 23 Jun 2017 16:06:23 GMT"
+                            },
+                            {
+                                "text": "Google Inbox fonts look too large on the iPad Pro.<h4>My Writing Workflow Wish List</h4>",
+                                "created": "Fri, 23 Jun 2017 16:06:24 GMT"
+                            },
+                            {
+                                "text": "I like drafting long-form articles in an outliner. An article might start in <a href=\"http://littleoutliner.com\">Little Outliner</a>, but I want to be able to transfer the OPML file I create to the iPad for further editing, and then export that outline to an editor for final edits and publishing. I want to use markdown for the formatting. I can't use Little Outliner on my iPad because I cannot get to the Javascript console to switch the server location.&nbsp;",
+                                "created": "Fri, 23 Jun 2017 16:06:25 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/25/2017",
+                "created": "Sun, 25 Jun 2017 21:27:20 GMT",
+                "subs": [
+                    {
+                        "text": "June 25, 2017",
+                        "created": "Sun, 25 Jun 2017 21:27:20 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I gave in and bought OmniOutliner for my iPad, now I have to learn how to use it.&nbsp;  ",
+                                "created": "Sun, 25 Jun 2017 21:27:21 GMT"
+                            },
+                            {
+                                "text": "Today I installed and ran the GeekBench 4 benchmark on the iPad Pro and confirmed that the Pro is <a href=\"https://browser.geekbench.com/user/120423\">the fastest computer that I own</a>. The Surface 3 is the second fastest computer that I own, but it is way behind the Pro.   ",
+                                "created": "Sun, 25 Jun 2017 21:27:22 GMT"
+                            },
+                            {
+                                "text": "I wrote the paragraph above using <a href=\"http://agiletortoise.com/drafts/\">Drafts</a> on the iPad Pro. The hyperlink was created in markdown, which I first attempted to paste into <a href=\"http://1999.io\">1999</a> but found that it does not convert markdown to HTML. I then found an Action in the Drafts Action Directory that converts a Draft in markdown to HTML, which I then copied to the clipboard and pasted into the <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a> HTML source editor plugin.",
+                                "created": "Sun, 25 Jun 2017 21:27:23 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/26/2017",
+                "created": "Mon, 26 Jun 2017 21:31:32 GMT",
+                "subs": [
+                    {
+                        "text": "June 26, 2017",
+                        "created": "Mon, 26 Jun 2017 21:31:32 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://www.scotusblog.com/2017/06/opinion-analysis-church-prevails-funding-dispute/\">The SCOTUS opinion</a> that the state of Missouri cannot not award a grant to churches simply because it is a church seems to imply that it thinks all non-profits are the same and have to be treated equally. Yet in other cases our government tends to want to give special status to religious institutions. At the least this seems to violate the traditional spirit of the first amendment.",
+                                "created": "Mon, 26 Jun 2017 21:31:33 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://bgr.com/2017/06/26/amazon-echo-show-reviews-call-feature/\">The reviews</a> of the Amazon Echo Show appear to be positive. I wonder how well it will sell?",
+                                "created": "Mon, 26 Jun 2017 21:31:34 GMT"
+                            },
+                            {
+                                "text": "I wonder, if we ever get true anti-trust oversight back in the United States, whether Amazon might become the next large company <a href=\"https://motherboard.vice.com/en_us/article/7xpgvx/amazons-is-trying-to-control-the-underlying-infrastructure-of-our-economy\">to be broken up by the government</a>? I suspect that the Big-Cos have too much influence in Washington for this to ever happen, regardless of whether there are Democrats or Republicans running the government.",
+                                "created": "Mon, 26 Jun 2017 21:31:35 GMT"
+                            },
+                            {
+                                "text": "I may be a glutton for punishment as I am installing the iOS 11 beta on my iPad Pro.",
+                                "created": "Mon, 26 Jun 2017 21:31:36 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/27/2017",
+                "created": "Tue, 27 Jun 2017 16:01:44 GMT",
+                "subs": [
+                    {
+                        "text": "My Experiences With iOS 11",
+                        "created": "Tue, 27 Jun 2017 16:01:44 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Last night I installed the public beta of iOS 11 on my iPad Pro and I am happy that I did. First off, one of my main beefs with iOS has been addressed, which is the wiggling and running icons that appear when you move items on the home screens. No more frustrating chasing icons, the only icon that moves is the one you want to move!",
+                                "created": "Tue, 27 Jun 2017 16:01:45 GMT"
+                            },
+                            {
+                                "text": "I also love the new dock, and I've tried the new multitasking features but it is not obvious to me how one closes an overlayed app, it looks like <a href=\"https://www.cnet.com/uk/how-to/tips-and-tricks-for-ipad-on-ios-11/\">you just swipe it right</a> and it remains forever docked until you overlay a different app. In practice, I mostly use Lastpass in this swip-over, overlay mode.",
+                                "created": "Tue, 27 Jun 2017 16:01:46 GMT"
+                            },
+                            {
+                                "text": "You can also configure apps to work side-by-side but I have found that certain apps do not work in this way, in particular Google Inbox appears to not allow side-by-side. My first use of this side-by-side is with Outlook and Todoist, with Outlook using about two thirds of the screen.",
+                                "created": "Tue, 27 Jun 2017 16:01:47 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://www.theverge.com/2017/6/28/15885400/ios-11-ipad-gestures-laptop-features\">The argument</a> about whether an iPad Pro running iOS 11 can replace a laptop to me is pointless because it comes down to motivation. People who want to use an iPad Pro as their only computer will find a way to do it, people who are biased against the idea will point out <a href=\"https://apple.slashdot.org/story/17/06/27/1516241/the-new-ipad-pro-review\">the many ways in which the iPad Pro falls short</a>. The reality, this scenario has always been the case ever since the first iPad was announced and you could make external keyboards work with it. Right now, I think the main question in this argument is, can you live without a mouse and use touch or stylus for precision movement? &nbsp;",
+                                "created": "Tue, 27 Jun 2017 16:01:48 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "6/30/2017",
+                "created": "Fri, 30 Jun 2017 15:08:26 GMT",
+                "subs": [
+                    {
+                        "text": "June 30, 2017",
+                        "created": "Fri, 30 Jun 2017 15:08:26 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I wish there was an easy way to see which RSS feeds I follow have not been updated for a long time. I don't know the cost of River5 constantly checking feeds that are dead.&nbsp;",
+                                "created": "Fri, 30 Jun 2017 15:08:27 GMT"
+                            },
+                            {
+                                "text": "Near the end of another month, so just added June to the Archive menu.",
+                                "created": "Fri, 30 Jun 2017 15:08:28 GMT"
+                            },
+                            {
+                                "text": "Last year I asked, <a href=\"http://writing.frankmcpherson.org/2016/06/26/0090.html\">Does the Surface 3 have a successor</a>? A year later, it doesn't appear as though it does from Microsoft, nor does it look like it will. I might have moved on to the iPad Pro 10.5 inch, since I bought it the <a href=\"https://www.microsoft.com/surface/en-us/products/surface-3\">Surface 3</a> has barely left its cradle.&nbsp;",
+                                "created": "Fri, 30 Jun 2017 15:08:29 GMT"
+                            },
+                            {
+                                "text": "Earlier this week <a href=\"https://fjmnotes.com/2017/06/28/hope-they-let-me-out/\">I went to the Detroit Zoo</a>. They did let me out.&nbsp;",
+                                "created": "Fri, 30 Jun 2017 15:08:30 GMT"
+                            },
+                            {
+                                "text": "I have a degree in computer science and was taught functional programming. Functional programming is a methodology of breaking a large problem down into smaller parts, which is an approach I naturally apply and why I like <a href=\"http://fargo.io/docs/outlinerHowto.html\">outlines</a>. The challenge is finding a tool built from the ground up to make and manipulate outlines. I like using Little Outliner in a web browser, but that doesn't work well on my <a href=\"https://www.apple.com/ipad-pro/\">iPad Pro</a> so on it I am using <a href=\"https://www.omnigroup.com/omnioutliner/ios\">OmniOutliner</a>. I wish a version of OmniOutliner were available for Windows. I could live with a copy of Electric Outline.",
+                                "created": "Fri, 30 Jun 2017 15:08:31 GMT"
+                            },
+                            {
+                                "text": "Some people like creating <a href=\"http://www.mindmapping.com/\">mind maps</a>, which I consider to be a graphical outliner. I've used mind maps over the years, but find the graphics to slow me down. I guess I just think hierarchically.&nbsp;",
+                                "created": "Fri, 30 Jun 2017 15:08:32 GMT"
+                            },
+                            {
+                                "text": "I am still <a href=\"https://www.google.com/search?q=best+cases+for+the+ipad+pro+10.5\">looking a case</a> for the <a href=\"https://www.apple.com/ipad-pro/\">iPad Pro 10.5 inch</a>. The thing is, I am leaning towards a sleeve given that when I am at home I really prefer using the iPad naked. I bought a cheap Moko case to attend a seminar last weekend, but doesn't have a pencil holder, which is another requirement. Right now I am leaning towards <a href=\"https://www.sfbags.com/collections/ipad-pro-sleeves-and-bags/products/ipad-sleevecase\">the iPad Pro SleeveCase from Waterfield</a>.&nbsp;",
+                                "created": "Fri, 30 Jun 2017 15:08:33 GMT"
+                            },
+                            {
+                                "text": "I was planning to by the Logitech Slim Combo keyboard case but the reviews have turned me off. The Apple keyboard case doesn't sound too much better, but I have read that the Apple Magic Keyboard and <a href=\"https://www.studioneat.com/products/canopy\">Canopy case</a> make a great combo.&nbsp;",
+                                "created": "Fri, 30 Jun 2017 15:08:34 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

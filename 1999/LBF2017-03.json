@@ -1,0 +1,173 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Fri, 24 Dec 2021 19:17:56 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2017-03.opml",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "dateCreated": "Fri, 24 Dec 2021 19:17:53 GMT",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2017-03.json",
+        "flPublic": true
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "3/28/2017",
+                "created": "Wed, 29 Mar 2017 02:15:14 GMT",
+                "subs": [
+                    {
+                        "text": "Moving Day",
+                        "created": "Wed, 29 Mar 2017 02:15:14 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've been hosting the editor for this site on CloudAtCost, but their reliability has been awful the last couple of weeks, so I have moved the editor to Google Cloud.",
+                                "created": "Wed, 29 Mar 2017 02:15:15 GMT"
+                            },
+                            {
+                                "text": "I think that I have completed the move, with by copying over the AWS callback script and re-publishing the site, which adds this post to the site hosted on AWS.",
+                                "created": "Wed, 29 Mar 2017 02:15:16 GMT"
+                            },
+                            {
+                                "text": "One final test, is the in-place editing of this page from the editor-hosted site. It appears to be working!",
+                                "created": "Wed, 29 Mar 2017 02:15:17 GMT"
+                            },
+                            {
+                                "text": "The final task will be moving my outlines to the new server and I need to think through how I need to move the files over. For now I am happy to be able to be able to publish from the new server.",
+                                "created": "Wed, 29 Mar 2017 02:15:18 GMT"
+                            },
+                            {
+                                "text": "I decided to backup my outline files to a Github repository then clone that repository to the new server and copy over the files.&nbsp;",
+                                "created": "Wed, 29 Mar 2017 02:15:19 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 29 Mar 2017 03:28:36 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "One final check for the night, testing writing this post using my iPad Mini.&nbsp;",
+                                "created": "Wed, 29 Mar 2017 03:28:37 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "3/29/2017",
+                "created": "Wed, 29 Mar 2017 21:57:59 GMT",
+                "subs": [
+                    {
+                        "text": "New Keyboard and Mouse",
+                        "created": "Wed, 29 Mar 2017 21:57:59 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I bought the new <a href=\"http://hexus.net/tech/news/peripherals/101884-logitech-mk850-performance-wireless-keyboard-mouse-combo/\">Logitech MK850 Performance keyboard</a> and it arrived today. As far as I know, this keyboard and mouse combo is the first designed to work with three different devices, which is why I bought it.&nbsp;",
+                                "created": "Wed, 29 Mar 2017 21:58:00 GMT"
+                            },
+                            {
+                                "text": "It works with the included USB dongle and Bluetooth, which allows me to connect it to and switch between my Surface 3, work computer running Windows 10, and my Mintbox running Mint. The dongle is in the Mintbox that remains on my desktop. (I was not successful at getting the keyboard and mouse to work with the Mintbox via Bluetooth.)",
+                                "created": "Wed, 29 Mar 2017 21:58:01 GMT"
+                            },
+                            {
+                                "text": "While I like the ability to switch between devices, I am not sure that I am sold on the keyboard. The keyboard feels mushy and requires more pressure to press the keys than the Logitech keyboard it will replace.&nbsp;",
+                                "created": "Wed, 29 Mar 2017 21:58:02 GMT"
+                            },
+                            {
+                                "text": "My other gripe is that the mouse is obviously designed for right handers and I mouse with my left hand. The extra buttons are placed conveniently by a right hand thumb, and is not really convenient to use with a left hand.&nbsp;",
+                                "created": "Wed, 29 Mar 2017 21:58:03 GMT"
+                            },
+                            {
+                                "text": "Logitech also does not provide any real documentation on setting up and using the mouse and keyboard. The two are supposed to work together in a way to add gestures but so far I haven't really been able to figure out how it works.&nbsp;",
+                                "created": "Wed, 29 Mar 2017 21:58:04 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Electric River",
+                        "created": "Thu, 30 Mar 2017 00:20:13 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Dave has created a desktop version of River5, called <a href=\"http://scripting.com/2017/03/29/rssForTheDesktopFor2017.html\">Electric River</a>, which he has created using Electron. I have it running on my Macbook Air but when I copy one of my subscription OPML files it doesn't appear to be recognized. Additional tabs are not being created.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:20:14 GMT"
+                            },
+                            {
+                                "text": "I've added the RSS file for this blog to the feeds list, so let's see whether this post will appear in Electric River. UPDATE: This post did appear, almost immediately. Cool.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:20:15 GMT"
+                            },
+                            {
+                                "text": "BTW, I really like the icon Dave choose for the app.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:20:16 GMT"
+                            },
+                            {
+                                "text": "Another thing that I like is that <a href=\"http://radio3.io\">Radio3</a> is integrated, which is how I add articles to read in Instapaper and Pocket.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:20:17 GMT"
+                            },
+                            {
+                                "text": "In terms of my personal reading and writing workflow, I prefer a server-based version of River that I can access on any device via a web browser. A desktop app works well for new users. The good thing is that the same code is portable between the desktop and server versions, so it is easy for Dave to provide for both user groups.",
+                                "created": "Thu, 30 Mar 2017 00:20:18 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Electric Outline",
+                        "created": "Thu, 30 Mar 2017 00:44:18 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Since Dave is in the mode of making desktop versions of his apps, I would like to make the case for Electric Outline, or in other words an <a href=\"https://electron.atom.io/\">Electron</a> version of <a href=\"http://littleoutliner.com\">Little Outliner</a>.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:44:19 GMT"
+                            },
+                            {
+                                "text": "For some reason a desktop version of LO seems to make a lot of sense to me, probably because the documents I create in LO are private. The downside, however, is that if local file storage is used then my outlines would not be accessible from other devices.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:44:20 GMT"
+                            },
+                            {
+                                "text": "An approach might be a variation of the privateFiles and publicFiles structure nodestorage uses for 1999, but for a desktop version it would work slightly different. PrivateFiles would map to a local folder while publicFiles would map to a S3 bucket. Any file stored in publicFiles can be accessed via Electric Outline running on any computer so long as it has the credentials to access the S3 bucket.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:44:21 GMT"
+                            },
+                            {
+                                "text": "I think the result would be the perfect combination of keeping files local for privacy and security while providing a way for OPML files to be shared publicly.&nbsp;",
+                                "created": "Thu, 30 Mar 2017 00:44:22 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "3/31/2017",
+                "created": "Sat, 01 Apr 2017 02:56:14 GMT",
+                "subs": [
+                    {
+                        "text": "Mac OS 7 on Raspberry Pi",
+                        "created": "Sat, 01 Apr 2017 02:56:14 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Tonight I went back in time, to 1986, to play with a Mac II and Mac OS 7.5.5. With thanks to <a href=\"https://www.novaspirit.com/2017/03/28/running-mac-os-7-on-raspberry-pi-with-color/\">the great video tutorial on Novaspirit</a>, I was able to install Mac OS 7 on my Raspberry Pi3. <a href=\"https://goo.gl/photos/yp3pxB3NuzukYaSg7\">Here is a video</a> of Mac OS 7 booting.&nbsp;",
+                                "created": "Sat, 01 Apr 2017 02:56:15 GMT"
+                            },
+                            {
+                                "text": "Seeing the old Mac OS desktop bring back fond memories of when I first saw a Mac during my freshman year of college. My work study job was monitoring a small lab of five Macs in the computer science department, which gave me plenty of time to play with that new-fangled graphic user interface.&nbsp;",
+                                "created": "Sat, 01 Apr 2017 02:56:16 GMT"
+                            },
+                            {
+                                "text": "It was nerd lust at first sight, and I wished for one badly but was not able to afford a Mac until ten years later.&nbsp;",
+                                "created": "Sat, 01 Apr 2017 02:56:17 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

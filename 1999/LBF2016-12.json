@@ -1,0 +1,202 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Thu, 23 Dec 2021 19:53:55 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2016-12.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2016-12.json",
+        "flPublic": true,
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "dateCreated": "Thu, 23 Dec 2021 19:53:55 GMT"
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "12/1/2016",
+                "created": "Thu, 01 Dec 2016 23:14:58 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 01 Dec 2016 23:14:58 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://www.vanityfair.com/news/2016/11/washington-post-editor-marty-baron-message-to-journalists\">Marty Baron, Editor, Washington Post</a>:<blockquote>\"After the release of the movie Spotlight, I was often asked how we at The Boston Globe were willing to take on the most powerful institution in New England and among the most powerful in the world, the Catholic Church.<br>The question really mystifies me—especially when it comes from journalists or those who hope to enter the profession. Because <b>holding the most powerful to account is what we are supposed to do.\"&nbsp;</b>(emphasis mine)</blockquote>",
+                                "created": "Thu, 01 Dec 2016 23:14:59 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "12/16/2016",
+                "created": "Fri, 16 Dec 2016 21:00:33 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 16 Dec 2016 21:00:33 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The&nbsp;<a href=\"http://store.asus.com/us/item/201608AM260000006?_ga=1.235238985.953366419.1481921897\">ASUS 10.1” Transformer Mini T102HA-D4-GR</a> looks like a complete replacement of the <a href=\"https://www.microsoft.com/surface/en-us/products/surface-3\">Surface 3</a>. However, it is much cheaper because the keyboard and pen are included in <a href=\"https://www.amazon.com/Transformer-T102HA-D4-GR-Touchscreen-Quad-Core-keyboard/dp/B01K1JW7RS/ref=sr_1_fkmr0_2?ie=UTF8&amp;qid=1481922138&amp;sr=8-2-fkmr0&amp;keywords=asus+101+transformer+mini+t102ha-d4-gr\">the $379 price</a>, and it has 128 GB of storage. It is embarrassing how much more I spent on my Surface 3. I do wonder whether the pen performs as well.",
+                                "created": "Fri, 16 Dec 2016 21:00:34 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "12/21/2016",
+                "created": "Wed, 21 Dec 2016 21:56:01 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 21 Dec 2016 21:56:01 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I can't recall does 1999 support markdown? &lt;-- Nope!",
+                                "created": "Wed, 21 Dec 2016 21:56:02 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 21 Dec 2016 22:42:29 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "&lt;p&gt;I am noodling over what is the &lt;strong&gt;best way&lt;/strong&gt; to write &lt;a href=\"http://writing.frankmcpherson.org\"&gt;blog&lt;/a&gt; articles. Ideally, I would like one editor that I use for all sites. I am thinking that I want want to write in &lt;a href=\"http://www.evernote.com\"&gt;Evernote&lt;/a&gt;, using markdown, which I can then publish to HTML. &lt;/p&gt;",
+                                "created": "Wed, 21 Dec 2016 22:42:30 GMT"
+                            },
+                            {
+                                "text": "&lt;p&gt;&lt;em&gt;For what it is worth&lt;/em&gt; I have just updated this article in StackEdit, and I think that I can then publish it back to Google Drive. &lt;/p&gt;",
+                                "created": "Wed, 21 Dec 2016 22:42:31 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Writing Articles",
+                        "created": "Wed, 21 Dec 2016 23:02:32 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am noodling over what is the best way to write new blog articles, outside of this site that I create using <a href=\"http://1999.io\">1999.io</a>. I have been using <a href=\"http://Fargo.io\"><span data-auto-link=\"true\" data-href=\"http://Fargo.io\">Fargo.io</span></a>&nbsp;to write, but that is going away in June so I have to find another tool.&nbsp;",
+                                "created": "Wed, 21 Dec 2016 23:02:33 GMT"
+                            },
+                            {
+                                "text": "I really like using an outliner to write long articles, so I wish that I could use <a href=\"http://littleoutliner.com\">Little Outliner</a>, but there is no way to get stuff out of it. Little Outliner creates OPML files that I need converted to HTML to use with Wordpress.&nbsp;",
+                                "created": "Wed, 21 Dec 2016 23:02:34 GMT"
+                            },
+                            {
+                                "text": "When I use Fargo, I run a script that exports an outline to HTML with paragraphs. Unfortunately, Little Outliner does not support scripts in the same manner as Fargo so I cannot simply re-use that one.",
+                                "created": "Wed, 21 Dec 2016 23:02:35 GMT"
+                            },
+                            {
+                                "text": "An option is to go back to Evernote. Many years ago, when I was writing for money, I used Evernote to write all my articles that were ultimately pubished in WordPress. I came up with a notation to use to handle formatting and hyperlinks, but unfortunately the process required some manual re-editing after I copied and pasted the article content from Evernote to Wordpress.&nbsp;",
+                                "created": "Wed, 21 Dec 2016 23:02:36 GMT"
+                            },
+                            {
+                                "text": "The advantage of using Evernote is that it provides a repository for all my writing and there are apps available for it on every platform I use.&nbsp;",
+                                "created": "Wed, 21 Dec 2016 23:02:37 GMT"
+                            },
+                            {
+                                "text": "One way I could simplify the process is to use markdown as I am writing in Evernote. I have found that I can enable markdown in Wordpress and it looks <a href=\"https://fjmnotes.com/2016/12/21/testing-markdown/\">it will accept most formatting directly</a> with out any post paste editing.&nbsp;",
+                                "created": "Wed, 21 Dec 2016 23:02:38 GMT"
+                            },
+                            {
+                                "text": "Now, if only the 1999 editor supported markdown directly. I think there is a way to add alternative editors, I need to do more search about that.",
+                                "created": "Wed, 21 Dec 2016 23:02:39 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "12/22/2016",
+                "created": "Fri, 23 Dec 2016 00:24:47 GMT",
+                "subs": [
+                    {
+                        "text": "Using the Wacom Bamboo Fineline With An iPad Mini 4",
+                        "created": "Fri, 23 Dec 2016 00:24:47 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The prime reason why I bought the <a href=\"https://www.microsoft.com/surface/en-us/products/surface-3\">Surface 3</a> shortly after it became available is the Surface Pen. The stylus support in OneNote on the Surface is one of the best that I have ever used.",
+                                "created": "Fri, 23 Dec 2016 00:24:48 GMT"
+                            },
+                            {
+                                "text": "I am among the minority of people who like using a stylus, and so my increase use of the iPad Mini 4 sent me on a search for a stylus that I can use with the Mini. Today received the <a href=\"http://wacom.com/en-us/products/stylus/bamboo-fineline\">Wacom Bamboo Fineline</a>.&nbsp;",
+                                "created": "Fri, 23 Dec 2016 00:24:49 GMT"
+                            },
+                            {
+                                "text": "Regular iPads do not have a built-in digitizer, so you cannot use the same type of stylus as with the Surface. (I am not sure whether the iPad Pro has a digitizer.) Instead, iPad styluses come in two type, one that has a wide tip that mimics a finger, and the other that has a fine tip, like a pen, that uses Bluetooth, and the Fineline falls in this later category.",
+                                "created": "Fri, 23 Dec 2016 00:24:50 GMT"
+                            },
+                            {
+                                "text": "Wacom's set up instructions tell you to enable Bluetooth on your iPad, which is expected, and to disable multitask gestures, which may not be expected. You need to turn of multitask gestures so that apps can implement palm rejection to not create stray marks from the palm of your hand touching the screen while you write.&nbsp;",
+                                "created": "Fri, 23 Dec 2016 00:24:51 GMT"
+                            },
+                            {
+                                "text": "Another unique step is that you don't actually pair the stylus with your iPad, rather, you pair the stylus with the apps that use the stylus, and that means you need to use apps that specifically support the Fineline. Wacom lists <a href=\"http://wacom.com/en-us/getting-started/bamboo-fineline\">nine apps</a> that have support for their stylus, but unfortunately that does not include Evernote or OneNote. Evernote only supports a stylus made by Adonit while OneNote doesn't really support a stylus on the iPad, it seems to expect writing with a finger.",
+                                "created": "Fri, 23 Dec 2016 00:24:52 GMT"
+                            },
+                            {
+                                "text": "I decided to buy <a href=\"http://www.goodnotesapp.com/\">GoodNotes</a>, which had good reviews and includes the ability to import PDFs for annotation. I've only tried the app briefly, but it has the ability to backup notes to cloud services like Google Drive and I can export note pages to Evernote. I wish Evernote directly supported the Wacom stylus, but I don't expect to write copious notes on the Mini, so I think being able to export PDFs or images of my notes will be good enough.",
+                                "created": "Fri, 23 Dec 2016 00:24:53 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 23 Dec 2016 01:24:33 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The Raspberry Pi Foundation has made a version of <a href=\"https://www.raspberrypi.org/blog/introducing-pixel/\">the PIXEL desktop shell</a>, which is the version included in Raspbarian, <a href=\"https://www.raspberrypi.org/blog/pixel-pc-mac/\">for X86</a>, so you can run it on Windows PCs and Macs.&nbsp;",
+                                "created": "Fri, 23 Dec 2016 01:24:34 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 23 Dec 2016 01:30:48 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://www.theverge.com/2016/12/22/14057656/google-smartwatch-android-wear-2-0-launch\">Google will have \"official\" Android Wear 2.0 watches</a> launching early next year, but they will not have Google branding, unlike the Pixel C. I am just happy my Huawei watch will get the upgrade. Hopefully the update will fix the ability to work with Google Now reminders that is currently broke with Android Wear.&nbsp;",
+                                "created": "Fri, 23 Dec 2016 01:30:49 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "12/23/2016",
+                "created": "Fri, 23 Dec 2016 20:15:46 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 23 Dec 2016 20:15:46 GMT",
+                        "type": "outline"
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 23 Dec 2016 20:17:25 GMT",
+                        "type": "outline"
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 23 Dec 2016 20:17:25 GMT",
+                        "type": "outline"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Mon, 27 Dec 2021 20:37:44 GMT",
+        "ownerTwitterScreenName": "frankm",
+        "ownerName": "Frank McPherson",
+        "ownerId": "http://twitter.com/frankm",
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "dateCreated": "Mon, 27 Dec 2021 20:37:32 GMT",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2018-02.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2018-02.json",
+        "flPublic": true
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "2/17/2018",
+                "created": "Sat, 17 Feb 2018 17:26:42 GMT",
+                "subs": [
+                    {
+                        "text": "Moving To HTTPS",
+                        "created": "Sat, 17 Feb 2018 17:26:42 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "While I seem to have moved my blogging to a <a href=\"frankmcpherson.blog\">micro.blog site</a>, I think I still prefer to keep my long form writing on the site that I edit using 1999.io, which I call <a href=\"writing.frankmcpherson.blog\">Let’s Be Frank</a>. ",
+                                "created": "Sat, 17 Feb 2018 17:26:43 GMT"
+                            },
+                            {
+                                "text": "Let’s Be Frank is hosted as a static web site in a S3 bucket. I created a CNAME that points to the bucket name and it all works well and accessible via HTTP. The problem is that I do not have the site set up with SSL and therefore it is not accessible via HTTPS, and that might become a problem in the near future. ",
+                                "created": "Sat, 17 Feb 2018 17:26:44 GMT"
+                            },
+                            {
+                                "text": "From my POV I ought to be able to simply get a cert for <a href=\"http://writing.frankmcpherson.org\"><span data-auto-link=\"true\" data-href=\"http://writing.frankmcpherson.org\">writing.frankmcpherson.org</span></a> and put the cert in the S3 bucket, enable port 443 in the AWS firewall and be done, <a href=\"https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm-34d41d32e394\">but enabling SSL for a S3 bucket doesn’t appear to be that easy</a>. ",
+                                "created": "Sat, 17 Feb 2018 17:26:45 GMT"
+                            },
+                            {
+                                "text": "      ",
+                                "created": "Sat, 17 Feb 2018 17:26:46 GMT"
+                            },
+                            {
+                                "text": "So, what to do? To be honest, I am annoyed that I have to suss through any of this for a static web site / blog that does NOT need to be protected by HTTPS but Google seems to want to drive everyone down this path.&nbsp;",
+                                "created": "Sat, 17 Feb 2018 17:26:47 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

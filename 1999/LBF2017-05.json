@@ -1,0 +1,506 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Fri, 24 Dec 2021 19:32:38 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2017-05.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2017-05.json",
+        "flPublic": true,
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "dateCreated": "Fri, 24 Dec 2021 19:32:38 GMT"
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "5/1/2017",
+                "created": "Tue, 02 May 2017 01:34:02 GMT",
+                "subs": [
+                    {
+                        "text": "Happy Anniversary Anyway",
+                        "created": "Tue, 02 May 2017 01:34:02 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Today marks <a href=\"http://writing.frankmcpherson.org/2016/05/01/0037.html\">the one year anniversary of this blog</a>. Now I have a year's worth of posts to look back upon. Actually, turns out that the archiving feature first became available on May 1, my actual first post was on <a href=\"http://writing.frankmcpherson.org/2016/04/14/0001.html\">April 14</a>.",
+                                "created": "Tue, 02 May 2017 01:34:03 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/4/2017",
+                "created": "Fri, 05 May 2017 00:15:51 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 05 May 2017 00:15:51 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I really enjoyed <a href=\"http://time.com/69316/basic/\">this article about the 50th anniversary of BASIC</a> at Time.com. I was one of those guys who learned programming by typing in BASIC programs published in magazines like Compute. My first formal programming class was BASIC on <a href=\"http://www.trs-80.com/wordpress/\">the TRS-80</a>.&nbsp;",
+                                "created": "Fri, 05 May 2017 00:15:52 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 05 May 2017 00:25:09 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://writing.frankmcpherson.org/2016/05/04/0043.html\">Trumped</a>: \"My fear is that Trump's ascendancy says something more about the people voting than the candidates running.\"&nbsp;",
+                                "created": "Fri, 05 May 2017 00:25:10 GMT"
+                            },
+                            {
+                                "text": "Seems particularly apt given <a href=\"https://www.washingtonpost.com/powerpost/republicans-plan-health-care-vote-on-thursday-capping-weeks-of-fits-and-starts/2017/05/03/e7dd7c28-306d-11e7-9dec-764dc781686f_story.html?utm_term=.9c87604107ab\">the House vote on health care</a> and Trump's \"religious freedom\" <a href=\"https://www.washingtonpost.com/politics/trump-signs-order-aimed-at-allowing-churches-to-engage-in-more-political-activity/2017/05/04/024ed7c2-30d3-11e7-9534-00e4656c22aa_story.html?utm_term=.f58b218dc491\">executive order</a>. It seems to me people aren't thinking of the fact that theocracies often start in the pulpit.&nbsp;",
+                                "created": "Fri, 05 May 2017 00:25:11 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 05 May 2017 00:31:10 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"https://realpersonalcomputing.com/2013/12/30/what-do-chromebooks-mean-to-personal-computing/\">What do Chromebooks mean to personal computing?</a>&nbsp;",
+                                "created": "Fri, 05 May 2017 00:31:11 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/5/2017",
+                "created": "Fri, 05 May 2017 15:02:40 GMT",
+                "subs": [
+                    {
+                        "text": "Windows 10S Is Not The Same As ChromeOS",
+                        "created": "Fri, 05 May 2017 15:02:40 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Ed Bott:&nbsp;<a href=\"http://www.zdnet.com/article/windows-10-s-chromebook-killer-or-the-second-coming-of-windows-rt\">Windows 10 S: Chromebook killer or the second coming of Windows RT</a>?",
+                                "created": "Fri, 05 May 2017 15:02:41 GMT"
+                            },
+                            {
+                                "text": "I say second coming of Windows RT. From what I can tell, Windows 10 S is practically the same as RT. You can only install apps from the Windows Store, you can only use Edge, and you can only use Bing.&nbsp;",
+                                "created": "Fri, 05 May 2017 15:02:42 GMT"
+                            },
+                            {
+                                "text": "While I could upgrade Windows 10 S to Windows 10 Pro for $50 more and then I can use Chrome and Google Search, that is yet more money I have to spend.&nbsp;",
+                                "created": "Fri, 05 May 2017 15:02:43 GMT"
+                            },
+                            {
+                                "text": "And the update process for Windows 10 S is still not as smooth or fast as Chrome OS.&nbsp;",
+                                "created": "Fri, 05 May 2017 15:02:44 GMT"
+                            },
+                            {
+                                "text": "But to me, the real problem is that at the end of the day Windows 10 S looks like cheap computers while Chromebooks are lower cost but strive to provide high quality, good looking machines.",
+                                "created": "Fri, 05 May 2017 15:02:45 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "What's My Next Personal Computer? ",
+                        "created": "Fri, 05 May 2017 17:30:47 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've been thinking that my next technology purchase may be <a href=\"https://www.theverge.com/2017/2/10/14571332/not-a-chromebook-pro-review-samsung-chrome-os-android-convertible\">the Samsung Chromebook Pro</a>. Basically, I am getting to the point where I should get a new Android tablet, the Nexus 9 is getting pretty old, and I am looking at the Chromebooks that run Android to be tablet replacements.",
+                                "created": "Fri, 05 May 2017 17:30:48 GMT"
+                            },
+                            {
+                                "text": "The Chromebook Pro has a Intel M3 processor that promises to better performance than the Chromebook Plus with its Atom processor. However, Android apps are designed to run on Atom and therefore I wouldn't be surprised in Android apps ran better on the Plus than the Pro.&nbsp;",
+                                "created": "Fri, 05 May 2017 17:30:49 GMT"
+                            },
+                            {
+                                "text": "I should be able to buy a Chromebook Pro by now, but it still has not shipped. <a href=\"https://www.theverge.com/2017/5/4/15547742/android-apps-chrome-os-chromebook-pro-delayed\">The Verge reports</a> that the problem may be the performance of Android apps running on the M3 processor.",
+                                "created": "Fri, 05 May 2017 17:30:50 GMT"
+                            },
+                            {
+                                "text": "Consequently, I am giving more thought to buying the Chromebook Plus. I also hear rumors that Apple may come out with a 10 inch iPad Pro that supports the Pencil and I find that appealing enough to consider rather than either Chromebooks.&nbsp;",
+                                "created": "Fri, 05 May 2017 17:30:51 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/7/2017",
+                "created": "Mon, 08 May 2017 03:58:20 GMT",
+                "subs": [
+                    {
+                        "text": "I Wish iOS Would Share Like Android",
+                        "created": "Mon, 08 May 2017 03:58:20 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am looking for a way to create a RSS feed of quotes from books I read using the Kindle app on my iPad.&nbsp;",
+                                "created": "Mon, 08 May 2017 03:58:21 GMT"
+                            },
+                            {
+                                "text": "Right now <a href=\"https://the-narthex.org/type/quote/\">I am posting each quote as a blog post on a Wordpress blog</a>. First I tried sharing a highlight to the Wordpress app, but that only posts the URL to the quote at Kindle online and doesn't share the content of the highlight.&nbsp;",
+                                "created": "Mon, 08 May 2017 03:58:22 GMT"
+                            },
+                            {
+                                "text": "I can copy the highlight content to the clipboard and then share the highlight, but that then requires two steps and editing of the post that requires more work than I would like.&nbsp;",
+                                "created": "Mon, 08 May 2017 03:58:23 GMT"
+                            },
+                            {
+                                "text": "Conversely, I created a Workflow that creates a blog post using the contents from the clipboard, but that does not the link to the quote, which I would like to retain for attribution.&nbsp;",
+                                "created": "Mon, 08 May 2017 03:58:24 GMT"
+                            },
+                            {
+                                "text": "My first thought was to blame Amazon, but here is the thing. I can share quotes using the Kindle app on Android to the Wordpress app for Android and <a href=\"https://the-narthex.org/2017/05/08/from-water-to-wine-some-of-my-story-by-brian-zahnd-2/\">it works exactly the way I want</a>. So, this is something that iOS appears to prevent happening. Ironically, I can share highlights to Google Keep exactly in the manner I desire, but there is no easy way to get stuff out of Keep.",
+                                "created": "Mon, 08 May 2017 03:58:25 GMT"
+                            },
+                            {
+                                "text": "Sigh, I prefer to read books on the iPad Mini because it is smaller and lighter than the Nexus 9, but this is another example of just how sharing on Android is better than iOS.&nbsp;",
+                                "created": "Mon, 08 May 2017 03:58:26 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/8/2017",
+                "created": "Mon, 08 May 2017 15:58:06 GMT",
+                "subs": [
+                    {
+                        "text": "Redundant Reading",
+                        "created": "Mon, 08 May 2017 15:58:06 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I use <a href=\"http://www.instapaper.com\">Instapaper </a>and <a href=\"http://getpocket.com\">Pocket </a>and you might ask why as they are both \"read it later\" apps.&nbsp;",
+                                "created": "Mon, 08 May 2017 15:58:07 GMT"
+                            },
+                            {
+                                "text": "The reason is that they both have unique features that I use. Instapaper provides a way to highlight text in an article an I use a IF applet to store those highlights in Evernote.",
+                                "created": "Mon, 08 May 2017 15:58:08 GMT"
+                            },
+                            {
+                                "text": "Pocket does not provide highlighting but it does provide tags, which I use with another IF applet to curate articles on <a href=\"http://tech2watch.info\">tech2watch.info</a>.&nbsp;",
+                                "created": "Mon, 08 May 2017 15:58:09 GMT"
+                            },
+                            {
+                                "text": "Instapaper does not have tags, but it does have folders that could be used like tags but are not as flexible because an article cannot be in two folders at the same time",
+                                "created": "Mon, 08 May 2017 15:58:10 GMT"
+                            },
+                            {
+                                "text": "I really wish either Instapaper had tags or Pocket had highlights. At one time Pocket did have highlights and I would gladly pay for the premium service if it were brought back.&nbsp;",
+                                "created": "Mon, 08 May 2017 15:58:11 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 08 May 2017 19:32:23 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am seeing <a href=\"https://www.theverge.com/circuitbreaker/2017/5/8/15579858/huawei-watch-android-wear-2-0-update\">reports that Android Wear 2</a> is now available for the original Huawei Watch, which I have, but so far it is not available to be installed on my watch.",
+                                "created": "Mon, 08 May 2017 19:32:24 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "On This Day I Wrote",
+                        "created": "Mon, 08 May 2017 19:37:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://writing.frankmcpherson.org/2016/05/07/0054.html\">Last year at this time</a> the Cubs were the best team in baseball. Right now they are scuffling, having given two games to the Yankees this past weekend. The pitching needs to get must better in the early innings of games because right now we are getting behind too soon and by too much in nearly every game.",
+                                "created": "Mon, 08 May 2017 19:37:40 GMT"
+                            },
+                            {
+                                "text": "Tony the Tiger <a href=\"http://webnotes.frankmcpherson.net/2014/05/08/\">lost his voice</a>.&nbsp;",
+                                "created": "Mon, 08 May 2017 19:37:41 GMT"
+                            },
+                            {
+                                "text": "Seven years ago <a href=\"https://fjmnotes.com/2010/05/05/now-i-own-an-ipad/\">I bought my first iPad</a>, and <a href=\"https://fjmnotes.com/2010/05/08/blogging-from-an-ipad/\">wrote my first blog post using it</a>.&nbsp;",
+                                "created": "Mon, 08 May 2017 19:37:42 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/12/2017",
+                "created": "Fri, 12 May 2017 15:35:26 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 12 May 2017 15:35:26 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"https://channel9.msdn.com/Events/Build/2017/P4171\">Windows 10 on ARM</a>. I wonder whether some day we will see Windows 10 running on Raspberry PI?&nbsp;",
+                                "created": "Fri, 12 May 2017 15:35:27 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/13/2017",
+                "created": "Sat, 13 May 2017 20:36:36 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sat, 13 May 2017 20:36:36 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://scripting.com/reboot/test/v3/dave/#a110542\" style=\"-webkit-text-size-adjust: 100%;\">Dave appears to be working on it.</a>&nbsp;Electric Outliner? Yes please!&nbsp;",
+                                "created": "Sat, 13 May 2017 20:36:37 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/15/2017",
+                "created": "Mon, 15 May 2017 15:29:44 GMT",
+                "subs": [
+                    {
+                        "text": "Android Wear 2.0 ",
+                        "created": "Mon, 15 May 2017 15:29:44 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "On Friday my <a href=\"https://www.cnet.com/products/huawei-watch/\">Huawei Watch</a> was upgraded to Android Wear 2. Over all, I am pleased with the upgrade. Most of the changes that have been made are for the better, but there are UI changes that involve muscle memory, and those are difficult to over come.",
+                                "created": "Mon, 15 May 2017 15:29:45 GMT"
+                            },
+                            {
+                                "text": "Most notable is notifications. With the prior version, you swiped a notification card right to take further action, now you tap the notification to take action, swipe right to remove the notification.&nbsp;",
+                                "created": "Mon, 15 May 2017 15:29:46 GMT"
+                            },
+                            {
+                                "text": "Some of the apps that I use are not yet optimized for the new notification model, particularly in my case Map My Walk. With the prior version, when I started tracking with the app the View Status view would immediately display on the watch, now it does not. Now, I have to swipe up to see the walking notification, tap the notification, then tap View Stats.",
+                                "created": "Mon, 15 May 2017 15:29:47 GMT"
+                            },
+                            {
+                                "text": "Another issue that I have is with Reminders. While I can create a new reminder using the watch, the reminders that I create only occur on the phone and do not appear on the watch.&nbsp;",
+                                "created": "Mon, 15 May 2017 15:29:48 GMT"
+                            },
+                            {
+                                "text": "Reminder integration between my phone (a Nexus 6P) and the watch has been an issue, but appeared to be fixed with the upgrade to Google Assistant on the phone.&nbsp;",
+                                "created": "Mon, 15 May 2017 15:29:49 GMT"
+                            },
+                            {
+                                "text": "It is really disappointing that Google has not integrated Assistant across all platforms. For example, you get to Assistant settings via the Google Home app for the Home and phone assistants, but the Android Wear 2 assistant settings is only accessible via the Android Wear app.&nbsp;",
+                                "created": "Mon, 15 May 2017 15:29:50 GMT"
+                            },
+                            {
+                                "text": "In my opinion, Assistant should be aware of all the devices that I use with my Google accounts, and I should be able to send information between devices. For example, if I ask the assistant on Google Home to find a recipe, I should be able to tell it to send that recipe, which is a web page, to my phone or tablet.&nbsp;",
+                                "created": "Mon, 15 May 2017 15:29:51 GMT"
+                            },
+                            {
+                                "text": "The lack of integration across devices when it obviously should exist is a significant problem. In fact, the lack of this type of integration was in my opinion a major issue with Microsoft's Windows Mobile platform. Lack of integration means users do not get full value out of the platform, and demonstrates a lack of planning and execution by Google.",
+                                "created": "Mon, 15 May 2017 15:29:52 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/16/2017",
+                "created": "Tue, 16 May 2017 20:07:20 GMT",
+                "subs": [
+                    {
+                        "text": "A Fool With A Tool Is Still A Fool",
+                        "created": "Tue, 16 May 2017 20:07:20 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Dave has publish some Javascript tools via NPM packages. One package includes <a href=\"https://github.com/scripting/rss\">creating an RSS feed</a> and the other is a bundle of <a href=\"https://github.com/scripting/utils\">utility functions</a>. Dave has also bundled <a href=\"https://github.com/scripting/reader\">the RSS feed reading that is in River5</a> into an npm package.",
+                                "created": "Tue, 16 May 2017 20:07:21 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "How May I Be Of Assistance?",
+                        "created": "Wed, 17 May 2017 02:57:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The Google I/O conference starts tomorrow, with the keynote scheduled for 1:00 PM EST. We are likely to learn about Android O and changes to Google Assistant, along perhaps with some news about ChromeOS.&nbsp;",
+                                "created": "Wed, 17 May 2017 02:57:40 GMT"
+                            },
+                            {
+                                "text": "I hope that Google is going to make changes to Assistant that makes it more useful across Home, phone, and watch. What I find frustrating are those times when I have my phone in hand, say \"Ok Google\" and have Home take over, when I really want assistant on my phone.&nbsp;",
+                                "created": "Wed, 17 May 2017 02:57:41 GMT"
+                            },
+                            {
+                                "text": "Why does it matter? Because Assistant does different things on each device. For example, Assistant on my phone can create an event on my calendar while assistant on home cannot, and that is a problem.&nbsp;",
+                                "created": "Wed, 17 May 2017 02:57:42 GMT"
+                            },
+                            {
+                                "text": "Another thing I find frustrating is the inability to transfer information between devices. For example, if I initiate a search with Home, wouldn't it be cool to say, \"Ok Google, send that to my phone\" and have that web page open in Chrome on my phone?",
+                                "created": "Wed, 17 May 2017 02:57:43 GMT"
+                            },
+                            {
+                                "text": "The point being that if Google is going to put Assistant on all these devices it needs to work seamlessly and consistently across those devices. It shouldn't matter from which device Assistant hears me, it should take the same action.&nbsp;",
+                                "created": "Wed, 17 May 2017 02:57:44 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/17/2017",
+                "created": "Wed, 17 May 2017 15:56:25 GMT",
+                "subs": [
+                    {
+                        "text": "Farewell iPad Mini?",
+                        "created": "Wed, 17 May 2017 15:56:25 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am disappointed by <a href=\"https://www.cnet.com/news/apple-ipad-mini-could-finally-get-the-axe/\">the reports that Apple will discontinue the iPad Mini</a>. I own a iPad Mini 4 that I really like. In my opinion it is the perfectly sized small tablet, both from a screen size and overall weight perspective, and that makes it perfect for reading eBooks.&nbsp;",
+                                "created": "Wed, 17 May 2017 15:56:26 GMT"
+                            },
+                            {
+                                "text": "I do admit, however, that the small screen size prevents the Mini from being the best productivity tool. For work related activities, I prefer a table that is at least 10.5 inches. Consequently, I am keeping my eye out for the rumored new iPad Pro announcement, although I am a bit fearing the potential price. &nbsp;",
+                                "created": "Wed, 17 May 2017 15:56:27 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://mywebstream.net:1999/users/frankm/2017/05/05/whatsMyNextPersonalComputer.html\">As I have written before</a>, I am conflicted over what will be my next personal computing purchase. The primary conflict is over whether I want (or need) an Android tablet. While I like the iPad hardware, I still prefer Android over iOS from an operating system perspective. Samsung's device might be a good option, but then I am as about as interested in Samsung's ecosystem as I am about iOS.&nbsp;",
+                                "created": "Wed, 17 May 2017 15:56:28 GMT"
+                            },
+                            {
+                                "text": "I wonder whether Google will announce a replacement of the Pixel C at I/O?",
+                                "created": "Wed, 17 May 2017 15:56:29 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/18/2017",
+                "created": "Thu, 18 May 2017 12:53:24 GMT",
+                "subs": [
+                    {
+                        "text": "Reaction To Google I/O 2017",
+                        "created": "Thu, 18 May 2017 12:53:24 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Yesterday was the first day of <a href=\"https://events.google.com/io/\">the Google I/O developer conference</a>, and with that the keynote during which it typically announces new products.&nbsp;",
+                                "created": "Thu, 18 May 2017 12:53:25 GMT"
+                            },
+                            {
+                                "text": "The majority of the new announcements during yesterday's keynote relates to Google Assistant and Google Home. In summary, Google appears to be addressing <a href=\"http://mywebstream.net:1999/users/frankm/2017/05/16/howMayIBeOfAssistance.html\">my disappointment with the lack of integration</a> with assistant across devices.&nbsp;",
+                                "created": "Thu, 18 May 2017 12:53:26 GMT"
+                            },
+                            {
+                                "text": "Google is adding notifications to Home in what they call proactive assistance, and adding hands-free calling to phone numbers rather than device to device calling as Amazon recently announced for Echo. I think people will find the ability to make actual phone calls much more appealing.",
+                                "created": "Thu, 18 May 2017 12:53:27 GMT"
+                            },
+                            {
+                                "text": "We did learn a little more about Android O, and the second preview beta is available for more people to install on their Pixel and Nexus 6P phones. Frankly, I don't see much about Android O that would compel me to install the beta at this time. It appears to me that Android O is very much an incremental upgrade rather than a significant feature upgrade such as Nougat did with its support for Assistant and Pixel Launcher.",
+                                "created": "Thu, 18 May 2017 12:53:28 GMT"
+                            },
+                            {
+                                "text": "Notable to me are things not mentioned. Nothing was mentioned about ChromeOS nor the running of Android apps on ChromeOS, which was promised to be more broadly available during the conference last year. We also did not see any new Chromecasts devices or upgrades beyond the Visual Responses being added to Home.&nbsp;",
+                                "created": "Thu, 18 May 2017 12:53:29 GMT"
+                            },
+                            {
+                                "text": "The conference continues thru today and tomorrow, so there is still time for more announcements, but I found the news from the keynote underwhelming.",
+                                "created": "Thu, 18 May 2017 12:53:30 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/23/2017",
+                "created": "Tue, 23 May 2017 15:30:11 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Tue, 23 May 2017 15:30:11 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I wonder, does the fact that <a href=\"https://www.microsoft.com/en-us/store/b/surface?Homepage_LeftNav_03_Surface_en_US\">Microsoft has retained the \"Pro\" designation</a> with its latest announcement mean that there might be a new \"Surface\" tablet/2-in-1 in the future? &nbsp;",
+                                "created": "Tue, 23 May 2017 15:30:12 GMT"
+                            },
+                            {
+                                "text": "I doubt it. Most likely Microsoft is leaving the low-end 2-in-1 market to their hardware partners. On one hand, the Surface 3 continues to serve well and I don't foresee a near future where a new release of Windows 10 does not work on it. On the other hand, it makes me think further about what device to buy next. Right now I basically have a tablet for work, &nbsp;the Surface 3, and a tablet for home, the iPad Mini 4. Both are orphans and why do I need two?&nbsp;",
+                                "created": "Tue, 23 May 2017 15:30:13 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Tue, 23 May 2017 16:44:14 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "How many <a href=\"https://9to5google.com/2017/05/23/ikea-smart-home-lighting-google-assistant/\">different IoT hubs </a>does there need to be before the industry recognizes it has a standards problem?&nbsp;",
+                                "created": "Tue, 23 May 2017 16:44:15 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/31/2017",
+                "created": "Thu, 01 Jun 2017 03:08:45 GMT",
+                "subs": [
+                    {
+                        "text": "Andy Rubin's Ambition",
+                        "created": "Thu, 01 Jun 2017 03:08:45 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Yesterday we learned about the new phone from Andy Rubin's new company, <a href=\"https://www.essential.com/\">Essential</a>. I expect much will be written about the new phone, but what I think is interesting is that Rubin's company appears to be trying to launch a new ecosystem in which the phone plays but a part.",
+                                "created": "Thu, 01 Jun 2017 03:08:46 GMT"
+                            },
+                            {
+                                "text": "The company is also developing a new software assistant, or what is now being called an <a href=\"http://gadgets.ndtv.com/mobiles/news/essential-phone-price-release-date-preorders-ambient-os-android-1706045\">Ambient OS</a>. Like Google Assistant, Essential's will be available on their phone and in <a href=\"https://www.theverge.com/circuitbreaker/2017/5/30/15711162/ambient-os-essential-home-andy-rubin\">an in-home appliance.</a>&nbsp;",
+                                "created": "Thu, 01 Jun 2017 03:08:47 GMT"
+                            },
+                            {
+                                "text": "I am curious about why Rubin is choosing to develop their own assistant rather than use Google's, as they are doing in using Android. How can Essential have access to the same data as Google, and can they really write software better than Google?&nbsp;",
+                                "created": "Thu, 01 Jun 2017 03:08:48 GMT"
+                            },
+                            {
+                                "text": "The key might be in what Rubin said during The Verge's Recode conference, where he said that the problem Amazon's Echo and Google's Home is the UI. Essential might be developing a different interface that rides on top of Google Assistant, although The Verge says it is more akin to IFTTT.&nbsp;",
+                                "created": "Thu, 01 Jun 2017 03:08:49 GMT"
+                            },
+                            {
+                                "text": "What I am most excited by is his comments regarding IoT integration. He acknowledge the \"multiple hub\" problem of IoT that I've written of before and claims to be trying to provide a fix. If Essential's home appliance can eliminate the need for a Philips, SmartThings, and Harmony hub in my home, I will be a happy camper.&nbsp;",
+                                "created": "Thu, 01 Jun 2017 03:08:50 GMT"
+                            },
+                            {
+                                "text": "Rubin's past success in creating the HipTop and Android warrant taking him seriously, but he is claiming to do some bold things that might prove too difficult to overcome. Still, I am rooting for him!&nbsp;",
+                                "created": "Thu, 01 Jun 2017 03:08:51 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Thu, 01 Jun 2017 03:23:21 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've just added May 2017 to the archive menu, which means we have rolled over one year on this blog.&nbsp;",
+                                "created": "Thu, 01 Jun 2017 03:23:22 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Fri, 24 Dec 2021 19:06:59 GMT</dateModified>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<dateCreated>Fri, 24 Dec 2021 19:05:56 GMT</dateCreated>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2017-01.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2017-01.json</urlJson>
+		<flPublic>true</flPublic>
+		</head>
+	<body>
+		<outline text="This file contains blog posts that I wrote using 1999.io in January, 2017" created="Fri, 24 Dec 2021 19:06:30 GMT" isComment="true"/>
+		<outline text="1/5/2017" created="Thu, 05 Jan 2017 21:07:57 GMT">
+			<outline text="" created="Thu, 05 Jan 2017 21:07:57 GMT" type="outline">
+				<outline text="Another week, another outage of my server at &lt;a href=&quot;http://www.cloudatcost.com/&quot;&gt;CloudAtCost&lt;/a&gt;." created="Thu, 05 Jan 2017 21:07:58 GMT"/>
+				</outline>
+			</outline>
+		<outline text="1/14/2017" created="Sat, 14 Jan 2017 18:26:24 GMT">
+			<outline text="Rebuilding My River5 Site" created="Sat, 14 Jan 2017 18:26:24 GMT" type="outline">
+				<outline text="After experienced repeated issues with the virtual server I've been using to host my River5 site, I decided to delete and rebuild it. I am about to start the rebuild process.&amp;nbsp;" created="Sat, 14 Jan 2017 18:26:25 GMT"/>
+				<outline text="First step, log and update the server software." created="Sat, 14 Jan 2017 18:26:26 GMT"/>
+				<outline text="All updates are done, &amp;nbsp;&lt;a href=&quot;http://nodestorage.smallpict.com/2015/08/05/installingNodestorageOnUbuntu.html&quot;&gt;installing node&lt;/a&gt;" created="Sat, 14 Jan 2017 18:26:27 GMT"/>
+				<outline text="Install git" created="Sat, 14 Jan 2017 18:26:28 GMT"/>
+				<outline text="Create my user account" created="Sat, 14 Jan 2017 18:26:29 GMT"/>
+				<outline text="Clone &lt;a href=&quot;https://github.com/scripting/river5&quot;&gt;River5 from github&lt;/a&gt;" created="Sat, 14 Jan 2017 18:26:30 GMT"/>
+				<outline text="Point &lt;a href=&quot;http://mywebstream.net&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://mywebstream.net&quot;&gt;mywebstream.net&lt;/span&gt;&lt;/a&gt;&amp;nbsp;to the new IP address" created="Sat, 14 Jan 2017 18:26:31 GMT"/>
+				<outline text="Start river5.js" created="Sat, 14 Jan 2017 18:26:32 GMT"/>
+				<outline text="Clone &lt;a href=&quot;https://github.com/fmcpherson/RSSSubscriptionLists&quot;&gt;my RSS Subscriptions lists&lt;/a&gt;" created="Sat, 14 Jan 2017 18:26:33 GMT"/>
+				<outline text="Start river5.js" created="Sat, 14 Jan 2017 18:26:34 GMT"/>
+				<outline text="Edit config.json to implement &lt;a href=&quot;https://github.com/scripting/river5/blob/master/docs/CONFIG.md&quot;&gt;configurations settings&lt;/a&gt;" created="Sat, 14 Jan 2017 18:26:35 GMT"/>
+				<outline text="Final testing, and done! If I were not multitasking while the steps above execute, I think I could have rebuilt the server in about 15 minutes. The longest running tasks where the OS software updates." created="Sat, 14 Jan 2017 18:26:36 GMT"/>
+				<outline text="One thing I did different this time is that I decided to not run River5 in a docker container. I originally built &lt;a href=&quot;https://github.com/fmcpherson/DockerizedRiver4&quot;&gt;my River4 site in a container&lt;/a&gt; as an exercise to learn Docker. Given that I am not running mutiple applications, I have come to the conclusion that using Docker was an additional layer that was not adding value.&amp;nbsp;" created="Sat, 14 Jan 2017 18:26:37 GMT"/>
+				<outline text="The process above has reminded me of one thing, which is that I need clone my RSS Subscriptions lists to the server I have running nodestorage/Little Outliner so that edits to my subsriptions have way back to my River5 site. I know the subscriptions lists that I just put on my River5 site are not current." created="Sat, 14 Jan 2017 18:26:38 GMT"/>
+				</outline>
+			</outline>
+		<outline text="1/18/2017" created="Thu, 19 Jan 2017 01:44:05 GMT">
+			<outline text="" created="Thu, 19 Jan 2017 01:44:05 GMT" type="outline">
+				<outline text="Got &lt;a href=&quot;http://blog.linuxmint.com/?p=3095&quot;&gt;a new toy&lt;/a&gt; in the cave, and this is my first post using it. &lt;a href=&quot;http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/&quot;&gt;The MintBox Mini Pro&lt;/a&gt; is a version of &lt;a href=&quot;http://fit-pc.com/wiki/index.php/Fit-PC_Product_Line:_fitlet&quot;&gt;the Compulab fitlet&lt;/a&gt; with &lt;a href=&quot;https://www.linuxmint.com/&quot;&gt;Linux Mint&lt;/a&gt; pre-installed. I am surprised by it's weight, it is pretty heavy, and how hot it gets. There is no fan inside and the metal case dissipates heat from the processor." created="Thu, 19 Jan 2017 01:44:06 GMT"/>
+				</outline>
+			</outline>
+		<outline text="1/19/2017" created="Thu, 19 Jan 2017 21:00:42 GMT">
+			<outline text="" created="Thu, 19 Jan 2017 21:00:42 GMT" type="outline">
+				<outline text="I can't imagine going from &lt;a href=&quot;https://www.theguardian.com/us-news/2017/jan/19/barack-obama-donald-trump-inauguration-day-what-next&quot;&gt;literally having the weight of the world&lt;/a&gt; on your shoulders, to flying off in to the sunset.&amp;nbsp;" created="Thu, 19 Jan 2017 21:00:43 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 19 Jan 2017 23:50:01 GMT" type="outline">
+				<outline text="Dave has added the ability to create Listicles to Little Outliner. &lt;a href=&quot;http://readwrite.club:1999/users/frankm/listicles/testListicle.html&quot;&gt;Here is my first one&lt;/a&gt;.&amp;nbsp;" created="Thu, 19 Jan 2017 23:50:02 GMT"/>
+				</outline>
+			</outline>
+		<outline text="1/20/2017" created="Fri, 20 Jan 2017 22:37:41 GMT">
+			<outline text="Docker Tutorial Videos" created="Fri, 20 Jan 2017 22:37:41 GMT" type="outline">
+				<outline text="The Containerizers provides &lt;a href=&quot;https://www.youtube.com/channel/UCFkOoM5xXS6hRs1lpw_8ydQ?sub_confirmation=1&quot;&gt;a nice set of tutorial videos&lt;/a&gt; on YouTube that you can watch to learn Docker. You can also use an online site at &lt;a href=&quot;http://play-with-docker.com&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://play-with-docker.com&quot;&gt;http://play-with-docker.com&lt;/span&gt;&lt;/a&gt;&amp;nbsp;to run docker in a web browser sandbox without having to install it on your computer." created="Fri, 20 Jan 2017 22:37:42 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 20 Jan 2017 22:40:43 GMT" type="outline">
+				<outline text="I've installed the latest version of Docker Engine, v1.13 on my &lt;a href=&quot;http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/&quot;&gt;MintBox&lt;/a&gt;. So far, so good. One of the first containers I have installed is web UI for Docker called &lt;a href=&quot;https://cntnr.io/putting-a-ui-around-docker-with-portainer-c8ba07874f9d?mkt_tok=eyJpIjoiTlRCak5tSTFNV1l5WVdReiIsInQiOiJQUUtFXC9vRVRiWnRvZ3FIdHJlek5oUHYzb0NKSU9HZHF1RzhUQnJcL01LXC9pZ2FsREFPeFZWeTM3M1RGc3Z5MzNtQUU1YXgzcWhrSExtSFJNVys1eklmZG4xdGNleElRSUhZa1BrQ3ZvY2hFQ1ZmSjFEaytcL2VWbVZxc0dJOFE5K1IifQ%3D%3D#.jsni1txoj&quot;&gt;Portainer&lt;/a&gt;, which I think is very nice. I am running &lt;a href=&quot;https://hub.docker.com/r/abh1nav/dockerui/&quot;&gt;DockerUI&lt;/a&gt; on my RaspberryPi and I think Portainer is better." created="Fri, 20 Jan 2017 22:40:44 GMT"/>
+				</outline>
+			</outline>
+		<outline text="1/23/2017" created="Tue, 24 Jan 2017 03:39:00 GMT">
+			<outline text="" created="Tue, 24 Jan 2017 03:39:00 GMT" type="outline">
+				<outline text="Amazon has enabled &quot;computer&quot; as a wake word for Echo. Feeling &lt;a href=&quot;https://www.cnet.com/news/amazon-echos-new-wake-word-is-a-gift-to-trekkies/#ftag=CAD590a51e&quot;&gt;very Trekkie&lt;/a&gt;!&amp;nbsp;" created="Tue, 24 Jan 2017 03:39:01 GMT"/>
+				</outline>
+			</outline>
+		<outline text="1/29/2017" created="Sun, 29 Jan 2017 23:38:35 GMT">
+			<outline text="" created="Sun, 29 Jan 2017 23:38:35 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://medium.com/@sibjeet/dear-president-trump-islamic-extremists-are-playing-you-like-a-fiddle-bbb59c09cd19#.3oh5th8c8&quot;&gt;Sib Mahapatra&lt;/a&gt;: &quot;America can’t be destroyed from the outside. Extremists will never be powerful enough to destroy the pillars of our democracy. But we are powerful enough to destroy them ourselves.&quot;" created="Sun, 29 Jan 2017 23:38:36 GMT"/>
+				</outline>
+			</outline>
+		<outline text="1/30/2017" created="Mon, 30 Jan 2017 21:58:40 GMT">
+			<outline text="" created="Mon, 30 Jan 2017 21:58:40 GMT" type="outline">
+				<outline text="CloudAtCost servers not accessible again.&amp;nbsp;" created="Mon, 30 Jan 2017 21:58:41 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

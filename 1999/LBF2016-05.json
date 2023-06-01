@@ -1,0 +1,758 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Tue, 21 Dec 2021 23:01:34 GMT",
+        "ownerTwitterScreenName": "frankm",
+        "ownerName": "Frank McPherson",
+        "ownerId": "http://twitter.com/frankm",
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "dateCreated": "Tue, 21 Dec 2021 22:56:19 GMT",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 11,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2016-05.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2016-05.json",
+        "flPublic": true
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "This outline contains blog posts I wrote using 1999.io during May, 2016",
+                "created": "Tue, 21 Dec 2021 22:57:08 GMT",
+                "isComment": "true"
+            },
+            {
+                "text": "5/1/2016",
+                "created": "Sun, 01 May 2016 20:30:02 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 01 May 2016 20:30:02 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "If newspapers can't afford to stay in business what happens to the fifth estate? At some point we need to realize that we need to pay for the news we read in order to have professionals capable of gathering the news.&nbsp;",
+                                "created": "Sun, 01 May 2016 20:30:03 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Sun, 01 May 2016 20:32:29 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Thinking about &nbsp;what I wrote earlier about using 1999 on Android. One solution would be for the editor to support markup. Right now there is no way to do linking on Android, which is fundamental to blogging.&nbsp;",
+                                "created": "Sun, 01 May 2016 20:32:30 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/2/2016",
+                "created": "Mon, 02 May 2016 13:54:03 GMT",
+                "subs": [
+                    {
+                        "text": "PEDs Are Not Going Away",
+                        "created": "Mon, 02 May 2016 13:54:03 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://espn.go.com/blog/sweetspot/post/_/id/70192/catching-dee-gordon-necessary-part-of-the-price-for-punishing-peds\">Two MLB players were recently suspended for being caught using PEDs</a><span>. While there will always be athletes who succumb to the pressure of using PEDs, it continues to be blatantly obvious that suspensions are not a sufficient deterrent.&nbsp;</span>",
+                                "created": "Mon, 02 May 2016 13:54:04 GMT"
+                            },
+                            {
+                                "text": "If you really want to clean up major league baseball, you must have strong penalties for BOTH players and teams.&nbsp;",
+                                "created": "Mon, 02 May 2016 13:54:05 GMT"
+                            },
+                            {
+                                "text": "Teams should lose draft picks or the ability to sign free agents for at least a year.",
+                                "created": "Mon, 02 May 2016 13:54:06 GMT"
+                            },
+                            {
+                                "text": "Existing contracts between a player and team should be nullified and replaced with a \"standard\" penalty player contract that sets the player's pay to the league minimum, reset's the players free agency timeline back to a rookie's, and prevents a team from trading the player for at least three years.&nbsp;",
+                                "created": "Mon, 02 May 2016 13:54:07 GMT"
+                            },
+                            {
+                                "text": "In other words, the financial penalties have to be so harsh to deter players from using PEDs and to incent teams for further policing.&nbsp;",
+                                "created": "Mon, 02 May 2016 13:54:08 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 02 May 2016 21:45:08 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Testing a new feature of the Insert HTML function of 1999. Today I've been reading leading about&nbsp;<a href=\"https://serversforhackers.com/using-ssl-certificates-with-haproxy\">load balancers and SSL</a><span>.</span>",
+                                "created": "Mon, 02 May 2016 21:45:09 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 02 May 2016 21:49:35 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Now to see whether the insert HTML feature works&nbsp;<a href=\"http://geekforbrains.com/post/after-a-year-of-nodejs-in-production\">for inserting links</a>. It did although it is cumbersome.&nbsp;",
+                                "created": "Mon, 02 May 2016 21:49:36 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/4/2016",
+                "created": "Wed, 04 May 2016 15:55:14 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 04 May 2016 15:55:14 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "There is a fundamental flaw in <a href=\"http://scripting.com/2016/05/04/1237.html\">this argument</a>, in that U.S. politics is not about getting stuff done. U.S. politics is about preserving the status quo.&nbsp;",
+                                "created": "Wed, 04 May 2016 15:55:15 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Trumped",
+                        "created": "Wed, 04 May 2016 16:18:58 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Looks like Trump will be the Republican party nominee, so it looks like the presidential election will come town to whether we want governing in the United States to act more like a reality TV show.&nbsp;",
+                                "created": "Wed, 04 May 2016 16:18:59 GMT"
+                            },
+                            {
+                                "text": "My fear is that Trump's ascendancy says something more about the people voting than the candidates running. If the majority of people simply want to be \"mad as hell\" and scream, then they will vote for Trump. If the majority of people &nbsp;don't want a loose cannon in the White House they will vote for Hilary.&nbsp;",
+                                "created": "Wed, 04 May 2016 16:19:00 GMT"
+                            },
+                            {
+                                "text": "God help us!",
+                                "created": "Wed, 04 May 2016 16:19:01 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 04 May 2016 16:22:33 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am intrigued by <a href=\"http://www.amazon.com/Nextbit-Robin-Factory-Unlocked-Phone/dp/B01D9LVCAI/ref=sr_1_1?s=wireless&amp;ie=UTF8&amp;qid=1462379111&amp;sr=1-1&amp;keywords=nextbit+robin\">the Nextbit Robin</a>, although I wonder about the viability of the company and its ability to keep their cloud service running. Because of its reliance on the cloud for storage, the company's viability is more important than for other smartphone manufacturers.&nbsp;",
+                                "created": "Wed, 04 May 2016 16:22:34 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 04 May 2016 16:39:31 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've poked around a bit in <a href=\"https://instantarticles.fb.com/\">Facebook Instant Articles</a>, and the whole set up process looks much more complicated than it may be worth. It should be as easy as associating an RSS feed with a Facebook Page.&nbsp;",
+                                "created": "Wed, 04 May 2016 16:39:32 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Thu, 05 May 2016 01:47:57 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Reading about blockchain, can it be used to fix the electronic identity problem?",
+                                "created": "Thu, 05 May 2016 01:47:58 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html\">Blockchain&nbsp;</a>Explained",
+                                "created": "Thu, 05 May 2016 01:47:59 GMT"
+                            },
+                            {
+                                "text": "<br>",
+                                "created": "Thu, 05 May 2016 01:48:00 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/5/2016",
+                "created": "Thu, 05 May 2016 18:58:37 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 05 May 2016 18:58:37 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am a bit surprised that nobody has bought up <a href=\"https://ifttt.com\">IFTTT</a>. It seems to me that it is a key service <a href=\"http://pressroom.geappliances.com/news/iot-made-simple:-ge-first-manufacturer-to-have-suite-of-connected-appliances-on-ifttt?soc=social_20160505_61292956&amp;adbid=728229820706914304&amp;adbpl=tw&amp;adbpr=70718986\">in a world in which everything is connected to the Internet</a>.",
+                                "created": "Thu, 05 May 2016 18:58:38 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Thu, 05 May 2016 19:02:18 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://www.nytimes.com/2016/05/05/us/politics/trump-gop.html?clickSource=story-heading&amp;_r=0\">This New York Times article</a> highlights for me the big problem with our political parties. Party loyalty seems to take priority over doing the right thing, where we need people to do the right thing.",
+                                "created": "Thu, 05 May 2016 19:02:19 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/6/2016",
+                "created": "Fri, 06 May 2016 14:18:33 GMT",
+                "subs": [
+                    {
+                        "text": "My 1999.io Wish List",
+                        "created": "Fri, 06 May 2016 14:18:33 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "From <b>a writing perspective</b>, what I like most about <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;is that it has all the simplicity of <a href=\"http://scripting.com/davenet/1999/12/08/editthispagecom.html\">EditThisPage</a>, which is how I first started blogging, but it is missing some of what you might call \"power user\" features that I have become accustomed.&nbsp;",
+                                "created": "Fri, 06 May 2016 14:18:34 GMT"
+                            },
+                            {
+                                "text": "My hope/expectation is that over time Dave will add some of these features. Here are features/functions that I wish exist in 1999.io:",
+                                "created": "Fri, 06 May 2016 14:18:35 GMT"
+                            },
+                            {
+                                "text": "<ul><li><span>A <b>bookmarklet</b> to easily insert links and quotes into a new blog post. I frequently use the bookmarklet for Fargo to quote someone. A bonus would be the simple support for linking to the source of the quote.</span></li><li><b>Markdown</b> support for formatting that would enable me to format text using mobile browsers. (Read <a href=\"http://readwrite.club:1999/users/frankm/2016/04/30/0035.html\">here</a> for more on my testing of <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a> with Android.) For me, mobile browser support is a main selling point versus Fargo. Fargo works in mobile browsers, but I find it works best in desktop browsers.&nbsp;</li><li><span>A <b>glossary</b>, which is a feature that Fargo and the OPML Editor had for saving snippets of frequently used text or links end easily insert them into your writing. The glossary for linking is similar to how a Wiki links to other pages, and I think this is a very useful feature for writers that is often overlooked.&nbsp;</span></li></ul>",
+                                "created": "Fri, 06 May 2016 14:18:36 GMT"
+                            },
+                            {
+                                "text": "From <b>a hosting perspective</b>, what I like most is that it has been easy for me to automate the process of copying the HTML pages created by <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;to an Amazon S3 bucket that I can use to host my blog.&nbsp;",
+                                "created": "Fri, 06 May 2016 14:18:37 GMT"
+                            },
+                            {
+                                "text": "My main issue with how I have Fargo set up is that fargoPublisher needs to be running in order for my blog to be accessible, even though the HTML is stored in an S3 bucket. By default, the <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;node app serves HTML from the server's local storage, but it is easy to add a callback script to copy the HTML to S3. <a href=\"http://readwrite.club:1999/users/frankm/2016/05/06/0049.html\">This page</a> is served from my cloud server and <a href=\"http://writing.frankmcpherson.org/2016/05/06/0049.html\">this page</a> is served from S3. The URL to the S3 site is the one I will promote when I share links.",
+                                "created": "Fri, 06 May 2016 14:18:38 GMT"
+                            },
+                            {
+                                "text": "",
+                                "created": "Fri, 06 May 2016 14:18:39 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 06 May 2016 15:04:19 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I can't help but notice <a href=\"http://scripting.com/2014/03/12/thingsAreCrystallizing.html\">the irony</a> of <a href=\"http://1999bloggers.andysylvester.com/\">the fact</a> that <a href=\"https://github.com/scripting/river5\">River5 </a>does not handle elegantly title-less blog posts. I think that River5 ought to have a \"click here\" title for title-less blog posts so that a reader knows to click to see what is written. Or perhaps River5 ought to not grab title-less blog posts?",
+                                "created": "Fri, 06 May 2016 15:04:20 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 06 May 2016 15:07:07 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "For some reason the file systems on my servers at CloudAtCost constantly get switched to read-only mode.&nbsp;",
+                                "created": "Fri, 06 May 2016 15:07:08 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/7/2016",
+                "created": "Sat, 07 May 2016 19:00:13 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sat, 07 May 2016 19:00:13 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The Chicago Cubs are the best team in baseball and I am not sure how I feel about it. Meanwhile, the Detroit Tigers' pitching woes continue.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:00:14 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Sat, 07 May 2016 19:18:43 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Note to Fox Sports. The most likely reason why David Price is pitching poorly is because he is on my fantasy baseball team.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:18:44 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Why I Like The Surface 3",
+                        "created": "Sat, 07 May 2016 19:26:16 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I regularly use two tablets, a Nexus 9 and a Surface 3&nbsp;and I also own an iPad 3. We use the iPad primarily for watching streaming video, and the Nexus 9 is my primary reading and couch surfing device.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:17 GMT"
+                            },
+                            {
+                                "text": "I've owned the original iPad, a Nexus 7 and an HTC tablet, so I have used tablets for a long time. Of all the tablets that I have used, the <a href=\"https://www.microsoft.com/surface/en-us/products/surface-3\">Surface 3</a>  has been the most useful.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:18 GMT"
+                            },
+                            {
+                                "text": "The Surface 3 is flexible enough to meet a wide variety of use cases because it runs Windows 10 and a vast amount of desktop software. Consequently, the Surface 3 is valuable for both work and play.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:19 GMT"
+                            },
+                            {
+                                "text": "Because it runs Windows 10, I can connect the Surface 3 to my company's email server and use Outlook. While I can also connect iPads and Android tablets to the same servers, you must use apps other than the version of Outlook that I regularly use. &nbsp;I can use it to access corporate intranet sites via a VPN and desktop web browsers.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:20 GMT"
+                            },
+                            {
+                                "text": "My main use case for the Surface 3 is taking notes in <a href=\"https://www.onenote.com/\">OneNote </a>using <a href=\"http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pen/productID.325724000\">the Surface Pen</a>. The Surface's ten inch screen makes it nearly as large as a sheet of paper, so I find it very comfortable for writing.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:21 GMT"
+                            },
+                            {
+                                "text": "I like writing notes by hand, and studies show that handwriting helps to retain information. By using OneNote I don't have to carry a bunch of paper, and I can quickly search for notes due to OneNote's ability to index digital ink.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:22 GMT"
+                            },
+                            {
+                                "text": "One way the Surface 3 has been optimized for taking notes is that clicking the button at the top of the Surface Pen, like you would a ballpoint pen, launches OneNote. The process mimics how you would pick up a pad of paper and click a pen to write. Double-clicking the Surface Pen button captures a screenshot and saves it in OneNote to annotate.",
+                                "created": "Sat, 07 May 2016 19:26:23 GMT"
+                            },
+                            {
+                                "text": "If you own a Surface 3 <a href=\"https://realpersonalcomputing.com/2015/12/23/new-surface-pen/\">I recommend buying the new Surface Pen</a> because the new tips make for a very smooth writing experience.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:24 GMT"
+                            },
+                            {
+                                "text": "I think that <a href=\"https://www.microsoft.com/en-us/windows/microsoft-edge#rgHOOdtFAUmeid5w.97\">Edge </a>may be the best desktop web browser simply because it is really fast and renders pages beautifully. When I research information on the web, I can annotate a web page in digital ink and save a copy of that page in OneNote.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:25 GMT"
+                            },
+                            {
+                                "text": "The&nbsp;10.52\" x 7.36\" x 0.34\" dimensions of the Surface 3 make it the perfect size for a productivity tablet. In my opinion 12 inches is too large for tablets because they are hard to use while just being held in your hands. You are not going to comfortably carry an <a href=\"http://www.apple.com/ipad-pro/\">iPad Pro</a>&nbsp;or <a href=\"http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-4/productID.325711500?s_kwcid=AL!4249!3!102246747293!e!!g!!surface%20pro%204&amp;WT.mc_id=pointitsem+Google+Adwords+5+-+Surface+Pro+4%2F4+-+RLSA&amp;invsrc=search&amp;ef_id=L0JQO6BcQDkAAEO2:20160513194201:s\">Surface Pro</a> in ways that you can carry a Surface or iPad.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:26 GMT"
+                            },
+                            {
+                                "text": "While I expected to like the size of the Surface 3, I didn't expect to find its built-in kickstand to be so useful. I prefer watching video on the Surface 3 rather than my iPad simply because I can stand it up in a good viewing position. I use the MLB At Bat, WatchESPN, and Netflix Windows Store (tablet) apps on the Surface 3.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:27 GMT"
+                            },
+                            {
+                                "text": "Other Windows Store apps that I use regularly are Mail and Calendar, which come with Windows 10, MyRadar, and the MSN Apps: News, Money, Sports, and Weather. The Surface 3 came with an Office 365 subscription and full versions of Outlook, Word, Excel, and Powerpoint 2016, but I prefer using the Word and Excel mobile apps with their simpler UI.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:28 GMT"
+                            },
+                            {
+                                "text": "As I wrote earlier, I am a heavy OneNote user, and because of that I use the Surface 3 as a tablet more than in \"notebook\" mode. I did buy the Type Cover, but if you walked by my desk you are likely to find the cover disconnected from the Surface 3 more than not.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:29 GMT"
+                            },
+                            {
+                                "text": "The <a href=\"http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-3-Type-Cover/productID.314885800\">Type Cover</a> is, in fact, the source of my main problem with the Surface 3. For some reason Windows 10 seems to forget that the cover exists. Some times I see USB errors, other times the keyboard just will not work. I am sure there is a Windows 10 driver issue, ironic given the problem is Microsoft hardware working with Microsoft software. The solution is to restart the tablet, which is quick enough to tolerate.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:30 GMT"
+                            },
+                            {
+                                "text": "I occasionally have a similar issue with the Surface Pen; I will try writing on the tablet and nothing happens, the pen contact with the screen is not registered. Usually this problem is fixed by unscrewing the cap to disconnect the battery from the pen, which effectively resets the pen. Fortunately pen recognition issues happen much less frequently than the Type Cover issue.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:31 GMT"
+                            },
+                            {
+                                "text": "At the time Microsoft released the Surface Pro 3, their were rumors that Microsoft was going to release <a href=\"http://www.theverge.com/2015/10/26/9616596/microsoft-confirms-surface-mini-tablet-panos-panay\">a Surface Mini</a> that had a seven inch screen. Reports are that Satya Nadella cancelled the release of the Surface Mini on the belief it would not sell.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:32 GMT"
+                            },
+                            {
+                                "text": "The Surface 3 may not literally be the Surface Mini, but for all practical purposes it is, and I think the 10.5 inch screen provides for more functionality than a seven inch screen would.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:33 GMT"
+                            },
+                            {
+                                "text": "Given that the Surface 3 is now a year old, speculation will be whether Microsoft will release a Surface 4 and if they do what changes it may make. I imagine a Surface 4 could have a faster CPU, more memory, more storage, be thinner and lighter, but frankly, while all these would we welcome improvements I don't find them necessary.",
+                                "created": "Sat, 07 May 2016 19:26:34 GMT"
+                            },
+                            {
+                                "text": "In my opinion, the single biggest thing Microsoft could do to increase sales, beyond more marketing, is to lower the price so that one could buy the Surface 3, keyboard, and pen for no more than the $499 price they charge just for the tablet. Competing products from HP and Dell have such all-in one pricing, and frankly, if it had existed at the time I bought the Surface 3, I likely would have bought <a href=\"http://store.hp.com/us/en/mdp/Laptops/spectre-x2-296008--1#!&amp;Tab=features\">the HP Spectre X2</a>.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:35 GMT"
+                            },
+                            {
+                                "text": "Bottom line, after a year of ownership, I am very happy with the <a href=\"https://www.microsoft.com/surface/en-us/products/surface-3\">Surface 3</a>  and it continues to be important part of my personal productivity toolkit. If you are looking for tablet to increase your productivity, I recommend you consider the 2-in-1s like the Surface 3.&nbsp;",
+                                "created": "Sat, 07 May 2016 19:26:36 GMT"
+                            },
+                            {
+                                "text": "[<a href=\"http://frank.frankmcpherson.net/disclosure.html\">Disclosure</a>] ",
+                                "created": "Sat, 07 May 2016 19:26:37 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/9/2016",
+                "created": "Mon, 09 May 2016 15:03:45 GMT",
+                "subs": [
+                    {
+                        "text": "1999.io Gets A Glossary",
+                        "created": "Mon, 09 May 2016 15:03:45 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Dave has finished adding <a href=\"http://my.1999.io/users/1999io/2016/05/09/0023.html\">the glossary function</a> to <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;just like it works in <a href=\"http://fargo.io/docs/whatIsFargo.html\">Fargo</a> . &nbsp;You need to reload <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;after you first enter the glossary URL in Settings as it looks like the glossary entries are loaded when <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;starts.&nbsp;",
+                                "created": "Mon, 09 May 2016 15:03:46 GMT"
+                            },
+                            {
+                                "text": "For Fargo users, I created a new glossary file in Fargo, copied the glossary items from the #glossary section of my cmsPrefs, promoted the entries to the top level and then saved the file. Next click File, Get Public Link, copy the link to the clipboard, go to <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;and past the URL in to the glossary field of the Misc settings.&nbsp;",
+                                "created": "Mon, 09 May 2016 15:03:47 GMT"
+                            },
+                            {
+                                "text": "The approach above allows me to use Fargo to directly edit and save my glossary file without having to transfer it to my server hosting my instance of 1999.io, but it does mean that Dropbox has to be up in order for the glossary file to load.",
+                                "created": "Mon, 09 May 2016 15:03:48 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 09 May 2016 20:35:28 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Testing, <a href=\"http://davewiner.com/\">Dave Winer</a>&nbsp; Testing <a href=\"http://fargo.io/docs/whatIsFargo.html\">Fargo</a> ",
+                                "created": "Mon, 09 May 2016 20:35:29 GMT"
+                            },
+                            {
+                                "text": "Once More <a href=\"http://fargo.io/docs/whatIsFargo.html\">Fargo</a> ",
+                                "created": "Mon, 09 May 2016 20:35:30 GMT"
+                            },
+                            {
+                                "text": "This is a test of the <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;broadcast network",
+                                "created": "Mon, 09 May 2016 20:35:31 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/10/2016",
+                "created": "Wed, 11 May 2016 02:03:22 GMT",
+                "subs": [
+                    {
+                        "text": "Viv Is Tech2Watch ",
+                        "created": "Wed, 11 May 2016 02:03:22 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I remember what Siri was before Apple bought it, which is why I am very interested in Viv. I think it will be interesting to see which platform it will first run on or whether a Big Co will buy it like Apple did Siri.&nbsp;",
+                                "created": "Wed, 11 May 2016 02:03:23 GMT"
+                            },
+                            {
+                                "text": "What if Viv was first released in a dedicated product like the Amazon Echo? I can't imagine the Echo was hard to manufacture, its secret sauce is the software.&nbsp;",
+                                "created": "Wed, 11 May 2016 02:03:24 GMT"
+                            },
+                            {
+                                "text": "BTW as I recall, Siri was much more functional before it was bought by Apple.&nbsp;",
+                                "created": "Wed, 11 May 2016 02:03:25 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 11 May 2016 02:38:59 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am surprised by how much writing I am doing in <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a> on my Nexus 9. So far I have written&nbsp;<a href=\"http://readwrite.club:1999/users/frankm/2016/05/07/0056.html\">this entire article</a>&nbsp;sitting on my couch using the small tablet and on-screen keyboard. The article is a work in progress and it has not been written in one sitting, but I like opening the article web page on the tablet, reading it, and tapping to edit the article and then updating to see the rendered page. I've done this over a few nights, adding a paragraph or two while watching a ball game.&nbsp;",
+                                "created": "Wed, 11 May 2016 02:39:00 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/12/2016",
+                "created": "Thu, 12 May 2016 16:39:19 GMT",
+                "subs": [
+                    {
+                        "text": "The Threat Is Real!",
+                        "created": "Thu, 12 May 2016 16:39:19 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I think <a href=\"http://www.theguardian.com/film/2016/may/12/george-clooney-donald-trump-jodie-foster-money-monster-cannes-2016\">statements about how Trump is going to lose</a> are dangerous. They just feed the beast. Too many people are supporting Trump simply to say \"f*ck you!\" Trump is a credible candidate because of this and we ought to be emphasizing that there is a real possibility that Trump will be elected president.&nbsp;",
+                                "created": "Thu, 12 May 2016 16:39:20 GMT"
+                            },
+                            {
+                                "text": "What scares me the most about the possibility of President Trump is that he will be Commander In Chief. I am fearful of his having the finger on atomic weapons and the U.S. military at his disposal. His statements relating to foreign policy disqualify him has a candidate that I can support, regardless of his party.&nbsp;",
+                                "created": "Thu, 12 May 2016 16:39:21 GMT"
+                            },
+                            {
+                                "text": "Anyone with a teenager or child in college ought to be concerned about the idea of President Trump taking our country into war. The most important way we can show support of U.S. troops is to do everything we can to make sure they aren't put in harms way in the first place, unless it is absolutely necessary.&nbsp;",
+                                "created": "Thu, 12 May 2016 16:39:22 GMT"
+                            },
+                            {
+                                "text": "Wouldn't it have been better if the Vietnam, Iraq, or Afghanistan wars had not been fought at all? The decision to fight each one of these wars was made by the President, and each decision resulted in the loss of too many young lives. To prevent these wars we have to hold the President accountable for starting them by supporting candidates that only will use the military when it is absolutely, positively necessary.",
+                                "created": "Thu, 12 May 2016 16:39:23 GMT"
+                            },
+                            {
+                                "text": "Our blind support for a president's decision to go to war is the most unpatriotic and most unsporting of our military (aka our sons and daughters) thing we can do.&nbsp;<span>So, ask yourself, do you really trust the lives of your sons or daughters to Donald Trump?&nbsp;</span>",
+                                "created": "Thu, 12 May 2016 16:39:24 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Thu, 12 May 2016 22:06:12 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Hello via the 1999 Mac App!&nbsp;",
+                                "created": "Thu, 12 May 2016 22:06:13 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/13/2016",
+                "created": "Fri, 13 May 2016 12:39:12 GMT",
+                "subs": [
+                    {
+                        "text": "The Web Is Dead, Long Live The Web!",
+                        "created": "Fri, 13 May 2016 12:39:12 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "First, <a href=\"http://www.ibtimes.co.uk/mark-zuckerberg-hypocrite-facebook-has-destroyed-open-web-1559298\">Hoder proclaims that Facebook has killed the open web</a>. He writes eloquently about how the blogosphere used to be, adding value to links just as I have done in this paragraph. I can't help, however, to note the irony of his article appearing on a web page loaded up with advertising and has audio automatically playing.&nbsp;",
+                                "created": "Fri, 13 May 2016 12:39:13 GMT"
+                            },
+                            {
+                                "text": "<span>Dave Winer rightly states that Hoder is wrong, </span><a href=\"http://scripting.com/2016/05/12/1256.html\">the web is not dead</a><span>.&nbsp;</span>",
+                                "created": "Fri, 13 May 2016 12:39:14 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://my.1999.io/users/jgphilpin/2016/05/12/0082.html\">John Philpin </a>quotes Robert Scoble, who says&nbsp;that the open web is killing the open web, citing issues around monetization that I mention above.",
+                                "created": "Fri, 13 May 2016 12:39:15 GMT"
+                            },
+                            {
+                                "text": "I would say that as long as any person can register a domain name and buy web hosting to publish their writing, the web will not be dead. Unfortunately, I think there may be deeper issues here centered around not seeing the value in the exchange of ideas. &nbsp;",
+                                "created": "Fri, 13 May 2016 12:39:16 GMT"
+                            },
+                            {
+                                "text": "Web sites designed for the purpose of monetization rather than conveying information is definitely killing the readability of the Internet. Greed drives many web sites to be absolutely hostile to readers.&nbsp;",
+                                "created": "Fri, 13 May 2016 12:39:17 GMT"
+                            },
+                            {
+                                "text": "My fear is that the arguments made against opening up the web to commercial use in the early 90s is proving to be correct. While we benefit much from the commercial web, it is driving a web of weeds that is choking the exchange of information.&nbsp;",
+                                "created": "Fri, 13 May 2016 12:39:18 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 13 May 2016 17:13:41 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Of course, there are many reasons for how the United States is how it is today, but in terms of our government I think the two main reasons are:",
+                                "created": "Fri, 13 May 2016 17:13:42 GMT"
+                            },
+                            {
+                                "text": "<ol><li><span>Confusing capitalism with Democracy</span></li><li><span>Confusing which branch of government has responsibility for what</span></li></ol>",
+                                "created": "Fri, 13 May 2016 17:13:43 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/15/2016",
+                "created": "Sun, 15 May 2016 16:52:21 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 15 May 2016 16:52:21 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "A big problem with politics in the United States is that 90% of the conversation is about what a portion of the constituency wants to hear and only 5% is about what politicians can and will do. For example, they all talk jobs but no President or Congressman can stop a company from offshoring work.&nbsp;",
+                                "created": "Sun, 15 May 2016 16:52:22 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/18/2016",
+                "created": "Wed, 18 May 2016 17:27:13 GMT",
+                "subs": [
+                    {
+                        "text": "Google Goes Home",
+                        "created": "Wed, 18 May 2016 17:27:13 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Google Home. Like the idea of being able to control Google Cast, looks like it will help the audiocast vision presented last year. I also like the physical design. However, I am not sure I like the idea of having to say \"Ok Google\" or \"Hey Google\" as the trigger as opposed to saying \"Alexa.\"&nbsp;",
+                                "created": "Wed, 18 May 2016 17:27:14 GMT"
+                            },
+                            {
+                                "text": "Given Amazon's lead, I think it is going to come down to price and the amount of integration with IoT devices.&nbsp;",
+                                "created": "Wed, 18 May 2016 17:27:15 GMT"
+                            },
+                            {
+                                "text": "IoT is key because without it, for many people a room-based voice assistance doesn't have a use case that is compelling for many people.&nbsp;",
+                                "created": "Wed, 18 May 2016 17:27:16 GMT"
+                            },
+                            {
+                                "text": "P.S. I wonder if the reason why the I/O event is on Google's campus has something to do with Google Home?",
+                                "created": "Wed, 18 May 2016 17:27:17 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Android N Beta",
+                        "created": "Wed, 18 May 2016 20:11:09 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Interesting... I just read that Google's <a href=\"https://www.google.com/android/beta\">beta program for Android N</a> will push an OTA version of the beta to a device. Roll back will involve a wipe. I think that I am going to try the beta on my Nexus 9. &nbsp;This is the first time that Google has made a beta for Android available in this way and it will be interesting to see what havoc it causes.&nbsp;",
+                                "created": "Wed, 18 May 2016 20:11:10 GMT"
+                            },
+                            {
+                                "text": "The fact that Google is doing a beta like this suggests to me that there hasn't been significant changes made underneath the covers that will causes apps to crash.&nbsp;",
+                                "created": "Wed, 18 May 2016 20:11:11 GMT"
+                            },
+                            {
+                                "text": "<span>Note to self: I clicked enroll @ 4:15 PM EST on May 18, 2016. We will see how quickly the N bits are pushed to the Nexus 9. (Uninstalled later.)&nbsp;</span>",
+                                "created": "Wed, 18 May 2016 20:11:12 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 18 May 2016 20:29:22 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Of the announcements I've read about and seen during the Google I/O 2016 live stream, I think Instant Apps is the most interesting and innovative. If done well, Instant Apps could change how we think about mobile apps. <a href=\"http://www.theverge.com/2016/5/18/11705918/google-instant-apps-android-hands-on-video\">The Verge agrees</a>.",
+                                "created": "Wed, 18 May 2016 20:29:23 GMT"
+                            },
+                            {
+                                "text": "The Android Developers Blog <a href=\"http://android-developers.blogspot.com/2016/05/android-instant-apps-evolving-apps.html\">introduces Android Instant Apps</a>.",
+                                "created": "Wed, 18 May 2016 20:29:24 GMT"
+                            },
+                            {
+                                "text": "Today, to run an app on a smartphone or tablet you need to go to an app store, like Google Play or the Apple App Store, find the app and install it.&nbsp;",
+                                "created": "Wed, 18 May 2016 20:29:25 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/20/2016",
+                "created": "Fri, 20 May 2016 18:30:20 GMT",
+                "subs": [
+                    {
+                        "text": "Do We Really Want A Modular Phone?",
+                        "created": "Fri, 20 May 2016 18:30:20 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I don't understand the trend towards modular phones, such as <a href=\"http://www.engadget.com/2016/02/21/lg-g5-modular-official/\">what LG recently announced</a> and <a href=\"http://www.theverge.com/2016/5/20/11721594/google-project-ara-teaser-video-modular-smartphones\">Google's Project Ara</a>. Who wants to carry around a bunch of little hardware bits to plug in and out of their phones?&nbsp;",
+                                "created": "Fri, 20 May 2016 18:30:21 GMT"
+                            },
+                            {
+                                "text": "More than a decade ago the Compaq iPaq had a similar system of sleeves to expand its capabilities. I could plug in any PC card with a sleeve that had a big additional battery, or a Compact Flash card with another sleeve. As much as I liked the flexibility these sleeves provided, they tended to multiple quickly.&nbsp;",
+                                "created": "Fri, 20 May 2016 18:30:22 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/21/2016",
+                "created": "Sat, 21 May 2016 22:28:26 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sat, 21 May 2016 22:28:26 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've installed the Android N beta on my Nexus 9, but I am seriously considering removing it. The main issue is that video apps like MLB At Bat and HBO Now do not work on it. I've also noticed some performance issues. It doesn't appear to have any features that make it worth tolerating the deficiencies.&nbsp;",
+                                "created": "Sat, 21 May 2016 22:28:27 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/22/2016",
+                "created": "Mon, 23 May 2016 00:59:30 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Mon, 23 May 2016 00:59:30 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I unenrolled my Nexus 9 from the Android N beta. The Marshmallow 6.0.1 version of Android was pushed and installed. Restore of all my apps just finished, so overall I would say it took four hours to revert the tablet back to the current release of Android. I will keep an eye on Android N and perhaps install it again in another month to see if it is better.&nbsp;",
+                                "created": "Mon, 23 May 2016 00:59:31 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/24/2016",
+                "created": "Wed, 25 May 2016 02:14:45 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 25 May 2016 02:14:45 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "JR Raphael <a href=\"http://www.computerworld.com/article/3073537/android/android-apps-on-chromebooks.html\">writes</a>&nbsp;a<span>bout the Google Play store coming to Chromebooks. I think the result will effectively be the desktop version of Android. Unfortunately I don't think the Chrome OS devices I own will be able to run the apps.&nbsp;</span>",
+                                "created": "Wed, 25 May 2016 02:14:46 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/26/2016",
+                "created": "Thu, 26 May 2016 21:49:17 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 26 May 2016 21:49:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://www.newyorker.com/news/daily-comment/the-dangerous-acceptance-of-donald-trump\">The Dangerous Acceptance of Donald Trump</a>: \"Many of us think that it would be terrible if the radical-revisionist reading of the Second Amendment created by the Heller decision eight years ago was kept in place in a constitutional court; many on the other side think it would be terrible if that other radical decision, Roe v. Wade, continued to be found to be compatible with the constitutional order. <b>What we all should agree on is that the one thing worse would be to have no constitutional order left to argue about</b>.\"",
+                                "created": "Thu, 26 May 2016 21:49:18 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "5/31/2016",
+                "created": "Tue, 31 May 2016 15:31:35 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Tue, 31 May 2016 15:31:35 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Monthly archives <a href=\"http://blog.1999.io/2016/05/30/0027.html\">has been added to 1999.io</a>. Let's see how well that works. It worked. You cannot live edit in the monthly archive page. Now to see whether the copy as been made to my Amazon account. Confirmed, <a href=\"http://readwrite.club:1999/users/frankm/2016/05/\">it does</a>. &nbsp;Now to add a menu item. Made another tweak. Let's see if it works!",
+                                "created": "Tue, 31 May 2016 15:31:36 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Mon, 27 Dec 2021 20:29:17 GMT</dateModified>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<dateCreated>Mon, 27 Dec 2021 20:28:15 GMT</dateCreated>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>2,3</expansionState>
+		<lastCursor>2</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2018-01.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2018-01.json</urlJson>
+		<flPublic>true</flPublic>
+		</head>
+	<body>
+		<outline text="This file contains a blog post I wrote using 1999.io in January, 2018" created="Mon, 27 Dec 2021 20:28:51 GMT" isComment="true"/>
+		<outline text="1/6/2018" created="Sat, 06 Jan 2018 21:27:24 GMT">
+			<outline text="The Tax Cut Is Another Misdirection" created="Sat, 06 Jan 2018 21:27:24 GMT" type="outline">
+				<outline text="It's hard to argue against tax cuts, if we are honest nobody really likes the idea of money they earn being taken out of their paycheck. Consequently, it's not surprising that the Republican's tax reform is well received, but I fear it is mostly putting lipstick on a pig.&amp;nbsp;" created="Sat, 06 Jan 2018 21:27:25 GMT"/>
+				<outline text="Paying taxes is made more painful when one's wages are stagnant. Republicans like to &lt;a href=&quot;https://www.thebalance.com/trickle-down-economics-theory-effect-does-it-work-3305572&quot;&gt;claim tax cuts provide incentives to corporations to hire more people or increase wages&lt;/a&gt;, but reality does not bear this out. (Oh, and by the way, the job market is much different now than in the 1980s. Back then it was somewhat reasonable to think that for companies to sell more they need to hire more employees, but in today's digital economy fewer companies need to hire more employees to sell more product because they just increase their orders from Chinese suppliers.)" created="Sat, 06 Jan 2018 21:27:26 GMT"/>
+				<outline text="&lt;a href=&quot;http://fortune.com/2018/01/05/donald-trump-dow-stock-market/&quot;&gt;Republicans will point to the stock market&lt;/a&gt; as the measurement of how their policies are working. The problem is, at best the stock market measures profits, while in reality it is just a measurement of how people &quot;feel&quot; about a particular company. Most important, the stock market is not a measurement of how many new jobs a company offers, in fact it is just the opposite, with &lt;a href=&quot;http://buzz.money.cnn.com/2013/10/01/layoffs-stocks/&quot;&gt;stock prices increasing when companies announce job cuts&lt;/a&gt;." created="Sat, 06 Jan 2018 21:27:27 GMT"/>
+				<outline text="My point in all of this is that tax reform is a misdirection from our real problems. One such problem, as &lt;a href=&quot;https://www.politico.com/magazine/story/2018/01/04/future-work-independent-contractors-alternative-work-arrangements-216212?utm_source=pocket&amp;amp;utm_medium=email&amp;amp;utm_campaign=pockethits&quot;&gt;this Politico Magazine article&lt;/a&gt; describes, is that our entire social safety net (health care and retirement) is based on full time employment that is increasingly non-existent.&amp;nbsp;" created="Sat, 06 Jan 2018 21:27:28 GMT"/>
+				<outline text="Worse, the root of the problem is &lt;a href=&quot;http://www.cnn.com/2017/11/07/health/health-care-spending-study/index.html&quot;&gt;the high cost of health care&lt;/a&gt; that nobody talks about. Does anyone wonder why nobody questions the $6500 charge for a 10 minute CT Scan, for example?&amp;nbsp;" created="Sat, 06 Jan 2018 21:27:29 GMT"/>
+				<outline text="So, at some point in the next year &lt;a href=&quot;https://www.npr.org/2017/12/19/571754894/charts-see-how-much-of-gop-tax-cuts-will-go-to-the-middle-class&quot;&gt;you might get about $30 more in your paycheck&lt;/a&gt; thanks to the tax cut, but that is likely much less than how much more you will pay this coming year for health insurance. You will not get a raise and your job will remain at risk of being eliminated. Sure, nobody will force you to buy health insurance, so you will be less irritated about that until that day when you double over in pain, end up in ER, and get a cancer diagnosis.&amp;nbsp;&amp;nbsp;" created="Sat, 06 Jan 2018 21:27:30 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

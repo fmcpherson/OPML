@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Thu, 23 Dec 2021 19:44:22 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>2,3,14,15,21,23,25,26,32,33,44,45,49,50,52,53,55,62,63,65,66,71,78,79</expansionState>
+		<lastCursor>3</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2016-10.opml</urlPublic>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<dateCreated>Thu, 23 Dec 2021 19:42:56 GMT</dateCreated>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2016-10.json</urlJson>
+		<flPublic>true</flPublic>
+		</head>
+	<body>
+		<outline text="This file contains blog posts that I wrote using 1999.io in October, 2016" created="Thu, 23 Dec 2021 19:43:27 GMT" isComment="true"/>
+		<outline text="10/4/2016" created="Tue, 04 Oct 2016 17:13:20 GMT">
+			<outline text="Google Pixel Event" created="Tue, 04 Oct 2016 17:13:20 GMT" type="outline">
+				<outline text="My summary of the event, meh!" created="Tue, 04 Oct 2016 17:13:21 GMT"/>
+				<outline text="&lt;a href=&quot;https://store.google.com/product/pixel_phone&quot;&gt;The Pixel phone&lt;/a&gt; looks good, but so far I haven't seen anything that makes me want to dump my Nexus 6P. I wonder whether Google Assistant will replace Google Now on existing Android phones? &lt;a href=&quot;http://www.theverge.com/a/google-pixel-phone-new-hardware-interview-2016&quot;&gt;The Verge says&lt;/a&gt; it is not replacing Google Now on Nexus any time soon. I guess Google is starting to act like typical hardware companies that hold back features to push one to upgrade.&amp;nbsp;" created="Tue, 04 Oct 2016 17:13:22 GMT"/>
+				<outline text="For me the biggest issue with the Pixel phones is the price, $649 as the starting price of the 5-inch model and there is a $120 price increase for the 5.5-inch model, for a $769 total. This is much higher than the Nexus market has been paying. Is Google Assistant worth the price premium? Is the camera really good enough to justify the higher price? Pre-order now, ships October 20.&amp;nbsp;" created="Tue, 04 Oct 2016 17:13:23 GMT"/>
+				<outline text="Google is still working on WiFi routers. The new hotness in WiFi is multiple access points to improve coverage in a home, which is an approach that has existed forever in enterprise implementations. As I see it, the biggest selling point of the &lt;a href=&quot;https://store.google.com/product/google_wifi&quot;&gt;Google's new router &lt;/a&gt;is the lower price to implement multiple access points." created="Tue, 04 Oct 2016 17:13:24 GMT"/>
+				<outline text="&lt;a href=&quot;https://store.google.com/product/google_home&quot;&gt;Google Home&lt;/a&gt; looks cool, but I already own an Amazon Echo and have a Dot ordered, so I am not sure I am willing to switch from that investment. I do like Google Home's integration with Chromecast. Design for multiple devices. $129 price is good, pre-order today, shipping on November 4.&amp;nbsp;" created="Tue, 04 Oct 2016 17:13:25 GMT"/>
+				<outline text="What would be really, really cool is if Echo could control Chromecast. Here in lies the single biggest problem with IoT, it is all about lock in. I have three different IoT hubs (Hue Bridge, SmartThings, and Logitech Harmony) while there should be one &quot;generic&quot; hub that can control multiple brands of devices." created="Tue, 04 Oct 2016 17:13:26 GMT"/>
+				<outline text="(BTW, I thought Google changed the branding of Chromecast to Google Cast, what happened?)" created="Tue, 04 Oct 2016 17:13:27 GMT"/>
+				<outline text="I fear Google Home may be too late. People who have bought in to smart homes have likely already invested in Echo, and the size of the &quot;intelligent assistant appliance&quot; market is a big unknown. A great number of people are not comfortable with an always on, always listening device in their home.&amp;nbsp;" created="Tue, 04 Oct 2016 17:13:28 GMT"/>
+				<outline text="Of the hardware devices Google announced, the one with the most appeal is the &lt;a href=&quot;https://store.google.com/product/chromecast_ultra&quot;&gt;Chromecast Ultra&lt;/a&gt;. But here too, there is the problem that I already have a Chromecast on all the TVs and a monitor in my house. The second generation Chromecast works just fine on my 4K Samsung TV, and I have yet to encounter 4K content that compells me to switch out for the Ultra.&amp;nbsp;" created="Tue, 04 Oct 2016 17:13:29 GMT"/>
+				<outline text="The rumors were wrong about tablets, Google did not announce a new tablet to replace the Nexus 7 that was so popular. We also didn't hear anything about a new operating system from Google.&amp;nbsp;" created="Tue, 04 Oct 2016 17:13:30 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/5/2016" created="Wed, 05 Oct 2016 19:08:20 GMT">
+			<outline text="A Step Forward For Google, Two Steps Backward For Us" created="Wed, 05 Oct 2016 19:08:20 GMT" type="outline">
+				<outline text="Still mulling over &lt;a href=&quot;https://youtu.be/q4y0KOeXViI&quot;&gt;the Pixel event&lt;/a&gt;. In my mind the biggest news isn't about the products, it's about the change in pricing and the software." created="Wed, 05 Oct 2016 19:08:21 GMT"/>
+				<outline text="I have a problem with the idea of spending more than $500 for a smartphone, and I think the world is better when there are more affordable products than luxury products.&amp;nbsp;" created="Wed, 05 Oct 2016 19:08:22 GMT"/>
+				<outline text="My hope was that Google would be able to influence the market towards lower priced, high quality devices, and for me that was what Nexus was about. From my point of view, Google has caved in, given up on lower prices, and aligned itself with Apple and Samsung. I don't see how this is good for users.&amp;nbsp;" created="Wed, 05 Oct 2016 19:08:23 GMT"/>
+				<outline text="What really troubles me is the idea that by this Google has really put a price premium on being able to buy and maintain the latest version of Android in a smartphone. Motorola, One Plus, and Huawei all sell affordable Android phones, but there is a risk that when you buy one you may wait longer to get updates to Android or even not get updates at all." created="Wed, 05 Oct 2016 19:08:24 GMT"/>
+				<outline text="I get that this is what Apple has done all along, but &lt;a href=&quot;https://madeby.google.com/&quot;&gt;if Google just does the same thing as Apple&lt;/a&gt;, how is that really helping all of us?&amp;nbsp;" created="Wed, 05 Oct 2016 19:08:25 GMT"/>
+				</outline>
+			<outline text="" created="Wed, 05 Oct 2016 19:25:54 GMT" type="outline">
+				<outline text="A few days ago &lt;a href=&quot;http://writing.frankmcpherson.org/2016/09/26/recyclingAnOldComputer.html&quot;&gt;I wrote about recycling an old HP Pavilion desktop&lt;/a&gt; computer. I had installed Mint and found that while it works, it is a little sluggish. With some rebate points I had, I was able to purchase 4 GB of memory to add to the Pavilion for just under $4. The full price, with shipping was just under $40.&amp;nbsp;" created="Wed, 05 Oct 2016 19:25:55 GMT"/>
+				</outline>
+			<outline text="" created="Wed, 05 Oct 2016 19:28:05 GMT" type="outline">
+				<outline text="Every now and then my Surface 3 just reboots.&amp;nbsp;" created="Wed, 05 Oct 2016 19:28:06 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/7/2016" created="Fri, 07 Oct 2016 16:48:59 GMT">
+			<outline text="I Think You Missed The Point" created="Fri, 07 Oct 2016 16:48:59 GMT" type="outline">
+				<outline text="If you think the Google's Pixel event on Tuesday was about Android, I think you missed the point. I think Tuesday was about the beginning of the end of google.com.&amp;nbsp;" created="Fri, 07 Oct 2016 16:49:00 GMT"/>
+				<outline text="If you think about it, the idea of opening a web page and typing a request or question in a little box to get information is very unnatural, if not down right stupid.&amp;nbsp;" created="Fri, 07 Oct 2016 16:49:01 GMT"/>
+				<outline text="The message I got is that in the future, you won't use &lt;a href=&quot;http://google.com&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://google.com&quot;&gt;google.com&lt;/span&gt;&lt;/a&gt;&amp;nbsp;for information, instead you will simply ask the &lt;a href=&quot;https://assistant.google.com/&quot;&gt;Google Assistant&lt;/a&gt; for that information." created="Fri, 07 Oct 2016 16:49:02 GMT"/>
+				<outline text="If you are looking for the model for what Google is shooting for, it is the computer on Star Trek. You push a button, you ask Google a question or ask Google to do something, and it understands you and fills the request." created="Fri, 07 Oct 2016 16:49:03 GMT"/>
+				<outline text="Tuesday was really all about the Assistant, and if it succeeds as Google dreams it will, then October 4, 2016 will indeed a historical date." created="Fri, 07 Oct 2016 16:49:04 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/8/2016" created="Sat, 08 Oct 2016 20:29:16 GMT">
+			<outline text="Hosting 1999 On A Raspberry PI" created="Sat, 08 Oct 2016 20:29:16 GMT" type="outline">
+				<outline text="One of the cool things about server apps written in node.js is that they are relatively simple to implement and they have relatively low hardware requirements. To build a site all you really need is a computer running node.js that has a network connection. It is fairly simple to set up a site with a computer running Linux." created="Sat, 08 Oct 2016 20:29:17 GMT"/>
+				<outline text="While I am hosting this site on a server hosted by &lt;a href=&quot;http://www.cloudatcost.com/&quot;&gt;CloudAtCost&lt;/a&gt; running Ubuntu, I also have a test site running on &lt;a href=&quot;https://www.raspberrypi.org/products/raspberry-pi-3-model-b/&quot;&gt;a Raspberry Pi3&lt;/a&gt; connected to my home network. While I can only access the test site from computers on my home network, it does provide a way to test new things without messing up this site." created="Sat, 08 Oct 2016 20:29:18 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.amazon.com/CanaKit-Raspberry-Clear-Power-Supply/dp/B01C6EQNNK/ref=sr_1_4?s=pc&amp;amp;ie=UTF8&amp;amp;qid=1475959831&amp;amp;sr=1-4&amp;amp;keywords=raspberry+pi+3&quot;&gt;Raspberry Pi is an affordable, small computer&lt;/a&gt;. Node.js is included in the default Raspberian operating system, as is git. If you follow the instructions for installing nodestorage, you will need to install npm and forever.&amp;nbsp;" created="Sat, 08 Oct 2016 20:29:19 GMT"/>
+				<outline text="My Raspberry Pi3 server is not going to blow the performance doors off, but I am running &lt;a href=&quot;https://github.com/scripting/river5&quot;&gt;River5&lt;/a&gt; and &lt;a href=&quot;https://github.com/scripting/nodeStorage&quot;&gt;nodestorage&lt;/a&gt; on it, with no noise and low power consumption. I am also running Docker. &amp;nbsp;" created="Sat, 08 Oct 2016 20:29:20 GMT"/>
+				<outline text="The Raspberry Pi was created for teaching computer science in elementary and high schools, and makers use it for a wide range of projects. I recommend you spend some time browsing &lt;a href=&quot;https://www.raspberrypi.org/blog/archive/&quot;&gt;the Raspberry Pi blog archive&lt;/a&gt; to get an idea of what one can do with the device." created="Sat, 08 Oct 2016 20:29:21 GMT"/>
+				<outline text="&lt;span&gt;In regards to setting up a 1999 test Twitter app, if you are running &lt;/span&gt;&lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&amp;nbsp;on a computer running on a home network, you can use the address that your home network assigns to that computer for the website and callback URLs.&amp;nbsp;&lt;/span&gt;" created="Sat, 08 Oct 2016 20:29:22 GMT"/>
+				<outline text="For example, if you have a Raspberry Pi that has an IP address of 192.168.1.100 provide 192.168.1.100:1999 as the web site and callback URLs in order to generate the twitterConsumerKey and twitterConsumerSecret values that are needed in the site's config.json.&amp;nbsp;" created="Sat, 08 Oct 2016 20:29:23 GMT"/>
+				<outline text="If you set up a Raspberry Pi as a server on your home network you may want to configure DHCP on your home network so that the same IP address is assigned to it every time the computer is booted. Most home network access points or routers that provide IP addresses provide a way to reserve addresses to specific MAC addresses. Look for the instructions for IP address assignment in your router's help.&amp;nbsp;" created="Sat, 08 Oct 2016 20:29:24 GMT"/>
+				<outline text="Alternately, you can manually assign an IP address outside the range of addresses that DHCP provides, and I assume if you know this you have probably already done so and ignored the previous paragraph." created="Sat, 08 Oct 2016 20:29:25 GMT"/>
+				<outline text="I have to admit, I wasn't sure whether using a private IP address would work for a Twitter app, but has been working for me.&amp;nbsp;" created="Sat, 08 Oct 2016 20:29:26 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/10/2016" created="Mon, 10 Oct 2016 15:25:20 GMT">
+			<outline text="" created="Mon, 10 Oct 2016 15:25:20 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://www.msn.com/en-us/news/politics/after-distancing-himself-from-trump-pence-goes-back-to-defending-him/ar-BBxferb?li=AA5a8k&amp;amp;ocid=spartandhp&quot;&gt;Pence says&lt;/a&gt; that he never considered dropping off the Republican Presidential ticket. I think the appropriate questions are, why not? What is the line that Trump cannot cross?&amp;nbsp;" created="Mon, 10 Oct 2016 15:25:21 GMT"/>
+				<outline text="All my life the Republican party and it's religious right cohort have been &lt;a href=&quot;http://www.ontheissues.org/Governor/Mike_Pence_Principles_+_Values.htm&quot;&gt;the values&lt;/a&gt; and morality police. Even last night Trump mostly tried to make the claim that Hillary Clinton's values disqualify her to be President. What I am waiting to see is Republicans holding themselves, and particularly their Presidential nominee, to those same values. &amp;nbsp;" created="Mon, 10 Oct 2016 15:25:22 GMT"/>
+				<outline text="Oh, and I am pretty sure saint Reagan would not associate himself with the behavior that Trump displays.&amp;nbsp;" created="Mon, 10 Oct 2016 15:25:23 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/18/2016" created="Tue, 18 Oct 2016 20:59:38 GMT">
+			<outline text="" created="Tue, 18 Oct 2016 20:59:38 GMT" type="outline">
+				<outline text="Looks like all the tech blogs have been reviewing the Google Pixel during the last week, and most of the reviews have been published over the last couple of days. The range of opinions has been much wider than normal. For example, &lt;a href=&quot;http://arstechnica.com/gadgets/2016/10/google-pixel-review-bland-pricey-but-still-best-android-phone/&quot;&gt;Ars Technica&lt;/a&gt; is much less optimistic than &lt;a href=&quot;http://www.theverge.com/2016/10/18/13304090/google-pixel-phone-review-pixel-xl&quot;&gt;The Verge&lt;/a&gt;. &lt;a href=&quot;https://www.wired.com/2016/10/review-google-pixel/?mbid=nl_101816_p3&amp;amp;CNDID=24304678&quot;&gt;Wired calls it&lt;/a&gt; the best phone on the planet.&amp;nbsp;" created="Tue, 18 Oct 2016 20:59:39 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/19/2016" created="Wed, 19 Oct 2016 19:14:59 GMT">
+			<outline text="" created="Wed, 19 Oct 2016 19:14:59 GMT" type="outline">
+				<outline text="Over the years I have used a variety of apps to change the wallpaper on my phone daily. Most recently I've been using &lt;a href=&quot;https://ifttt.com/recipes/165157-automatically-update-your-android-wallpaper-to-nasa-s-image-of-the-day&quot;&gt;a IF recipe&lt;/a&gt; to change it to the NASA picture of the day. Now I've installed &lt;a href=&quot;http://www.slashgear.com/googles-new-app-might-be-its-best-ever-so-to-speak-19460657/&quot;&gt;Google's Wallpaper app&lt;/a&gt;.&amp;nbsp;" created="Wed, 19 Oct 2016 19:15:00 GMT"/>
+				</outline>
+			<outline text="Email Is Dead, Long Live Email" created="Wed, 19 Oct 2016 19:37:26 GMT" type="outline">
+				<outline text="In &lt;a href=&quot;http://www.nytimes.com/2016/10/20/technology/whoever-wins-the-white-house-this-years-big-loser-is-email.html?partner=IFTTT&amp;amp;_r=1&quot;&gt;a recent article for the New York Times&lt;/a&gt;, Farhad Manjoo makes a good point about email, it's broken. Yet, email is the most commonly used and therefore most important communication tool because it is not app-specific. One can use a number of different apps to access email, and more importantly, the person with whom you exchange email does not need to use the same app as you, and this is a fundamental difference between all the other services except for SMS text messaging.&amp;nbsp;" created="Wed, 19 Oct 2016 19:37:27 GMT"/>
+				<outline text="In most cases to use Slack, WhatsApp, Skype, or Facebook Messenger, all parties involved in the communication have to use those same apps and that is a big hurdle. It is why Facebook is firmly entrenched, enough of your friends are there to keep you using it despite how much you hate it." created="Wed, 19 Oct 2016 19:37:28 GMT"/>
+				<outline text="In other words, for something to replace email it has to be a server-based solution open for access to a wide range of different apps to increase the probability a person's app of choice works. Unfortunately, technology is much more siloed today than ever before and consequently email will remain one of the sole common denominators. (If Apple were serious about iMessage, it would have gone ahead and made it open to work with other apps on other platforms, or at least created an Android version of iMessage. Instead, Apple treats iMessage as a carrot to lure more people to iOS, which means iMessage has no chance of replacing email.)&amp;nbsp;" created="Wed, 19 Oct 2016 19:37:29 GMT"/>
+				<outline text="Thus, we are left with email and therefore any hope for improving email lies in alternative email apps rather than replacing email &quot;the service.&quot; We are starting to see apps adding AI and other features that hopefully make it easier to quickly review and process email. &amp;nbsp;" created="Wed, 19 Oct 2016 19:37:30 GMT"/>
+				<outline text="I find myself to be in the minority in liking &lt;a href=&quot;https://www.google.com/inbox/&quot;&gt;Google's Inbox app&lt;/a&gt;, most people stick with the &quot;standard&quot; Gmail. I like how Inbox bundles emails and provides a quick way for me to scan and archive them as a bundle rather than individually, which enables me to process email faster. Google also recently added a suggested replies feature that speeds up sending replies to messages." created="Wed, 19 Oct 2016 19:37:31 GMT"/>
+				<outline text="Other companies continue to work on creating a better email app.&amp;nbsp;&lt;a href=&quot;https://notion.ai/&quot;&gt;Notion&lt;/a&gt; is a new one that I just learned about, and it is the first email app that I have seen that claims to add AI. I am going to try it out to see how well it works and whether it works better than Inbox.&amp;nbsp;" created="Wed, 19 Oct 2016 19:37:32 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/20/2016" created="Thu, 20 Oct 2016 18:16:44 GMT">
+			<outline text="" created="Thu, 20 Oct 2016 18:16:44 GMT" type="outline">
+				<outline text="I've been running &lt;a href=&quot;https://notion.ai/&quot;&gt;Notion &lt;/a&gt;for about a day, and I am beginning to think there may be some performance issues with it being on my Nexus 6P. The phone doesn't seem as responsive as normal, and installing Notion is the only difference. I will continue to try it, but it may be ditched if I continue to see problems.&amp;nbsp;" created="Thu, 20 Oct 2016 18:16:45 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/21/2016" created="Fri, 21 Oct 2016 17:30:17 GMT">
+			<outline text="Important Note About Fargo Encryption" created="Fri, 21 Oct 2016 17:30:17 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html&quot;&gt;In August Dave wrote&lt;/a&gt; that he learned Dropbox is turning off the API Fargo uses and therefore Fargo will stop working in June 2017.&amp;nbsp;" created="Fri, 21 Oct 2016 17:30:18 GMT"/>
+				<outline text="If you use Fargo and encrypt outlines, you need to be sure to decrypt them before Fargo stops working otherwise you will likely not be able to access the information in the outline.&amp;nbsp;" created="Fri, 21 Oct 2016 17:30:19 GMT"/>
+				<outline text="In a response to a post I made to the Fargo users group, I got a link to the &lt;a href=&quot;http://bitwiseshiftleft.github.io/sjcl/&quot;&gt;Stanford Javascript Crypto Library page&lt;/a&gt;, which includes information about the crypto library used in Fargo. It may be possible to utilize this to decrypt files.&amp;nbsp;" created="Fri, 21 Oct 2016 17:30:20 GMT"/>
+				<outline text="I would add to &lt;a href=&quot;http://writing.frankmcpherson.org/2016/08/24/sadToLearnOfFargosDemise.html&quot;&gt;my feature requests&lt;/a&gt; to Little Outliner the ability to encrypt outlines like is available in Fargo." created="Fri, 21 Oct 2016 17:30:21 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 21 Oct 2016 17:39:55 GMT" type="outline">
+				<outline text="I removed Notion from my Nexus 6P yesterday. As I wrote yesterday, I started to see performance issues with the Nexus 6P shortly after installing Notion.&amp;nbsp;" created="Fri, 21 Oct 2016 17:39:56 GMT"/>
+				<outline text="As I was using my Nexus 6P it would randomly, suddenly, stop responding, as if the processor is 100% utilized in the background.&amp;nbsp;" created="Fri, 21 Oct 2016 17:39:57 GMT"/>
+				<outline text="I am not 100% sure the problem was caused by Notion, but it started happening right shortly after installing it. After uninstalling the problem did not go away, so I two additional steps.&amp;nbsp;" created="Fri, 21 Oct 2016 17:39:58 GMT"/>
+				<outline text="First, I uninstalled the Google Wallpaper app, which I had installed just prior to Notion. Next, I erased the cache partition on the phone.&amp;nbsp;" created="Fri, 21 Oct 2016 17:39:59 GMT"/>
+				<outline text="Performance seems to have improved, it may be the cache partition was the issue, although when you remove the cache partition that also removes all home screen widgets and I have not replaced all of them, so there may have been an issue with the widgets.&amp;nbsp;" created="Fri, 21 Oct 2016 17:40:00 GMT"/>
+				<outline text="So, I will continue to monitor, fearing that a full factory reset might be in the future.&amp;nbsp;" created="Fri, 21 Oct 2016 17:40:01 GMT"/>
+				</outline>
+			</outline>
+		<outline text="10/29/2016" created="Sat, 29 Oct 2016 21:25:45 GMT">
+			<outline text="Autumn Restores Fading Memories" created="Sat, 29 Oct 2016 21:25:45 GMT" type="outline">
+				<outline text="Si Quaeris Peninsulam Amoenam Circumspice, if you seek a pleasant peninsula, look about you, is the motto of the state of Michigan. At no time of the year is that motto more true than in autumn." created="Sat, 29 Oct 2016 21:25:46 GMT"/>
+				<outline text="As a life long resident of Michigan, I have grown to appreciate the changing weather for which the state is known. I love sunshine and warmth as much as anyone, but continued days of the same blue sky, sun, and heat does not seem right to my Michigan-trained senses." created="Sat, 29 Oct 2016 21:25:47 GMT"/>
+				<outline text="Of the four seasons, autumn is the one that I most equate to my home town and the Upper Peninsula. I know that for some, autumn brings with it depression both real and imagined as it preludes winter, but for me the changing colors of leaves, the crisp, cool air, and the smells transport me back to a younger, less complicated time in my life." created="Sat, 29 Oct 2016 21:25:48 GMT"/>
+				<outline text="Excitement for a new school year and seeing friends again, football, marching band practices, bomb fires, camp fires, walks through the woods, leaf piles, and jumping into leaf piles. " created="Sat, 29 Oct 2016 21:25:49 GMT"/>
+				<outline text="As the temperatures creep slowly towards freezing, the fall leaves stiffen and walking through them produces a distinct crunch. While spring has its delightful fragrances and beauty, autumn engages all the senses, sight, sound, smell, and with hot apple cider and donuts, yes, even taste. " created="Sat, 29 Oct 2016 21:25:50 GMT"/>
+				<outline text="The smell is what to me sets autumn apart from all other times of the year. It's as if as each amber and red leaf tumbles towards the ground, its fragrance is released into the air. " created="Sat, 29 Oct 2016 21:25:51 GMT"/>
+				<outline text="Are you struggling to remember long past and perhaps happier times? If you are fortunate enough like me to have grown up in and currently in the U.P. or anywhere else that has the signs of fall, go outside right now, close your eyes and inhale deeply. Listen to the sounds around and let the winds bring back the smile to your face." created="Sat, 29 Oct 2016 21:25:52 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

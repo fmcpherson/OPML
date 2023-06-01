@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Mon, 27 Dec 2021 20:10:40 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>2,3,5,6,8,9,12,13,16,17,24,25,27,28,37,38,42,43,46,47,51,52,57,58</expansionState>
+		<lastCursor>10</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2017-09.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2017-09.json</urlJson>
+		<flPublic>true</flPublic>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateCreated>Mon, 27 Dec 2021 19:56:56 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="This file contains blog posts that I wrote using 1999.io in September, 2017" created="Mon, 27 Dec 2021 19:57:20 GMT" isComment="true"/>
+		<outline text="9/1/2017" created="Fri, 01 Sep 2017 15:34:02 GMT">
+			<outline text="" created="Fri, 01 Sep 2017 15:34:02 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://www.washingtonpost.com/opinions/john-mccain-its-time-congress-returns-to-regular-order/2017/08/31/f62a3e0c-8cfb-11e7-8df5-c2e5cf46c1e2_story.html?utm_term=.fff5b4577ed7&quot;&gt;John McCain&lt;/a&gt;:&lt;blockquote&gt;We seem convinced that majorities exist to impose their will with few concessions and that minorities exist to prevent the party in power from doing anything important.&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote&gt;That’s not how we were meant to govern. Our entire system of government — with its checks and balances, its bicameral Congress, its protections of the rights of the minority — was designed for compromise. It seldom works smoothly or speedily. It was never expected to.&lt;/blockquote&gt;" created="Fri, 01 Sep 2017 15:34:03 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/11/2017" created="Mon, 11 Sep 2017 15:20:07 GMT">
+			<outline text="September 11, 2017" created="Mon, 11 Sep 2017 15:20:07 GMT" type="outline">
+				<outline text="Starting to think about my next smartphone. I am not too excited by the high prices of the flagship phones. As much as I would prefer a Pixel, I don't know if I can pull the trigger on &amp;gt;$700 on a phone. I wish Google would come out with a mid-tier priced phone. Perhaps they will lower the price on the original Pixel and keep it with the Pixel 2 for a while?&amp;nbsp;" created="Mon, 11 Sep 2017 15:20:08 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/12/2017" created="Tue, 12 Sep 2017 14:24:15 GMT">
+			<outline text="September 12, 2017" created="Tue, 12 Sep 2017 14:24:15 GMT" type="outline">
+				<outline text="Many people think Americans pay more taxes than other countries, which is not true. &lt;a href=&quot;https://www.bloomberg.com/news/features/2017-09-12/why-american-workers-pay-twice-as-much-in-taxes-as-wealthy-investors&quot;&gt;Many Americans pay more taxes than other Americans&lt;/a&gt;, and it's not the richest Americans who pay the most. Should everyone pay the same percentage of their income, or should the richest Americans pay a higher percentage of their income? First we need to get to a common definition of income!" created="Tue, 12 Sep 2017 14:24:16 GMT"/>
+				<outline text="I watched parts of the Apple Event. The iPhone X looks nice, but is awfully expensive. Oh, and the final version iOS 11 was pushed to my iPad Pro.&amp;nbsp;" created="Tue, 12 Sep 2017 14:24:17 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/13/2017" created="Wed, 13 Sep 2017 17:24:10 GMT">
+			<outline text="September 13, 2017" created="Wed, 13 Sep 2017 17:24:10 GMT" type="outline">
+				<outline text="It seems to me that with &lt;a href=&quot;https://www.apple.com/shop/buy-iphone/iphone-x&quot;&gt;higher priced smartphones&lt;/a&gt;, we will end up back to a situation similar to when we got phones for &quot;free&quot; with a phone carrier contract. People will end up paying a monthly fee for the phone, and with yearly releases you likely will just keep paying that fee nearly forever." created="Wed, 13 Sep 2017 17:24:11 GMT"/>
+				<outline text="I understand &lt;a href=&quot;https://techcrunch.com/2017/09/13/the-iphone-x-reveals-why-tim-cook-was-so-mad-about-palm/&quot;&gt;the comparison&lt;/a&gt; between the UI changes Apple is bringing with the iPhone X and WebOS, the gestures are pretty much the same. &lt;a href=&quot;https://realpersonalcomputing.com/2012/03/12/installing-android-on-a-hp-touchpad/&quot;&gt;Having it used it on a tablet&lt;/a&gt;, I think WebOS is the best tablet UI that I have ever experienced." created="Wed, 13 Sep 2017 17:24:12 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/14/2017" created="Thu, 14 Sep 2017 16:35:02 GMT">
+			<outline text="September 14, 2017" created="Thu, 14 Sep 2017 16:35:02 GMT" type="outline">
+				<outline text="I wonder whether &lt;a href=&quot;http://lifehacker.com/the-iphone-has-wireless-charging-now-what-1807826997&quot;&gt;Apple's support for Qi wireless charging&lt;/a&gt; will mean that wireless charging will now be more broadly available?" created="Thu, 14 Sep 2017 16:35:03 GMT"/>
+				<outline text="Something has changed that is allowing my Nexus 6P to go to deep sleep more than prior. I did remove some apps and that might have been the difference. Last night my phone was in deep sleep for 84% of the screen off time, or a total of 7 hours and 2 minutes. In comparison, on August 26 my phone was only in deep sleep for 28% of the screen off time. The 84% is much more in line to what I am expecting.&amp;nbsp;" created="Thu, 14 Sep 2017 16:35:04 GMT"/>
+				<outline text="I keep watching &lt;a href=&quot;https://support.google.com/youtubetv/answer/7370552&quot;&gt;the streaming TV services&lt;/a&gt; for one thing, the ability to watch out of market NFL games. Every other professional sports league provides a reasonable way for one to watch out of market games except for the NFL, which is still tied to the DirectTV albatross. I honestly don't know why the NFL isn't pushing to provide an app to stream live, out of market games. Heck, you can charge me a subscription AND make me watch commercials.&amp;nbsp;" created="Thu, 14 Sep 2017 16:35:05 GMT"/>
+				<outline text="Regarding &lt;a href=&quot;https://www.apple.com/apple-watch-series-1/&quot;&gt;Apple Watch&lt;/a&gt;, they all look the same to me and I don't really like how they look. Diversity ought to be an advantage for Android Wear. I like the lower price of the Series 1 watch, but does it work with Android?" created="Thu, 14 Sep 2017 16:35:06 GMT"/>
+				<outline text="A consequence of my using the folio case on my Nexus 6P is that I never see the ambient notifications. Today for some reason I left the phone with the cover folded back on my desk and I am noticing the notifications as if for the first time. I like the folio case, but I am clearly missing out on a piece of functionality. Just need to get in the habit of leaving the phone this way while at my desk." created="Thu, 14 Sep 2017 16:35:07 GMT"/>
+				<outline text="Holy cow, there is &lt;a href=&quot;http://slatestarcodex.com/about/&quot;&gt;some really long form writing here&lt;/a&gt;. For example is &lt;a href=&quot;http://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/&quot;&gt;this essay&lt;/a&gt; on who one can and cannot tolerate, which I think highlights just how dualism is so pervasive. I also wonder whether the author would consider how people's resistance to change plays in to our tribalistic tendencies. From where I sit, the desire to not want to change plays big in the climate debate, and today's politics in general." created="Thu, 14 Sep 2017 16:35:08 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/16/2017" created="Sat, 16 Sep 2017 22:48:15 GMT">
+			<outline text="September 16, 2017" created="Sat, 16 Sep 2017 22:48:15 GMT" type="outline">
+				<outline text="Would Google keep selling the Pixel after the Pixel 2 launch? I notice we are starting to see lower prices for the Pixel, so I suspect not.&amp;nbsp;" created="Sat, 16 Sep 2017 22:48:16 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/20/2017" created="Wed, 20 Sep 2017 19:23:10 GMT">
+			<outline text="September 20, 2017" created="Wed, 20 Sep 2017 19:23:10 GMT" type="outline">
+				<outline text="I continue to read of people being outraged by athletes who are kneeling during the playing of the national anthem. Last year some NFL players started kneeling as protest and this year there are some college, &lt;a href=&quot;http://www.bnd.com/sports/article174200081.html&quot;&gt;high school&lt;/a&gt;, and younger players doing the same. " created="Wed, 20 Sep 2017 19:23:11 GMT"/>
+				<outline text="We can debate whether or not it is right for someone to exercise the rights the United States flag represents. However, it struck me that if we really wanted to get back at those taking a knee during the playing of the national anthem a way to do it is for all of us to kneel.&amp;nbsp;" created="Wed, 20 Sep 2017 19:23:12 GMT"/>
+				<outline text="After all, we stand all the time, it's not really doing anything special to stand during the national anthem. (I was taught to put my hand over my heart and yet that is rarely done and I don't hear people complaining!) Kneeling is &lt;i&gt;not &lt;/i&gt;something we do all the time, and it would be special if we did all kneel.&amp;nbsp;It's time to &lt;a href=&quot;http://gameofthrones.wikia.com/wiki/Bending_the_knee&quot;&gt;bend the knee&lt;/a&gt;! &lt;h4&gt;Apple Updates&lt;/h4&gt;" created="Wed, 20 Sep 2017 19:23:13 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.wsj.com/articles/apple-watch-series-3-review-untethered-and-unreliable-1505905203?tesla=y&quot;&gt;Looks like&lt;/a&gt; the Apple Watch Series 3 needs a tad bit of work. By the way, I think&amp;nbsp;&lt;a href=&quot;https://www.wsj.com/news/author/7872&quot;&gt;Joanna Stern&lt;/a&gt; does some of the best tech reviews.&amp;nbsp;" created="Wed, 20 Sep 2017 19:23:14 GMT"/>
+				<outline text="My &lt;a href=&quot;https://www.apple.com/ipad-pro/&quot;&gt;iPad Pro&lt;/a&gt; and iPad Mini are now both running iOS 11. I've been running the beta on the Pro ever since it has been available and it has been working well for me. I had to nudge the upgrade to install on the iPad Mini by restarting the device after removing the iOS 10 beta profile.&amp;nbsp;&lt;h4&gt;My Next Smartphone&lt;/h4&gt;" created="Wed, 20 Sep 2017 19:23:15 GMT"/>
+				<outline text="I am keeping an eye on &lt;a href=&quot;https://www.nokia.com/en_us/phones&quot;&gt;Nokia&lt;/a&gt; because I believe they may be selling reasonably priced phones with a clean version of Android. Yesterday &lt;a href=&quot;http://www.androidauthority.com/google-pixel-2-release-date-specs-design-price-784488/&quot;&gt;we learned more about the Pixel 2 and Pixel 2 XL &lt;/a&gt;and I am again disappointed by the pricing of $649 and higher. I wish Google would continue selling the original Pixels at a reduced price. I wonder how I would adjust to a smaller screen from the Nexus 6P?" created="Wed, 20 Sep 2017 19:23:16 GMT"/>
+				<outline text="I am also interested in the &lt;a href=&quot;https://oneplus.net/5&quot;&gt;OnePlus 5&lt;/a&gt;, but I am less enamored by OxygenOS as it is not &quot;pure&quot; Android. Frankly, I've been spoiled by the quick updates made available to my Nexus 6P.&amp;nbsp;" created="Wed, 20 Sep 2017 19:23:17 GMT"/>
+				<outline text="In the mean time, I am considering wiping and re-building my Nexus 6P because it continues to get sluggish over periods of time after reboots. It is particularly frustrating when using the camera.&amp;nbsp;" created="Wed, 20 Sep 2017 19:23:18 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/21/2017" created="Thu, 21 Sep 2017 18:05:16 GMT">
+			<outline text="September 21, 2017" created="Thu, 21 Sep 2017 18:05:16 GMT" type="outline">
+				<outline text="It seems to me that &lt;a href=&quot;https://www.android.com/one/&quot;&gt;Android One&lt;/a&gt; is the replacement to the Nexus phones in that it provides a pure Android experience (no vendor or carrier add-ons) and promised, faster, updates from Google.&amp;nbsp;" created="Thu, 21 Sep 2017 18:05:17 GMT"/>
+				<outline text="Consequently, &lt;a href=&quot;https://www.theverge.com/2017/9/20/16339476/motorola-moto-x4-project-fi-android-one-smartphone&quot;&gt;the Moto X4&lt;/a&gt; has become an appealing phone, if I can get it unlocked to work on AT&amp;amp;T. &lt;a href=&quot;https://www.androidcentral.com/unlocked-moto-x4-will-come-us-fall&quot;&gt;Android Central says&lt;/a&gt; the &quot;full,&quot; non-Android One version of the Moto X will be sold in the U.S., but I am not sure that is the one I want." created="Thu, 21 Sep 2017 18:05:18 GMT"/>
+				<outline text="Holy freakin' hot, it's 94 degrees outside!" created="Thu, 21 Sep 2017 18:05:19 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/25/2017" created="Mon, 25 Sep 2017 16:54:23 GMT">
+			<outline text="September 25, 2017" created="Mon, 25 Sep 2017 16:54:23 GMT" type="outline">
+				<outline text="I am looking at &lt;a href=&quot;https://www.axios.com/americas-fractured-economic-well-being-2488460340.html?utm_medium=linkshare&amp;amp;utm_campaign=organic&quot;&gt;this map of the U.S. economy&lt;/a&gt;, and in particular wondering to myself how it will be addressed. Clearly, folks in the south are convinced that illegal immigrants are the cause of their problems, but if that is the case and all those people were deported would those jobs really be filled by citizens or robots?&amp;nbsp;" created="Mon, 25 Sep 2017 16:54:24 GMT"/>
+				<outline text="When I look at the map for the part of the Michigan were I was raised, the Upper Peninsula, I don't see any solution proposed by the President that will improve employment there.&amp;nbsp;" created="Mon, 25 Sep 2017 16:54:25 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/26/2017" created="Tue, 26 Sep 2017 13:45:09 GMT">
+			<outline text="September 26, 2017" created="Tue, 26 Sep 2017 13:45:09 GMT" type="outline">
+				<outline text="As a citizen in Michigan, and watching how the state and local government screwed up &lt;a href=&quot;https://en.wikipedia.org/wiki/Flint_water_crisis&quot;&gt;the water situation in Flint&lt;/a&gt;, I can't help but be skeptical of the Republican mantra that state and local governments always make better decisions." created="Tue, 26 Sep 2017 13:45:10 GMT"/>
+				<outline text="Why should we think that simply giving money to states via block grants is going to improve health care?&amp;nbsp;" created="Tue, 26 Sep 2017 13:45:11 GMT"/>
+				<outline text="&lt;a href=&quot;https://amymhaddad.com/stop-the-meetings-4ead6514bc70&quot;&gt;Peter Drucker:&lt;/a&gt;&lt;blockquote&gt;..an organization in which everybody meets all the time is an organization in which no one gets anything done.&lt;/blockquote&gt;" created="Tue, 26 Sep 2017 13:45:12 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/28/2017" created="Thu, 28 Sep 2017 20:40:28 GMT">
+			<outline text="Echo Plus" created="Thu, 28 Sep 2017 20:40:28 GMT" type="outline">
+				<outline text="Of the new Echo devices announced by Amazon yesterday, I find &lt;a href=&quot;https://www.amazon.com/dp/B075RWFCHB?ref_=pe_1542950_254985020_em_ecg_aucc_snr_sept_np_dev&amp;amp;pldnSite=1&quot;&gt;the Echo Plus&lt;/a&gt; the most attractive. My interest lies in the smarthome hub claim, but I am a little skeptical.&amp;nbsp;" created="Thu, 28 Sep 2017 20:40:29 GMT"/>
+				<outline text="The claim is that you can use the Echo Plus as hub for IoT devices like Philips Hue light bulbs. What I should be able to conclude from this is that you don't need to buy a &lt;a href=&quot;http://www2.meethue.com/en-us/p/hue-bridge/046677458478&quot;&gt;Hue Hub&lt;/a&gt; to control the light bulbs because the Echo Plus provides that functionality.&amp;nbsp;" created="Thu, 28 Sep 2017 20:40:30 GMT"/>
+				<outline text="The problem is that other IoT applications that I have seen, like SmartThings tell you that you control other devices like Hue light bulbs, but what they mean is that the app talks via the &lt;a href=&quot;https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE&quot;&gt;SmartThings hub&lt;/a&gt; to the Hue hub. You need both hubs connected to your network to control all of the devices, and Alexa also expects to see the hubs on the network in order to control the devices." created="Thu, 28 Sep 2017 20:40:31 GMT"/>
+				<outline text="So, if it is true that the $150 Echo Plus can replace the Hue hub and the SmartThings hub so that you can directly control the associated devices, then this is a great deal. However, I need to find out whether you can truly get rid of these IoT-specific hubs.&amp;nbsp;" created="Thu, 28 Sep 2017 20:40:32 GMT"/>
+				</outline>
+			</outline>
+		<outline text="9/29/2017" created="Fri, 29 Sep 2017 15:12:56 GMT">
+			<outline text="September 29, 2017" created="Fri, 29 Sep 2017 15:12:56 GMT" type="outline">
+				<outline text="I think it is a telling sign that more people get upset by football players not &quot;standing at attention&quot; than millions of people suffering as a result of a hurricane and our government's indifference to their fellow citizen's plight.&amp;nbsp;" created="Fri, 29 Sep 2017 15:12:57 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

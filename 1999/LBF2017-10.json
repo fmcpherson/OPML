@@ -1,0 +1,349 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Mon, 27 Dec 2021 20:12:50 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2017-10.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2017-10.json",
+        "flPublic": true,
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "dateCreated": "Mon, 27 Dec 2021 20:12:50 GMT"
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "10/4/2017",
+                "created": "Wed, 04 Oct 2017 19:46:56 GMT",
+                "subs": [
+                    {
+                        "text": "Wednesday, October 4, 2017",
+                        "created": "Wed, 04 Oct 2017 19:46:56 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "For some reason, I am not getting a menu bar when loading the <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;editor. It appears the <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;code is trying to load scripts from <a href=\"http://fargo.io\"><span data-auto-link=\"true\" data-href=\"http://fargo.io\">fargo.io</span></a>&nbsp;that it is no longer has access to. The problem is also visible at my.1999.io, you will notice there is no sign on option. Fortunately, for now the menu bar does appear on rendered blog sites, the problem is just appearing with the 1999 editor. Also, obviously, I am still able to write new stories, I just don't have a menu bar. <b>Update:</b> Problem fixed!&nbsp;<h4>Google's Event</h4>",
+                                "created": "Wed, 04 Oct 2017 19:46:57 GMT"
+                            },
+                            {
+                                "text": "Google had their Pixel event today, during which they announced new Pixel phones. After checking out the <a href=\"https://store.google.com\">store</a>, I am leaning towards <a href=\"https://store.google.com/product/pixel_2\">a Pixel 2</a> mostly because I see that Google will give me $150 back for a trade-in of my Nexus 6P. It's disappointing that the white version of the phone will not ship until the end of November. I hope the trade-in offer will continue through that time.",
+                                "created": "Wed, 04 Oct 2017 19:46:58 GMT"
+                            },
+                            {
+                                "text": "I think it is interesting that Google still has <a href=\"https://store.google.com/product/pixel_phone\">the original Pixel</a> in the store.",
+                                "created": "Wed, 04 Oct 2017 19:46:59 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://store.google.com/product/google_pixelbook\">The Pixelbook</a> is pretty, and I get the reaction to the idea of spending $999 for a Chromebook. The storage sizes are interesting (128 GB minimum SSD up to 512 GB) What if there was a real easy way also run a Linux distro? Does that make the $999 more palatable? I've been reading some <a href=\"https://chromeunboxed.com/googles-pixelbook-the-target-is-bigger-than-you-think/\">interesting ideas</a> relating to virtualization and containerization and the Pixelbook.",
+                                "created": "Wed, 04 Oct 2017 19:47:00 GMT"
+                            },
+                            {
+                                "text": "All the other hardware announcements are meh! What's up with those cameras?&nbsp;",
+                                "created": "Wed, 04 Oct 2017 19:47:01 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "10/10/2017",
+                "created": "Tue, 10 Oct 2017 19:52:08 GMT",
+                "subs": [
+                    {
+                        "text": "Tuesday, October 10, 2017",
+                        "created": "Tue, 10 Oct 2017 19:52:08 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "When I go to <a href=\"http://www.internethistorypodcast.com/2017/10/om-malik-on-blogging-and-web2-0/\">this Internet History podcast page</a>, audio starts playing, but I can't find anything on the web page to control the audio playback. Very annoying!&nbsp;",
+                                "created": "Tue, 10 Oct 2017 19:52:09 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "10/13/2017",
+                "created": "Fri, 13 Oct 2017 14:33:46 GMT",
+                "subs": [
+                    {
+                        "text": "Friday, October 13, 2017",
+                        "created": "Fri, 13 Oct 2017 14:33:46 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "It was definitely a short morning after being up to 1 AM watching <a href=\"http://www.espn.com/blog/chicago/cubs/post/_/id/46110/from-the-four-run-inning-to-the-seven-out-save-how-the-cubs-salvaged-their-season\">the Cubs survive</a> over the Nationals. I can't believe they won; they shouldn't have given the circumstances. The Nats aggressiveness in the bottom of the nineth helped Wade Davis.&nbsp;",
+                                "created": "Fri, 13 Oct 2017 14:33:47 GMT"
+                            },
+                            {
+                                "text": "Chicago definitely has a bullpen problem, Justin Wilson's ineffectiveness wrecked Jed and Theo's plan.&nbsp;",
+                                "created": "Fri, 13 Oct 2017 14:33:48 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "10/17/2017",
+                "created": "Wed, 18 Oct 2017 00:08:57 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 18 Oct 2017 00:08:57 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "&lt;p&gt;Several weeks ago I ordered &lt;a href=\"https://www.brydgekeyboards.com/products/brydge-10-5-ipad-pro-keyboard\"&gt;the Brydge 10.5 keyboard&lt;/a&gt; to use with my iPad Pro. The keyboard is aluminum and when you close the iPad onto the keyboard it is a little larger than a MacBook. &lt;/p&gt;",
+                                "created": "Wed, 18 Oct 2017 00:08:58 GMT"
+                            },
+                            {
+                                "text": "&lt;p&gt;You slide the iPad into a pair of hinges that holds it so security that you can lift up the iPad and the keyboard does not fall off. To remove the iPad you have to hold down on the base and pull the iPad up, and while snug, it is relatively easy to remove. &lt;/p&gt;",
+                                "created": "Wed, 18 Oct 2017 00:08:59 GMT"
+                            },
+                            {
+                                "text": "&lt;p&gt;The keyboard is the same size as the iPad Pro 10.5 in landscape, so the keyboard is large enough for touch type but it is smaller than most notebook keyboards and feels cramped. While the letter and number keys appear to be &amp;#8220;standard&amp;#8221; size, all other keys like shift are slightly smaller. Bottom line is that the keyboard takes getting used to, is serviceable, but if you want to type for hours you might want to use a larger keyboard. &lt;/p&gt;",
+                                "created": "Wed, 18 Oct 2017 00:09:00 GMT"
+                            },
+                            {
+                                "text": "&lt;p&gt;A definite advantage to the keyboard being aluminum is that it is lapable, so if you are the type who frequently types with a notebook on your lap you will like the Brydge. I imagine that the the 12.9 inch version of this keyboard, which is designed for the &amp;#8220;original&amp;#8221; iPad Pro 12.9 is nearly perfect. &lt;/p&gt;",
+                                "created": "Wed, 18 Oct 2017 00:09:01 GMT"
+                            },
+                            {
+                                "text": "&lt;p&gt;The Brydge keyboards are not the cheapest, but I think if you travel and seriously need a keyboard, this is likely the one to have as it is likely very usable in an airplane. &lt;/p&gt;",
+                                "created": "Wed, 18 Oct 2017 00:09:02 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "I Bought A New Keyboard For My iPad Pro",
+                        "created": "Wed, 18 Oct 2017 00:09:26 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Several weeks ago I ordered <a href=\"https://www.brydgekeyboards.com/products/brydge-10-5-ipad-pro-keyboard\">the Brydge 10.5 keyboard</a> to use with my iPad Pro. The keyboard is aluminum and when you close the iPad onto the keyboard it is a little larger than a MacBook.   ",
+                                "created": "Wed, 18 Oct 2017 00:09:27 GMT"
+                            },
+                            {
+                                "text": "You slide the iPad into a pair of hinges that holds it so security that you can lift up the iPad and the keyboard does not fall off. To remove the iPad you have to hold down on the base and pull the iPad up, and while snug, it is relatively easy to remove.   ",
+                                "created": "Wed, 18 Oct 2017 00:09:28 GMT"
+                            },
+                            {
+                                "text": "The keyboard is the same size as the iPad Pro 10.5 in landscape, so the keyboard is large enough for touch type but it is smaller than most notebook keyboards and feels cramped. While the letter and number keys appear to be “standard” size, all other keys like shift are slightly smaller. Bottom line is that the keyboard takes getting used to, is serviceable, but if you want to type for hours you might want to use a larger keyboard.   ",
+                                "created": "Wed, 18 Oct 2017 00:09:29 GMT"
+                            },
+                            {
+                                "text": "A definite advantage to the keyboard being aluminum is that it is lapable, so if you are the type who frequently types with a notebook on your lap you will like the Brydge. I imagine that the the 12.9 inch version of this keyboard, which is designed for the “original” iPad Pro 12.9 is nearly perfect.   ",
+                                "created": "Wed, 18 Oct 2017 00:09:30 GMT"
+                            },
+                            {
+                                "text": "<span style=\"-webkit-text-size-adjust: 100%;\">The Brydge keyboards are not the cheapest, but I think if you travel and seriously need a keyboard, this is the one to have as it is likely very usable in an airplane.</span>",
+                                "created": "Wed, 18 Oct 2017 00:09:31 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Tuesday, October 17, 2017",
+                        "created": "Wed, 18 Oct 2017 00:37:14 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am surprised to find that last year I only wrote two posts about the Chicago Cubs playoff run through the World Series. <a href=\"http://writing.frankmcpherson.org/2016/11/03/thisIsTheYear.html\">One post</a> was the day after they won the World Series, <a href=\"http://writing.frankmcpherson.org/2016/11/03/chapmanIsMyWorldSeriesMvp.html\">the other</a> was a few days later.",
+                                "created": "Wed, 18 Oct 2017 00:37:15 GMT"
+                            },
+                            {
+                                "text": "While the Cubs did win the NL Central this year and have made it to the League Championship Series, they are not playing as good as they did last year. Not getting timely or big hits, not doing the little things, and inconsistent bullpen pitching. Maddon is being out managed by Roberts.",
+                                "created": "Wed, 18 Oct 2017 00:37:16 GMT"
+                            },
+                            {
+                                "text": "The real problem is that the Cubs are not hitting. Tonight is game three of the series and the first game of the series at Wrigley Field. If they win tonight, they are right in the series with still a chance to win, but if they lose I think ultimately they will not win the series even if they win the game tomorrow night. ",
+                                "created": "Wed, 18 Oct 2017 00:37:17 GMT"
+                            },
+                            {
+                                "text": "      ",
+                                "created": "Wed, 18 Oct 2017 00:37:18 GMT"
+                            },
+                            {
+                                "text": "So far the Cubs have not had much energy nor excitement in this series and that has to change tonight. Hopefully they follow the Yankees lead who is on the verge of evening the ALCS after losing the first two games in Houston. Can the Cubs be as good as the Yankees?",
+                                "created": "Wed, 18 Oct 2017 00:37:19 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "10/20/2017",
+                "created": "Fri, 20 Oct 2017 19:24:39 GMT",
+                "subs": [
+                    {
+                        "text": "Seizing The Moment",
+                        "created": "Fri, 20 Oct 2017 19:24:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "On July 25, 2016 <a href=\"http://m.mlb.com/news/article/191611658/cubs-acquire-aroldis-chapman-from-yankees/\">the Chicago Cubs acquired Aroldis Chapman in a trade</a> with the New York Yankees. The trade for Chapman proved to be the pinnacle moment for the Cubs’s quest to play in the 2016 World Series and ultimately become World Champions.  ",
+                                "created": "Fri, 20 Oct 2017 19:24:40 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://writing.frankmcpherson.org/2016/11/03/chapmanIsMyWorldSeriesMvp.html\">In my opinion</a> Chapman was the the World Series MVP. The shutdown inning he pitched in the bottom of the nineth inning after giving up the game tying home run in the eighth inning was incredible when you consider the emotions of blowing the save that would have won the championship. Without the shutdown inning Zobrist would not have the opportunity to make the big game winning hit.  ",
+                                "created": "Fri, 20 Oct 2017 19:24:41 GMT"
+                            },
+                            {
+                                "text": "Now, a day after the Cubs have lost to Dodgers in the 2017 National League Championship Series, you can more clearly see the importance of that trade in July, 2016. Even though Chapman was a rental, the Cubs did not really pursue signing him, he was definitely the final piece of the puzzle of a surprising 2016 season.   ",
+                                "created": "Fri, 20 Oct 2017 19:24:42 GMT"
+                            },
+                            {
+                                "text": "The Chicago Cubs went in to 2016 having lost in the 2015 League Championship series with expectations of another division championship, but doubts of whether the team had matured enough to make a first appearance in the World Series in more than 100 years.   ",
+                                "created": "Fri, 20 Oct 2017 19:24:43 GMT"
+                            },
+                            {
+                                "text": "The biggest question was what impact Kris Bryant’s pending call up from the minors would have on the team. Everyone new Bryant was good, but nobody expected him to be named league MVP in his rookie season.   ",
+                                "created": "Fri, 20 Oct 2017 19:24:44 GMT"
+                            },
+                            {
+                                "text": "2016 was not expected to be the year for the Cub’s first World Series appearance, most thought 2017, this year, would be that year. Yet still, the Cubs exceeded expectations, and by July of 2016 Cubs management rightly recognized the timeline had accelerated and they had to seize the moment.   ",
+                                "created": "Fri, 20 Oct 2017 19:24:45 GMT"
+                            },
+                            {
+                                "text": "In other words, what we have learned this year is how the opportunities for championships rarely go as planned and the importance for seizing the moment when it arrives. To state what may be obvious, changes made between seasons impact the upcoming season’s performance, but mid-season changes make or break post-season performance.   ",
+                                "created": "Fri, 20 Oct 2017 19:24:46 GMT"
+                            },
+                            {
+                                "text": "<span style=\"-webkit-text-size-adjust: 100%;\">How much more crushing would the defeat last night had been if Jed and Theo had not made that trade for Chapman? So, while last year I proclaimed Chapman my 2016 World Series MVP, in hindsight that award really belonged to the front office.</span>",
+                                "created": "Fri, 20 Oct 2017 19:24:47 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "There Is Team In Baseball",
+                        "created": "Fri, 20 Oct 2017 19:48:55 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Connoisseurs of American sports consider football to be the ultimate team sport because no one player can directly impact the outcome of a game. Even the best quarterback cannot succeed if there is not a good offensive line blocking to provide time to throw the ball and receivers capable of catching the ball. A good offense can score lots of points but if the defense does not prevent the opposing team from scoring, the team can still lose the game.   ",
+                                "created": "Fri, 20 Oct 2017 19:48:56 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://www.chicagotribune.com/sports/baseball/cubs/ct-dodgers-eliminate-cubs-spt-1020-20171019-story.html\">Last night</a> we learned the degree to which baseball is a team sport. <a href=\"https://fivethirtyeight.com/features/the-dodgers-dominated-like-few-pennant-winners-in-recent-history/\">The Los Angeles Dodgers are clearly the better team</a> than the Chicago Cubs, which is why the Dodgers will be playing the World Series this year. We also learned how difficult it is for aebaseball team to repeat its prior year performance.  ",
+                                "created": "Fri, 20 Oct 2017 19:48:57 GMT"
+                            },
+                            {
+                                "text": "The final analysis of the Cub’s play during the League Championship series will likely <a href=\"http://www.chicagotribune.com/sports/baseball/cubs/ct-cubs-postseason-offense-2017-htmlstory.html\">point the finger at their anemic hitting</a>. What might be overlooked is how their poor bullpen affected the hitting and how the poor hitting affected starting pitching.   ",
+                                "created": "Fri, 20 Oct 2017 19:48:58 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://www.sbnation.com/2017/10/16/16480920/cubs-dodgers-nlcs-bullpen-lackey-wade-davis-maddon\">The poor Cubs bullpen</a>, exacerbated more by the Dodger’s excellent bullpen, shortened the game. Cubs hitters knew they had to hit and score runs in the early innings to have a chance to win. Success in baseball comes primarily in how the players handle pressure.   ",
+                                "created": "Fri, 20 Oct 2017 19:48:59 GMT"
+                            },
+                            {
+                                "text": "Pressure on the hitters causes them to do things they otherwise don’t, and that provides a huge advantage to opposing pitchers.   ",
+                                "created": "Fri, 20 Oct 2017 19:49:00 GMT"
+                            },
+                            {
+                                "text": "Cub’s starting pitching went into the games thinking they had to pitch a shutout to win because they weren’t getting any run support. Further, the starting pitchers knew the bullpen was not doing their job and therefore felt they not only had to pitch a shutout, but do so for at least six, if not seven, innings.   ",
+                                "created": "Fri, 20 Oct 2017 19:49:01 GMT"
+                            },
+                            {
+                                "text": "Pressure on pitchers tends to cause them to not throw through the ball where they want, resulting in walks or lots of hits and home runs. Cubs pitching gave up too much of all these in this series.  ",
+                                "created": "Fri, 20 Oct 2017 19:49:02 GMT"
+                            },
+                            {
+                                "text": "In contrast, Dodger hitters had no pressure to do anything more than they did all season. Relaxed hitters can do unexpected things like <a href=\"http://www.sportingnews.com/mlb/news/world-series-2017-enrique-hernandez-kike-puerto-rico-three-home-runs-dad-father-hurricane-nlcs/y60xy0n99km81s6oo70v9fd3y\">Enrique Hernandez’s three home runs</a> last night. Dodger pitching enabled the hitters to relax and their bullpen and hitting enabled the starting pitching to not have to worry if they gave up runs early in the game, hitting and relieving always gave the Dodgers a chance to win.   ",
+                                "created": "Fri, 20 Oct 2017 19:49:03 GMT"
+                            },
+                            {
+                                "text": "<span style=\"-webkit-text-size-adjust: 100%;\">In other words, even though an individual pitcher or hitter can influence the outcome of a game, baseball is still very much a team sport and a balanced team is necessary for winning championships. The 2017 National League Championship Series proved the Los Angelas Dodgers to be the better team than the Chicago Cubs, and that is why they are playing in the World Series.</span>",
+                                "created": "Fri, 20 Oct 2017 19:49:04 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "10/25/2017",
+                "created": "Wed, 25 Oct 2017 13:51:36 GMT",
+                "subs": [
+                    {
+                        "text": "Wednesday, October 25, 2017",
+                        "created": "Wed, 25 Oct 2017 13:51:36 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am not sure that people like <a href=\"https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/10/25/daily-202-flake-and-corker-feel-liberated-to-speak-their-minds-that-should-terrify-trump/59efd11030fb045cba000a28/\">Jeff Flake not returning to the Senate</a> is a good thing. The current situation can become much worse if more people with Trump's ideology are elected to office.&nbsp;",
+                                "created": "Wed, 25 Oct 2017 13:51:37 GMT"
+                            },
+                            {
+                                "text": "On the other hand, if deciding to not seek re-election frees people up to actually govern, wouldn't that make a case for term limits?&nbsp;",
+                                "created": "Wed, 25 Oct 2017 13:51:38 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "10/27/2017",
+                "created": "Fri, 27 Oct 2017 17:40:53 GMT",
+                "subs": [
+                    {
+                        "text": "Friday, October 27, 2017",
+                        "created": "Fri, 27 Oct 2017 17:40:53 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've <a href=\"https://arstechnica.com/gadgets/2017/10/android-8-1-developer-preview-hands-on-everything-new-in-googles-latest-update/\">installed Android 8.1</a> on my Nexus 6P but not yet had the time to take a hard look for any new features.",
+                                "created": "Fri, 27 Oct 2017 17:40:54 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "10/29/2017",
+                "created": "Sun, 29 Oct 2017 20:49:17 GMT",
+                "subs": [
+                    {
+                        "text": "Trustworthy Water Taps",
+                        "created": "Sun, 29 Oct 2017 20:49:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Monday evening my wife informed me of a noticeable loss of water pressure in our house. After a couple years of flooding due to sump pump failures and a crack in our foundation, my first reaction was “what now?” A quick look at the water valve into our condo and the remainder of the basement found nothing obviously wrong.  ",
+                                "created": "Sun, 29 Oct 2017 20:49:18 GMT"
+                            },
+                            {
+                                "text": "My wife later found on Twitter a report of a water main break just a couple of miles from our house. <a href=\"http://www.freep.com/story/news/local/michigan/oakland/2017/10/24/novi-water-main-break-oakland-county/795934001/\">The break in the 48-inch water main</a> caused about a dozen metropolitan Detroit communities to be under a boil water advisory for the rest of the week. One community had no water while some had lower than usual pressure.  ",
+                                "created": "Sun, 29 Oct 2017 20:49:19 GMT"
+                            },
+                            {
+                                "text": "In light of the suffering in <a href=\"https://www.vox.com/science-and-health/2017/9/26/16365994/hurricane-maria-2017-puerto-rico-san-juan-humanitarian-disaster-electricty-fuel-flights-facts\">Puerto Rico</a>, <a href=\"http://www.cnn.com/2017/08/26/us/hurricane-harvey-landfall/index.html\">Houston</a>, and <a href=\"https://en.m.wikipedia.org/wiki/Flint_water_crisis\">Flint</a>, our water “issue” was really a first-world inconvenience. Just the weekend before several members of our church ran in the Detroit Marathon to raise funds for World Vision, which is a charitable organization that focuses on providing clean water in third world countries.   ",
+                                "created": "Sun, 29 Oct 2017 20:49:20 GMT"
+                            },
+                            {
+                                "text": "It’s trite, I know, to say that you don’t truly appreciate something until you don’t have it. We boiled water to use for making coffee and brushing teeth. I spoiled two toothbrushes by thoughtlessly rinsing them after brushing, demonstrating how slow my mind functions in the morning.   ",
+                                "created": "Sun, 29 Oct 2017 20:49:21 GMT"
+                            },
+                            {
+                                "text": "<span style=\"-webkit-text-size-adjust: 100%;\">Now that </span><a href=\"https://www.clickondetroit.com/news/boil-water-advisory-lifted-in-all-of-oakland-county-except-for-parts-of-northwest-farmington-hills\" style=\"-webkit-text-size-adjust: 100%;\">the boil water advisory has lifted</a><span style=\"-webkit-text-size-adjust: 100%;\">, and we have flushed our water pipes, drained our hot water heater, and replaced the water filter in the fridge, it will likely take little more than a few days for this episode to be behind. </span><a href=\"https://www.worldvision.org/our-work/clean-water\" style=\"-webkit-text-size-adjust: 100%;\">Yet every day there are people who walk tens of miles just to retrieve clean water</a><span style=\"-webkit-text-size-adjust: 100%;\">. Those of us who live in countries with treated and running water tend to take for granted our good fortune.</span>",
+                                "created": "Sun, 29 Oct 2017 20:49:22 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Sunday, October 29, 2017",
+                        "created": "Sun, 29 Oct 2017 21:00:10 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<span style=\"-webkit-text-size-adjust: 100%;\">Just wrote a 380 word blog post using </span><a href=\"https://www.brydgekeyboards.com/products/brydge-10-5-ipad-pro-keyboard?gclid=CjwKCAjw-NXPBRB4EiwAVNRLKldLs35PXvWpW13AiUq8-MNecYoqqJF-HOmdpx5E6UnytEARBpHDLhoC1G4QAvD_BwE\" style=\"-webkit-text-size-adjust: 100%;\">the Brydge 10.5-inch keyboard</a><span style=\"-webkit-text-size-adjust: 100%;\"> attached to my iPad Pro 10.5 while sitting in our Lazy-Boy recliner. I am warming up to this keyboard.</span>",
+                                "created": "Sun, 29 Oct 2017 21:00:11 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

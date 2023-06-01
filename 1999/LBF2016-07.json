@@ -1,0 +1,660 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Thu, 23 Dec 2021 19:20:53 GMT",
+        "ownerTwitterScreenName": "frankm",
+        "ownerName": "Frank McPherson",
+        "ownerId": "http://twitter.com/frankm",
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "dateCreated": "Thu, 23 Dec 2021 19:20:43 GMT",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2016-07.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2016-07.json",
+        "flPublic": true
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "7/8/2016",
+                "created": "Fri, 08 Jul 2016 15:40:42 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 08 Jul 2016 15:40:42 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am currently hosting this site on a Debian server running at <a href=\"http://www.cloudatcost.com/\">CloudAtCost</a>. It was the first server I bought at CloudAtCost, and only has 1 CPU, &nbsp;512 MB of RAM and 10 GB of disk space. My other servers have 2 CPUs, 1 GB of RAM and 20 GB of disk space. The server here seems to be running slow, so I am contemplating a move to another server.",
+                                "created": "Fri, 08 Jul 2016 15:40:43 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 08 Jul 2016 15:49:52 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "So, I have an extra 2 CPUs, 1 GB of RAM, and 20 GB of storage at <a href=\"http://www.cloudatcost.com/\">CloudAtCost</a>  and I went in to the panel to create a new server with those resources and discovered Windows 7 64-bit as an option, which is interesting since that is not a server OS. Just out of curiosity, I've initiated a build with that OS. From what I can tell, there are no billing differences between Windows and Linux, I though previously there was.&nbsp;",
+                                "created": "Fri, 08 Jul 2016 15:49:53 GMT"
+                            },
+                            {
+                                "text": "I've built the Windows 7 desktop and RDP'ed to it, now I am running Windows Update.&nbsp;",
+                                "created": "Fri, 08 Jul 2016 15:49:54 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/9/2016",
+                "created": "Sun, 10 Jul 2016 00:37:11 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 10 Jul 2016 00:37:11 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I continue to have problems with the server hosting this site. Basically, after a period of time it starts slowing down and I am not sure what is causing it. I've installed sysstat to hopefully capture some information, although I don't know how to use it.&nbsp;",
+                                "created": "Sun, 10 Jul 2016 00:37:12 GMT"
+                            },
+                            {
+                                "text": "I've re-initiated the whitelist for this site.",
+                                "created": "Sun, 10 Jul 2016 00:37:13 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/10/2016",
+                "created": "Sun, 10 Jul 2016 19:37:39 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 10 Jul 2016 19:37:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "My problems are memory related. I've enabled sysstat and run sar -r shows that nearly 98% or memory is being used when I run storage.js with forever.&nbsp;",
+                                "created": "Sun, 10 Jul 2016 19:37:40 GMT"
+                            },
+                            {
+                                "text": "I've restarted the Linux server then did forever storage.js and %memused has crept to 62%&nbsp;",
+                                "created": "Sun, 10 Jul 2016 19:37:41 GMT"
+                            },
+                            {
+                                "text": "Something interesting... on the Debian server the forever version is&nbsp;v0.11.1 while on my Ubuntu server hosting Fargo Publisher the forever version is&nbsp;v0.15.1. However the Ubuntu server is running node&nbsp;v0.10.25 while Debian is running&nbsp;v0.10.29.",
+                                "created": "Sun, 10 Jul 2016 19:37:42 GMT"
+                            },
+                            {
+                                "text": "Hmm... just noticed that the callback script isn't working, <a href=\"http://writing.frankmcpherson.org\"><span data-auto-link=\"true\" data-href=\"http://writing.frankmcpherson.org\">writing.frankmcpherson.org</span></a>&nbsp;is not being updated. I think I know, it's because I started storage.js logged in as root rather than as myself.",
+                                "created": "Sun, 10 Jul 2016 19:37:43 GMT"
+                            },
+                            {
+                                "text": "Ok, at 5 PM I logged in as myself and started storage.js. sar shows that dropped from 65% used while storage.js was running to 51% after I stopped it. Now to see what happens with the callback script running.",
+                                "created": "Sun, 10 Jul 2016 19:37:44 GMT"
+                            },
+                            {
+                                "text": "Well, so far I can't get new posts to render. Something is up! &nbsp;I think I fixed!?",
+                                "created": "Sun, 10 Jul 2016 19:37:45 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Moral Of The Story Part 1",
+                        "created": "Sun, 10 Jul 2016 21:04:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Do not switch the server user ids that you use when starting storage.js because you may end up with files and directories to which storage.js doesn't have permissions to write. Here is how I made this mistake.",
+                                "created": "Sun, 10 Jul 2016 21:04:18 GMT"
+                            },
+                            {
+                                "text": "1. Originally started storage.js while logged in with my personal user id",
+                                "created": "Sun, 10 Jul 2016 21:04:19 GMT"
+                            },
+                            {
+                                "text": "2. Discovered the server was running slow, after attempting to stop storage.js, I rebooted the server",
+                                "created": "Sun, 10 Jul 2016 21:04:20 GMT"
+                            },
+                            {
+                                "text": "3. After the server came back up, I logged in as root installed some software, looked at some stats, and eventually started storage.js",
+                                "created": "Sun, 10 Jul 2016 21:04:21 GMT"
+                            },
+                            {
+                                "text": "4. I then accessed my <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;editor page, and started writing the posts below. The posts published as expected and almost all was well.&nbsp;",
+                                "created": "Sun, 10 Jul 2016 21:04:22 GMT"
+                            },
+                            {
+                                "text": "5. Eventually, I shut down storage.js again, and the next time when I started storage.js I was logged in with my personal ID. After opening the editor I discovered that none of the changes I was making were being rendered. I confirmed the updates were being made to chatLog.json.&nbsp;",
+                                "created": "Sun, 10 Jul 2016 21:04:23 GMT"
+                            },
+                            {
+                                "text": "I thought about the problem a bit, looked at the forever log for the session, and after seeing an EACESS error, did a ls -l of the directory and files that were created and noticed they were owned by root rather than my ID. Alas, the ID under which storage.js was running did not have permission to write to the directory.&nbsp;<h4>How did I fix this?&nbsp;</h4>",
+                                "created": "Sun, 10 Jul 2016 21:04:24 GMT"
+                            },
+                            {
+                                "text": "I made a backup of chatLog.json, then logged back in as root and deleted the files and directories that were rendered with that ID. Then I logged in as myself, started storage.js, opened the editor and selected Main, Re-publish All Pages. At this point the directory was re-created under my ID and everything rendered as expected. I confirmed via terminal and ls -l that my ID owned all the directories and files.&nbsp;",
+                                "created": "Sun, 10 Jul 2016 21:04:25 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 11 Jul 2016 00:50:43 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Just saw a jump in memory utilization from 46.91 at 8:35 to 97.49 at 8:45 PM.&nbsp;",
+                                "created": "Mon, 11 Jul 2016 00:50:44 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/13/2016",
+                "created": "Wed, 13 Jul 2016 16:15:52 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 13 Jul 2016 16:15:52 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Hello world! If you see this then I have successfully migrated this blog to a new server. The only thing that didn't move over is the menu bar. Let's see whether I need to republish all pages again. And finally, restarted using forever.",
+                                "created": "Wed, 13 Jul 2016 16:15:53 GMT"
+                            },
+                            {
+                                "text": "Ok, I see that the archive pages don't work. Need to look back in the google group as I think Dave encountered this. Final check, both servers are hosted at <a href=\"http://www.cloudatcost.com/\">CloudAtCost</a> .&nbsp;",
+                                "created": "Wed, 13 Jul 2016 16:15:54 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "A Moving Experience",
+                        "created": "Wed, 13 Jul 2016 17:11:32 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've successfully moved this <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;site from a server running Debian with 512 mb of RAM and 10 GB of storage to a server running Ubuntu with 1 GB of RAM and 20 GB of storage. I did this after doing a dist-upgrade on the Debian server that might have fixed the memory leak problem it was experiencing.",
+                                "created": "Wed, 13 Jul 2016 17:11:33 GMT"
+                            },
+                            {
+                                "text": "For the most part I followed the server migration instructions provided on the 1999 server Google group, although my installation has a few tweaks that required a few more steps with the migration.&nbsp;",
+                                "created": "Wed, 13 Jul 2016 17:11:34 GMT"
+                            },
+                            {
+                                "text": "Since I retained the URL for the site and pointed it to the new server, I didn't have to do any URL manipulation in my chatLog.json file. After installing the 1999 server software and testing with <a href=\"http://readwrite.club:1999/users/frankm/2016/07/13/0100.html\">a simple hello world post</a>, I copied over the chatLog.json and config.json files from the original server.",
+                                "created": "Wed, 13 Jul 2016 17:11:35 GMT"
+                            },
+                            {
+                                "text": "I use a callback script to publish a copy of this site to its \"public\" location at <a href=\"http://writing.frankmcpherson.org\">writing.frankmcpherson.org</a>, which is hosted on AWS. For the callback script to work, I needed to create an ~/.aws directory and copy the credential file into it. I also needed to copy the callback script to ~/nodestorage/callbacks/publish.&nbsp;",
+                                "created": "Wed, 13 Jul 2016 17:11:36 GMT"
+                            },
+                            {
+                                "text": "After copying these files I did a re-publish and the site was re-published both on <a href=\"http://readwrite.club:1999/users/frankm/\">the new server</a> and on <a href=\"http://writing.frankmcpherson.org\">S3</a>. The next issue I had to resolve is that the site on the new server did not have the menubar from the original site. ~/nodestorage/publicFiles/users/frankm did not have a misc directory, which I created and then copied menubar.html, menubar.opml, and template.opml from the original server to the directory.&nbsp;",
+                                "created": "Wed, 13 Jul 2016 17:11:37 GMT"
+                            },
+                            {
+                                "text": "I did a quick update to my hello world post and the original menubar appeared along with the remainder of the content.",
+                                "created": "Wed, 13 Jul 2016 17:11:38 GMT"
+                            },
+                            {
+                                "text": "Next, I discovered that the archive pages were not generated when I republished the site, although they did exist on the S3 copy of the site. While Dave has a script to recreate the archive pages, I decided it would be simpler to copy the previously generated page, which is index.html, &nbsp;in ~/nodestorage/publicFiles/users/frankm/2016/05 (for May) and ~/nodestorage/publicFiles/users/frankm/2016/06 (for June).&nbsp;",
+                                "created": "Wed, 13 Jul 2016 17:11:39 GMT"
+                            },
+                            {
+                                "text": "Final step was to install forever and start up storage.js using it.&nbsp;",
+                                "created": "Wed, 13 Jul 2016 17:11:40 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Thu, 14 Jul 2016 02:51:35 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Amongst all the fun I had with moving this site to a new server, I attempted to install updates to my Macbook Air, and in the process managed to hose it up pretty good. Fortunately, I didn't have any real data on it, so after trying a few troubleshooting steps, I just erased the drive and re-installed Yosemite, then I upgraded to El Capitan. For all practical purposes I have a fresh new OS on the Air, so it's not all bad.",
+                                "created": "Thu, 14 Jul 2016 02:51:36 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/14/2016",
+                "created": "Thu, 14 Jul 2016 13:45:18 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 14 Jul 2016 13:45:18 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've moved my 1999 glossary from <a href=\"http://fargo.io/docs/whatIsFargo.html\">Fargo</a>  to LO v2. It worked.",
+                                "created": "Thu, 14 Jul 2016 13:45:19 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Thu, 14 Jul 2016 13:47:19 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Of course, after I move this site to a new server, the next morning the new server forgets how to be connected to the Internet and I had to reboot the server. I've been using <a href=\"http://www.cloudatcost.com/\">CloudAtCost</a>  for a few years now, but up until now I haven't had so many problems. I am hoping this is not a trend because I've been happy with the service and you can't beat the price.",
+                                "created": "Thu, 14 Jul 2016 13:47:20 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 15 Jul 2016 01:53:44 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am doing more playing on the computer tonight, this time experimenting with Linux Mint Cinnamon, running in VMWare Workstation. So far, I am liking what I am seeing here. ",
+                                "created": "Fri, 15 Jul 2016 01:53:45 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 15 Jul 2016 01:58:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Just tried opening <a href=\"http://littleoutliner.com/v2/\">Little Outliner V2</a> in Linux Mint and confirmed what I suspected that the Javascript Dave provides to switch the a different nodestorage server is correct. The code changes a setting saved in local storage, so you have to execute it in every browser that you are going to use to connect to your server.",
+                                "created": "Fri, 15 Jul 2016 01:58:40 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Android Wear Watch 2.0",
+                        "created": "Fri, 15 Jul 2016 02:17:23 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Yesterday was <a href=\"http://www.wired.com/?p=2056271\">Amazon Prime day</a>, which was the second one ever. Billed as bigger than <a href=\"https://blackfriday.com/pages/black-friday-history\">Black Friday</a>, last year I thought Prime Day was a dud, with no sales on products I was interested in. This year, however, was different. I bought a <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  for nearly $200 off. ",
+                                "created": "Fri, 15 Jul 2016 02:17:24 GMT"
+                            },
+                            {
+                                "text": "I've been wearing the original Moto 360, which is now pretty old in gadget years. Motorola already sells version 2 of the Moto 360, and the original one will not get <a href=\"https://developer.android.com/wear/preview/index.html\">Android Wear 2.0</a> when it is released later this year. ",
+                                "created": "Fri, 15 Jul 2016 02:17:25 GMT"
+                            },
+                            {
+                                "text": "Consequently, when I saw the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  for $200 and I confirmed it will get Android Wear 2.0 (in fact, it is one of two watches that can run the developer previews), I pulled the trigger. ",
+                                "created": "Fri, 15 Jul 2016 02:17:26 GMT"
+                            },
+                            {
+                                "text": "The watch arrived this afternoon, and I am pleasantly surprised in how it looks and with the comfort of the band. I am a very hairy person, so I find the traditional \"linked\" metal watch bands uncomfortable because my hair gets caught in the links. This is the first time I've worn a watch with a mesh band, and so far, no pinches.",
+                                "created": "Fri, 15 Jul 2016 02:17:27 GMT"
+                            },
+                            {
+                                "text": "My own concern with the band is that it is not the easiest to put on, the standard buckle that comes with leather bands is much easier, so I may end up swapping the band. ",
+                                "created": "Fri, 15 Jul 2016 02:17:28 GMT"
+                            },
+                            {
+                                "text": "I'll save my final verdict after using the watch for a few days to see whether the battery life can get through my day. I also hope that it can maintain connectivity with my <a href=\"http://www.gsmarena.com/huawei_nexus_6p-7588.php\">Nexus 6P</a>  better than the Moto 360.",
+                                "created": "Fri, 15 Jul 2016 02:17:29 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/15/2016",
+                "created": "Fri, 15 Jul 2016 14:57:01 GMT",
+                "subs": [
+                    {
+                        "text": "Day 1 With The Huawei Watch",
+                        "created": "Fri, 15 Jul 2016 14:57:01 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Today is day 1 for my Android Wear Watch 2.0, featuring the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a> . The key question to be answered is, does the watch have enough battery life to get through my day. I put the watch on at 9 AM, and at nearly two hours there is 91% battery life.",
+                                "created": "Fri, 15 Jul 2016 14:57:02 GMT"
+                            },
+                            {
+                                "text": "I am currently wearing the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  configured for the screen to be on all the time, which is how you really need it in order to get the most use out of the watch. For example, right now I am using the Outlook watch face, which is connected to Outlook mobile on my phone and that is connected to my work Exchange server. The Outlook face provides me an at-a-glance overview of my meetings throughout the day, along with an indicator of how many unread messages are in my Inbox.&nbsp;",
+                                "created": "Fri, 15 Jul 2016 14:57:03 GMT"
+                            },
+                            {
+                                "text": "In dim mode the face shows the time, along with lines around the watch faces where meetings are scheduled, and unread message indicator. In full display I see the current date, the length of time until my next meeting and a snippet of the meeting subject.",
+                                "created": "Fri, 15 Jul 2016 14:57:04 GMT"
+                            },
+                            {
+                                "text": "The at-a-glance mode of the watch face is most useful when it is always on so I can just look down at it without having to touch the screen or even move my wrist.&nbsp;",
+                                "created": "Fri, 15 Jul 2016 14:57:05 GMT"
+                            },
+                            {
+                                "text": "On the Moto 360 this was called ambient mode, and I never used it because it caused drained the batter much too fast. For my testing of the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  I figure I should start with the most extreme case to see how it works, and then ratchet down from there.",
+                                "created": "Fri, 15 Jul 2016 14:57:06 GMT"
+                            },
+                            {
+                                "text": "How good is the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a> ? Only time will tell!&nbsp;",
+                                "created": "Fri, 15 Jul 2016 14:57:07 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/16/2016",
+                "created": "Sat, 16 Jul 2016 23:54:17 GMT",
+                "subs": [
+                    {
+                        "text": "Huawei Watch Day 1 Report",
+                        "created": "Sat, 16 Jul 2016 23:54:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  got through the entire day, which started at 8:30 AM an ended around 1 AM. At the time I put the watch on the charger it had about 8% battery left.",
+                                "created": "Sat, 16 Jul 2016 23:54:18 GMT"
+                            },
+                            {
+                                "text": "I am pretty sure it would have had more battery power left on a normal day, because yesterday was the first day I was really using it, I spent more time than normal using it, changing watch faces and trying out apps.&nbsp;",
+                                "created": "Sat, 16 Jul 2016 23:54:19 GMT"
+                            },
+                            {
+                                "text": "The watch's battery drained more quickly when I was charging my phone because during that time it was not connected to the phone and apparently kept trying to connect.&nbsp;",
+                                "created": "Sat, 16 Jul 2016 23:54:20 GMT"
+                            },
+                            {
+                                "text": "I've noticed this same behavior with the Moto 360, and I haven't figured out whether the issue is being caused by connecting my <a href=\"http://www.gsmarena.com/huawei_nexus_6p-7588.php\">Nexus 6P</a>  to its charger, and it rapidly charging, or the location where it is charging which is on the desk in the main floor of my house rather than in the basement where I was working.&nbsp;",
+                                "created": "Sat, 16 Jul 2016 23:54:21 GMT"
+                            },
+                            {
+                                "text": "Actually, I suspect the issue may be with the bluetooth drivers on the <a href=\"http://www.gsmarena.com/huawei_nexus_6p-7588.php\">Nexus 6P</a> , or rather the bluetooth drivers that come with Android. In addition to connectivity issues with the watch, it also sometimes has problems connecting to the bluetooth in my car.&nbsp;",
+                                "created": "Sat, 16 Jul 2016 23:54:22 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "First Manual Restart",
+                        "created": "Sun, 17 Jul 2016 00:10:55 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Today being Saturday, it is not the normal watch wearing day. I sleep in longer, am much more casual after waking up, so I usually don't take my watch off the charger until noon. Consequently, today's battery life is more about how it does on a weekend than the work week.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 00:10:56 GMT"
+                            },
+                            {
+                                "text": "Right now at 8 PM the watch has 47% battery left. Android Wear says there is 8 hours of battery life left, while Wear Battery Stats says it has 4 hours left. I think Wear Battery Status is still learning about the battery life on the watch.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 00:10:57 GMT"
+                            },
+                            {
+                                "text": "One of the cool features of the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  is that <a href=\"http://www.androidcentral.com/three-big-things-separate-moto-360-2015-huawei-watch\">it has an AMOLED screen</a>, which supports a low-powered, black and white, <a href=\"https://developer.android.com/training/wearables/apps/always-on.html\">always-on mode</a>. If you have a Moto X, it is the same type of display that allows it to always display the clock and notifications while the screen is locked. I am finding that always-on makes the watch much more functional.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 00:10:58 GMT"
+                            },
+                            {
+                                "text": "Today I had my first \"glitch\" with the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a> . &nbsp;Normally the watch automatically switches from full display to always-on, low powered display. I found this works with the built-in Android timer this evening when I was grilling.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 00:10:59 GMT"
+                            },
+                            {
+                                "text": "I told Google to set a timer for 10 minutes, which the watch promptly implemented and shortly the screen switched to always-on mode with the timer displaying and updating. I thought this was cool, it enables me to quickly see how much time is left before I flip the chicken.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 00:11:00 GMT"
+                            },
+                            {
+                                "text": "However, after the timer alarm went off and swipping to stop the \"alarm\" the screen stayed fully powered on and would no longer automatically switch to always-on mode, instead I had to manually initiate the change by pressing the crown.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 00:11:01 GMT"
+                            },
+                            {
+                                "text": "After finishing cooking and eating dinner I restarted the watch and that resolved the always on display issue. It will be interesting to see whether this is a single occurrence or a bug with the timer app on the watch that prevents it from changing modes.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 00:11:02 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Sun, 17 Jul 2016 01:57:01 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've found another issue with the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a> . For some reason, Google Now reminders are not vibrating on the watch. From what I can tell, <a href=\"https://www.reddit.com/r/AndroidWear/comments/45jfym/google_reminders_will_not_cause_the_watch_to/\">it looks like this has been a problem with some the more recently releases of Android Wear.</a>&nbsp;According to some reports, it may be that Google has actually removed vibrating reminders as a feature.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 01:57:02 GMT"
+                            },
+                            {
+                                "text": "There is a Reminders app on the watch, and every time I tape it, I get a message that says \"To use Reminders sign in to the Google app on your phone.\" There is an Open On Phone button, and every time I tap it I get a message on the phone that says \"Unfortunately Android Wear has stopped.\"&nbsp;",
+                                "created": "Sun, 17 Jul 2016 01:57:03 GMT"
+                            },
+                            {
+                                "text": "I've installed an app called <a href=\"https://play.google.com/store/apps/details?id=sk.martinflorek.wear.feelthewear&amp;hl=en\">Feel The Wear</a> that fixes this notification issue and has the added benefit of providing more control over notifications. For example, you can configure text message notifications to be two short buzzes while Google app notifications (Reminders) can be one long buzz.&nbsp;",
+                                "created": "Sun, 17 Jul 2016 01:57:04 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/19/2016",
+                "created": "Tue, 19 Jul 2016 14:05:00 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Tue, 19 Jul 2016 14:05:00 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "In response to Jason Micheli's blog post titled \"<a href=\"http://tamedcynic.org/whats-happening-to-america/\">What's Happening to America</a>\".&nbsp;",
+                                "created": "Tue, 19 Jul 2016 14:05:01 GMT"
+                            },
+                            {
+                                "text": "Our theology is complicit in this in teaching sin as a “thing” of which we can get rid of, wash away, etc. While there are debates about the theology of <a href=\"http://www.theopedia.com/original-sin\">Original Sin</a>, I think there ought not be debate about the origin of sin. If the origin of sin is the accepting of ourselves as apart from God, and consequently not seeing God in everyone around us (let alone within ourselves), then we move from us to you and I, or seeing the world as me and others. The word we have for this today is racism, and it should be no surprise that it persists and will continue to persist as long as we continue to see ourselves and everyone around us as apart from each other and apart from God.",
+                                "created": "Tue, 19 Jul 2016 14:05:02 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/20/2016",
+                "created": "Wed, 20 Jul 2016 14:05:17 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 20 Jul 2016 14:05:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I love how the conservatives are claiming there is no big deal about Mrs. Trump's speech. You know that if it were Bill, Hillary, or any other Democrat giving that speech it would be a Mt. Everest size deal.&nbsp;",
+                                "created": "Wed, 20 Jul 2016 14:05:18 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Wed, 20 Jul 2016 21:40:26 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "For some reason I keep getting my Google Now Reminders on my <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  one hour ahead of the time I set them on my phone. I have found that I have the <a href=\"https://support.google.com/websearch/answer/6307673?hl=en\">beta of the Google App</a> on my phone, which may be the cause of this problem. I vaguely recall a similar issue with the Moto 360.&nbsp;",
+                                "created": "Wed, 20 Jul 2016 21:40:27 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/22/2016",
+                "created": "Fri, 22 Jul 2016 17:23:47 GMT",
+                "subs": [
+                    {
+                        "text": "After 1 Week Wearing The Huawei Watch",
+                        "created": "Fri, 22 Jul 2016 17:23:47 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Today marks the end of the first week that I have owned and worn the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>,  so it's a good time to provide an update on how I am liking it. In short, I am very happy with this watch.",
+                                "created": "Fri, 22 Jul 2016 17:23:48 GMT"
+                            },
+                            {
+                                "text": "The main problem I had with <a href=\"http://www.gsmarena.com/motorola_moto_360_(1st_gen)-7682.php\">the original Moto 360</a> is its battery life. My benchmark for mobile device battery life is that I shouldn't have to worry about it, which means there needs to be battery life available until I go to bed at night.",
+                                "created": "Fri, 22 Jul 2016 17:23:49 GMT"
+                            },
+                            {
+                                "text": "Despite all the steps I took with the Moto 360 to preserve battery life, I just couldn't count on it to make it through an entire day. Worse is that to extend battery life as long as possible I had to not use many of the features of the watch.&nbsp;",
+                                "created": "Fri, 22 Jul 2016 17:23:50 GMT"
+                            },
+                            {
+                                "text": "Since day one, my <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  screen has been configured to be always-on. I've used interactive watch faces and tracked my steps using the active Google Fit step tracker, and I have not had to worry about battery life. Not once has the watch gone dead.&nbsp;",
+                                "created": "Fri, 22 Jul 2016 17:23:51 GMT"
+                            },
+                            {
+                                "text": "In my opinion, if your smartwatch screen is not always-on, whether in an ambient mode or full power, you are not getting full value from the watch. For example, I had configured the Moto 360 to not display unless I press the crown, which eliminates the glance-ability of the watch. One of the reasons to wear a smartwatch is to quickly see information without having to use a smartphone, tablet, or computer.&nbsp;",
+                                "created": "Fri, 22 Jul 2016 17:23:52 GMT"
+                            },
+                            {
+                                "text": "While I am on the topic of the display, let me say that the AMOLED screen on the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  is gorgeous. The colors are vibrant and text is very legible.&nbsp;",
+                                "created": "Fri, 22 Jul 2016 17:23:53 GMT"
+                            },
+                            {
+                                "text": "The <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  seems thicker than the original Moto 360, but <a href=\"http://www.gsmarena.com/huawei_watch-7687.php\">according to GSM Arena it is in fact 2 mm thinner</a>, and it has a smaller, 300 mAh battery compared to the 320 mAh battery in the Moto 360. I assumed the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  had a larger battery, so I am surprised to learn it does not.&nbsp;The <a href=\"https://en.wikipedia.org/wiki/AMOLED\">AMOLED screen</a> is a reason for the Huawei Watch's battery life because it consumes much less power than other screen display technology.&nbsp;",
+                                "created": "Fri, 22 Jul 2016 17:23:54 GMT"
+                            },
+                            {
+                                "text": "<span>Another problem I had with the Moto 360 is that it often lost connection with my <a href=\"http://www.gsmarena.com/huawei_nexus_6p-7588.php\">Nexus 6P</a>, and that might be a contributor to its poor battery life. I have not had similar problems with the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>, it maintains connection with the <a href=\"http://www.gsmarena.com/huawei_nexus_6p-7588.php\">Nexus 6P</a>  throughout the day. The Huawei Watch supports Bluetooth LE 4.1 while the original Moto 360 supports LE 4.0, so that might be a factor with the connectivity&nbsp;difference.&nbsp;</span>",
+                                "created": "Fri, 22 Jul 2016 17:23:55 GMT"
+                            },
+                            {
+                                "text": "<span>Of course, a major difference between the two watches is that the Moto 360 is a first generation Android Wear watch, being one of the first ones sold starting in September 2014. The <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  is a second generation Android Wear watch that became available in September 2015, so Huawei&nbsp;benefited&nbsp;from learning about the problems with the first generation&nbsp;watches.&nbsp;</span>",
+                                "created": "Fri, 22 Jul 2016 17:23:56 GMT"
+                            },
+                            {
+                                "text": "<span>The key point here, I think, is that if you tried one of the first generation watches like the Moto 360 and were disappointed, I think it is worth checking out the newest watches as they are clearly better than the first ones. Given the discount price I payed for the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  I am very pleased with this purchase and I have a more favorable view of Android Wear.&nbsp;</span>",
+                                "created": "Fri, 22 Jul 2016 17:23:57 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Replacing The Huawei Watch Band",
+                        "created": "Fri, 22 Jul 2016 18:10:09 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "When I bought the <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a>  I was unsure about its <a href=\"https://www.amazon.com/dp/B01789KR2Q/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&amp;colid=2OSYVCFR78X3K&amp;coliid=I1RNQRNW6DQWHX&amp;psc=1\">mesh band </a>because most metal bands pull on the hair on my wrist and is therefore uncomfortable. At first I was surprised at how comfortable the mesh band felt, but I started to have two issues. One is that I don't find it easy to put the band on my wrist, and second is that it isn't easy to tighten the band to the point so that it doesn't move.  ",
+                                "created": "Fri, 22 Jul 2016 18:10:10 GMT"
+                            },
+                            {
+                                "text": "I ended up ordering a replacement band that arrived today. Replacing the band was easy thanks to Huawei's design that provides a quick release mechanism. The quick release mechanism makes it easy to swap watch bands without paying the high price for <a href=\"https://store.google.com/category/mode_watch_bands\">the MODE bands</a> Google sells. ",
+                                "created": "Fri, 22 Jul 2016 18:10:11 GMT"
+                            },
+                            {
+                                "text": "Huawei's bands are even more expensive than the MODE bands, with <a href=\"https://www.amazon.com/dp/B01789KR2Q/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&amp;colid=2OSYVCFR78X3K&amp;coliid=I1RNQRNW6DQWHX&amp;psc=1\">the lowest price black leather band</a> costing $54.99. <a href=\"https://www.amazon.com/dp/B01789KR2Q/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&amp;colid=2OSYVCFR78X3K&amp;coliid=I1RNQRNW6DQWHX&amp;psc=1\">The mesh band costs $129</a>, suggesting that the band is about a third of the regular price of the watch! The black leather band that I bought on <a href=\"http://Amazon.com\"><span data-auto-link=\"true\" data-href=\"http://Amazon.com\">Amazon.com</span></a> cost $12.99 and is a nice, soft band. The same company that makes the leather band I bought also sells a mesh band for $18.99.&nbsp;",
+                                "created": "Fri, 22 Jul 2016 18:10:12 GMT"
+                            },
+                            {
+                                "text": "If you replace the band be sure to buy the 18mm size, which is actually pretty standard so you are likely to find a band in a local store as well as online.",
+                                "created": "Fri, 22 Jul 2016 18:10:13 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 22 Jul 2016 20:04:59 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Nature box.... jalapeno cashews.... omg!",
+                                "created": "Fri, 22 Jul 2016 20:05:00 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Sat, 23 Jul 2016 00:07:31 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've been having two issues with Google Now Reminders on my <a href=\"http://www.gethuawei.com/huawei-watch\">Huawei Watch</a> . First, the reminders are appearing on the phone an hour early. The second issue is that I cannot mark reminders done or snooze them. I think both of these issues are due to the fact that I've been running the beta of the Google app on my <a href=\"http://www.gsmarena.com/huawei_nexus_6p-7588.php\">Nexus 6P</a>  so I have installed the beta. Unfortunately, it looks like the home screens on the Nexus 6P have been reset, so I will have to reconfigure them, but first I am going to reboot the phone.",
+                                "created": "Sat, 23 Jul 2016 00:07:32 GMT"
+                            },
+                            {
+                                "text": "Reboot didn't make a difference, and unfortunately the reminders are still messed up.&nbsp;",
+                                "created": "Sat, 23 Jul 2016 00:07:33 GMT"
+                            },
+                            {
+                                "text": "Based on a review of the <a href=\"https://productforums.google.com/forum/#!forum/android-wear\">Android Wear user forum</a>, this appears to be a common problem that has been appearing for several months. It's amazing that this problem has persisted so long given that Reminders is a key function of Android Wear and Google Now.&nbsp;",
+                                "created": "Sat, 23 Jul 2016 00:07:34 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/24/2016",
+                "created": "Mon, 25 Jul 2016 00:19:39 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Mon, 25 Jul 2016 00:19:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Dave has created <a href=\"https://github.com/scripting/1999-project/blob/master/docs/docker.md\">a Docker image for nodestorage.js</a>, which hosts the 1999 blogging software I am using to edit this site. <b>Cool!</b>",
+                                "created": "Mon, 25 Jul 2016 00:19:40 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/26/2016",
+                "created": "Tue, 26 Jul 2016 16:01:16 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Tue, 26 Jul 2016 16:01:16 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've been running Nougat for a while on my Nexus 9, and I have not seen any features that make <a href=\"https://www.yahoo.com/tech/whats-android-nougat-085949376.html\">this release of Android desirable</a>.&nbsp;",
+                                "created": "Tue, 26 Jul 2016 16:01:17 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/27/2016",
+                "created": "Wed, 27 Jul 2016 21:24:42 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 27 Jul 2016 21:24:42 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"https://help.evernote.com/hc/en-us/articles/223607067?spJobID=821987634&amp;spMailingID=15056393&amp;spReportId=ODIxOTg3NjM0S0&amp;spUserID=MzMwMzAzMDYxODgS1\">Evernote is discontinuing Evernote Touch</a>, which is probably good because it is not a very good application. The date for the turnover is August 2. I did not know that <a href=\"https://blogs.windows.com/windowsexperience/2016/06/29/windows-10-anniversary-update-available-august-2/\">Microsoft had already announced</a> that August 2 is the date for when Windows 10 Anniversary Edition will be released.",
+                                "created": "Wed, 27 Jul 2016 21:24:43 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "7/29/2016",
+                "created": "Fri, 29 Jul 2016 21:55:51 GMT",
+                "subs": [
+                    {
+                        "text": "Checking Out Sandstorm",
+                        "created": "Fri, 29 Jul 2016 21:55:51 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I found a new toy to play with called <a href=\"https://sandstorm.io/\">Sandstorm</a> that provides an easy way to host your own web apps. I've provisioned a new server from my resources at CloudAtCost, and it utilizes a dynamic DNS server. It would be cool if I could host this on one of my Raspberry Pis but apparently they don't have enough memory.",
+                                "created": "Fri, 29 Jul 2016 21:55:52 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

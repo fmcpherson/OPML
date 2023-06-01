@@ -1,0 +1,475 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Thu, 23 Dec 2021 19:36:54 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2016-09.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2016-09.json",
+        "flPublic": true,
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "dateCreated": "Thu, 23 Dec 2021 19:36:54 GMT"
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "9/2/2016",
+                "created": "Fri, 02 Sep 2016 13:56:37 GMT",
+                "subs": [
+                    {
+                        "text": "From Products To Services",
+                        "created": "Fri, 02 Sep 2016 13:56:37 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "In <a href=\"https://stratechery.com/2016/google-uber-and-the-evolution-of-transportation-as-a-service/\">an article written by Ben Thompson</a> in which he presents what he calls Transportation As A Service, Ben writes this about Ford's chances in a TaaS world: <i>\"nearly every aspect of the company would need to transform itself from a product model to a service model, and that is even less likely than the company leading the way in self-driving technology.\"</i>",
+                                "created": "Fri, 02 Sep 2016 13:56:38 GMT"
+                            },
+                            {
+                                "text": "What immediately popped in my head is that in a subtle way, the transformation from a production model to a service model, or at least the fusion of the two in an attempt to transform culture, is <a href=\"http://articles.latimes.com/1994-05-20/business/fi-60133_1_gm-employees\">what General Motors attempted when they acquired EDS in 1984</a>.&nbsp;",
+                                "created": "Fri, 02 Sep 2016 13:56:39 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Pixel Smartphones?",
+                        "created": "Fri, 02 Sep 2016 14:59:05 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://www.androidpolice.com/2016/09/01/google-will-announce-pixel-phones-4k-chromecast-google-home-daydream-vr-viewer-on-october-4th/\">Reports</a> are that Google will be announcing two new smartphones in October that will have Google's Pixel hardware branding rather than the Nexus branding.&nbsp;",
+                                "created": "Fri, 02 Sep 2016 14:59:06 GMT"
+                            },
+                            {
+                                "text": "Nexus phones are developed via a partnership between Google and a select hardware partner that have a pure Android experience, are directly updated by Google, are sold on Google's store, but are branded such that it is clearly known who is the hardware manufacturer. Nexus phones are not truly Google phones. For example, the Nexus 6P is a Huawei phone and in fact you can order a Nexus 6P either <a href=\"https://store.google.com/product/nexus_6p\">from Google</a> or <a href=\"http://www.gethuawei.com/nexus6p\">Huawei</a>.&nbsp;",
+                                "created": "Fri, 02 Sep 2016 14:59:07 GMT"
+                            },
+                            {
+                                "text": "Pixel came into existence when Google announced, and later sold, <a href=\"https://en.wikipedia.org/wiki/Chromebook_Pixel\">the original Chromebook Pixel</a>. The Chromebook Pixel was clearly Google hardware and it is not obvious who actually manufactures it. There is no partnership with Pixel products, they are sold as Google products although clearly manufactured by some other company.",
+                                "created": "Fri, 02 Sep 2016 14:59:08 GMT"
+                            },
+                            {
+                                "text": "If true, the new Pixel smartphones will be a little unique in that we appear to know who is manufacturing them for Google, reports are it is HTC. If the past is an indicator, the Pixel phones will be only sold on Google's store and will only have Google branding.&nbsp;",
+                                "created": "Fri, 02 Sep 2016 14:59:09 GMT"
+                            },
+                            {
+                                "text": "From the beginning, Nexus has been about partnership and leading the Android smartphone market. Part of that partnership was an attempt to influence how Android phones were developed. My guess is that originally Google hoped their hardware partners would decide to just use the \"stock\" Android software and updates and focus on hardware as a their competitive advantage.&nbsp;",
+                                "created": "Fri, 02 Sep 2016 14:59:10 GMT"
+                            },
+                            {
+                                "text": "Unfortunately, while they were able to work with several different Android smartphone manufacturers over the years, none of those manufacturers decided to transform all their products to stock Android. Worse, Samsung and others have articulated their desire to use other smartphone software and not rely on Google at all.&nbsp;",
+                                "created": "Fri, 02 Sep 2016 14:59:11 GMT"
+                            },
+                            {
+                                "text": "Consequently, I think Google has decided to give up on the idea that they could influence the smartphone market via the Nexus \"program.\" Instead, it appears they have decided they will sell smartphones are that are clearly Google phones (In a way returning to the original G1 branding) and in essence be competitors with the Android smartphone manufacturers.&nbsp;",
+                                "created": "Fri, 02 Sep 2016 14:59:12 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/4/2016",
+                "created": "Mon, 05 Sep 2016 02:08:25 GMT",
+                "subs": [
+                    {
+                        "text": "To Grow Is To Live",
+                        "created": "Mon, 05 Sep 2016 02:08:25 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The other night I had a conversation with a friend who is a teacher, and it involved the state of education in the United States. I've been thinking about growth, and upon reflection on this conversation the title of Robert Fulghum's book, <i><a href=\"https://www.goodreads.com/work/quotes/2399046-all-i-really-need-to-know-i-learned-in-kindergarten\">All I Really Need to Know I Learned in Kindergarten</a></i>, came to mind.",
+                                "created": "Mon, 05 Sep 2016 02:08:26 GMT"
+                            },
+                            {
+                                "text": "I think the title states a truth about education in the United States, elementary grades (K thru 4th) are about growth, then you have a transitional period called either middle school or junior high (5th thru 8th grades), and then you have high school.&nbsp;",
+                                "created": "Mon, 05 Sep 2016 02:08:27 GMT"
+                            },
+                            {
+                                "text": "What we have in how education is commonly structured is a transition from growth to something else that is less about growth and more about indoctrination of an ideology that we believe prepares children for adulthood.&nbsp;<span>&nbsp;</span>",
+                                "created": "Mon, 05 Sep 2016 02:08:28 GMT"
+                            },
+                            {
+                                "text": "Originally, the ideology was citizenship, but I think that over time the ideology has shifted towards meritocracy. Today the focus is on preparing our children to be successful, and that success is defined within the context of capitalism.&nbsp;",
+                                "created": "Mon, 05 Sep 2016 02:08:29 GMT"
+                            },
+                            {
+                                "text": "We can debate whether or not this is a good thing, I have no doubt that a great deal of people believe this is exactly what schools and teachers should be doing. However, I don't believe this is growth.",
+                                "created": "Mon, 05 Sep 2016 02:08:30 GMT"
+                            },
+                            {
+                                "text": "Why does it matter?&nbsp;",
+                                "created": "Mon, 05 Sep 2016 02:08:31 GMT"
+                            },
+                            {
+                                "text": "It matters because too many people take the first six words of Fulghum's title literally, \"All I Really Need to Know....\" Too many people believe there is a time in their life at which they really do know all they need to know. The very structure of education teaches that there is a time in life when growth stops.",
+                                "created": "Mon, 05 Sep 2016 02:08:32 GMT"
+                            },
+                            {
+                                "text": "The consequence is that individual growth ends far too early in life. A great deal of society's problems is caused by people who stay within the first half of their life and don't continue growing, and with that there is no possibility for progress unless everyone else in the world conforms to your way of seeing.&nbsp;",
+                                "created": "Mon, 05 Sep 2016 02:08:33 GMT"
+                            },
+                            {
+                                "text": "To live is to grow, and growth only occurs when one realizes they will never know all they really need to know and that every day is an opportunity for their life to be transformed.&nbsp;",
+                                "created": "Mon, 05 Sep 2016 02:08:34 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/5/2016",
+                "created": "Mon, 05 Sep 2016 15:56:13 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Mon, 05 Sep 2016 15:56:13 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I read web content using Pocket. &nbsp;I wish there was a way for me to blog about what I read directly within Pocket &nbsp;",
+                                "created": "Mon, 05 Sep 2016 15:56:14 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 05 Sep 2016 16:18:34 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "While I have owned an iPad ever since the first one, I had been living with the iPad 3 for several years. Earlier this summer I had a need for a device that will run iOS 10 and therefore bought an iPad 4 Mini. Consequently I have been using iOS more recently than in the past.&nbsp;",
+                                "created": "Mon, 05 Sep 2016 16:18:35 GMT"
+                            },
+                            {
+                                "text": "There are several little things I dislike about iOS in comparison with Android. High on the list is that it is much harder to share content with iOS than Android. It seems to me sharing is fundamental to Android while a bolt on to iOS.&nbsp;",
+                                "created": "Mon, 05 Sep 2016 16:18:36 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/6/2016",
+                "created": "Tue, 06 Sep 2016 14:24:36 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Tue, 06 Sep 2016 14:24:36 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I think I have enabled Disqus comments to this site, this is a test post to confirm.&nbsp;",
+                                "created": "Tue, 06 Sep 2016 14:24:37 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Tue, 06 Sep 2016 14:51:58 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "And now, I might have added Google Analytics. Did it work? Doesn't look like it. While I see the variable being set in the page source, I don't see the Javascript being added to the page source. I think I need to add more to the config.json file.",
+                                "created": "Tue, 06 Sep 2016 14:51:59 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Tue, 06 Sep 2016 20:32:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The server I had hosting <a href=\"https://github.com/scripting/fargoPublisher\">Fargo Publisher</a> had a hard disk crash, causing me to delete the virtual machine and start over. I am in the process of building the new server, partly from <a href=\"https://github.com/scripting/1999-project/blob/master/docs/setup.md\">the instructions</a> for setting up a <a href=\"http://1999.io\"><span data-auto-link=\"true\" data-href=\"http://1999.io\">1999.io</span></a>&nbsp;server.&nbsp;",
+                                "created": "Tue, 06 Sep 2016 20:32:18 GMT"
+                            },
+                            {
+                                "text": "Update: I've re-built the server, so <a href=\"http://webnotes.frankmcpherson.net\"><span data-auto-link=\"true\" data-href=\"http://webnotes.frankmcpherson.net\">webnotes.frankmcpherson.net</span></a>&nbsp;should now be back up.&nbsp;",
+                                "created": "Tue, 06 Sep 2016 20:32:19 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/7/2016",
+                "created": "Wed, 07 Sep 2016 17:10:17 GMT",
+                "subs": [
+                    {
+                        "text": "The 2016 Apple iPhone Event",
+                        "created": "Wed, 07 Sep 2016 17:10:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Watching the Apple iPhone Event on <a href=\"http://live.twit.tv\">TWIT</a>. Super Mario Run is coming to iOS in time for the holidays. No word about price. iMessage Mario stickers coming when iOS 10 is released.",
+                                "created": "Wed, 07 Sep 2016 17:10:18 GMT"
+                            },
+                            {
+                                "text": "Pokeman Go for Apple Watch, will that influence people to buy Apple Watch? Apple Watch Series 2 is the new Apple Watch, and it is \"swim proof\"? Rated water resistant for 50 meters. The Series 2 upgrades are targeted at fitness. Question is, do these features compel people to upgrade?",
+                                "created": "Wed, 07 Sep 2016 17:10:19 GMT"
+                            },
+                            {
+                                "text": "I have to attend a meeting, so I am not able to listen to the audio at this time. I'll will have to back and watch later. In the mean time I'll scan through the articles that other people write.",
+                                "created": "Wed, 07 Sep 2016 17:10:20 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/9/2016",
+                "created": "Fri, 09 Sep 2016 20:39:39 GMT",
+                "subs": [
+                    {
+                        "text": "Upgrading To iOS 10",
+                        "created": "Fri, 09 Sep 2016 20:39:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am installing iOS 10 on my iPad 4 Mini to prepare for the official launch of iOS 10 on Tuesday. To do this I went to <a href=\"http://beta.apple.com\">beta.apple.com</a>&nbsp;and signed up for the public beta. My understanding is that the version now being pushed to beta users is the same as the general release version that will be available to everyone on Tuesday.",
+                                "created": "Fri, 09 Sep 2016 20:39:40 GMT"
+                            },
+                            {
+                                "text": "Upgrade is complete, now to figure out what is new.&nbsp;",
+                                "created": "Fri, 09 Sep 2016 20:39:41 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Docker for Windows",
+                        "created": "Fri, 09 Sep 2016 20:55:41 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am really testing the computer gods. While I am upgrading my iPad 4 Mini to iOS 10, I am also installing and testing Docker for Windows.&nbsp;",
+                                "created": "Fri, 09 Sep 2016 20:55:42 GMT"
+                            },
+                            {
+                                "text": "Docker for Windows requires Windows 10 Pro and Hyper-V, which hosts the MobyLinux virtual machine. To run Docker on Windows 7 you need use Docker Toolbox, which uses Virtual Box to host the Linux virtual machine that runs Docker.&nbsp;",
+                                "created": "Fri, 09 Sep 2016 20:55:43 GMT"
+                            },
+                            {
+                                "text": "I had not been able to run Docker for Windows until now because my work PC ran Windows 7, but a couple weeks ago I upgraded to Windows 10. Earlier this week I enabled/installed Hyper-V and have been using it for hte first time.",
+                                "created": "Fri, 09 Sep 2016 20:55:44 GMT"
+                            },
+                            {
+                                "text": "If you run vmWare Workstation or VirtualBox on a PC prior to installing Hyper-V you will find that after installing Hyper-V neither program will run. The reason is that neither vmWare or VirtualBox can co-exist with the hypervisor that boots after Hyper-V is installed. There is a way to switch between Hyper-V and vmWare/VirtualBox but it requires rebooting the PC.",
+                                "created": "Fri, 09 Sep 2016 20:55:45 GMT"
+                            },
+                            {
+                                "text": "<br>",
+                                "created": "Fri, 09 Sep 2016 20:55:46 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/14/2016",
+                "created": "Thu, 15 Sep 2016 01:12:23 GMT",
+                "subs": [
+                    {
+                        "text": "Tradition or We've Always Done It This Way",
+                        "created": "Thu, 15 Sep 2016 01:12:23 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "When Ruth and I were seeking a church, as the more \"experienced\" church goer I had more detailed requirements. I was raised Roman Catholic so my only church experience was liturgical, and so for a service to be \"church\" for me it had to fit with what I had most experienced.&nbsp;<blockquote>Robes, cleric collars, and liturgy hold importance for some of us because they are an imprint of what is church, \"because we have always done it this way.\"&nbsp;</blockquote>",
+                                "created": "Thu, 15 Sep 2016 01:12:24 GMT"
+                            },
+                            {
+                                "text": "Because we have always done it this way is very powerful because it gives us a sense of control, and what we most desire is being in control. I like my church just the way it is, thank you very much. Ironic, if you know the history of the Roman Catholic church and why it was assimilated by the Empire. Turns out, <a href=\"http://www.gotquestions.org/origin-Catholic-church.html\">Constantine was very insightful</a>. ",
+                                "created": "Thu, 15 Sep 2016 01:12:25 GMT"
+                            },
+                            {
+                                "text": "So questioning why we do what we do is important, and not doing things simply because we have always done them is also important. But, I think equally wrong is to stop doing things simply to not, and I wonder whether not doing something for the sake of being welcoming is simply an excuse or a true reason. Are the decisions we make today really based on <a href=\"https://www.washingtonpost.com/opinions/jesus-doesnt-tweet/2015/04/30/fb07ef1a-ed01-11e4-8666-a1d756d0218e_story.html?utm_term=.0bddc76b7efd\">what millennials want</a>, or are they based on what the generation in power (Gen X'ers) want? And, are our decisions based on a lack of appreciation for what came before, or truly formed by the Spirit in moving us forward? ",
+                                "created": "Thu, 15 Sep 2016 01:12:26 GMT"
+                            },
+                            {
+                                "text": "The word we often interchange with \"because we have always done it this way\" is tradition. Generations before us separated Roman Catholics from Protestants along the lines of tradition (as implemented by <a href=\"http://people.howstuffworks.com/papacy1.htm\">papal authority</a>) and <a href=\"https://en.wikipedia.org/wiki/Sola_scriptura\">sola scripture</a>. What I find ironic is that most who hold the Bible alone (or are \"Bible believing\") don't seem to realize that they too are embracing tradition as the Bible is a record of tradition. Tradition was likely important to Jesus, who<a href=\"https://www.amazon.com/Every-Christian-Needs-About-Jewishness-ebook/dp/B013XB2FWS/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1473902973&amp;sr=1-1&amp;keywords=rabbi+evan+moffic\">&nbsp;is a Jew</a>&nbsp;and&nbsp;raised in a Jewish tradition, and yet we Christians tend to know so very little of Jewish tradition and thought. ",
+                                "created": "Thu, 15 Sep 2016 01:12:27 GMT"
+                            },
+                            {
+                                "text": "American Christianity, in particular, tends to eschew tradition for the sake of defining Christianity within the context of an American capitalistic world view. Jesus was white, wants us to be financially successful (so that we can help others and have all that we want), and <a href=\"http://www.tennessean.com/story/opinion/contributors/2016/09/09/national-anthem-flap-prompts-look-christian-take-patriotism/90120632/?sessionKey=&amp;autologin=\">would always stand during the national anthem</a>. After almost a century of all this, one has to ask, has American Christianity been successful? ",
+                                "created": "Thu, 15 Sep 2016 01:12:28 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://www.pewforum.org/2010/02/17/religion-among-the-millennials/\">The numbers</a>, as most church professionals know, are starting to say no. Might one of the reasons be that since the church has become so assimilated by society (see Constantine reference above) it is nearly impossible to tell the difference between the kingdom (society as we know it, or what most consider \"normal\") and the Kingdom of God? ",
+                                "created": "Thu, 15 Sep 2016 01:12:29 GMT"
+                            },
+                            {
+                                "text": "Perhaps<a href=\"https://www.biblegateway.com/passage/?search=Romans+12%3A2&amp;version=MSG\">&nbsp;doing things differently is not all bad</a>. Wearing robes and clerical collars are not the norm in society today, so what if that tradition is exactly what is needed?",
+                                "created": "Thu, 15 Sep 2016 01:12:30 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/15/2016",
+                "created": "Thu, 15 Sep 2016 13:46:10 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 15 Sep 2016 13:46:10 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "\"With the endless diversity in creation, it is clear that God is not obsessed with uniformity. God does not desire uniformity, but unity. <b>Unity is diversity embraced by an infinitely generous love</b>.\" - <a href=\"http://thecenterforactionandcontemplation.cmail2.com/t/ViewEmail/d/07C1E85B8158B9BC/D41276A66FD4753FC67FD2F38AC4859C\">Richard Rohr</a> (emphasis mine)",
+                                "created": "Thu, 15 Sep 2016 13:46:11 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/17/2016",
+                "created": "Sat, 17 Sep 2016 21:58:51 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sat, 17 Sep 2016 21:58:51 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've created an <a href=\"https://ubuntu-mate.org/raspberry-pi/\">Ubuntu MATE</a> microSD disk for my <a href=\"https://www.raspberrypi.org/products/raspberry-pi-3-model-b/\">Raspberry Pi3</a>. I enjoy tinkering around with the Raspberry Pi and so far my greatest use for it is running a local instance of <a href=\"https://github.com/scripting/river5\">River5</a>. What I want to do next is try <a href=\"http://raspex.exton.se/?p=453\">Android on the Raspberry Pi</a>. Since Android is written specifically for ARM, I would think that Android may be one of the best performing operating systems on the Raspberry Pi. Versions of Android Marshmallow and <a href=\"http://www.zdnet.com/article/android-nougat-googles-latest-os-ported-to-the-raspberry-pi/\">Nougat</a> have been ported to PI, but I think Google has officially made a Nougat version available. ",
+                                "created": "Sat, 17 Sep 2016 21:58:52 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/26/2016",
+                "created": "Mon, 26 Sep 2016 20:01:49 GMT",
+                "subs": [
+                    {
+                        "text": "Recycling An Old Computer",
+                        "created": "Mon, 26 Sep 2016 20:01:49 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Many years ago, when the local CompUSA went out of business, I bought a <a href=\"http://www.cnet.com/products/hp-pavilion-media-center-a1726x-pentium-d-2-8ghz-1gb-ram-320gb-hdd-vista-home-premium/specs/\">HP Pavilion a1726x</a> for a couple hundred bucks. One of the interesting things about this PC is that I think it was build for Mexico as the BIOS is in Spanish, it came with Spanish and English keyboards, and it's labeling is bi-lingual.&nbsp;",
+                                "created": "Mon, 26 Sep 2016 20:01:50 GMT"
+                            },
+                            {
+                                "text": "The computer has really been sitting around un-used but as part of cleaning up our basement, I finally got around to connecting it up and turning it on to see whether it still works. At the least I want to wipe the hard drive before giving the computer away.",
+                                "created": "Mon, 26 Sep 2016 20:01:51 GMT"
+                            },
+                            {
+                                "text": "It came with Windows Vista Home and while it booted, after logging in I would end up at a blank screen. Turns out, I actually have a copy of Windows Vista that I could have reinstalled, but I decided to see whether I could install Linux.",
+                                "created": "Mon, 26 Sep 2016 20:01:52 GMT"
+                            },
+                            {
+                                "text": "First, I installed Ubuntu LTS 16.04, which installed successfully but felt a little sluggish. While the computer is by no means current, it does have a dual core 2.8 GHz processor and 1 GB of RAM.&nbsp;",
+                                "created": "Mon, 26 Sep 2016 20:01:53 GMT"
+                            },
+                            {
+                                "text": "So, I searched on Google for the <a href=\"https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=best%20linux%20distro%20for%20old%20computers\">best Linux distros for old computers</a> and read this article on <a href=\"http://www.tecmint.com/linux-distributions-for-old-computers/\">five distros for old computers</a>. I tried <a href=\"http://lxle.net/\">LXLE </a>and <a href=\"http://lubuntu.net/\">Lubuntu </a>and both had problems recognizing (of all things) the keyboard. I suspect the Spanish-language BIOS might have been an issue. I am a bit disappointed because they both look pretty good, but I really don't have the time or desire to work hard at trying to make either work.&nbsp;",
+                                "created": "Mon, 26 Sep 2016 20:01:54 GMT"
+                            },
+                            {
+                                "text": "Next, I tried Mint. I installed <a href=\"http://blog.linuxmint.com/?p=3051\">Mint 18 Sarah Cinnamon Edition</a>, which specs align to the Pavilion and it installed successfully. Mind you, it's not really fast but is functional.&nbsp;",
+                                "created": "Mon, 26 Sep 2016 20:01:55 GMT"
+                            },
+                            {
+                                "text": "Now I need to decide whether I am keeping this computer, and if so, how to incorporate into my set up, they main problem being the monitor. I have an EliteDisplay S240ml with two HDMI and one VGA ports, but I use the VGA with my work laptop so unless I want to be constantly switching cables, I will need to see whether I can connect it to an HDMI port, which means getting a <a href=\"https://www.amazon.com/VicTsing-Converter-Notebook-Computer-Projector/dp/B01F3J75G4/ref=dp_ob_title_wld\">VGA to HDMI converter</a>.&nbsp;",
+                                "created": "Mon, 26 Sep 2016 20:01:56 GMT"
+                            },
+                            {
+                                "text": "And how much money do I want to be spending on this old computer?&nbsp;",
+                                "created": "Mon, 26 Sep 2016 20:01:57 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/29/2016",
+                "created": "Thu, 29 Sep 2016 14:49:23 GMT",
+                "subs": [
+                    {
+                        "text": "Corrupt Cache Prevents Chrome From Opening Web Pages",
+                        "created": "Thu, 29 Sep 2016 14:49:23 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I recently started to have problems with Google Chrome where it would not load any web pages unless I was using incognito mode. The fact that it worked with incognito and not regularly provides a clue to the problem, if you understand a bit of what incognito does, but because the problem started at the same time I changed my computer's password, I was at first thinking it was caused by the password change.",
+                                "created": "Thu, 29 Sep 2016 14:49:24 GMT"
+                            },
+                            {
+                                "text": "The problem was most likely caused by some corruption in the cache on the hard drive of my computer that Chrome uses to store web pages. Incognito doesn't cache information, which is a big part of how it insures there is no trace of web browsing history on the computer.&nbsp;",
+                                "created": "Thu, 29 Sep 2016 14:49:25 GMT"
+                            },
+                            {
+                                "text": "One of the first troubleshooting steps you can try is to <a href=\"https://productforums.google.com/forum/#!topic/chrome/caiyitnfLvY\">delete all browsing history since the beginning of time</a> by clicking Settings, History, Clear browsing data.&nbsp;",
+                                "created": "Thu, 29 Sep 2016 14:49:26 GMT"
+                            },
+                            {
+                                "text": "Since I really was not sure what was happening, I uninstalled Chrome from the computer and at that time told it to delete all browsing data. After uninstalling Chrome I opened File Explorer and removed c:\\Users\\[user id]\\AppData\\Local\\Google\\Chrome.&nbsp;",
+                                "created": "Thu, 29 Sep 2016 14:49:27 GMT"
+                            },
+                            {
+                                "text": "Finally, I re-installed Chrome, tested to confirm it was able to open web pages, and after confirming it worked I signed-in to Chrome with my Google account to synchronize my extensions.&nbsp;",
+                                "created": "Thu, 29 Sep 2016 14:49:28 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "9/30/2016",
+                "created": "Fri, 30 Sep 2016 13:56:39 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 30 Sep 2016 13:56:39 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "After the debate on Monday, Trump tried to be all \"high and mighty\" saying he did not bring up anything about Bill Clinton's infidelities.",
+                                "created": "Fri, 30 Sep 2016 13:56:40 GMT"
+                            },
+                            {
+                                "text": "First off, pot calling kettle black? A dude who has had multiple divorces is not in position to call out anyone's infidelities.&nbsp;",
+                                "created": "Fri, 30 Sep 2016 13:56:41 GMT"
+                            },
+                            {
+                                "text": "Second, I've never got how <a href=\"https://www.washingtonpost.com/local/enabler-or-family-defender-how-hillary-clinton-responded-to-husbands-accusers/2016/09/28/58dad5d4-6fb1-11e6-8533-6b0b0ded0253_story.html\">people have issue with Hillary</a> over Bill's actions. Particularly since such accusations usually come from people who espouse personal responsibility.&nbsp;",
+                                "created": "Fri, 30 Sep 2016 13:56:42 GMT"
+                            },
+                            {
+                                "text": "Bill is ultimately responsible for his actions, not Hillary. Marriage, like all relationships, takes work and it isn't \"one size fits all.\" Things like trust and loyalty are important parts of marriage, and so is forgiveness.&nbsp;",
+                                "created": "Fri, 30 Sep 2016 13:56:43 GMT"
+                            },
+                            {
+                                "text": "Even if, as some people claim, Hillary only hangs on to Bill for her own ambitions, in what way does that affect how she will be President? And frankly, if you have an issue with how Hillary handles her marriage then you must also have issue with how Trump has handled his marriages, otherwise you are just being sexist.&nbsp;",
+                                "created": "Fri, 30 Sep 2016 13:56:44 GMT"
+                            },
+                            {
+                                "text": "None of us are in a position to question the reasons why one chooses to forgive, and Christians ought to understand than this better than most.&nbsp;",
+                                "created": "Fri, 30 Sep 2016 13:56:45 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 30 Sep 2016 23:11:29 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I just upgraded the Raspbian image for my <a href=\"https://www.raspberrypi.org/\">RaspberryPi3</a> to the <a href=\"https://www.raspberrypi.org/blog/introducing-pixel/\">PIXEL version of the user interface</a>, which I am trying out right now. I like the visual update to the UI, but I am particularly happy that it includes Chromium.&nbsp;",
+                                "created": "Fri, 30 Sep 2016 23:11:30 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

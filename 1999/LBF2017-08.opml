@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Mon, 27 Dec 2021 19:51:46 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2017-08.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2017-08.json</urlJson>
+		<flPublic>true</flPublic>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateCreated>Mon, 27 Dec 2021 19:51:01 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="This file contains blog posts that I wrote using 1999.io in August, 2017" created="Mon, 27 Dec 2021 19:51:18 GMT" isComment="true"/>
+		<outline text="8/1/2017" created="Tue, 01 Aug 2017 19:48:35 GMT">
+			<outline text="Sharknado 5 Trailer" created="Tue, 01 Aug 2017 19:48:35 GMT" type="outline">
+				<outline text="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H1CsdePN14Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;" created="Tue, 01 Aug 2017 19:48:36 GMT"/>
+				</outline>
+			<outline text="August 1, 2017" created="Tue, 01 Aug 2017 19:55:00 GMT" type="outline">
+				<outline text="I've restored the viewport meta name in the template for this site and republished all pages, so all should be restored to the state prior to my playing around yesterday. Looks like I will have to dig deeper in to the CSS." created="Tue, 01 Aug 2017 19:55:01 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/4/2017" created="Fri, 04 Aug 2017 20:29:19 GMT">
+			<outline text="August 4, 2017" created="Fri, 04 Aug 2017 20:29:19 GMT" type="outline">
+				<outline text="I am playing with a personal CRM app called &lt;a href=&quot;https://monicahq.com/blog&quot;&gt;Monica&lt;/a&gt;, which is still in development. There is a hosted version, but you can also install it on any Linux server running Docker, so have it on my &lt;a href=&quot;http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/&quot;&gt;MintBox&lt;/a&gt;.&amp;nbsp;" created="Fri, 04 Aug 2017 20:29:20 GMT"/>
+				<outline text="Starting to see some strange behavior with &lt;a href=&quot;http://writing.frankmcpherson.org/2017/03/29/newKeyboardAndMouse.html&quot;&gt;my Logitech keyboard&lt;/a&gt;. Occasionally it starts repeating a key, which is really base when it is the backspace. Seems to be happening after I installed an update to the Logitech software on Windows 10." created="Fri, 04 Aug 2017 20:29:21 GMT"/>
+				<outline text="On May 5 I asked, &lt;a href=&quot;http://writing.frankmcpherson.org/2017/05/05/whatsMyNextPersonalComputer.html&quot;&gt;What's My Next Computer?&lt;/a&gt; Back then I was considering buying the Samsung Chromebook Plus, but I decided after it was announced to buy the &lt;a href=&quot;https://www.apple.com/ipad-pro/&quot;&gt;iPad Pro 10.5 inch&lt;/a&gt;." created="Fri, 04 Aug 2017 20:29:22 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/5/2017" created="Sat, 05 Aug 2017 17:25:44 GMT">
+			<outline text="August 5, 2017" created="Sat, 05 Aug 2017 17:25:44 GMT" type="outline">
+				<outline text="I just discovered that I can print from my iPad Pro 10.5 inch to my HP Officejet printer, and I didn’t install anything for it to happen. Surprised.&amp;nbsp;" created="Sat, 05 Aug 2017 17:25:45 GMT"/>
+				</outline>
+			<outline text="Writing Code On The iPad" created="Sat, 05 Aug 2017 20:30:26 GMT" type="outline">
+				<outline text="I’ve been noodling over how to write Nodejs code on my iPad Pro. To make it work I need two main parts, an editor and the ability to run node. I haven’t found a way to run node on the iPad, so I need an intermediary, which can be a Linux server. " created="Sat, 05 Aug 2017 20:30:27 GMT"/>
+				<outline text="For now I am using the remaining Ubuntu server I have running on CloudAtCost and I am accessing it via SSH using Termius. &lt;a href=&quot;https://appsto.re/us/K8AUG.i&quot;&gt;Termius&lt;/a&gt; works good enough, but I am finding a quirk in which text at the very bottom of the screen doesn’t scroll up automatically. I can clear the screen and then slide up using my finger, but this is inconvenient." created="Sat, 05 Aug 2017 20:30:28 GMT"/>
+				<outline text="While I could just use vim or nano to write code, I rather use an app on the iPad, which means I need a way to get what I write from the iPad to the server. GitHub is the logical choice as it provides a repository that I can then clone to any other server, which is important because the server at CloudAtCost is not reliable. " created="Sat, 05 Aug 2017 20:30:29 GMT"/>
+				<outline text="&lt;a href=&quot;https://appsto.re/us/xONC1.i&quot;&gt;Working Copy&lt;/a&gt; is a highly rated Git app for the iPad, so I went and bought a copy of it, but I still needed an editor. After a little research I bought &lt;a href=&quot;https://appsto.re/us/Kmz9D.i&quot;&gt;Buffer&lt;/a&gt;, which I found has built-in support for Github so it turns out I might not have needed to buy Working Copy. Buffer in fact handles commit and push in the background, all you do is Save any changes that I make." created="Sat, 05 Aug 2017 20:30:30 GMT"/>
+				<outline text="So, I have ended up with a workflow where I can write and edit code in Buffer, save it to my repository on Github, toggle over to Termius, login to my Ubuntu server, do a git pull to update the cloned copy of the repository and then execute and test the code. " created="Sat, 05 Aug 2017 20:30:31 GMT"/>
+				<outline text="          " created="Sat, 05 Aug 2017 20:30:32 GMT"/>
+				<outline text="The workflow requires an Internet connection in order to run and test what I write, but that is a pretty negligible issue that I can manage. I think an ideal solution would be a container that I could run on the iPad, but which had a full access to Linux command line tools.&amp;nbsp;" created="Sat, 05 Aug 2017 20:30:33 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/6/2017" created="Sun, 06 Aug 2017 18:18:46 GMT">
+			<outline text="" created="Sun, 06 Aug 2017 18:18:46 GMT" type="outline">
+				<outline text="I’ve published &lt;a href=&quot;https://realpersonalcomputing.com/2017/08/06/voice-assistants-make-for-real-personal-computing/&quot;&gt;the first blog post&lt;/a&gt; that I’ve written in Ulysses on my iPad to my Wordpress site." created="Sun, 06 Aug 2017 18:18:47 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/10/2017" created="Thu, 10 Aug 2017 21:20:10 GMT">
+			<outline text="" created="Thu, 10 Aug 2017 21:20:10 GMT" type="outline">
+				<outline text="&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;Turns out &lt;/span&gt;&lt;a href=&quot;https://realpersonalcomputing.com/2017/08/06/voice-assistants-make-for-real-personal-computing/&quot; style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;my comparison of Alexa to the Star Trek computer &lt;/a&gt;&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;is &lt;/span&gt;&lt;a href=&quot;http://www.wired.co.uk/article/amazon-alexa-jeff-bezos-worlds-biggest-company&quot; style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;more apt than I realized&lt;/a&gt;&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;.&lt;/span&gt;" created="Thu, 10 Aug 2017 21:20:11 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/12/2017" created="Sat, 12 Aug 2017 12:41:11 GMT">
+			<outline text="" created="Sat, 12 Aug 2017 12:41:11 GMT" type="outline">
+				<outline text="And so the guy who wrote the “memo” (is there such a thing as a ten page memo) &lt;a href=&quot;https://www.axios.com/how-google-became-an-echo-chamber-2471899207.html&quot;&gt;takes no responsibility for his firing&lt;/a&gt;. He did nothing wrong, except disrupt an entire company. I haven’t seen any explanation for why he felt the need to write the thing in the first place. To me it appears he wanted fame, and for that succeeded." created="Sat, 12 Aug 2017 12:41:12 GMT"/>
+				<outline text="I am also curious as to what qualifications this person has to be authoritative on the matter? The accusation of political correctness should not prevent us from asking why we should consider what a person is saying as more than their opinion.&amp;nbsp;" created="Sat, 12 Aug 2017 12:41:13 GMT"/>
+				<outline text="Finally, when did we start allowing people to say anything they damn please under the banner of political correctness? Does that mean there is no longer right and wrong? &amp;nbsp;" created="Sat, 12 Aug 2017 12:41:14 GMT"/>
+				</outline>
+			<outline text="" created="Sat, 12 Aug 2017 15:09:15 GMT" type="outline">
+				<outline text="Here is &lt;a href=&quot;https://techblog.bozho.net/not-productive-debate-women-tech/&quot;&gt;a pretty good post&lt;/a&gt; about the whole debate about diversity. My opinion is that upbringing and culture have most to do with gender issues than biology. I doubt anyone disagrees that men and women are biologically different, but many disagree that those differences preclude women and men from doing equally well in STEM.&amp;nbsp;" created="Sat, 12 Aug 2017 15:09:16 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/14/2017" created="Mon, 14 Aug 2017 14:11:13 GMT">
+			<outline text="" created="Mon, 14 Aug 2017 14:11:13 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://medium.com/thinkprogress/republicans-are-quietly-trying-to-turn-churches-into-dark-money-havens-9822579cb972&quot;&gt;If Republicans repeal the Johnson amendment&lt;/a&gt;, then we should remove the tax exempt status from churches.&amp;nbsp;" created="Mon, 14 Aug 2017 14:11:14 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/17/2017" created="Thu, 17 Aug 2017 14:53:00 GMT">
+			<outline text="Individualism not Racism" created="Thu, 17 Aug 2017 14:53:00 GMT" type="outline">
+				<outline text="People think racism is confined to people of one race/skin color/ethnicity thinking they are superior than a person of another race/skin color/ethnicity." created="Thu, 17 Aug 2017 14:53:01 GMT"/>
+				<outline text="But, if you are an educated, white person and you think you are superior to an un-educated white person, you are also a racist." created="Thu, 17 Aug 2017 14:53:02 GMT"/>
+				<outline text="Actually, racism isn't the right word. The real problem is egoism, or supremacy, or whatever it is that drives one to live their lives as though they are better than anyone else. Consequently, we have a whole bunch of people in this country who will swear up and down they are not racist because, they might have black friends, but think all those liberals are quacks or think all those conservatives are red necks, and are not different than one who is normally identified as racist." created="Thu, 17 Aug 2017 14:53:03 GMT"/>
+				<outline text="The opposite to egoism is empathy, which is simply the act of taking into consideration someone other than yourself. The conflict between egoism and empathy is lived out by those who complain of political correctness. Political correctness, like anything, can be taken to extreme, but the problem is what you may call politically correct I think is just basic manners and decency.&amp;nbsp;" created="Thu, 17 Aug 2017 14:53:04 GMT"/>
+				<outline text="The problem is not living in a world where anyone is afraid to offend anyone, &lt;b&gt;the problem is living in a world where people don't care whether or not they offend anyone.&amp;nbsp;&lt;/b&gt;" created="Thu, 17 Aug 2017 14:53:05 GMT"/>
+				<outline text="And by the way...it may just be that this very same issue is at the root of the economic inequality that currently exists.&amp;nbsp;" created="Thu, 17 Aug 2017 14:53:06 GMT"/>
+				<outline text="So, we have a societal issue that affects all of us, and at its current rate is going get worse. Any real transformation requires acknowledging the problem and leadership towards a different direction. We will not find this leadership in institutions, be they government or church. I believe the person who can leads us is Jesus, which requires us to &lt;a href=&quot;https://www.biblegateway.com/passage/?search=Luke+10%3A25-37&amp;amp;version=NRSV&quot;&gt;be open to His Way of love&lt;/a&gt;.&amp;nbsp;" created="Thu, 17 Aug 2017 14:53:07 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 17 Aug 2017 18:36:34 GMT" type="outline">
+				<outline text="What is &lt;a href=&quot;http://www.bbc.co.uk/religion/religions/christianity/beliefs/originalsin_1.shtml&quot;&gt;original sin&lt;/a&gt;?" created="Thu, 17 Aug 2017 18:36:35 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/18/2017" created="Fri, 18 Aug 2017 14:58:28 GMT">
+			<outline text="Owning The Actual Heritage" created="Fri, 18 Aug 2017 14:58:28 GMT" type="outline">
+				<outline text="Statues and flags are symbols that represent something and many people will say that something is heritage. The same people will say that we shouldn't be taking down the statues in an effort to revise or remove that heritage." created="Fri, 18 Aug 2017 14:58:29 GMT"/>
+				<outline text="The statues have been in place for many years, so what has changed? For me two things have changed, one is that many people are actually revising the history that those statues represent.&amp;nbsp;" created="Fri, 18 Aug 2017 14:58:30 GMT"/>
+				<outline text="Rather than representing the Civil War as an effort by southern states to secede from the union so that they can continue to own slaves, many people claim these symbols represent the underdog southern states fighting against a repressive federal government.&amp;nbsp;" created="Fri, 18 Aug 2017 14:58:31 GMT"/>
+				<outline text="Put another way, rather than reminding us of something we should no longer do, owning slaves, they are representing a cause, which is to fight against anyone who tells me to accept that which I don't want to accept or act in a way I don't want to act.&amp;nbsp;" created="Fri, 18 Aug 2017 14:58:32 GMT"/>
+				<outline text="Make America Great, fight the politically correct. Except that one might say that people should not be so easily offended by what I say or believe, what politically correct really means is, I don't care who I offend by what I say or believe.&amp;nbsp;" created="Fri, 18 Aug 2017 14:58:33 GMT"/>
+				<outline text="Some will point out that the statues never were a reminder of something we should no longer do, and I believe they are right, but now they are lightning rod for a resistance to change to the population of the United States." created="Fri, 18 Aug 2017 14:58:34 GMT"/>
+				<outline text="The second change is that the United States is becoming more diverse, removing the power that comes with the higher population of a particular race. Further, the millennials growing up in our more diverse society not only question the validity of white supremacy but also acknowledge the pain their symbols represent. In other words, the main change is that the number of people who consider the symbols to be offensive has increased and the growing minority of the people who not only don't find them offensive but also nearly worship them, absent their ability to get their way via the democratic process, are fighting back.&amp;nbsp;" created="Fri, 18 Aug 2017 14:58:35 GMT"/>
+				</outline>
+			<outline text="Nothing There But The Hair" created="Fri, 18 Aug 2017 16:09:55 GMT" type="outline">
+				<outline text="All &lt;a href=&quot;https://www.nytimes.com/2017/08/17/opinion/sunday/i-voted-for-trump-and-i-sorely-regret-it.html&quot;&gt;the statements that Trump made during his campaign&lt;/a&gt; were just things people wanted to hear. Some will say that Trump has been unsuccessful because nobody has given him a chance. The problem is that Trump really thought he could simply bludgeon ideas in to implementation and is simply not capable of making a convincing case that will change minds." created="Fri, 18 Aug 2017 16:09:56 GMT"/>
+				<outline text="It easy to say things to an audience of people who like what you came to say, it is much, much harder to convince a skeptical audience that you have a better idea worth trying. &lt;b&gt;You can't simply tell people to trust you, trust is something earned.&lt;/b&gt;&amp;nbsp;" created="Fri, 18 Aug 2017 16:09:57 GMT"/>
+				<outline text="And we as citizens should absolutely not just given in to any politician. We have the obligation to demand that they convince us and to earn our trust, which frankly requires a skill set and the experience that Trump does not have.&amp;nbsp;" created="Fri, 18 Aug 2017 16:09:58 GMT"/>
+				<outline text="The fact is many of the problems that Trump identified during the election are problems worth addressing, and I agree completely that an outsider's view is something needed in Washington. But, behind all of that there needs to be substance in order to succeed and Trump does not have that substance nor has been capable of surrounding himself with people of substance." created="Fri, 18 Aug 2017 16:09:59 GMT"/>
+				<outline text="A big ego does not make a great leader. In fact, a big ego is a detriment to leadership. What we have always needed, and need more now than ever, is real leadership.&amp;nbsp;" created="Fri, 18 Aug 2017 16:10:00 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/19/2017" created="Sat, 19 Aug 2017 14:56:59 GMT">
+			<outline text="August 19 2017" created="Sat, 19 Aug 2017 14:56:59 GMT" type="outline">
+				<outline text="&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;I like &lt;/span&gt;&lt;a href=&quot;https://www.wired.com/2017/08/review-essential-phone/?mbid=nl_81817_p3&amp;amp;CNDID=24304678&quot; style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;what I am reading&lt;/a&gt;&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt; about the Essential Phone. I don’t like the price.&lt;/span&gt;" created="Sat, 19 Aug 2017 14:57:00 GMT"/>
+				<outline text="&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;I don't think any Christian should have the problem with dismantling idols.&amp;nbsp;&lt;/span&gt;" created="Sat, 19 Aug 2017 14:57:01 GMT"/>
+				<outline text="&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;We are the United States of America, yet right now it is difficult to understand what is it that unites us. We don't seem to agree on what is evil. We don't agree on what is freedom and who is free. We don't agree on who should be able to live, and we don't agree on for whom is liberty for.&amp;nbsp;&lt;/span&gt;" created="Sat, 19 Aug 2017 14:57:02 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/21/2017" created="Mon, 21 Aug 2017 20:57:47 GMT">
+			<outline text="An Eclipse Of Oreo" created="Mon, 21 Aug 2017 20:57:47 GMT" type="outline">
+				<outline text="I downloaded what I think is &lt;a href=&quot;https://9to5google.com/2017/08/21/android-8-oreo-launching-today/&quot;&gt;the final system update to Android 8, Oreo&lt;/a&gt; and it is installing on my phone now. The update has installed on my phone and it is a little unclear whether I have the final update. I think I do because I no longer see the beta notification that has been appearing whenever I restart the phone." created="Mon, 21 Aug 2017 20:57:48 GMT"/>
+				<outline text="  " created="Mon, 21 Aug 2017 20:57:49 GMT"/>
+				<outline text="The main issue that I have had with the beta has been the performance of the Camera app. For example, if I started the camera while holding the phone in portrait and rotated to landscape, the camera app would re-paint in two parts on the screen. Now after the update when I start the camera app and switch between portrait and landscape the app switches seamlessly." created="Mon, 21 Aug 2017 20:57:50 GMT"/>
+				</outline>
+			<outline text="August 21, 2017" created="Mon, 21 Aug 2017 21:04:55 GMT" type="outline">
+				<outline text="My personal experience of the eclipse today was much like I remember the last one when I was in eighth grade. Back then the only option to view the eclipse was a “pin hole” viewer, and that was all I had today. Basically, all you see is a bright dot on a sheet of paper, which is the sun, partially covered, which is the moon.&amp;nbsp;" created="Mon, 21 Aug 2017 21:04:56 GMT"/>
+				<outline text="The big difference today, however, thanks to the Internet &lt;a href=&quot;https://eclipse2017.nasa.gov/&quot;&gt;I was able to see what the total coverage&lt;/a&gt; looked like while it was happening. After what I saw online, I get why people drove hundreds of miles to go see it. If I lived closer, I would have considered doing it myself.&amp;nbsp;" created="Mon, 21 Aug 2017 21:04:57 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.greatamericaneclipse.com/future/&quot;&gt;The next total eclipse visible in the United States will be 7 years from now&lt;/a&gt;, and the path of totality with be closest to where I live during my lifetime. If I am alive in 2024, I will make it a point to be in the path of totality.&amp;nbsp;" created="Mon, 21 Aug 2017 21:04:58 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/22/2017" created="Tue, 22 Aug 2017 13:48:55 GMT">
+			<outline text="August 22, 2017" created="Tue, 22 Aug 2017 13:48:55 GMT" type="outline">
+				<outline text="The lesson we should &lt;a href=&quot;http://www.politico.com/magazine/story/2017/07/24/donald-trump-afghanistan-215412&quot;&gt;learn from&amp;nbsp;Afghanistan&lt;/a&gt; and Iraq is that any military intervention in the middle east involves ongoing occupation. Both &quot;wars&quot; were sold as short term actions, but the reality is that there are no short term actions, only long term consequences." created="Tue, 22 Aug 2017 13:48:56 GMT"/>
+				<outline text="I think it is interesting to see &lt;a href=&quot;https://www.theguardian.com/commentisfree/2017/aug/22/steve-bannons-war-tear-republican-party&quot;&gt;articles suggesting that Bannon might split the Republican party&lt;/a&gt;. What Republicans need to do is recognize that Trump et. are not Republicans and have hijacked their party. I think they need a mid-term convention to take back their platform." created="Tue, 22 Aug 2017 13:48:57 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/23/2017" created="Wed, 23 Aug 2017 12:54:41 GMT">
+			<outline text="August 23, 2017" created="Wed, 23 Aug 2017 12:54:41 GMT" type="outline">
+				<outline text="I am at the point where every time I think of a Republican I see Trump's face. I am pretty sure that I will never vote for a Republican again for as long as I live.&amp;nbsp;" created="Wed, 23 Aug 2017 12:54:42 GMT"/>
+				<outline text="When it comes to racism, it doesn't matter what you think about yourself or what you say about racism. Claims that you are not racist is irrelevant. Racism has never been about thoughts, it is about action and in-action.&amp;nbsp;" created="Wed, 23 Aug 2017 12:54:43 GMT"/>
+				<outline text="To those who continue to support Trump, I ask, what is it that you want? Did you vote for Trump to see someone divisive in the White House or did you want him to actually affect change? While you may think it is great that Trump is un-filtered and is not politically correct, is he going to get anything done? At what point is blaming everyone else just an excuse?&amp;nbsp;" created="Wed, 23 Aug 2017 12:54:44 GMT"/>
+				<outline text="Reagan famously said government isn't the solution, it's the problem. Does that apply to the White House?" created="Wed, 23 Aug 2017 12:54:45 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/24/2017" created="Thu, 24 Aug 2017 12:58:12 GMT">
+			<outline text="Trump Business Man &lt;&gt; Trump President" created="Thu, 24 Aug 2017 12:58:12 GMT" type="outline">
+				<outline text="Some people who voted for Trump did so assuming that because he owns a business or is a CEO he would do well as President. The problem is that businesses are not democracies, in them a person can tell people to do something and it gets done. Even more, a person running a private business doesn't even have to answer to a board or shareholders.&amp;nbsp;" created="Thu, 24 Aug 2017 12:58:13 GMT"/>
+				<outline text="The United States is a representative democracy. While the President has administrative powers in running the government, he cannot pass legislation and without legislation you cannot affect significant change." created="Thu, 24 Aug 2017 12:58:14 GMT"/>
+				<outline text="Passing legislation usually involves changing people's minds and that requires earning trust and developing relationships, none of which Trump is capable of doing. Consequently, I knew at the election that Trump would not be an effective nor trustworthy President, and that is why I voted for Hillary.&amp;nbsp;" created="Thu, 24 Aug 2017 12:58:15 GMT"/>
+				<outline text="Unfortunately, the evidence so far supports what I believe to be the case, Trump is not qualified to be president. I know his supporters will blame the media, the Senate, or John McCain, but at some point all those are excuses. Giving speeches that whip up crowds may be good entertainment for some, but are not an effective means for changing people's minds and affecting change.&amp;nbsp;" created="Thu, 24 Aug 2017 12:58:16 GMT"/>
+				</outline>
+			<outline text="August 24, 2017" created="Thu, 24 Aug 2017 14:19:13 GMT" type="outline">
+				<outline text="I really dislike articles that point to items behind a paywall. If everyone can't read what you are referring to, there is no point in linking to it." created="Thu, 24 Aug 2017 14:19:14 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/25/2017" created="Fri, 25 Aug 2017 13:27:03 GMT">
+			<outline text="August 25, 2017" created="Fri, 25 Aug 2017 13:27:03 GMT" type="outline">
+				<outline text="Still trying to determine whether I am getting &lt;a href=&quot;https://fossbytes.com/android-o-features/&quot;&gt;better battery life with Android O&lt;/a&gt;, and I don't think that I am. Last night, over a 10 hour period my phone was only in deep sleep for 2 hours and 25 minutes, which is not nearly enough.&amp;nbsp;" created="Fri, 25 Aug 2017 13:27:04 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/28/2017" created="Mon, 28 Aug 2017 13:39:48 GMT">
+			<outline text="August 28, 2017" created="Mon, 28 Aug 2017 13:39:48 GMT" type="outline">
+				<outline text="One of the big problems with the culture of winners and losers is that it prevents us from addressing big problems, like race and climate change. &lt;a href=&quot;https://www.axios.com/what-both-sides-are-getting-wrong-about-climate-change-2476961125.html&quot;&gt;As long as we frame situations in terms of finding a solution in which someone has to make a lot of money&lt;/a&gt;, we aren't going to find solutions that are in the best interest of everyone." created="Mon, 28 Aug 2017 13:39:49 GMT"/>
+				<outline text="The reason why climate change is an issue to address now is that when it gets to the point where everyone agrees that something will be done, it will be too late. It's like discovering you have stage 4 cancer, if you had discovered the cancer tumor earlier you have a better chance for a cure." created="Mon, 28 Aug 2017 13:39:50 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/29/2017" created="Tue, 29 Aug 2017 12:54:17 GMT">
+			<outline text="August 29, 2017" created="Tue, 29 Aug 2017 12:54:17 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://9to5google.com/2017/08/29/google-eclipse-megamovie/&quot;&gt;Google's mega eclipse video&lt;/a&gt; is mostly a dark circle with light around the edges, but still, it's cool!" created="Tue, 29 Aug 2017 12:54:18 GMT"/>
+				<outline text="&lt;a href=&quot;http://Raindrop.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://Raindrop.io&quot;&gt;Raindrop.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;is a multi-platform bookmarking app. Before I found RSS bookmarks were the main way that I kept track of web sites, but since RSS I don't use bookmarks as much. Most modern browsers provide a way to sync bookmarks across devices, so I am not sure of the value of a separate bookmarking app. It does remove dependency on a browser. Raindrop also provides an RSS feed for bookmark collections and I have created one for &lt;a href=&quot;https://raindrop.io/collection/2850907/feed&quot;&gt;a blogroll collection&lt;/a&gt;. I can also share collections, &lt;a href=&quot;https://raindrop.io/collection/2850907&quot;&gt;here is my blogroll&lt;/a&gt;.&amp;nbsp;" created="Tue, 29 Aug 2017 12:54:19 GMT"/>
+				<outline text="I think something interesting is happening with Android Wear, which is that so many &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2017/8/29/16217722/diesel-on-full-guard-android-wear-watch-release&quot;&gt;watch brands is adopting it&lt;/a&gt;. You don't get the impression that Android Wear is doing very well, and yet I see more announcements for new watches. I know from personal experience that version 2 of Android Wear is much better than prior versions, and with it I like my &lt;a href=&quot;https://www.cnet.com/products/huawei-watch/&quot;&gt;Huawei Watch&lt;/a&gt; much more." created="Tue, 29 Aug 2017 12:54:20 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/30/2017" created="Wed, 30 Aug 2017 20:26:11 GMT">
+			<outline text="August 30, 2017" created="Wed, 30 Aug 2017 20:26:11 GMT" type="outline">
+				<outline text="What percentage of screen off time in Android 8 should be in deep sleep? I am pretty much seeing 20 to 25% which seems low to me." created="Wed, 30 Aug 2017 20:26:12 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

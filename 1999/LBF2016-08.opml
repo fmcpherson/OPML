@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Thu, 23 Dec 2021 19:29:02 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2016-08.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2016-08.json</urlJson>
+		<flPublic>true</flPublic>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateCreated>Thu, 23 Dec 2021 19:27:05 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="This file contains my blog posts written using 1999.io in August, 2016" created="Thu, 23 Dec 2021 19:28:10 GMT" isComment="true"/>
+		<outline text="8/1/2016" created="Mon, 01 Aug 2016 20:57:54 GMT">
+			<outline text="Switching To River5" created="Mon, 01 Aug 2016 20:57:54 GMT" type="outline">
+				<outline text="Today my River4 server started having problems updating new feeds. I vaguely recall encountering the issue before and resolving it, but rather than that I decided to switch to &lt;a href=&quot;https://github.com/scripting/river5&quot;&gt;River5&lt;/a&gt;.&amp;nbsp;" created="Mon, 01 Aug 2016 20:57:55 GMT"/>
+				<outline text="Here is where using Docker comes in handy because it makes it easy for me to retain my current River4 container so I can easily switch back to it, while starting a new container with River5.&amp;nbsp;" created="Mon, 01 Aug 2016 20:57:56 GMT"/>
+				<outline text="While I built the River4 Docker image that I my container runs, someone else already made a &lt;a href=&quot;https://hub.docker.com/r/grassdog/river5/&quot;&gt;River5 image that is available on Docker Hub&lt;/a&gt; to be pulled.&amp;nbsp;" created="Mon, 01 Aug 2016 20:57:57 GMT"/>
+				<outline text="The developer of the River5 image separated the configuration components from the data by creating separate volumes for each. He states that you can map the config volume to your local server, but doesn't provide any details. It turns out that you do need to create a lists subdirectory for storing subscription list files. &amp;nbsp;If you wanted to see the data that River5 generates you could map a local server folder to the data volume, but under normal operations you shouldn't need to see the data files." created="Mon, 01 Aug 2016 20:57:58 GMT"/>
+				<outline text="What would be helpful is a way to replace the default config.json file with your own copy of config.json but according to the docs, this file needs to be in the same directory as river5.js, which means mapping a local server directory to the directory in the container in which river5.js is stored and I don't know what problems that may cause.&amp;nbsp;" created="Mon, 01 Aug 2016 20:57:59 GMT"/>
+				<outline text="All this being said, &lt;a href=&quot;http://mywebstream.net/&quot;&gt;I am now running River5&lt;/a&gt; and could pretty easily switch back to River4 should I need to.&amp;nbsp;" created="Mon, 01 Aug 2016 20:58:00 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/3/2016" created="Wed, 03 Aug 2016 22:03:42 GMT">
+			<outline text="Windows 10 Anniversary Update" created="Wed, 03 Aug 2016 22:03:42 GMT" type="outline">
+				<outline text="I've installed the Windows 10 Anniversary update on my &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt;  and it has not been entirely smooth. First, Windows 10 no longer recognized my sign-on PIN, I had to create a new one. " created="Wed, 03 Aug 2016 22:03:43 GMT"/>
+				<outline text="Next, I installed the LastPass extension in and I've found that you cannot specify Edge as a trusted computer if you use two factor authentication, which means every time I start Edge I have to enter my 2FA code. " created="Wed, 03 Aug 2016 22:03:44 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/4/2016" created="Thu, 04 Aug 2016 14:16:05 GMT">
+			<outline text="" created="Thu, 04 Aug 2016 14:16:05 GMT" type="outline">
+				<outline text="Microsoft has released a new version of the Wireless Display adapter, and I am wondering whether it provides better performance? I fear it probably doesn't address the resolution issue that makes text look bad. " created="Thu, 04 Aug 2016 14:16:06 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 04 Aug 2016 14:48:50 GMT" type="outline">
+				<outline text="I like Edge, but it looks like even with the addition of extensions it has deficiencies from what one expects of web browsers.&amp;nbsp;" created="Thu, 04 Aug 2016 14:48:51 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/5/2016" created="Fri, 05 Aug 2016 21:14:10 GMT">
+			<outline text="Some Times I Want To Be Disturbed" created="Fri, 05 Aug 2016 21:14:10 GMT" type="outline"/>
+			</outline>
+		<outline text="8/8/2016" created="Mon, 08 Aug 2016 16:52:36 GMT">
+			<outline text="Bashing Windows" created="Mon, 08 Aug 2016 16:52:36 GMT" type="outline">
+				<outline text="I've &lt;a href=&quot;http://www.walkingrandomly.com/?p=6187&quot;&gt;installed the Windows 10 Bash subsystem&lt;/a&gt; on my &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt;. I am interested to learn how I can utilize the subsystem. To start, I type &lt;b&gt;bash &lt;/b&gt;in the Cortana box and press Enter.&amp;nbsp;" created="Mon, 08 Aug 2016 16:52:37 GMT"/>
+				<outline text="One thing that has long been frustrating with Windows is the inability to paste text into a command window using Ctrl+V. &lt;a href=&quot;http://www.cnet.com/how-to/new-windows-10-keyboard-shortcuts-for-the-command-prompt/&quot;&gt;Windows 10 fixes this by adding Ctrl+C and Ctrl+V support&lt;/a&gt;, however that does not translate to the bash subsystem.&amp;nbsp;" created="Mon, 08 Aug 2016 16:52:38 GMT"/>
+				<outline text="The trick is to be sure to start bash as I describe above as opposed to starting bash from the Windows command line because that way you can right-click to paste into the bash window.&amp;nbsp;" created="Mon, 08 Aug 2016 16:52:39 GMT"/>
+				<outline text="Right-clicking is not as convenient as a keyboard combination, but it is better than no-support at all. Hopefully some time down the road some will add keyboard short cuts to paste text into the bash window." created="Mon, 08 Aug 2016 16:52:40 GMT"/>
+				</outline>
+			<outline text="Using Little Outliner To Maintain RSS Subscriptions" created="Mon, 08 Aug 2016 21:08:28 GMT" type="outline">
+				<outline text="I use &lt;a href=&quot;http://fargo.io/docs/whatIsFargo.html&quot;&gt;Fargo&lt;/a&gt;  to maintain my RSS subscriptions list, and the process is real easy because I just create a new line, click Outliner, Add Feed, enter the feed URL, and then Fargo does all the work of adding it in the format that RSS readers expect.&amp;nbsp;" created="Mon, 08 Aug 2016 21:08:29 GMT"/>
+				<outline text="To be able to maintain my RSS subscriptions list in Little Outliner, I would want it to have similar functionality, otherwise adding a feed involves move steps to copy a previous entry and then edit its attributes." created="Mon, 08 Aug 2016 21:08:30 GMT"/>
+				<outline text="The best way forward here might be if Little Outliner supported plug-ins/adding of scripts similar to Fargo, that way users could add the functionality they want to Little Outliner." created="Mon, 08 Aug 2016 21:08:31 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/9/2016" created="Tue, 09 Aug 2016 16:51:30 GMT">
+			<outline text="" created="Tue, 09 Aug 2016 16:51:30 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://www.thurrott.com/mobile/microsoft-surface/75596/microsoft-quietly-releases-surface-3-firmware-update&quot;&gt;Microsoft has released a firmware upgrade&lt;/a&gt; for the &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt;  that I am currently installing. I am hoping that the upgrade addresses a power issue I have where typically when there is about 20% of battery life left the Surface wants to forget that the type cover is attached, spitting out a USB device error." created="Tue, 09 Aug 2016 16:51:31 GMT"/>
+				<outline text="Ok, it downloaded/installed some software, rebooted, and then blue-screened. It rebooted again, and now is installing a system update, which I assume is the firmware update." created="Tue, 09 Aug 2016 16:51:32 GMT"/>
+				<outline text="The Surface 3 rebooted. All is well so far. After completing the update, my Surface 3 says that a driver update for the Intel HD Graphics was installed, and a System Firmware update from 8/8/2016 was installed. Interestingly, a System Hardware update dated 2/4/2016 was installed on 8/3/2016." created="Tue, 09 Aug 2016 16:51:33 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/17/2016" created="Wed, 17 Aug 2016 18:57:30 GMT">
+			<outline text="Unfortunately, It Will Not End In November" created="Wed, 17 Aug 2016 18:57:30 GMT" type="outline">
+				<outline text="Two thoughts come to mind as I read &lt;a href=&quot;http://www.wired.com/2016/08/no-world-wont-go-back-normal-trump/?mbid=nl_81216_p2&quot;&gt;this Wired article&lt;/a&gt;. First, when &lt;b&gt;will &lt;/b&gt;people put the common good above their own self interests? Historically Americans have patted ourselves on the back for the peaceful transition of power that occurs when the result of a presidential election replaces one party with another in office. In some ways that did not happen when Obama took office, I would not characterize it as a peaceful transition of power." created="Wed, 17 Aug 2016 18:57:31 GMT"/>
+				<outline text="Second, one thing we ought to learn from Trump's candidacy is that the process of electing presidents is changing. I think there are real consequences to the network affects the article describes. I couldn't agree more with the following:" created="Wed, 17 Aug 2016 18:57:32 GMT"/>
+				<outline text="&lt;i&gt;&quot;If the Obama administration had more actively tended to that network, instead of subsuming it into the Democratic National Committee, his entire presidency might have played out differently.&quot;&lt;/i&gt;" created="Wed, 17 Aug 2016 18:57:33 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/19/2016" created="Fri, 19 Aug 2016 18:06:06 GMT">
+			<outline text="" created="Fri, 19 Aug 2016 18:06:06 GMT" type="outline">
+				<outline text="I've started receiving a higher number of telemarketing calls on my cell phone, which is really annoying. Normally we try to use our landline number for filtering out telemarketing so that calls to our cell phone are legit, but that is starting to be a problem. I would prefer that telemarketing as a whole be outlawed, but I am not holding my breath so hopefully &lt;a href=&quot;http://www.reuters.com/article/us-usa-robocalls-idUSKCN10U18L&quot;&gt;the effort by the industry to tamp down robocalls&lt;/a&gt; will help." created="Fri, 19 Aug 2016 18:06:07 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 19 Aug 2016 20:03:33 GMT" type="outline">
+				<outline text="Love this, &lt;a href=&quot;http://www.cbssports.com/mlb/news/the-indians-are-kicking-the-closer-save-mentality-to-the-curb-with-andrew-miller/&quot;&gt;in writing&lt;/a&gt; about Terry Francona's usage of reliver Andrew Miller as his best reliever and not just exclusively in a closer role: &lt;i&gt;&quot;A stat isn't dictating his usage. His brain is. What a novel concept.&quot;&lt;/i&gt;" created="Fri, 19 Aug 2016 20:03:34 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 19 Aug 2016 20:10:48 GMT" type="outline">
+				<outline text="Fast Company asks, &lt;a href=&quot;http://www.fastcompany.com/3063006/why-on-earth-is-google-building-a-new-operating-system-from-scratch&quot;&gt;Why on earth is Google writing a new operating system?&lt;/a&gt; One reason might be to make a more secure operating system, and one designed specifically to include the Internet of Things rather than be bolt-ons. Or, another reason might simply be because they can." created="Fri, 19 Aug 2016 20:10:49 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/22/2016" created="Mon, 22 Aug 2016 21:57:44 GMT">
+			<outline text="Google Releases Android 7.0" created="Mon, 22 Aug 2016 21:57:44 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://webnotes.frankmcpherson.net/2016/08/22/index.html&quot;&gt;Today&lt;/a&gt; Google officially released Android 7.0, Nougat. The August release comes somewhat as a surprise because normally new versions of Android coincide with new Nexus devices.&amp;nbsp;" created="Mon, 22 Aug 2016 21:57:45 GMT"/>
+				<outline text="Actually, the release is not the only thing different about Android 7 as for the first time Google had a public beta of this version in development. I've been running Nougat on my Nexus 9 for a little more than a month, and that 99% of my apps run just fine, the one exception being Instagram. For some reason videos tend to reappear over images as I browse through my stream.&amp;nbsp;" created="Mon, 22 Aug 2016 21:57:46 GMT"/>
+				<outline text="I've also found that the Amazon Kindle app doesn't work if you set the display size to small from default." created="Mon, 22 Aug 2016 21:57:47 GMT"/>
+				<outline text="I am curious to find out how well Nougat runs on my Nexus 6P, in particular whether I see even longer battery life than with Marshmallow. Beyond the improvements in battery life, I don't think there is too much to be excited about in Nougat for existing smartphones and tablets. It looks to me like most of the improvements Google made are targeted at running Android apps on Chrome.&amp;nbsp;" created="Mon, 22 Aug 2016 21:57:48 GMT"/>
+				<outline text="Bottom line, in my opinion, if you don't have a Nexus device to be one of the first to get Nougat, don't feel left out, there is little in it to be excited about." created="Mon, 22 Aug 2016 21:57:49 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/24/2016" created="Wed, 24 Aug 2016 17:12:25 GMT">
+			<outline text="Sad To Learn of Fargo's Demise" created="Wed, 24 Aug 2016 17:12:25 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html&quot;&gt;Dave has announced&lt;/a&gt; that Fargo will stop functioning in June 2017 because Dropbox will stop supporting the API that it uses to talk with Dropbox. &amp;nbsp;I've been using Fargo since its beginning (has it really been 4 years?) so I am sad to see it go, but honestly not surprised. It is a reminder of just how fragile the Internet is becoming because so much of it is built upon something someone else owns." created="Wed, 24 Aug 2016 17:12:26 GMT"/>
+				<outline text="Imagine what will happen to the Internet if Jeff Bezos where to leave Amazon and the new leadership decided AWS was not core to their business. Amazon owns the hardware that hosts a good chunk of the Internet, and it would be their right to shut down that hardware almost at any time. Now, Amazon charges to use their hardware, so that provides some friction to it being shut down, but a lot of the Internet is built on free stuff for which there is little friction for its disappearance." created="Wed, 24 Aug 2016 17:12:27 GMT"/>
+				<outline text="But, I digress...&amp;nbsp;" created="Wed, 24 Aug 2016 17:12:28 GMT"/>
+				<outline text="1999 replaces the blogging functionality that the Fargo Publisher provides, and I've been doing my most recent writing in it, and Little Outliner replaces the outlining functionality that Fargo provides, so there is space and time for which to move." created="Wed, 24 Aug 2016 17:12:29 GMT"/>
+				<outline text="As a user of Fargo, there are a few functions it provides me that are currently not provided by either 1999 or Little Outliner that I hope might be provided in some way in the future. Grouped in the two application areas, they are:&lt;h4&gt;Fargo to 1999&lt;/h4&gt;" created="Wed, 24 Aug 2016 17:12:30 GMT"/>
+				<outline text="&lt;ul&gt;&lt;li&gt;&lt;span&gt;A linkblogging bookmarklet to quickly start a new blog post with a hyperlink to a source web page.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" created="Wed, 24 Aug 2016 17:12:31 GMT"/>
+				<outline text="&lt;h4&gt;Fargo to Little Outliner&lt;/h4&gt;" created="Wed, 24 Aug 2016 17:12:32 GMT"/>
+				<outline text="&lt;ul&gt;&lt;li&gt;&lt;span&gt;An Add Feed option (in Fargo, Outliner, Add Feed) for managing RSS subscription lists&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The ability to encrypt outlines and read outlines encrypted in Fargo&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" created="Wed, 24 Aug 2016 17:12:33 GMT"/>
+				<outline text="" created="Wed, 24 Aug 2016 17:12:34 GMT"/>
+				<outline text="With Fargo it is real easy to add a new entry to a RSS subscription list, you just create a new node, write the name of the feed, click Outliner, Add Feed, paste in the URL to the feed, click OK and you are done. To do this with Little Outliner today requires adding/editing attributes that may not be familiar to the average end user. It might be that this can be duplicated by writing a script and selecting File, Run Selection but that requires learning some Javascript and figuring out how to manipulate attributes of a node in an outline. Perhaps adding Plugins to Little Outliner is the way to go?&amp;nbsp;" created="Wed, 24 Aug 2016 17:12:35 GMT"/>
+				<outline text="Finally, there are a couple of things Fargo provides that I like but are not in 1999, and I could live without but want to mention. One is the #stream type that organizes blog posts around dates. To me, journal-like writing such as linkblogging is best organized by date, where I can easily find what I wrote on a given date. The journal-like writing has been &lt;a href=&quot;http://webnotes.frankmcpherson.net/&quot;&gt;how I have been using Fargo&lt;/a&gt;, and in fact it is how I learned to blog using EditThisPage.&amp;nbsp;" created="Wed, 24 Aug 2016 17:12:36 GMT"/>
+				<outline text="1999, while publishing content in reverse chronological order, uses Titles as the primary organizing method, as does almost all other blogging tools. For example, compare &lt;a href=&quot;http://webnotes.frankmcpherson.net/2016/08/22/&quot;&gt;this link&lt;/a&gt; that provides a days worth of short posts created in Fargo with &lt;a href=&quot;http://writing.frankmcpherson.org/2016/08/22/googleReleasesAndroid70.html&quot;&gt;this link&lt;/a&gt; to a story (blog post) I created in 1999. Finding all that I wrote on a specific day with Fargo is very easy, finding all that I wrote on a specific day with 1999 takes more work. &amp;nbsp;" created="Wed, 24 Aug 2016 17:12:37 GMT"/>
+				<outline text="I think what I would like is something like the monthly archive feature in 1999, which shows a month's worth of posts on one page, available for each day. It may be, however, that I am the only person who finds such a feature useful or likes to look back on what I wrote on a given day, and so I don't expect this to appear in 1999 but it is something that I will miss." created="Wed, 24 Aug 2016 17:12:38 GMT"/>
+				<outline text="I will also miss the backgroundImage attribute that makes it real easy to put a background image on a blog post. For a while I was selecting an image for each day that I thought summarized the posts for the day.&amp;nbsp;" created="Wed, 24 Aug 2016 17:12:39 GMT"/>
+				<outline text="Finally, I will miss the ability to use an outliner for writing blog posts. For me, while an input box is good for a two or three paragraph post, I prefer writing and editing longer stories in an outliner. Maybe some day Concord will appear as an editor option in 1999?&amp;nbsp;" created="Wed, 24 Aug 2016 17:12:40 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/26/2016" created="Fri, 26 Aug 2016 13:10:42 GMT">
+			<outline text="The Difference Between Robots And Humans" created="Fri, 26 Aug 2016 13:10:42 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://thecenterforactionandcontemplation.cmail2.com/t/ViewEmail/d/D069721E55E04255/D41276A66FD4753FC67FD2F38AC4859C&quot;&gt;Cynthia Bourgeault&lt;/a&gt;: &quot;&lt;i&gt;The interplay of two polarities calls forth a third, which is the “mediating” or “reconciling” principle between them. In contrast to a binary system, which finds stability in the balance of opposites, the ternary system stipulates a third force that emerges as the necessary mediation of these opposites and that in turn (and this is the really crucial point) generates a synthesis at a whole new level. It is a dialectic whose resolution simultaneously creates a new realm of possibility&lt;/i&gt;.&quot;" created="Fri, 26 Aug 2016 13:10:43 GMT"/>
+				<outline text="The solution to &lt;a href=&quot;https://en.wikipedia.org/wiki/Skynet_(Terminator)&quot;&gt;Skynet&lt;/a&gt;." created="Fri, 26 Aug 2016 13:10:44 GMT"/>
+				</outline>
+			<outline text="A Web Is Only As Good As Its Links" created="Fri, 26 Aug 2016 13:28:42 GMT" type="outline">
+				<outline text="The paradox of the web is that it is fundamentally built on interoperability by way of hyperlinks, and yet that interoperability causes the web to crumble over time." created="Fri, 26 Aug 2016 13:28:43 GMT"/>
+				<outline text="If you open &lt;a href=&quot;https://fjmnotes.com/2010/12/31/mobile-tech-highs-lows-looking-ahead-to-2011-and-good-news/&quot;&gt;a web page written five years ago or more&lt;/a&gt; you will like find hyperlinks to pages that no longer exist. As each strand of the web is cut it becomes less valuable." created="Fri, 26 Aug 2016 13:28:44 GMT"/>
+				<outline text="Earlier this week &lt;a href=&quot;http://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html&quot;&gt;Dave announced&lt;/a&gt; that due to Dropbox dropping support of an API, &lt;a href=&quot;http://fargo.io/docs/whatIsFargo.html&quot;&gt;Fargo&lt;/a&gt; will stop working in 2017. Fargo uses Dropbox for storage. In my opinion the announcement further supports my observation of the web's fragility in several ways. Many people rely on Dropbox's free cloud storage, and being free it could go away at any time.&amp;nbsp;" created="Fri, 26 Aug 2016 13:28:45 GMT"/>
+				<outline text="Dropbox provides an Application Program Interface (API) that developers can use to write programs that communicate with Dropbox and read and write files stored in Dropbox. Dropbox freely supported this method for communications and apparently they have decided it costs them too much money to continue supporting, and so they have announced they will stop providing this interface. The consequence is that developers either need to find an alternative API or service, or do as Dave has done, and decide to stop supporting their applications.&amp;nbsp;" created="Fri, 26 Aug 2016 13:28:46 GMT"/>
+				<outline text="Again, the paradox is that APIs are not bad, nor is Dave wrong for making the decision he has made. In Dave's case, he had been planning for the demise of Dropbox's API by developing nodestorage, and the difference between 1999 and Fargo Publisher reflects an evolution of thinking and in that process features are added and subtracted.&amp;nbsp;" created="Fri, 26 Aug 2016 13:28:47 GMT"/>
+				<outline text="APIs are necessary to quickly develop new applications and services on the web by enabling one to building such services using prior work as building blocks. Using the Dropbox API meant that Dave did not have to create his own storage platform, and that enabled him to create Fargo as an independent developer. In fact, this is the story of how so many web apps can continue to be quickly made by small developers at very little financial expense." created="Fri, 26 Aug 2016 13:28:48 GMT"/>
+				<outline text="The message is not that developers should not use APIs, but the story of Dropbox's API does highlight the risk in using any other entity's services. Consequently, the challenge is in determining the commitment of the entity providing the API over the long term.&amp;nbsp;" created="Fri, 26 Aug 2016 13:28:49 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 26 Aug 2016 16:13:16 GMT" type="outline">
+				<outline text="Today I am going to upgrade my &lt;a href=&quot;http://www.gsmarena.com/huawei_nexus_6p-7588.php&quot;&gt;Nexus 6P&lt;/a&gt; to Android 7. &amp;nbsp;Installation went smooth, however, the Amazon Kindle app does not work when setting the display size to small. &lt;b&gt;Update:&lt;/b&gt; I got a response from Amazon on my feedback with instructions to de-register my device, uninstall, and then re-install the Kindle app. Uninstalling and re-installing the app fixed the problem, so I am happy. With display size set to small I can see much more information on the screen.&amp;nbsp;" created="Fri, 26 Aug 2016 16:13:17 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 26 Aug 2016 21:05:05 GMT" type="outline">
+				<outline text="Another thing that I want to test on my &lt;a href=&quot;http://www.gsmarena.com/huawei_nexus_6p-7588.php&quot;&gt;Nexus 6P&lt;/a&gt; is &lt;a href=&quot;http://www.droid-life.com/2016/08/24/google-wifi-assistant-nexus/&quot;&gt;WiFi Assistant&lt;/a&gt;. I am wondering whether that will automatically connect to the WiFi at Starbucks without requiring me to authenticate. Unfortunately, this is not yet available on my Nexus 6P, so I will have to wait for an update to be pushed." created="Fri, 26 Aug 2016 21:05:06 GMT"/>
+				</outline>
+			</outline>
+		<outline text="8/29/2016" created="Mon, 29 Aug 2016 12:56:20 GMT">
+			<outline text="" created="Mon, 29 Aug 2016 12:56:20 GMT" type="outline">
+				<outline text="I've been running my &lt;a href=&quot;http://www.gsmarena.com/huawei_nexus_6p-7588.php&quot;&gt;Nexus 6P&lt;/a&gt; in small display mode since Friday, and I am pretty happy with the results because I can see more on the screen. For example, the lock screen notifications are more useful simply because more text displays." created="Mon, 29 Aug 2016 12:56:21 GMT"/>
+				<outline text="I've also learned about &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.quinny898.app.customquicksettings&amp;amp;hl=en&quot;&gt;Custom Quick Settings&lt;/a&gt;, which allows you to create panels in the quick settings shade that appears when you sweep down with two fingers from the top of the screen. While you can use Custom Quick Settings with Android 6 Marshmallow, I think Android N improves upon it by allowing you to further edit the panel with whatever panels you want." created="Mon, 29 Aug 2016 12:56:22 GMT"/>
+				<outline text="I've created two panels to launch apps, one to launch SmartThings/Hue and the other to launch RadarScope/ WeatherUnderground. You swipe down with two fingers and tap once to launch SmartThings, tap twice to launch Hue.&amp;nbsp;" created="Mon, 29 Aug 2016 12:56:23 GMT"/>
+				</outline>
+			<outline text="" created="Mon, 29 Aug 2016 16:21:11 GMT" type="outline">
+				<outline text="The State of Michigan is trying to ban straight party voting. Legislation was passed by the state legislature and signed by the Governor to implement the ban. &lt;a href=&quot;http://www.freep.com/story/news/local/michigan/detroit/2016/08/25/if-upheld-see-how-michigans-ban-straight-party-voting-could-effect-you/89297594/&quot;&gt;A federal judge has truck it down as unconstitutional&lt;/a&gt;." created="Mon, 29 Aug 2016 16:21:12 GMT"/>
+				<outline text="To me, another issue is that this is another example of politicians not representing the people. Twice the question was put on the ballot and both time the citizens of the state of Michigan voted own the ban. The latest legislation has spending attached, which makes it not subject to referendum. So, the voters in the state don't even have the ability to once again deny this change.&amp;nbsp;" created="Mon, 29 Aug 2016 16:21:13 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

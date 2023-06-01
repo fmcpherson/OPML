@@ -1,0 +1,231 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Fri, 24 Dec 2021 19:06:02 GMT",
+        "ownerTwitterScreenName": "frankm",
+        "ownerName": "Frank McPherson",
+        "ownerId": "http://twitter.com/frankm",
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "dateCreated": "Fri, 24 Dec 2021 19:05:56 GMT",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2017-01.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2017-01.json",
+        "flPublic": true
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "1/5/2017",
+                "created": "Thu, 05 Jan 2017 21:07:57 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 05 Jan 2017 21:07:57 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Another week, another outage of my server at <a href=\"http://www.cloudatcost.com/\">CloudAtCost</a>.",
+                                "created": "Thu, 05 Jan 2017 21:07:58 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "1/14/2017",
+                "created": "Sat, 14 Jan 2017 18:26:24 GMT",
+                "subs": [
+                    {
+                        "text": "Rebuilding My River5 Site",
+                        "created": "Sat, 14 Jan 2017 18:26:24 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "After experienced repeated issues with the virtual server I've been using to host my River5 site, I decided to delete and rebuild it. I am about to start the rebuild process.&nbsp;",
+                                "created": "Sat, 14 Jan 2017 18:26:25 GMT"
+                            },
+                            {
+                                "text": "First step, log and update the server software.",
+                                "created": "Sat, 14 Jan 2017 18:26:26 GMT"
+                            },
+                            {
+                                "text": "All updates are done, &nbsp;<a href=\"http://nodestorage.smallpict.com/2015/08/05/installingNodestorageOnUbuntu.html\">installing node</a>",
+                                "created": "Sat, 14 Jan 2017 18:26:27 GMT"
+                            },
+                            {
+                                "text": "Install git",
+                                "created": "Sat, 14 Jan 2017 18:26:28 GMT"
+                            },
+                            {
+                                "text": "Create my user account",
+                                "created": "Sat, 14 Jan 2017 18:26:29 GMT"
+                            },
+                            {
+                                "text": "Clone <a href=\"https://github.com/scripting/river5\">River5 from github</a>",
+                                "created": "Sat, 14 Jan 2017 18:26:30 GMT"
+                            },
+                            {
+                                "text": "Point <a href=\"http://mywebstream.net\"><span data-auto-link=\"true\" data-href=\"http://mywebstream.net\">mywebstream.net</span></a>&nbsp;to the new IP address",
+                                "created": "Sat, 14 Jan 2017 18:26:31 GMT"
+                            },
+                            {
+                                "text": "Start river5.js",
+                                "created": "Sat, 14 Jan 2017 18:26:32 GMT"
+                            },
+                            {
+                                "text": "Clone <a href=\"https://github.com/fmcpherson/RSSSubscriptionLists\">my RSS Subscriptions lists</a>",
+                                "created": "Sat, 14 Jan 2017 18:26:33 GMT"
+                            },
+                            {
+                                "text": "Start river5.js",
+                                "created": "Sat, 14 Jan 2017 18:26:34 GMT"
+                            },
+                            {
+                                "text": "Edit config.json to implement <a href=\"https://github.com/scripting/river5/blob/master/docs/CONFIG.md\">configurations settings</a>",
+                                "created": "Sat, 14 Jan 2017 18:26:35 GMT"
+                            },
+                            {
+                                "text": "Final testing, and done! If I were not multitasking while the steps above execute, I think I could have rebuilt the server in about 15 minutes. The longest running tasks where the OS software updates.",
+                                "created": "Sat, 14 Jan 2017 18:26:36 GMT"
+                            },
+                            {
+                                "text": "One thing I did different this time is that I decided to not run River5 in a docker container. I originally built <a href=\"https://github.com/fmcpherson/DockerizedRiver4\">my River4 site in a container</a> as an exercise to learn Docker. Given that I am not running mutiple applications, I have come to the conclusion that using Docker was an additional layer that was not adding value.&nbsp;",
+                                "created": "Sat, 14 Jan 2017 18:26:37 GMT"
+                            },
+                            {
+                                "text": "The process above has reminded me of one thing, which is that I need clone my RSS Subscriptions lists to the server I have running nodestorage/Little Outliner so that edits to my subsriptions have way back to my River5 site. I know the subscriptions lists that I just put on my River5 site are not current.",
+                                "created": "Sat, 14 Jan 2017 18:26:38 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "1/18/2017",
+                "created": "Thu, 19 Jan 2017 01:44:05 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 19 Jan 2017 01:44:05 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Got <a href=\"http://blog.linuxmint.com/?p=3095\">a new toy</a> in the cave, and this is my first post using it. <a href=\"http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/\">The MintBox Mini Pro</a> is a version of <a href=\"http://fit-pc.com/wiki/index.php/Fit-PC_Product_Line:_fitlet\">the Compulab fitlet</a> with <a href=\"https://www.linuxmint.com/\">Linux Mint</a> pre-installed. I am surprised by it's weight, it is pretty heavy, and how hot it gets. There is no fan inside and the metal case dissipates heat from the processor.",
+                                "created": "Thu, 19 Jan 2017 01:44:06 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "1/19/2017",
+                "created": "Thu, 19 Jan 2017 21:00:42 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 19 Jan 2017 21:00:42 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I can't imagine going from <a href=\"https://www.theguardian.com/us-news/2017/jan/19/barack-obama-donald-trump-inauguration-day-what-next\">literally having the weight of the world</a> on your shoulders, to flying off in to the sunset.&nbsp;",
+                                "created": "Thu, 19 Jan 2017 21:00:43 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Thu, 19 Jan 2017 23:50:01 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Dave has added the ability to create Listicles to Little Outliner. <a href=\"http://readwrite.club:1999/users/frankm/listicles/testListicle.html\">Here is my first one</a>.&nbsp;",
+                                "created": "Thu, 19 Jan 2017 23:50:02 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "1/20/2017",
+                "created": "Fri, 20 Jan 2017 22:37:41 GMT",
+                "subs": [
+                    {
+                        "text": "Docker Tutorial Videos",
+                        "created": "Fri, 20 Jan 2017 22:37:41 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The Containerizers provides <a href=\"https://www.youtube.com/channel/UCFkOoM5xXS6hRs1lpw_8ydQ?sub_confirmation=1\">a nice set of tutorial videos</a> on YouTube that you can watch to learn Docker. You can also use an online site at <a href=\"http://play-with-docker.com\"><span data-auto-link=\"true\" data-href=\"http://play-with-docker.com\">http://play-with-docker.com</span></a>&nbsp;to run docker in a web browser sandbox without having to install it on your computer.",
+                                "created": "Fri, 20 Jan 2017 22:37:42 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 20 Jan 2017 22:40:43 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've installed the latest version of Docker Engine, v1.13 on my <a href=\"http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/\">MintBox</a>. So far, so good. One of the first containers I have installed is web UI for Docker called <a href=\"https://cntnr.io/putting-a-ui-around-docker-with-portainer-c8ba07874f9d?mkt_tok=eyJpIjoiTlRCak5tSTFNV1l5WVdReiIsInQiOiJQUUtFXC9vRVRiWnRvZ3FIdHJlek5oUHYzb0NKSU9HZHF1RzhUQnJcL01LXC9pZ2FsREFPeFZWeTM3M1RGc3Z5MzNtQUU1YXgzcWhrSExtSFJNVys1eklmZG4xdGNleElRSUhZa1BrQ3ZvY2hFQ1ZmSjFEaytcL2VWbVZxc0dJOFE5K1IifQ%3D%3D#.jsni1txoj\">Portainer</a>, which I think is very nice. I am running <a href=\"https://hub.docker.com/r/abh1nav/dockerui/\">DockerUI</a> on my RaspberryPi and I think Portainer is better.",
+                                "created": "Fri, 20 Jan 2017 22:40:44 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "1/23/2017",
+                "created": "Tue, 24 Jan 2017 03:39:00 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Tue, 24 Jan 2017 03:39:00 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Amazon has enabled \"computer\" as a wake word for Echo. Feeling <a href=\"https://www.cnet.com/news/amazon-echos-new-wake-word-is-a-gift-to-trekkies/#ftag=CAD590a51e\">very Trekkie</a>!&nbsp;",
+                                "created": "Tue, 24 Jan 2017 03:39:01 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "1/29/2017",
+                "created": "Sun, 29 Jan 2017 23:38:35 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 29 Jan 2017 23:38:35 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"https://medium.com/@sibjeet/dear-president-trump-islamic-extremists-are-playing-you-like-a-fiddle-bbb59c09cd19#.3oh5th8c8\">Sib Mahapatra</a>: \"America can’t be destroyed from the outside. Extremists will never be powerful enough to destroy the pillars of our democracy. But we are powerful enough to destroy them ourselves.\"",
+                                "created": "Sun, 29 Jan 2017 23:38:36 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "1/30/2017",
+                "created": "Mon, 30 Jan 2017 21:58:40 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Mon, 30 Jan 2017 21:58:40 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "CloudAtCost servers not accessible again.&nbsp;",
+                                "created": "Mon, 30 Jan 2017 21:58:41 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

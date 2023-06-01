@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>LBF2016-04</title>
+		<dateCreated>Tue, 21 Dec 2021 21:45:20 GMT</dateCreated>
+		<dateModified>Tue, 21 Dec 2021 22:57:04 GMT</dateModified>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<flPublic>true</flPublic>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2016-04.opml</urlPublic>
+		</head>
+	<body>
+		<outline text="This outline contains blog posts I wrote using 1999.io during April, 2016" created="Tue, 21 Dec 2021 21:46:34 GMT" isComment="true"/>
+		<outline text="Remember that when you do this you need to make the outline public!" created="Tue, 21 Dec 2021 21:52:16 GMT" isComment="true"/>
+		<outline text="4/14/2016" created="Thu, 14 Apr 2016 16:05:51 GMT">
+			<outline text="First Post" created="Thu, 14 Apr 2016 16:05:51 GMT" type="outline">
+				<outline text="The quick &lt;b&gt;brown&lt;/b&gt; fox jumped over the lazy dog. It wasn't too difficult because the dog was really lazy, like it is their want." created="Thu, 14 Apr 2016 16:05:52 GMT"/>
+				</outline>
+			<outline text="Second Post" created="Thu, 14 Apr 2016 16:10:38 GMT" type="outline">
+				<outline text="To complete the initial testing, now is the time for all good men to come to the aid of their country." created="Thu, 14 Apr 2016 16:10:39 GMT"/>
+				</outline>
+			<outline text="Initial Testing Notes" created="Thu, 14 Apr 2016 16:21:01 GMT" type="outline">
+				<outline text="Now that I have set up my own &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;server, it's time for me to figure out what all I can do with it.&amp;nbsp;" created="Thu, 14 Apr 2016 16:21:02 GMT"/>
+				<outline text="My first reaction is that it doesn't feel like the editor is set up for writing long format blog posts. The input box is relatively small, although I see that it automatically expands as I enter more sentences. I think I would prefer it if the input box was replaced with the Concord outline editor." created="Thu, 14 Apr 2016 16:21:03 GMT"/>
+				<outline text="It looks like the default is titleless entries, and it seems odd to me that you have to first post a new item before you can add a title or other items. Perhaps I am missing something.&amp;nbsp;" created="Thu, 14 Apr 2016 16:21:04 GMT"/>
+				<outline text="I've become real comfortable with Fargo, so I will have to think hard about why I would want to switch to this, if I want to switch.&amp;nbsp;" created="Thu, 14 Apr 2016 16:21:05 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 14 Apr 2016 21:40:51 GMT" type="outline">
+				<outline text="I've written &lt;a href=&quot;http://notes.frankmcpherson.net/2016/04/14/testingNewBloggingSoftware.html&quot;&gt;some notes&lt;/a&gt; about setting up this server and wondering how to integrate it with my workflow.&amp;nbsp;" created="Thu, 14 Apr 2016 21:40:52 GMT"/>
+				</outline>
+			<outline text="1999.io Compared To Fargo" created="Thu, 14 Apr 2016 21:51:29 GMT" type="outline">
+				<outline text="One of the differences between &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;and Fargo is that Fargo uses Dropbox for storing files while &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;uses the file system of the server hosting the app. The advantage I get from using Dropbox is that it provides built-in backup of my content." created="Thu, 14 Apr 2016 21:51:30 GMT"/>
+				<outline text="The content that I write in Fargo is stored in Dropbox (source copy), published (by FargoPublisher) to Amazon S3 (second copy), which is the copy that is served by the web server portion of FargoPublisher. More copies of my content is backed up to local computers (a Mac and Windows 7 computer) using Dropbox sync.&amp;nbsp;" created="Thu, 14 Apr 2016 21:51:31 GMT"/>
+				<outline text="The current configuration that I am using for this site is storing and serving the HTML files on the same server, which is not being backed up to any other device or server. If I were to use this a production system, I will want to have a copy of the content to at least one other site." created="Thu, 14 Apr 2016 21:51:32 GMT"/>
+				<outline text="From what I read, I think Dave is pushing the content he writes in 1999 to his S3 bucket that hosts Scripting.com, which I think is the exact approach I would like to take. (Actually, I would prefer to make FargoPublisher work in that way, but if I hitch my ride to Dave's blogging tools I have to stick with where he is focusing is attention.)&amp;nbsp;" created="Thu, 14 Apr 2016 21:51:33 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/15/2016" created="Fri, 15 Apr 2016 14:04:11 GMT">
+			<outline text="Hey, Hey Hockeytown!" created="Fri, 15 Apr 2016 14:04:11 GMT" type="outline">
+				<outline text="All you need to know about the current state of the Detroit Red Wings is that the veterans Zetterberg and Datsyuk are leading scoring. By now the younger players should have taken over the team, but none to date have stepped up. &lt;a href=&quot;http://www.freep.com/story/sports/nhl/red-wings/2016/04/14/detroit-red-wings-gustav-nyquist-tampa-bay-lightning-stanley-cup-playoffs/83064710/&quot;&gt;Nyquist and Tatar have been a disappointment&lt;/a&gt;. Hopefully Larkin will learn from his freshman year and build on it to step up next year.&amp;nbsp;" created="Fri, 15 Apr 2016 14:04:12 GMT"/>
+				<outline text="If it were me, I would name Larkin as the team captain next year to make it clear there the transition from the veterans to the next generation." created="Fri, 15 Apr 2016 14:04:13 GMT"/>
+				</outline>
+			<outline text="My Blogging Wish List" created="Fri, 15 Apr 2016 14:19:22 GMT" type="outline">
+				<outline text="As I play with 1999.io, I thought I would write down my ideal blogging platform that would integrate how I read and write.&amp;nbsp;&lt;h4&gt;Here is my current workflow:&lt;/h4&gt;" created="Fri, 15 Apr 2016 14:19:23 GMT"/>
+				<outline text="1. Open River4, scan my reading list, and share items to Radio3. IFTTT takes all items from my Radio3 RSS feed and sends them to Pocket." created="Fri, 15 Apr 2016 14:19:24 GMT"/>
+				<outline text="2. Open Nuzzel, scan through links shared by who I follow on Twitter, and send items I want to read to Pocket." created="Fri, 15 Apr 2016 14:19:25 GMT"/>
+				<outline text="3. As time permits, read articles in Pocket. Tag items I want to aggregate to my &lt;a href=&quot;http://tech2watch.info&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://tech2watch.info&quot;&gt;tech2watch.info&lt;/span&gt;&lt;/a&gt;&amp;nbsp;web site. Anything I want to write about, I open as a page and use a bookmarklet to send to Fargo where I then write something about the article.&amp;nbsp;&lt;h4&gt;What I want:&lt;/h4&gt;" created="Fri, 15 Apr 2016 14:19:26 GMT"/>
+				<outline text="Ideally, I would like to integrate River4 and &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;and possibly eliminate the use of Pocket. How I think it would work:" created="Fri, 15 Apr 2016 14:19:27 GMT"/>
+				<outline text="1. The application has two tabs, a Read tab that shows the articles from all the web sites I follow, and a Write tab that shows the &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;site.&amp;nbsp;" created="Fri, 15 Apr 2016 14:19:28 GMT"/>
+				<outline text="2. Each item in the Read tab has a button that I can click to read the full article. Ideally, the article expands in place in reader friendly manner that displays full content with no ads, as you can see in Pocket.&amp;nbsp;" created="Fri, 15 Apr 2016 14:19:29 GMT"/>
+				<outline text="3. Each item in the Read tab has another button that I can click to share/write about the article, clicking that expands an input box like the one you see with on 1999.io, with the source link and article title pre-populated and space for me to write. I click the Post button and the item is added to my blog.&amp;nbsp;" created="Fri, 15 Apr 2016 14:19:30 GMT"/>
+				<outline text="P.S.: If memory serves me write, I think this is how Radio Userland worked. Link sharing was at the center of blogging in Radio Userland, rather than the story format that blogging seems to have evolved in to.&amp;nbsp;" created="Fri, 15 Apr 2016 14:19:31 GMT"/>
+				<outline text="P.S.S.: One more item to my wishlist, merge the &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;editor (I like the in place markup) with the Concord outliner for the blogging editor.&amp;nbsp;" created="Fri, 15 Apr 2016 14:19:32 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/18/2016" created="Mon, 18 Apr 2016 17:26:04 GMT">
+			<outline text="Main Editor Page Not Loading" created="Mon, 18 Apr 2016 17:26:04 GMT" type="outline">
+				<outline text="Something became corrupted in the editorsPrefs.json file in my /privateFiles folder that was preventing the main editor page from fully loading. I backed up the current file, removed the editorsPrefs.json and then relaunched the editor, with success!&amp;nbsp;" created="Mon, 18 Apr 2016 17:26:05 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/20/2016" created="Wed, 20 Apr 2016 15:32:25 GMT">
+			<outline text="Something New In My Inbox" created="Wed, 20 Apr 2016 15:32:25 GMT" type="outline">
+				<outline text="Looks like Google has implemented a new bundling feature of Inbox that summarizes articles in email newsletters. It created a bundle of the daily ZDNet news summary, in the screenshot you can see the bundle and the source email below.&amp;nbsp;" created="Wed, 20 Apr 2016 15:32:26 GMT"/>
+				</outline>
+			<outline text="" created="Wed, 20 Apr 2016 21:43:30 GMT" type="outline">
+				<outline text="Once more, with feeling!" created="Wed, 20 Apr 2016 21:43:31 GMT"/>
+				</outline>
+			<outline text="" created="Wed, 20 Apr 2016 21:45:39 GMT" type="outline">
+				<outline text="I see that in the feed settings there is an option to support Facebook Instant Articles, so I might just have to check that out.&amp;nbsp;" created="Wed, 20 Apr 2016 21:45:40 GMT"/>
+				</outline>
+			<outline text="" created="Wed, 20 Apr 2016 22:57:41 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://my.1999.io/users/frankm/&quot;&gt;I've created another blog&lt;/a&gt; on Dave's &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://my.1999.io&quot;&gt;community server&lt;/a&gt; so that I can test the Mac version of the &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;app. If an Android version of the app became available I might give very serious consideration for moving to it from Fargo.&amp;nbsp;" created="Wed, 20 Apr 2016 22:57:42 GMT"/>
+				</outline>
+			<outline text="Publishing To S3" created="Wed, 20 Apr 2016 23:34:46 GMT" type="outline">
+				<outline text="I am now playing with a callback script to see whether I can publish a copy of this blog to a S3 bucket. This is my first test." created="Wed, 20 Apr 2016 23:34:47 GMT"/>
+				<outline text="Ok, that was easy. I created a new S3 bucket, edited the callback script code with the appropriate domain names, created the AWS credentials file and it successfully published to my S3 bucket." created="Wed, 20 Apr 2016 23:34:48 GMT"/>
+				</outline>
+			<outline text="" created="Wed, 20 Apr 2016 23:48:07 GMT" type="outline">
+				<outline text="Hmm, ok, I have a path issue so I've added a slash to the end of the URL for the site on S3. I edited the previous post, but it doesn't look like it is being published to the S3 site." created="Wed, 20 Apr 2016 23:48:08 GMT"/>
+				</outline>
+			<outline text="Improved Blog Hosting With 1999.io" created="Thu, 21 Apr 2016 01:00:41 GMT" type="outline">
+				<outline text="When I initially set up my &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-href=&quot;http://1999.io&quot; data-auto-link=&quot;true&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;server, I wrote an article comparing Fargo with &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-href=&quot;http://1999.io&quot; data-auto-link=&quot;true&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;and in &lt;a href=&quot;http://writing.frankmcpherson.org/2016/04/14/0006.html&quot;&gt;the article&lt;/a&gt; I wrote about one advantage that Fargo had in using Dropbox is that it had built-in backup for my writing.&amp;nbsp;" created="Thu, 21 Apr 2016 01:00:42 GMT"/>
+				<outline text="Tonight I used some sample code from the 1999-server support group to implement a script that copies what I write using my server to a S3 bucket, which I configured for web hosting. The result is everything that I write is now stored &lt;a href=&quot;http://readwrite.club:1999/users/frankm/&quot;&gt;on my server&lt;/a&gt; and &lt;a href=&quot;http://writing.frankmcpherson.org/&quot;&gt;on S3&lt;/a&gt;, providing me with the backup copy I desire." created="Thu, 21 Apr 2016 01:00:43 GMT"/>
+				<outline text="The configuration also resolves &lt;a href=&quot;http://notes.frankmcpherson.net/2016/04/14/testingNewBloggingSoftware.html&quot;&gt;a dependency that my Fargo blogs have on FargoPublisher to access what I write&lt;/a&gt;. FargoPublisher is the web server for the Fargo blogs, using S3 as the file system for the server.&amp;nbsp;" created="Thu, 21 Apr 2016 01:00:44 GMT"/>
+				<outline text="The consequence of this configuration is that my Fargo blogs require S3 and a server running publisher.js via nodejs in order for one to access my content. If the server hosting publisher.js goes down, you cannot access &lt;a href=&quot;http://webnotes.frankmcpherson.net&quot;&gt;&lt;span data-href=&quot;http://webnotes.frankmcpherson.net&quot; data-auto-link=&quot;true&quot;&gt;webnotes.frankmcpherson.net&lt;/span&gt;&lt;/a&gt;&amp;nbsp;even though the site hosting the content (S3) is still up.&amp;nbsp;" created="Thu, 21 Apr 2016 01:00:45 GMT"/>
+				<outline text="By copying the content I write in &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-href=&quot;http://1999.io&quot; data-auto-link=&quot;true&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;to a S3 bucket and configuring that bucket for web hosting means that if my 1999 server goes down, the content will still be accessible. Amazon is much more capable of keeping S3 accessible than I am in keeping my servers running.&amp;nbsp;" created="Thu, 21 Apr 2016 01:00:46 GMT"/>
+				<outline text="Best of all, keeping a web site running on S3 is a matter of paying the AWS bill each month, it doesn't require the ongoing administration that my Linux servers require.&amp;nbsp;" created="Thu, 21 Apr 2016 01:00:47 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/21/2016" created="Thu, 21 Apr 2016 17:26:13 GMT">
+			<outline text="" created="Thu, 21 Apr 2016 17:26:13 GMT" type="outline">
+				<outline text="More news to follow I am sure, but I am saddened to learn that &lt;a href=&quot;http://www.mlive.com/news/ann-arbor/index.ssf/2016/04/report_prince_has_died_in_his.html&quot;&gt;Prince has died&lt;/a&gt;. Seems apt to write about this &lt;a href=&quot;http://scripting.com/2016/04/22/1207.html&quot;&gt;on a blog associated&lt;/a&gt; with &lt;a href=&quot;http://www.metrolyrics.com/1999-lyrics-prince.html&quot;&gt;1999&lt;/a&gt;. " created="Thu, 21 Apr 2016 17:26:14 GMT"/>
+				<outline text="It's the Queen's 90th birthday. I don't know what connection there can be. " created="Thu, 21 Apr 2016 17:26:15 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 21 Apr 2016 17:33:13 GMT" type="outline">
+				<outline text="New York Times: &lt;a href=&quot;http://www.nytimes.com/2016/04/22/arts/music/prince-dead.html?_r=0&quot;&gt;&lt;u&gt;&lt;font color=&quot;#0066cc&quot;&gt;Prince, Singular Music Star, Dies at 57&lt;/font&gt;&lt;/u&gt;&lt;/a&gt;&amp;nbsp;" created="Thu, 21 Apr 2016 17:33:14 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 21 Apr 2016 18:32:01 GMT" type="outline">
+				<outline text="Shocked to discover that I had no Prince tracks in my digital music library, and his music is not on Spotify, so I had to grab some of his tracks from Amazon. " created="Thu, 21 Apr 2016 18:32:02 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 21 Apr 2016 21:15:24 GMT" type="outline"/>
+			</outline>
+		<outline text="4/22/2016" created="Fri, 22 Apr 2016 20:28:00 GMT">
+			<outline text="" created="Fri, 22 Apr 2016 20:28:00 GMT" type="outline">
+				<outline text="I was just listening to a bit of the press conference about Prince's death. The reporters are focused on the cause and circumstances of his death, but soon attention will focus on &lt;a href=&quot;http://webnotes.frankmcpherson.net/2016/04/22/#a1461356882&quot;&gt;the rumored vault&lt;/a&gt; of much of his work not yet released. Who will get possession of the vault and when we might the first album based on music from the vault be released?" created="Fri, 22 Apr 2016 20:28:01 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/25/2016" created="Mon, 25 Apr 2016 17:37:53 GMT">
+			<outline text="AWS Identity Management" created="Mon, 25 Apr 2016 17:37:53 GMT" type="outline">
+				<outline text="&lt;/div&gt;" created="Mon, 25 Apr 2016 17:37:54 GMT"/>
+				<outline text="I've been using Amazon Web Services for maybe 4 years, but I don't think I've ever completely figured out &lt;a href=&quot;http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-security-identity.html&quot;&gt;Identity Management&lt;/a&gt;. Today I've started to try and figure it out so that I can figure out something simple: how to use the AWS Android app without having to log in twice. &lt;b&gt;Update&lt;/b&gt;: I've figured it out.&amp;nbsp;" created="Mon, 25 Apr 2016 17:37:55 GMT"/>
+				</outline>
+			<outline text="Talking To The Machine" created="Mon, 25 Apr 2016 20:14:37 GMT" type="outline">
+				<outline text="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;a href=&quot;http://www.gettyimages.com/detail/79383347&quot; target=&quot;_blank&quot;&gt;Embed from Getty Images&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;iframe src=&quot;//embed.gettyimages.com/embed/79383347?et=HwdmRaO_RF53f8sQ3QMFfw&amp;amp;viewMoreLink=on&amp;amp;sig=WINA7CQ7qfZwO0HRvxLxBUPZ3ED-fP8aqnMFvYUSuPI=&quot; width=&quot;206&quot; height=&quot;207&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;" created="Mon, 25 Apr 2016 20:14:38 GMT"/>
+				<outline text="&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;http://www.tech2watch.info/search/label/bots&quot;&gt;Bots seem to be the next big thing &lt;/a&gt;to the technology industry hype machine, but so far I haven't seen many that are truly useful. Basically, a bot is a computer program that uses a messaging service or audio input and output for its user interface. &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" created="Mon, 25 Apr 2016 20:14:39 GMT"/>
+				<outline text="" created="Mon, 25 Apr 2016 20:14:40 GMT"/>
+				<outline text="Siri and Google Now are two of the most widely known bots, while Microsoft and Facebook are working hard to add bots to their messaging services. " created="Mon, 25 Apr 2016 20:14:41 GMT"/>
+				<outline text="I've tried &lt;a href=&quot;http://blogs.skype.com/2016/03/30/skype-bots-preview-comes-to-consumers-and-developers/&quot;&gt;Skype's bots&lt;/a&gt;, most of which provide a way to query Bing news, web search, and music. In practice it simply moves Bing searches to Skype. Frankly, these options are only handy if you have Skype open all the time." created="Mon, 25 Apr 2016 20:14:42 GMT"/>
+				<outline text="One bot that I have found useful is the Getty Images bot, which you can use to query for re-usable pictures from the Getty image library. For example, I used Skype's Getty Images bot to find the picture above." created="Mon, 25 Apr 2016 20:14:43 GMT"/>
+				<outline text="I selected the Getty Images - Preview bot in my Skypes contacts list, typed reboot, and got five images back included above. I clicked the picture I wanted to get the embed code that I used to add the picture to this post." created="Mon, 25 Apr 2016 20:14:44 GMT"/>
+				<outline text="While over time bots could become more useful, I think the need to type messages to ask the bot for information or to tell the bot to do something is going to be an impediment. I think bots like Siri that do a good job of interpreting natural language input will be the winner.&amp;nbsp;" created="Mon, 25 Apr 2016 20:14:45 GMT"/>
+				</outline>
+			<outline text="A Break In The Chain" created="Mon, 25 Apr 2016 20:42:45 GMT" type="outline">
+				<outline text="I think I might have stumbled upon something that I can't seem to duplicate as I have managed to break the chain of posts between the AWS Identity Management story and the Talking To The Machine story." created="Mon, 25 Apr 2016 20:42:46 GMT"/>
+				<outline text="The ID for the &lt;a href=&quot;http://readwrite.club:1999/users/frankm/2016/04/25/0027.html&quot;&gt;Talking To The Machine&lt;/a&gt; story below is 27, the ID for the &lt;a href=&quot;http://readwrite.club:1999/users/frankm/2016/04/25/0025.html&quot;&gt;AWS Identity Management story&lt;/a&gt; below that is 25. When you go to the AWS Identity Management post you will see that the right navigation arrow is grayed out, post ID 26 seems to have disappeared but I don't know how. Here is what I was doing." created="Mon, 25 Apr 2016 20:42:47 GMT"/>
+				<outline text="I was experimenting with the Talking To The Machine story to see what I could do with the Insert HTML option to embed a picture. At one point I deleted the embedded code from the Edit window rather than removing it via Insert HTML and it appears somewhere in that process post 26 got deleted.&amp;nbsp;" created="Mon, 25 Apr 2016 20:42:48 GMT"/>
+				<outline text="I do know that at one point I refreshed the web browser, I might have done that while I was editing the story and before I clicked Update. After I refreshed the browser, which was Microsoft Edge, the story I was working on did not appear on the 1999 home page. " created="Mon, 25 Apr 2016 20:42:49 GMT"/>
+				<outline text="I loaded my home page and the article was still in the content of the web site. I then Viewed My JSON file and found the article, but it was not loading to the 1999 home page. " created="Mon, 25 Apr 2016 20:42:50 GMT"/>
+				<outline text="At this point I shut down Edge and loaded the 1999 home page using Chrome, and this time the story appeared in the list of stories as expected. I went back to Edge and the story would not load. In Chrome I decided to do an Update, after which I loaded my home page and started stepping back through stories when I discovered the break between the &lt;a href=&quot;http://readwrite.club:1999/users/frankm/2016/04/25/0025.html&quot;&gt;AWS &lt;/a&gt;and &lt;a href=&quot;http://readwrite.club:1999/users/frankm/2016/04/25/0027.html&quot;&gt;Talking To The Machine &lt;/a&gt;stories. " created="Mon, 25 Apr 2016 20:42:51 GMT"/>
+				<outline text="I have managed to get everything working properly in Edge by signing out then clearing the cache and reloading. " created="Mon, 25 Apr 2016 20:42:52 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/28/2016" created="Thu, 28 Apr 2016 17:31:42 GMT">
+			<outline text="On Tablets and PCs" created="Thu, 28 Apr 2016 17:31:42 GMT" type="outline">
+				<outline text="I wonder whether &lt;a href=&quot;https://www.thurrott.com/mobile/66831/thinking-ipad-pro-surface-tablet-market&quot;&gt;the traditional demarcation between &quot;consumption&quot; and &quot;productivity&quot; devices is accurate&lt;/a&gt;. What if the real difference is between people who can afford to own multiple devices versus people who can only afford one device?&amp;nbsp;" created="Thu, 28 Apr 2016 17:31:43 GMT"/>
+				<outline text="People who can only buy one device will make due with what they have, they will use the same device to watch movies, play games, and do word processing. Most people who can only afford one device will make their choice based on what they can afford." created="Thu, 28 Apr 2016 17:31:44 GMT"/>
+				<outline text="People who can buy multiple devices will buy devices specific to a task. I like to read, so I am going to buy a smaller screen tablet that is easier to hold while reading a book. While I could do word processing on that smaller screen device, I can afford a larger screen device with a keyboard and so that I was I have for productivity." created="Thu, 28 Apr 2016 17:31:45 GMT"/>
+				<outline text="I am not sure whether this theory completely holds water, but my gut tells me that we tend to still look at personal computing through the same beige glasses while the definition of what is personal computing has dramatically changed." created="Thu, 28 Apr 2016 17:31:46 GMT"/>
+				</outline>
+			<outline text="Personal Computing" created="Thu, 28 Apr 2016 17:39:39 GMT" type="outline">
+				<outline text="&lt;b&gt;Personal&lt;/b&gt; computing is browsing the web, playing music, watching movies, playing games, reading email, writing email, and creating documents. In short, it is everything&lt;b&gt; I&amp;nbsp;&lt;/b&gt;do for which &lt;b&gt;a computer is the tool&lt;/b&gt; for getting done." created="Thu, 28 Apr 2016 17:39:40 GMT"/>
+				<outline text="Smartphones, tablets, notebook computers, and desktop computers are all devices that I can use for personal computing; they all are personal computers." created="Thu, 28 Apr 2016 17:39:41 GMT"/>
+				<outline text="Smartphones are about portability and have displays that are 6 inches or smaller. My smartphone is my most personal computer, I take it everywhere and it contains, or has access to, the information most important to me that I always need." created="Thu, 28 Apr 2016 17:39:42 GMT"/>
+				<outline text="Tablets are about flexibility, and have displays that are between 7 and 12 inches. I could carry my tablet with me almost everywhere and it fits easily in my Waterfield Indie bag. Tablet displays are larger than smartphones so I can view more information, and small enough to be held and used while sitting or standing. Like a smartphone, a tablet can be used while only being held in your hands and does not require a surface.&amp;nbsp;" created="Thu, 28 Apr 2016 17:39:43 GMT"/>
+				<outline text="Notebook and desktop computers are about large displays and inputting a high volume of text. Both require a surface to hold the device in order for it to be used. Between the two, I am unsure why one would buy a desktop rather than a notebook when the price is the same. Gaming is a niche that requires the highest performing desktop and notebook computers.&amp;nbsp;" created="Thu, 28 Apr 2016 17:39:44 GMT"/>
+				<outline text="A person who needs to always type a lot of text, use large displays, or play games will not realize the value in the flexibility of tablets and therefore will see no value in them. Such people will point out that ultra-thin notebooks are as portable as tablets.&amp;nbsp;" created="Thu, 28 Apr 2016 17:39:45 GMT"/>
+				<outline text="A person who values flexibility may prefer a tablet over a notebook computer. If they wish to, one can connect a keyboard to a tablet to input text in a growing number of adequate word processors. Many tablets can also be attached to large displays.&amp;nbsp;" created="Thu, 28 Apr 2016 17:39:46 GMT"/>
+				<outline text="People who can afford to may own one or more of these devices, using each as a situation requires. At a minimum, almost everyone has a smartphone and adds to that additional devices as their budget allows.&amp;nbsp;" created="Thu, 28 Apr 2016 17:39:47 GMT"/>
+				<outline text="Ten years ago everyone would start with a desktop or notebook computer and then add a smartphone, but today the order of priority has flipped, which is the big change in personal computing during this past decade.&amp;nbsp;&lt;span&gt;Consequently, authors of content and applications seeking the largest market for their work will target smartphones.&amp;nbsp;&lt;/span&gt;" created="Thu, 28 Apr 2016 17:39:48 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 28 Apr 2016 18:42:22 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;needs a bookmarklet for copying web page titles and links to the input box of the editor. It's a feature I use often with Fargo." created="Thu, 28 Apr 2016 18:42:23 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/29/2016" created="Fri, 29 Apr 2016 14:58:01 GMT">
+			<outline text="Blogs and Social Networks" created="Fri, 29 Apr 2016 14:58:01 GMT" type="outline">
+				<outline text="In replying to a blog post that ponders how one knows about replies to a post to a &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;site, I stumbled upon a key difference between social networks and blogs.&amp;nbsp;" created="Fri, 29 Apr 2016 14:58:02 GMT"/>
+				<outline text="Social networks are designed around interactions, when one replies to something on a social network the software then notifies whenever something new happens, either when other people reply or when someone replies to what you wrote." created="Fri, 29 Apr 2016 14:58:03 GMT"/>
+				<outline text="Blogs have always supported &quot;messages&quot; as replies to blog posts, but don't do their best to keep the conversation flowing. &amp;nbsp;If you post a reply to this post, how will I know it? And if I reply to you, how will you know it?&amp;nbsp;" created="Fri, 29 Apr 2016 14:58:04 GMT"/>
+				<outline text="An original solution was the concept of a pingback, whereby blogging software would notice when someone linked to a post one wrote and then notified you when that event occurred." created="Fri, 29 Apr 2016 14:58:05 GMT"/>
+				<outline text="WordPress now uses email. When you reply to a WordPress post, you usually see an option where you can tell WordPress to send you an email to you whenever someone replies to your reply, and/or if there are any changes to the post. Doing so requires subscribing to the post in WordPress, and while this method is effective, it is also cumbersome.&amp;nbsp;" created="Fri, 29 Apr 2016 14:58:06 GMT"/>
+				<outline text="RIght now it feels that &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;is half way between the two, but the notification layer is missing. I can manually browse my posts in the editor and see replies, but requires me to constantly scroll through.&amp;nbsp;" created="Fri, 29 Apr 2016 14:58:07 GMT"/>
+				<outline text="A solution may be to make a view of the editor in which the articles are automatically sorted in a way where those that have replies appear at the top. Or perhaps items with replies can be viewed in a separate tab. Either way, it seems to me there needs to be a way to surface items that have replies otherwise it will be very easy for them to be overlooked.&amp;nbsp;" created="Fri, 29 Apr 2016 14:58:08 GMT"/>
+				<outline text="I also wonder whether there needs to be a provision for moderation and turning off replies so that you can manage SPAM. I turn moderation on all my WordPress sites because most of the replies are SPAM that I don't want actually published to the site.&amp;nbsp;" created="Fri, 29 Apr 2016 14:58:09 GMT"/>
+				</outline>
+			</outline>
+		<outline text="4/30/2016" created="Sat, 30 Apr 2016 20:50:17 GMT">
+			<outline text="Using 1999.io in Android" created="Sat, 30 Apr 2016 20:50:17 GMT" type="outline">
+				<outline text="Finally got the &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt; editor to load in Chrome on my tablet running Android. For some reason after switching to the Twitter app for authentication, rather than returning to Chrome the Twitter app would load the web page. Worse, the authentication would not occur in Chrome, so I could never log in.&amp;nbsp;" created="Sat, 30 Apr 2016 20:50:18 GMT"/>
+				<outline text="To resolve the problem I uninstalled the Twitter app, opened my &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt; editor site, and this time the authentication occurred completely within Chrome. I am going to keep Twitter off this tablet because I prefer Fenix anyway.&amp;nbsp;" created="Sat, 30 Apr 2016 20:50:19 GMT"/>
+				<outline text="It occurs to me that the problem may be due to the fact that I had Twitter configured to load web pages within the app. It may be that if I configured Twitter to load web sets via Chrome the authentication would work as planned.&amp;nbsp;" created="Sat, 30 Apr 2016 20:50:20 GMT"/>
+				<outline text="I do see an issue where the editor select features&amp;nbsp;conflict with Android select. When you select text in the editor, rather than seeing the editor pop up for formatting and linking the Android cut, copy, and paste dialog appears.&amp;nbsp;" created="Sat, 30 Apr 2016 20:50:21 GMT"/>
+				</outline>
+			<outline text="" created="Sat, 30 Apr 2016 21:14:52 GMT" type="outline">
+				<outline text="An advantage that &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt; has over Fargo is that it works better in tablet and smartphone browsers. The only problem is with the formatting and linking pop up being overwritten by Android's select pop up.&amp;nbsp;" created="Sat, 30 Apr 2016 21:14:53 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Fri, 24 Dec 2021 19:39:03 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>2,3,5,6,8,11,13,14,20,25,26,33,34,40,42,46,47,49,50,52,53,62,63,65,71,72,77,78,85,86,89,91,92,99</expansionState>
+		<lastCursor>10</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2017-05.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2017-05.json</urlJson>
+		<flPublic>true</flPublic>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateCreated>Fri, 24 Dec 2021 19:32:38 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="This file contains blog posts that I wrote using 1999.io in May, 2017" created="Fri, 24 Dec 2021 19:32:56 GMT" isComment="true"/>
+		<outline text="5/1/2017" created="Tue, 02 May 2017 01:34:02 GMT">
+			<outline text="Happy Anniversary Anyway" created="Tue, 02 May 2017 01:34:02 GMT" type="outline">
+				<outline text="Today marks &lt;a href=&quot;http://writing.frankmcpherson.org/2016/05/01/0037.html&quot;&gt;the one year anniversary of this blog&lt;/a&gt;. Now I have a year's worth of posts to look back upon. Actually, turns out that the archiving feature first became available on May 1, my actual first post was on &lt;a href=&quot;http://writing.frankmcpherson.org/2016/04/14/0001.html&quot;&gt;April 14&lt;/a&gt;." created="Tue, 02 May 2017 01:34:03 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/4/2017" created="Fri, 05 May 2017 00:15:51 GMT">
+			<outline text="" created="Fri, 05 May 2017 00:15:51 GMT" type="outline">
+				<outline text="I really enjoyed &lt;a href=&quot;http://time.com/69316/basic/&quot;&gt;this article about the 50th anniversary of BASIC&lt;/a&gt; at Time.com. I was one of those guys who learned programming by typing in BASIC programs published in magazines like Compute. My first formal programming class was BASIC on &lt;a href=&quot;http://www.trs-80.com/wordpress/&quot;&gt;the TRS-80&lt;/a&gt;.&amp;nbsp;" created="Fri, 05 May 2017 00:15:52 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 05 May 2017 00:25:09 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://writing.frankmcpherson.org/2016/05/04/0043.html&quot;&gt;Trumped&lt;/a&gt;: &quot;My fear is that Trump's ascendancy says something more about the people voting than the candidates running.&quot;&amp;nbsp;" created="Fri, 05 May 2017 00:25:10 GMT"/>
+				<outline text="Seems particularly apt given &lt;a href=&quot;https://www.washingtonpost.com/powerpost/republicans-plan-health-care-vote-on-thursday-capping-weeks-of-fits-and-starts/2017/05/03/e7dd7c28-306d-11e7-9dec-764dc781686f_story.html?utm_term=.9c87604107ab&quot;&gt;the House vote on health care&lt;/a&gt; and Trump's &quot;religious freedom&quot; &lt;a href=&quot;https://www.washingtonpost.com/politics/trump-signs-order-aimed-at-allowing-churches-to-engage-in-more-political-activity/2017/05/04/024ed7c2-30d3-11e7-9534-00e4656c22aa_story.html?utm_term=.f58b218dc491&quot;&gt;executive order&lt;/a&gt;. It seems to me people aren't thinking of the fact that theocracies often start in the pulpit.&amp;nbsp;" created="Fri, 05 May 2017 00:25:11 GMT"/>
+				</outline>
+			<outline text="" created="Fri, 05 May 2017 00:31:10 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://realpersonalcomputing.com/2013/12/30/what-do-chromebooks-mean-to-personal-computing/&quot;&gt;What do Chromebooks mean to personal computing?&lt;/a&gt;&amp;nbsp;" created="Fri, 05 May 2017 00:31:11 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/5/2017" created="Fri, 05 May 2017 15:02:40 GMT">
+			<outline text="Windows 10S Is Not The Same As ChromeOS" created="Fri, 05 May 2017 15:02:40 GMT" type="outline">
+				<outline text="Ed Bott:&amp;nbsp;&lt;a href=&quot;http://www.zdnet.com/article/windows-10-s-chromebook-killer-or-the-second-coming-of-windows-rt&quot;&gt;Windows 10 S: Chromebook killer or the second coming of Windows RT&lt;/a&gt;?" created="Fri, 05 May 2017 15:02:41 GMT"/>
+				<outline text="I say second coming of Windows RT. From what I can tell, Windows 10 S is practically the same as RT. You can only install apps from the Windows Store, you can only use Edge, and you can only use Bing.&amp;nbsp;" created="Fri, 05 May 2017 15:02:42 GMT"/>
+				<outline text="While I could upgrade Windows 10 S to Windows 10 Pro for $50 more and then I can use Chrome and Google Search, that is yet more money I have to spend.&amp;nbsp;" created="Fri, 05 May 2017 15:02:43 GMT"/>
+				<outline text="And the update process for Windows 10 S is still not as smooth or fast as Chrome OS.&amp;nbsp;" created="Fri, 05 May 2017 15:02:44 GMT"/>
+				<outline text="But to me, the real problem is that at the end of the day Windows 10 S looks like cheap computers while Chromebooks are lower cost but strive to provide high quality, good looking machines." created="Fri, 05 May 2017 15:02:45 GMT"/>
+				</outline>
+			<outline text="What's My Next Personal Computer? " created="Fri, 05 May 2017 17:30:47 GMT" type="outline">
+				<outline text="I've been thinking that my next technology purchase may be &lt;a href=&quot;https://www.theverge.com/2017/2/10/14571332/not-a-chromebook-pro-review-samsung-chrome-os-android-convertible&quot;&gt;the Samsung Chromebook Pro&lt;/a&gt;. Basically, I am getting to the point where I should get a new Android tablet, the Nexus 9 is getting pretty old, and I am looking at the Chromebooks that run Android to be tablet replacements." created="Fri, 05 May 2017 17:30:48 GMT"/>
+				<outline text="The Chromebook Pro has a Intel M3 processor that promises to better performance than the Chromebook Plus with its Atom processor. However, Android apps are designed to run on Atom and therefore I wouldn't be surprised in Android apps ran better on the Plus than the Pro.&amp;nbsp;" created="Fri, 05 May 2017 17:30:49 GMT"/>
+				<outline text="I should be able to buy a Chromebook Pro by now, but it still has not shipped. &lt;a href=&quot;https://www.theverge.com/2017/5/4/15547742/android-apps-chrome-os-chromebook-pro-delayed&quot;&gt;The Verge reports&lt;/a&gt; that the problem may be the performance of Android apps running on the M3 processor." created="Fri, 05 May 2017 17:30:50 GMT"/>
+				<outline text="Consequently, I am giving more thought to buying the Chromebook Plus. I also hear rumors that Apple may come out with a 10 inch iPad Pro that supports the Pencil and I find that appealing enough to consider rather than either Chromebooks.&amp;nbsp;" created="Fri, 05 May 2017 17:30:51 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/7/2017" created="Mon, 08 May 2017 03:58:20 GMT">
+			<outline text="I Wish iOS Would Share Like Android" created="Mon, 08 May 2017 03:58:20 GMT" type="outline">
+				<outline text="I am looking for a way to create a RSS feed of quotes from books I read using the Kindle app on my iPad.&amp;nbsp;" created="Mon, 08 May 2017 03:58:21 GMT"/>
+				<outline text="Right now &lt;a href=&quot;https://the-narthex.org/type/quote/&quot;&gt;I am posting each quote as a blog post on a Wordpress blog&lt;/a&gt;. First I tried sharing a highlight to the Wordpress app, but that only posts the URL to the quote at Kindle online and doesn't share the content of the highlight.&amp;nbsp;" created="Mon, 08 May 2017 03:58:22 GMT"/>
+				<outline text="I can copy the highlight content to the clipboard and then share the highlight, but that then requires two steps and editing of the post that requires more work than I would like.&amp;nbsp;" created="Mon, 08 May 2017 03:58:23 GMT"/>
+				<outline text="Conversely, I created a Workflow that creates a blog post using the contents from the clipboard, but that does not the link to the quote, which I would like to retain for attribution.&amp;nbsp;" created="Mon, 08 May 2017 03:58:24 GMT"/>
+				<outline text="My first thought was to blame Amazon, but here is the thing. I can share quotes using the Kindle app on Android to the Wordpress app for Android and &lt;a href=&quot;https://the-narthex.org/2017/05/08/from-water-to-wine-some-of-my-story-by-brian-zahnd-2/&quot;&gt;it works exactly the way I want&lt;/a&gt;. So, this is something that iOS appears to prevent happening. Ironically, I can share highlights to Google Keep exactly in the manner I desire, but there is no easy way to get stuff out of Keep." created="Mon, 08 May 2017 03:58:25 GMT"/>
+				<outline text="Sigh, I prefer to read books on the iPad Mini because it is smaller and lighter than the Nexus 9, but this is another example of just how sharing on Android is better than iOS.&amp;nbsp;" created="Mon, 08 May 2017 03:58:26 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/8/2017" created="Mon, 08 May 2017 15:58:06 GMT">
+			<outline text="Redundant Reading" created="Mon, 08 May 2017 15:58:06 GMT" type="outline">
+				<outline text="I use &lt;a href=&quot;http://www.instapaper.com&quot;&gt;Instapaper &lt;/a&gt;and &lt;a href=&quot;http://getpocket.com&quot;&gt;Pocket &lt;/a&gt;and you might ask why as they are both &quot;read it later&quot; apps.&amp;nbsp;" created="Mon, 08 May 2017 15:58:07 GMT"/>
+				<outline text="The reason is that they both have unique features that I use. Instapaper provides a way to highlight text in an article an I use a IF applet to store those highlights in Evernote." created="Mon, 08 May 2017 15:58:08 GMT"/>
+				<outline text="Pocket does not provide highlighting but it does provide tags, which I use with another IF applet to curate articles on &lt;a href=&quot;http://tech2watch.info&quot;&gt;tech2watch.info&lt;/a&gt;.&amp;nbsp;" created="Mon, 08 May 2017 15:58:09 GMT"/>
+				<outline text="Instapaper does not have tags, but it does have folders that could be used like tags but are not as flexible because an article cannot be in two folders at the same time" created="Mon, 08 May 2017 15:58:10 GMT"/>
+				<outline text="I really wish either Instapaper had tags or Pocket had highlights. At one time Pocket did have highlights and I would gladly pay for the premium service if it were brought back.&amp;nbsp;" created="Mon, 08 May 2017 15:58:11 GMT"/>
+				</outline>
+			<outline text="" created="Mon, 08 May 2017 19:32:23 GMT" type="outline">
+				<outline text="I am seeing &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2017/5/8/15579858/huawei-watch-android-wear-2-0-update&quot;&gt;reports that Android Wear 2&lt;/a&gt; is now available for the original Huawei Watch, which I have, but so far it is not available to be installed on my watch." created="Mon, 08 May 2017 19:32:24 GMT"/>
+				</outline>
+			<outline text="On This Day I Wrote" created="Mon, 08 May 2017 19:37:39 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://writing.frankmcpherson.org/2016/05/07/0054.html&quot;&gt;Last year at this time&lt;/a&gt; the Cubs were the best team in baseball. Right now they are scuffling, having given two games to the Yankees this past weekend. The pitching needs to get must better in the early innings of games because right now we are getting behind too soon and by too much in nearly every game." created="Mon, 08 May 2017 19:37:40 GMT"/>
+				<outline text="Tony the Tiger &lt;a href=&quot;http://webnotes.frankmcpherson.net/2014/05/08/&quot;&gt;lost his voice&lt;/a&gt;.&amp;nbsp;" created="Mon, 08 May 2017 19:37:41 GMT"/>
+				<outline text="Seven years ago &lt;a href=&quot;https://fjmnotes.com/2010/05/05/now-i-own-an-ipad/&quot;&gt;I bought my first iPad&lt;/a&gt;, and &lt;a href=&quot;https://fjmnotes.com/2010/05/08/blogging-from-an-ipad/&quot;&gt;wrote my first blog post using it&lt;/a&gt;.&amp;nbsp;" created="Mon, 08 May 2017 19:37:42 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/12/2017" created="Fri, 12 May 2017 15:35:26 GMT">
+			<outline text="" created="Fri, 12 May 2017 15:35:26 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://channel9.msdn.com/Events/Build/2017/P4171&quot;&gt;Windows 10 on ARM&lt;/a&gt;. I wonder whether some day we will see Windows 10 running on Raspberry PI?&amp;nbsp;" created="Fri, 12 May 2017 15:35:27 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/13/2017" created="Sat, 13 May 2017 20:36:36 GMT">
+			<outline text="" created="Sat, 13 May 2017 20:36:36 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://scripting.com/reboot/test/v3/dave/#a110542&quot; style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;Dave appears to be working on it.&lt;/a&gt;&amp;nbsp;Electric Outliner? Yes please!&amp;nbsp;" created="Sat, 13 May 2017 20:36:37 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/15/2017" created="Mon, 15 May 2017 15:29:44 GMT">
+			<outline text="Android Wear 2.0 " created="Mon, 15 May 2017 15:29:44 GMT" type="outline">
+				<outline text="On Friday my &lt;a href=&quot;https://www.cnet.com/products/huawei-watch/&quot;&gt;Huawei Watch&lt;/a&gt; was upgraded to Android Wear 2. Over all, I am pleased with the upgrade. Most of the changes that have been made are for the better, but there are UI changes that involve muscle memory, and those are difficult to over come." created="Mon, 15 May 2017 15:29:45 GMT"/>
+				<outline text="Most notable is notifications. With the prior version, you swiped a notification card right to take further action, now you tap the notification to take action, swipe right to remove the notification.&amp;nbsp;" created="Mon, 15 May 2017 15:29:46 GMT"/>
+				<outline text="Some of the apps that I use are not yet optimized for the new notification model, particularly in my case Map My Walk. With the prior version, when I started tracking with the app the View Status view would immediately display on the watch, now it does not. Now, I have to swipe up to see the walking notification, tap the notification, then tap View Stats." created="Mon, 15 May 2017 15:29:47 GMT"/>
+				<outline text="Another issue that I have is with Reminders. While I can create a new reminder using the watch, the reminders that I create only occur on the phone and do not appear on the watch.&amp;nbsp;" created="Mon, 15 May 2017 15:29:48 GMT"/>
+				<outline text="Reminder integration between my phone (a Nexus 6P) and the watch has been an issue, but appeared to be fixed with the upgrade to Google Assistant on the phone.&amp;nbsp;" created="Mon, 15 May 2017 15:29:49 GMT"/>
+				<outline text="It is really disappointing that Google has not integrated Assistant across all platforms. For example, you get to Assistant settings via the Google Home app for the Home and phone assistants, but the Android Wear 2 assistant settings is only accessible via the Android Wear app.&amp;nbsp;" created="Mon, 15 May 2017 15:29:50 GMT"/>
+				<outline text="In my opinion, Assistant should be aware of all the devices that I use with my Google accounts, and I should be able to send information between devices. For example, if I ask the assistant on Google Home to find a recipe, I should be able to tell it to send that recipe, which is a web page, to my phone or tablet.&amp;nbsp;" created="Mon, 15 May 2017 15:29:51 GMT"/>
+				<outline text="The lack of integration across devices when it obviously should exist is a significant problem. In fact, the lack of this type of integration was in my opinion a major issue with Microsoft's Windows Mobile platform. Lack of integration means users do not get full value out of the platform, and demonstrates a lack of planning and execution by Google." created="Mon, 15 May 2017 15:29:52 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/16/2017" created="Tue, 16 May 2017 20:07:20 GMT">
+			<outline text="A Fool With A Tool Is Still A Fool" created="Tue, 16 May 2017 20:07:20 GMT" type="outline">
+				<outline text="Dave has publish some Javascript tools via NPM packages. One package includes &lt;a href=&quot;https://github.com/scripting/rss&quot;&gt;creating an RSS feed&lt;/a&gt; and the other is a bundle of &lt;a href=&quot;https://github.com/scripting/utils&quot;&gt;utility functions&lt;/a&gt;. Dave has also bundled &lt;a href=&quot;https://github.com/scripting/reader&quot;&gt;the RSS feed reading that is in River5&lt;/a&gt; into an npm package." created="Tue, 16 May 2017 20:07:21 GMT"/>
+				</outline>
+			<outline text="How May I Be Of Assistance?" created="Wed, 17 May 2017 02:57:39 GMT" type="outline">
+				<outline text="The Google I/O conference starts tomorrow, with the keynote scheduled for 1:00 PM EST. We are likely to learn about Android O and changes to Google Assistant, along perhaps with some news about ChromeOS.&amp;nbsp;" created="Wed, 17 May 2017 02:57:40 GMT"/>
+				<outline text="I hope that Google is going to make changes to Assistant that makes it more useful across Home, phone, and watch. What I find frustrating are those times when I have my phone in hand, say &quot;Ok Google&quot; and have Home take over, when I really want assistant on my phone.&amp;nbsp;" created="Wed, 17 May 2017 02:57:41 GMT"/>
+				<outline text="Why does it matter? Because Assistant does different things on each device. For example, Assistant on my phone can create an event on my calendar while assistant on home cannot, and that is a problem.&amp;nbsp;" created="Wed, 17 May 2017 02:57:42 GMT"/>
+				<outline text="Another thing I find frustrating is the inability to transfer information between devices. For example, if I initiate a search with Home, wouldn't it be cool to say, &quot;Ok Google, send that to my phone&quot; and have that web page open in Chrome on my phone?" created="Wed, 17 May 2017 02:57:43 GMT"/>
+				<outline text="The point being that if Google is going to put Assistant on all these devices it needs to work seamlessly and consistently across those devices. It shouldn't matter from which device Assistant hears me, it should take the same action.&amp;nbsp;" created="Wed, 17 May 2017 02:57:44 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/17/2017" created="Wed, 17 May 2017 15:56:25 GMT">
+			<outline text="Farewell iPad Mini?" created="Wed, 17 May 2017 15:56:25 GMT" type="outline">
+				<outline text="I am disappointed by &lt;a href=&quot;https://www.cnet.com/news/apple-ipad-mini-could-finally-get-the-axe/&quot;&gt;the reports that Apple will discontinue the iPad Mini&lt;/a&gt;. I own a iPad Mini 4 that I really like. In my opinion it is the perfectly sized small tablet, both from a screen size and overall weight perspective, and that makes it perfect for reading eBooks.&amp;nbsp;" created="Wed, 17 May 2017 15:56:26 GMT"/>
+				<outline text="I do admit, however, that the small screen size prevents the Mini from being the best productivity tool. For work related activities, I prefer a table that is at least 10.5 inches. Consequently, I am keeping my eye out for the rumored new iPad Pro announcement, although I am a bit fearing the potential price. &amp;nbsp;" created="Wed, 17 May 2017 15:56:27 GMT"/>
+				<outline text="&lt;a href=&quot;http://mywebstream.net:1999/users/frankm/2017/05/05/whatsMyNextPersonalComputer.html&quot;&gt;As I have written before&lt;/a&gt;, I am conflicted over what will be my next personal computing purchase. The primary conflict is over whether I want (or need) an Android tablet. While I like the iPad hardware, I still prefer Android over iOS from an operating system perspective. Samsung's device might be a good option, but then I am as about as interested in Samsung's ecosystem as I am about iOS.&amp;nbsp;" created="Wed, 17 May 2017 15:56:28 GMT"/>
+				<outline text="I wonder whether Google will announce a replacement of the Pixel C at I/O?" created="Wed, 17 May 2017 15:56:29 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/18/2017" created="Thu, 18 May 2017 12:53:24 GMT">
+			<outline text="Reaction To Google I/O 2017" created="Thu, 18 May 2017 12:53:24 GMT" type="outline">
+				<outline text="Yesterday was the first day of &lt;a href=&quot;https://events.google.com/io/&quot;&gt;the Google I/O developer conference&lt;/a&gt;, and with that the keynote during which it typically announces new products.&amp;nbsp;" created="Thu, 18 May 2017 12:53:25 GMT"/>
+				<outline text="The majority of the new announcements during yesterday's keynote relates to Google Assistant and Google Home. In summary, Google appears to be addressing &lt;a href=&quot;http://mywebstream.net:1999/users/frankm/2017/05/16/howMayIBeOfAssistance.html&quot;&gt;my disappointment with the lack of integration&lt;/a&gt; with assistant across devices.&amp;nbsp;" created="Thu, 18 May 2017 12:53:26 GMT"/>
+				<outline text="Google is adding notifications to Home in what they call proactive assistance, and adding hands-free calling to phone numbers rather than device to device calling as Amazon recently announced for Echo. I think people will find the ability to make actual phone calls much more appealing." created="Thu, 18 May 2017 12:53:27 GMT"/>
+				<outline text="We did learn a little more about Android O, and the second preview beta is available for more people to install on their Pixel and Nexus 6P phones. Frankly, I don't see much about Android O that would compel me to install the beta at this time. It appears to me that Android O is very much an incremental upgrade rather than a significant feature upgrade such as Nougat did with its support for Assistant and Pixel Launcher." created="Thu, 18 May 2017 12:53:28 GMT"/>
+				<outline text="Notable to me are things not mentioned. Nothing was mentioned about ChromeOS nor the running of Android apps on ChromeOS, which was promised to be more broadly available during the conference last year. We also did not see any new Chromecasts devices or upgrades beyond the Visual Responses being added to Home.&amp;nbsp;" created="Thu, 18 May 2017 12:53:29 GMT"/>
+				<outline text="The conference continues thru today and tomorrow, so there is still time for more announcements, but I found the news from the keynote underwhelming." created="Thu, 18 May 2017 12:53:30 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/23/2017" created="Tue, 23 May 2017 15:30:11 GMT">
+			<outline text="" created="Tue, 23 May 2017 15:30:11 GMT" type="outline">
+				<outline text="I wonder, does the fact that &lt;a href=&quot;https://www.microsoft.com/en-us/store/b/surface?Homepage_LeftNav_03_Surface_en_US&quot;&gt;Microsoft has retained the &quot;Pro&quot; designation&lt;/a&gt; with its latest announcement mean that there might be a new &quot;Surface&quot; tablet/2-in-1 in the future? &amp;nbsp;" created="Tue, 23 May 2017 15:30:12 GMT"/>
+				<outline text="I doubt it. Most likely Microsoft is leaving the low-end 2-in-1 market to their hardware partners. On one hand, the Surface 3 continues to serve well and I don't foresee a near future where a new release of Windows 10 does not work on it. On the other hand, it makes me think further about what device to buy next. Right now I basically have a tablet for work, &amp;nbsp;the Surface 3, and a tablet for home, the iPad Mini 4. Both are orphans and why do I need two?&amp;nbsp;" created="Tue, 23 May 2017 15:30:13 GMT"/>
+				</outline>
+			<outline text="" created="Tue, 23 May 2017 16:44:14 GMT" type="outline">
+				<outline text="How many &lt;a href=&quot;https://9to5google.com/2017/05/23/ikea-smart-home-lighting-google-assistant/&quot;&gt;different IoT hubs &lt;/a&gt;does there need to be before the industry recognizes it has a standards problem?&amp;nbsp;" created="Tue, 23 May 2017 16:44:15 GMT"/>
+				</outline>
+			</outline>
+		<outline text="5/31/2017" created="Thu, 01 Jun 2017 03:08:45 GMT">
+			<outline text="Andy Rubin's Ambition" created="Thu, 01 Jun 2017 03:08:45 GMT" type="outline">
+				<outline text="Yesterday we learned about the new phone from Andy Rubin's new company, &lt;a href=&quot;https://www.essential.com/&quot;&gt;Essential&lt;/a&gt;. I expect much will be written about the new phone, but what I think is interesting is that Rubin's company appears to be trying to launch a new ecosystem in which the phone plays but a part." created="Thu, 01 Jun 2017 03:08:46 GMT"/>
+				<outline text="The company is also developing a new software assistant, or what is now being called an &lt;a href=&quot;http://gadgets.ndtv.com/mobiles/news/essential-phone-price-release-date-preorders-ambient-os-android-1706045&quot;&gt;Ambient OS&lt;/a&gt;. Like Google Assistant, Essential's will be available on their phone and in &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2017/5/30/15711162/ambient-os-essential-home-andy-rubin&quot;&gt;an in-home appliance.&lt;/a&gt;&amp;nbsp;" created="Thu, 01 Jun 2017 03:08:47 GMT"/>
+				<outline text="I am curious about why Rubin is choosing to develop their own assistant rather than use Google's, as they are doing in using Android. How can Essential have access to the same data as Google, and can they really write software better than Google?&amp;nbsp;" created="Thu, 01 Jun 2017 03:08:48 GMT"/>
+				<outline text="The key might be in what Rubin said during The Verge's Recode conference, where he said that the problem Amazon's Echo and Google's Home is the UI. Essential might be developing a different interface that rides on top of Google Assistant, although The Verge says it is more akin to IFTTT.&amp;nbsp;" created="Thu, 01 Jun 2017 03:08:49 GMT"/>
+				<outline text="What I am most excited by is his comments regarding IoT integration. He acknowledge the &quot;multiple hub&quot; problem of IoT that I've written of before and claims to be trying to provide a fix. If Essential's home appliance can eliminate the need for a Philips, SmartThings, and Harmony hub in my home, I will be a happy camper.&amp;nbsp;" created="Thu, 01 Jun 2017 03:08:50 GMT"/>
+				<outline text="Rubin's past success in creating the HipTop and Android warrant taking him seriously, but he is claiming to do some bold things that might prove too difficult to overcome. Still, I am rooting for him!&amp;nbsp;" created="Thu, 01 Jun 2017 03:08:51 GMT"/>
+				</outline>
+			<outline text="" created="Thu, 01 Jun 2017 03:23:21 GMT" type="outline">
+				<outline text="I've just added May 2017 to the archive menu, which means we have rolled over one year on this blog.&amp;nbsp;" created="Thu, 01 Jun 2017 03:23:22 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

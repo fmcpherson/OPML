@@ -1,0 +1,347 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Fri, 24 Dec 2021 19:28:40 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2017-04.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2017-04.json",
+        "flPublic": true,
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "dateCreated": "Fri, 24 Dec 2021 19:28:40 GMT"
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "4/1/2017",
+                "created": "Sat, 01 Apr 2017 17:48:41 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sat, 01 Apr 2017 17:48:41 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Getting ready to join episode 2000 of the MobileViews podcast. Here are <a href=\"http://mywebstream.net:1999/users/frankm/statuscenters/Work%20Notes.html#1491066453000\">my notes for the podcast</a>.&nbsp;",
+                                "created": "Sat, 01 Apr 2017 17:48:42 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/3/2017",
+                "created": "Mon, 03 Apr 2017 14:47:04 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Mon, 03 Apr 2017 14:47:04 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "As I expected, most of <a href=\"https://9to5google.com/2017/04/01/comcast-att-verizon-wont-sell-browsing-history/\">the big name IPSs are making statements</a> that they will not sell customer data. What about metadata?&nbsp;",
+                                "created": "Mon, 03 Apr 2017 14:47:05 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 03 Apr 2017 16:56:44 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"https://mondaynote.com/the-ipad-turnaround-is-coming-6d04747b215b\">Jean-Louis Gassée says</a> that the iPad turnaround has begun, pointing to the iPad Pro and predicting more powerful iPads are in the future. In effect, he is saying that the iPad is the <a href=\"https://realpersonalcomputing.com/2011/12/26/post-pc-era-or-the-beginning-of-the-personal-computing-era/\">future of real personal computing</a>.",
+                                "created": "Mon, 03 Apr 2017 16:56:45 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/4/2017",
+                "created": "Tue, 04 Apr 2017 19:38:37 GMT",
+                "subs": [
+                    {
+                        "text": "Google To Buy Spotify",
+                        "created": "Tue, 04 Apr 2017 19:38:37 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Looks like <a href=\"http://www.digitalmusicnews.com/2017/04/01/google-acquiring-spotify-41-billion-april-1/\">Google is acquiring Spotify</a>. I've been a paid subscriber of Spotify for several years and enjoy the service, so I really hope that Google does not screw it up.&nbsp;",
+                                "created": "Tue, 04 Apr 2017 19:38:38 GMT"
+                            },
+                            {
+                                "text": "Sigh.... <a href=\"http://www.digitalmusicnews.com/2015/04/01/breaking-google-calling-off-14-1-billion-spotify-acquisition/\">looks like I got suckered</a> by an April fools prank.",
+                                "created": "Tue, 04 Apr 2017 19:38:39 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/6/2017",
+                "created": "Thu, 06 Apr 2017 20:12:38 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 06 Apr 2017 20:12:38 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Should we stop to consider whether the Supreme Court nominations are worth the scorched-earth tactics the Republicans have employed over the last two years?&nbsp;",
+                                "created": "Thu, 06 Apr 2017 20:12:39 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Fri, 07 Apr 2017 02:07:44 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Tried <a href=\"http://flintos.io\">Flint OS</a> on the Raspberry Pi, and it didn't go well. Flint OS kept shutting down and rebooting. Might keep an eye ball on it to see if it improves over time.&nbsp;",
+                                "created": "Fri, 07 Apr 2017 02:07:45 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/7/2017",
+                "created": "Fri, 07 Apr 2017 15:58:32 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 07 Apr 2017 15:58:32 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Alexa can finally <a href=\"https://www.cnet.com/news/finally-alexa-can-change-the-color-of-your-smart-lights/\">change the color of Hue lights</a>. I've never understood why it could not change the colors, and I never got IFTTT to work properly.",
+                                "created": "Fri, 07 Apr 2017 15:58:33 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/10/2017",
+                "created": "Tue, 11 Apr 2017 01:00:11 GMT",
+                "subs": [
+                    {
+                        "text": "GalliumOS",
+                        "created": "Tue, 11 Apr 2017 01:00:11 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've installed <a href=\"https://galliumos.org/\">GalliumOS</a> on my Acer C720 Chromebook, and I have to say that I am very impressed at how fast it runs. With Chromium, its as functional as a regular Chromebook, with the added benefit of a full Linux distro based on Ubuntu.",
+                                "created": "Tue, 11 Apr 2017 01:00:12 GMT"
+                            },
+                            {
+                                "text": "<a href=\"https://www.linux.com/learn/galliumos-ideal-linux-distribution-chromebook-hardware\">Here is a good article</a> that describes the install process. One downside that after the installation all I have is 9 GB of storage space.&nbsp;",
+                                "created": "Tue, 11 Apr 2017 01:00:13 GMT"
+                            },
+                            {
+                                "text": "I've installed git and nodejs and successfully tested an installation of River5. I've also installed Sublime, Standard Notes, and Skype beta.&nbsp;",
+                                "created": "Tue, 11 Apr 2017 01:00:14 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/12/2017",
+                "created": "Wed, 12 Apr 2017 19:58:17 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Wed, 12 Apr 2017 19:58:17 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"https://mm.gravedo.de/blog/posts/2017-04-10-introducing-anbox/\">Anbox enables one to run Android apps on Linux</a>. Given that ChromeOS is based on a Linux kernel I wonder how different this solution is to the Android support that Google is adding to Chrome OS.",
+                                "created": "Wed, 12 Apr 2017 19:58:18 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Fix Page Up and Down with GalliumOS on Acer C720",
+                        "created": "Thu, 13 Apr 2017 01:37:44 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've been running GalliumOS on my Acer C720 for a few days now, and I am really enjoying the experience. One problem that I did uncover is the lack of Page Up and Page Down keys.&nbsp;",
+                                "created": "Thu, 13 Apr 2017 01:37:45 GMT"
+                            },
+                            {
+                                "text": "Part of the problem is caused by the C720 being designed to be a Chromebook because its keyboard does not have dedicated Page Up and Page Down keys. Nor does it have Home and End keys.&nbsp;",
+                                "created": "Thu, 13 Apr 2017 01:37:46 GMT"
+                            },
+                            {
+                                "text": "ChromeOS provides keyboard shortcuts as replacements, Right Alt + the Up arrow for Page Up, Right Alt + the down arrow for Page Down. However, despite the fact that GalliumOS has a keyboard mapper with a default setting for Chromebooks, the settings don't work.&nbsp;",
+                                "created": "Thu, 13 Apr 2017 01:37:47 GMT"
+                            },
+                            {
+                                "text": "Fortunately, I have found a fix to the problem that involves running <a href=\"http://www.fascinatingcaptain.com/blog/automate-chromebook-fixes-for-linux/\">a set of commands found on this page</a>. The fix does &nbsp;not enable the Right Alt as the overlay key, but I have found that I can enable the Search key (which is placed where one normally finds Caps Lock) and that works just fine for me. I am just happy to get Page Up and Down back!&nbsp;",
+                                "created": "Thu, 13 Apr 2017 01:37:48 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Replacing The Storage On The Acer C720",
+                        "created": "Thu, 13 Apr 2017 02:04:13 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "If you browse <a href=\"https://browser.geekbench.com/user/120423\">my Geekbench profile</a> you will quickly notice that I do not use what most will consider to be high-end computers. The best rated computer is my old work computer (a ProBook 6460b) that I got more than six years ago. Unfortunately my new work computer, an EliteBook 745 G3, is much slower than the computer it replaces, although it is much thinner and lighter.",
+                                "created": "Thu, 13 Apr 2017 02:04:14 GMT"
+                            },
+                            {
+                                "text": "I've become re-acquainted with the Acer C720 through my experimentation with <a href=\"https://galliumos.org/\">GalliumOS</a>, and I am surprised to find to be as fast as newer computers that I own.&nbsp;",
+                                "created": "Thu, 13 Apr 2017 02:04:15 GMT"
+                            },
+                            {
+                                "text": "Looking back at when I ordered the Acer, it only cost me $100 after using reward points, and that has turned out to be a really good purchase. Even at the $249 full retain price, it would have been well worth the price.&nbsp;",
+                                "created": "Thu, 13 Apr 2017 02:04:16 GMT"
+                            },
+                            {
+                                "text": "Putting a Linux distro on the C720 makes it even more useful than it was running ChromeOS. I get all the ChromeOS functionality via Chromium and gain the ability to run Linux UI and command line apps. I've installed Nodejs to run River5 and I've installed Docker and pulled containers.",
+                                "created": "Thu, 13 Apr 2017 02:04:17 GMT"
+                            },
+                            {
+                                "text": "One big constraint is the limited disk space, the Acer C720 only has 16 GB of storage. I have found that you can replace that 16 GB SSD with a pretty inexpensive 128 GB SSD that I ordered from Newegg for $44.&nbsp;",
+                                "created": "Thu, 13 Apr 2017 02:04:18 GMT"
+                            },
+                            {
+                                "text": "I've found <a href=\"https://www.youtube.com/watch?v=-jOHHyJMgWk\">installation instructions for replacing the SSD</a>, it looks like the biggest challenge will be prying the back cover off after removing all the screws. Cracking open the case will void the warranty, but again, I only paid $100 for this thing!&nbsp;",
+                                "created": "Thu, 13 Apr 2017 02:04:19 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/16/2017",
+                "created": "Sun, 16 Apr 2017 23:07:14 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 16 Apr 2017 23:07:14 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I installed Dropbox on my <a href=\"http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/\">MintBox</a> but the system tray icon was not appearing. Apparently this is a known problem with Mint and I created a new Startup command using the information on <a href=\"https://askubuntu.com/questions/732967/dropbox-icon-is-not-working-xubuntu-14-04-lts-64/736205#736205\">this page</a>.&nbsp;",
+                                "created": "Sun, 16 Apr 2017 23:07:15 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Mon, 17 Apr 2017 03:07:43 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "<a href=\"http://nixnote.org/NixNote-Home/\">Nixnote</a> is an open source Linux client for Evernote. I have it installed and it is synchronizing to my <a href=\"http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/\">MintBox</a> as I write this.&nbsp;",
+                                "created": "Mon, 17 Apr 2017 03:07:44 GMT"
+                            },
+                            {
+                                "text": "BTW, the first note I wrote in Evernote was on March 17, 2008. I nearly have a decade worth of information in Evernote.",
+                                "created": "Mon, 17 Apr 2017 03:07:45 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/19/2017",
+                "created": "Wed, 19 Apr 2017 17:36:15 GMT",
+                "subs": [
+                    {
+                        "text": "Microsoft To-Do",
+                        "created": "Wed, 19 Apr 2017 17:36:15 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Microsoft has revealed what it is doing with Wunderlist, it is replacing it with something they are calling <a href=\"https://blogs.office.com/2017/04/19/introducing-microsoft-to-do-now-available-in-preview/\">Microsoft To-Do</a>. Microsoft, Android, iPhone, and <a href=\"http://todo.microsoft.com\">web app</a>s are available today.&nbsp;",
+                                "created": "Wed, 19 Apr 2017 17:36:16 GMT"
+                            },
+                            {
+                                "text": "I don't understand why Microsoft needs to replace Wunderlist, I guess they found it too difficult to integrate with Office 365. The preview version currently available is very limited, it just has a single to-do list and a My Day filter view of that list. The preview version does not work with Work and School versions of Office 365.&nbsp;",
+                                "created": "Wed, 19 Apr 2017 17:36:17 GMT"
+                            },
+                            {
+                                "text": "Historically, To-Do list functionality has always been a gap for Microsoft. For example, the Outlook Android and iOS apps do not have a to-do list even though it exists in Outlook and Exchange.&nbsp;",
+                                "created": "Wed, 19 Apr 2017 17:36:18 GMT"
+                            },
+                            {
+                                "text": "Even back to Windows Mobile and Pocket PC, while Microsoft provided a To-Do app it never worked with Exchange. The gap has been left to third party providers to fill.&nbsp;",
+                                "created": "Wed, 19 Apr 2017 17:36:19 GMT"
+                            },
+                            {
+                                "text": "I will be watching to see how fast Microsoft adds functionality to this app and when it provides integration with Office 365.&nbsp;",
+                                "created": "Wed, 19 Apr 2017 17:36:20 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/27/2017",
+                "created": "Thu, 27 Apr 2017 21:41:59 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Thu, 27 Apr 2017 21:41:59 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I am playing with Docker Windows containers and I am really surprised by the size of the container image files. The Windows containers also run much slower than Linux containers.",
+                                "created": "Thu, 27 Apr 2017 21:42:00 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "4/28/2017",
+                "created": "Fri, 28 Apr 2017 20:33:18 GMT",
+                "subs": [
+                    {
+                        "text": "Not So Smart Bulbs",
+                        "created": "Fri, 28 Apr 2017 20:33:18 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I have several <a href=\"http://www2.meethue.com/en-us/\">Hue \"smart\" light bulbs</a> in my home. One thing that frustrates me about how they work is that they don't behave like regular light bulbs when there is a power outage.",
+                                "created": "Fri, 28 Apr 2017 20:33:19 GMT"
+                            },
+                            {
+                                "text": "With a non-smart lamp, you physically turn a light on and off, so if you have the lamp off and there is a power outage, the light will not just turn on when power is restored. The same cannot be said about smart lights like Hue, instead they turn on to max brightness the instant power is restored.",
+                                "created": "Fri, 28 Apr 2017 20:33:20 GMT"
+                            },
+                            {
+                                "text": "Imagine having one of these lights in your bed room and being woken in the middle of the night.&nbsp;",
+                                "created": "Fri, 28 Apr 2017 20:33:21 GMT"
+                            },
+                            {
+                                "text": "The problem is that the on/off state of the light bulb is controlled by either a hub or the bulb itself. Yet, you are putting these bulbs in normal lamps with a physical switch. The manufacturers are concerned that in an emergency, if one where to try the turn on the light after a power outage by using the lamp's switch, they would not be able to do so.",
+                                "created": "Fri, 28 Apr 2017 20:33:22 GMT"
+                            },
+                            {
+                                "text": "I personally don't understand this safety concern, because not responding to the lamp's switch is actually how the light normally works. If a Hue light is off and you flip the switch on the lamp and flip it again, nothing happens, the light does not turn on. So, under normal circumstances the safety concern manufacturers claim to preventing against is in fact the default condition.&nbsp;",
+                                "created": "Fri, 28 Apr 2017 20:33:23 GMT"
+                            },
+                            {
+                                "text": "So, I think smart bulb manufactures should give users the control over deciding the default state after a sudden disruption of power. &nbsp;In the bedroom, I want to configure the bulb to default to off and stay off until I manually go into the app and turn it back on.&nbsp;",
+                                "created": "Fri, 28 Apr 2017 20:33:24 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

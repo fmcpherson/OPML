@@ -1,0 +1,332 @@
+{
+    "head": {
+        "title": "Lets Be Frank",
+        "dateModified": "Fri, 24 Dec 2021 19:09:39 GMT",
+        "ownerName": "Frank McPherson",
+        "ownerEmail": "frank.mcpherson@gmail.com",
+        "expansionState": "",
+        "lastCursor": 0,
+        "urlPublic": "http://drummer.scripting.com/frankm/LBF2017-02.opml",
+        "urlJson": "http://drummer.scripting.com/frankm/LBF2017-02.json",
+        "flPublic": true,
+        "urlUpdateSocket": "ws://drummer.scripting.com:1232/",
+        "ownerTwitterScreenName": "frankm",
+        "ownerId": "http://twitter.com/frankm",
+        "dateCreated": "Fri, 24 Dec 2021 19:09:39 GMT"
+    },
+    "body": {
+        "subs": [
+            {
+                "text": "2/2/2017",
+                "created": "Fri, 03 Feb 2017 03:04:22 GMT",
+                "subs": [
+                    {
+                        "text": "Google In Da House",
+                        "created": "Fri, 03 Feb 2017 03:04:22 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "In preparation for a podcast that I will participate in this weekend, I am thinking about my experience with <a href=\"https://madeby.google.com/home/\">Google Home</a>.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:23 GMT"
+                            },
+                            {
+                                "text": "I am early adopter of the <a href=\"https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E\">Amazon Echo</a>, which I use to control my <a href=\"http://www.usa.philips.com/c-m-li/hue-personal-wireless-lighting\">Hue lights</a>, <a href=\"https://www.smartthings.com/\">SmartThings</a>, and <a href=\"http://www.logitech.com/en-us/product/harmony-hub\">Harmony Hub</a>. We have an Echo in my home office (the basement), and a Dot in our living room.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:24 GMT"
+                            },
+                            {
+                                "text": "Google Home does not have much that is better than Echo, which isn't too surprising given Amazon's year+ lead over Google. Home excels in Internet search, as you would expect, so it is a bit better for finding general information.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:25 GMT"
+                            },
+                            {
+                                "text": "Another way that Home is better than Echo is its ability to control <a href=\"https://www.google.com/intl/en_us/chromecast/?utm_source=chromecast.com\">Google Chromecast</a>. First, Home automatically finds Chromecast devices on your home network, whereas you need to explicitly set up other home automation devices like Hue and SmartThings.",
+                                "created": "Fri, 03 Feb 2017 03:04:26 GMT"
+                            },
+                            {
+                                "text": "Once you get Home connected on your network, you can say things like, \"Ok Google, show pictures on basement TV\" and Home will start a slideshow of your Google Photos on the Chromecast called basement TV. You do need to have the Chromecast running on a TV before seeing the pictures, Home will not turn on your TV unless you have it integrated with other home automation devices.",
+                                "created": "Fri, 03 Feb 2017 03:04:27 GMT"
+                            },
+                            {
+                                "text": "The speaker built-in to Google Home is slightly better than the one in Echo, but both are pretty good. Neither are as good as the Yamaha soundbar I have connected to my Samsung TV, so I enjoy telling Google to play my favorite music on my Basement TV Chromecast, which of course sends audio to the soundbar.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:28 GMT"
+                            },
+                            {
+                                "text": "I have Google Home and Echo connected to my Spotify account. Of course Echo plays music from Amazon Prime as well as any music that you own and associated to your account. Google Home also plays music from Google Play, where I happen to have uploaded all of my personal music that I ripped from CDs over the years.",
+                                "created": "Fri, 03 Feb 2017 03:04:29 GMT"
+                            },
+                            {
+                                "text": "Home also is integrated with Netflix, so you can say \"Hey Google, play Supergirl on basement TV\" and it will start streaming via Chromecast to your TV. I can configure Echo to turn on Netflix via the Harmony hub, but I cannot direct it to a specific show, although I can tell Harmony to turn on specific cable TV channels via Harmony.",
+                                "created": "Fri, 03 Feb 2017 03:04:30 GMT"
+                            },
+                            {
+                                "text": "Alexa, which is the brains behind Echo, has a ton of <a href=\"https://www.amazon.com/b?ie=UTF8&amp;node=13727921011\">skills that add functions</a>, ranging from the silly, like telling jokes, to requesting an Uber. Amazon has a pretty good developer network and seems to be releasing new skills for Alexa every week.",
+                                "created": "Fri, 03 Feb 2017 03:04:31 GMT"
+                            },
+                            {
+                                "text": "<a href=\"http://www.androidpolice.com/2016/12/15/google-just-added-ton-new-services-google-home-wont-care/\">Home has services</a> that add functions, but only a few are currently available. Most services are basically a form of a web search but there are services like Uber, Todoist, and Kayak that provide specific functions.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:32 GMT"
+                            },
+                            {
+                                "text": "Echo and Home both work with <a href=\"https://ifttt.com/discover\">If This Then That</a>, so you can use them to trigger applets that work with other smart home devices or web services. I am surprised that there is no real integration between Android and Google Home, but you can add it with <a href=\"https://tasker.dinglisch.net/\">Tasker</a> and <a href=\"https://joaoapps.com/autovoice/\">AutoVoice</a>, which are automation tools for Android.",
+                                "created": "Fri, 03 Feb 2017 03:04:33 GMT"
+                            },
+                            {
+                                "text": "Google Assistant is the brains behind Home in the same way that Alexa is the brains of the Echo and Dot. Assistant is also available on the Google Pixel phones, while Google Now is a similar, but not the same, assistant on all other Android devices.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:34 GMT"
+                            },
+                            {
+                                "text": "Google Home ought to be able to recognize Android devices just like it does Chromecast, and likewise Android should know about Home. Here is a an example of where the lack of integration causes a problem.",
+                                "created": "Fri, 03 Feb 2017 03:04:35 GMT"
+                            },
+                            {
+                                "text": "I have Google Now configured on my Nexus 6 P to wake up whenever I say \"Ok Google\" even while I have the phone turned off. &nbsp;When I am in my basement and say \"Ok Google\" both Home and my phone acknowledge the wake word. The phone should recognize there is a Home nearby and defer to it, just as it does with Android Wear, but it does not.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:36 GMT"
+                            },
+                            {
+                                "text": "Even more maddening is the integration with <a href=\"https://keep.google.com/\">Keep</a>, Google's notetaking and list making app. Home/Google Assistant creates a item in Keep called Google Assistant shopping list, and you call say \"Ok Google, add milk to shopping list\" and Home will add milk to that shopping list note.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:37 GMT"
+                            },
+                            {
+                                "text": "Say \"Ok Google, add bread to shopping list\" to your Android phone and it will add bread as an item to another entry in Keep called Shopping List, which means you end up with two shopping list areas in Google Keep, one controlled by Assistant/Home and the other controlled by Google Now. How hard would it be for Assistant to add items to the Shopping List entry that Google Now uses?&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:38 GMT"
+                            },
+                            {
+                                "text": "Oh, and by the way, Echo also has a shopping list that is of course directly connected to Amazon so Alexa can automatically order stuff on that list, where as the Google's shopping list is more traditional.",
+                                "created": "Fri, 03 Feb 2017 03:04:39 GMT"
+                            },
+                            {
+                                "text": "The duplicate shopping list scenario is the type of thing we see with first generation products like Google Home. I expect Google Home to get much better as Google improves Assistant, which I think will ultimately replace the Google Search web page. In the mean time we will have to wait and see whether Google Home will surpass Amazon Echo.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 03:04:40 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "2/3/2017",
+                "created": "Fri, 03 Feb 2017 23:01:45 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 03 Feb 2017 23:01:45 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Dave has added the <a href=\"http://lo.1999.io/2017/02/02/statusCenters.html\">Status Center</a> / Live Outline functionality to Little Outliner. It means that I can publish this outline live.",
+                                "created": "Fri, 03 Feb 2017 23:01:46 GMT"
+                            },
+                            {
+                                "text": "As you might know, <a href=\"http://Fargo.io\"><span data-auto-link=\"true\" data-href=\"http://Fargo.io\">Fargo.io</span></a> will cease to function as a writing and publishing platfom this summer when Dropbox shuts down its API. One thing I did in Fargo was to take notes in what I called my Work Notes outline. I published those notes to a blog for ease of access and public visibility, in case anyone could benefit or cares.",
+                                "created": "Fri, 03 Feb 2017 23:01:47 GMT"
+                            },
+                            {
+                                "text": "When Dave added <a href=\"http://lo.1999.io/2016/09/13/notesFeatureInV163a.html\">the Notes feature</a> to Little Outliner, I created a new work notes outliner but I have not had an easy way to make to available outside of Little Outliner. With Status Center I now have a way to make <a href=\"http://readwrite.club:1999/users/frankm/statuscenters/Work%20Notes.html\">my work notes outline</a> more broadly accessible.",
+                                "created": "Fri, 03 Feb 2017 23:01:48 GMT"
+                            },
+                            {
+                                "text": "As a test, here is a direct link to my notes on <a href=\"http://readwrite.club:1999/users/frankm/statuscenters/Work%20Notes.html#1484969700000\">tracking Trump</a>.&nbsp;",
+                                "created": "Fri, 03 Feb 2017 23:01:49 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "2/11/2017",
+                "created": "Sat, 11 Feb 2017 20:12:23 GMT",
+                "subs": [
+                    {
+                        "text": "Android Apps On Chrome OS",
+                        "created": "Sat, 11 Feb 2017 20:12:23 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "asdf",
+                                "created": "Sat, 11 Feb 2017 20:12:24 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "2/12/2017",
+                "created": "Sun, 12 Feb 2017 05:22:11 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 12 Feb 2017 05:22:11 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Testing. 1, 2, 3&nbsp;",
+                                "created": "Sun, 12 Feb 2017 05:22:12 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Sun, 12 Feb 2017 05:31:56 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Note to self: Don't start up 1999 with a different user id! Sheesh!",
+                                "created": "Sun, 12 Feb 2017 05:31:57 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Running Android Apps On Chrome OS",
+                        "created": "Sun, 12 Feb 2017 05:51:29 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Several tech web sites have received the new Samsung Chromebook Plus and Pro and have written reviews. Sounds like the Plus model, which has an ARM processor, performs better than expected and will likely handle Android Apps better, while the Pro model that uses an Intel m3 needs more work. ",
+                                "created": "Sun, 12 Feb 2017 05:51:30 GMT"
+                            },
+                            {
+                                "text": "Now that my Nexus 9 won't be getting any more updates to Android, I am considering what to do for an Android tablet. I am thinking getting one of the Chromebooks that run Android is the way to go, and the new Samsung Chromebooks that support a stylus appeals to me.",
+                                "created": "Sun, 12 Feb 2017 05:51:31 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Note To Self: Don't Do This!",
+                        "created": "Sun, 12 Feb 2017 05:56:34 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Earlier today I restarted storage.js while logged in to my server as root, and now I am having all sorts of problems publishing posts to this site.",
+                                "created": "Sun, 12 Feb 2017 05:56:35 GMT"
+                            },
+                            {
+                                "text": "Ok, I had to do a lot of file permission and ownership clean up. I hope I have that fixed!&nbsp;",
+                                "created": "Sun, 12 Feb 2017 05:56:36 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "",
+                        "created": "Sun, 12 Feb 2017 20:09:52 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I write the content for this site on one server and copy the rendered versions to another site hosted on Amazon S3 and that process works well for all the content created using 1999. However this is not the case for content being created using Little Outliner.",
+                                "created": "Sun, 12 Feb 2017 20:09:53 GMT"
+                            },
+                            {
+                                "text": "I have Little Outliner pointed to my own instance of nodestorage. All of the OPML files I create in LO are being written to my S3 bucket with the proper text/xml content type but HTML LO generates for Status Center is being written as text/plain rather than text/html and I can't figure out why.&nbsp;",
+                                "created": "Sun, 12 Feb 2017 20:09:54 GMT"
+                            },
+                            {
+                                "text": "The statuscenters and listicle folders are under /user/screenname like all other publicFiles, so I am not sure why it is not work as it should.",
+                                "created": "Sun, 12 Feb 2017 20:09:55 GMT"
+                            },
+                            {
+                                "text": "My current theory is that <a href=\"https://gist.github.com/papascott/cf8a418643d3a0826202177a7e4d2844\">the type global</a> is being set to text/plain from the LO code.&nbsp;",
+                                "created": "Sun, 12 Feb 2017 20:09:56 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "2/17/2017",
+                "created": "Fri, 17 Feb 2017 18:31:58 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Fri, 17 Feb 2017 18:31:58 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Setting up a new work computer is giving me the opportunity to try Docker for Windows. I've made more progress this time in that at least I have it install and running with Hyper-V. However, I am having a problem with disk access, which prevents me from working with storage volumes. I keep getting a message saying that a firewall is preventing the ability to access the C drive, even though it appears all firewall rules are in place. I've seen other reports, speculating about network configuration.&nbsp;",
+                                "created": "Fri, 17 Feb 2017 18:31:59 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "2/18/2017",
+                "created": "Sat, 18 Feb 2017 20:25:20 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sat, 18 Feb 2017 20:25:20 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "It is <a href=\"https://www.wunderground.com/history/airport/KPTK/2017/02/18/DailyHistory.html?req_city=West%20Bloomfield&amp;req_state=MI&amp;reqdb.zip=48323&amp;reqdb.magic=1&amp;reqdb.wmo=99999\">absolutely gorgeous outside today</a>, 65 degrees on February 18 in Michigan. &nbsp;The average high this time of the year is 33 degrees, the record high, set in 1997, was 57 degrees and we are well past that.&nbsp;",
+                                "created": "Sat, 18 Feb 2017 20:25:21 GMT"
+                            },
+                            {
+                                "text": "So nice out that <a href=\"http://www.mapmywalk.com/workout/2016535733\">I went for an extended walk</a> this afternoon.&nbsp;",
+                                "created": "Sat, 18 Feb 2017 20:25:22 GMT"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "What Is A Relevant Benchmark for Personal Computing?",
+                        "created": "Sat, 18 Feb 2017 20:33:23 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "I've seen it written about how personal computing has changed from \"speeds and feeds\" to things like battery life and portability. Up until now I have not really observed this first hand, but that has changed now that I have a new work computer.",
+                                "created": "Sat, 18 Feb 2017 20:33:24 GMT"
+                            },
+                            {
+                                "text": "The new <a href=\"https://browser.geekbench.com/v4/cpu/1878795\">EliteBook 745G3</a> has an AMD processor with four cores but <a href=\"https://browser.geekbench.com/v4/cpu/compare/1650888?baseline=1878795\">scores lower </a>using <a href=\"http://geekbench.com\">Geekbench</a> than the HP ProBook 6460b that it is replacing, which is five years older! From a performance perspective, it would be better to keep the ProBook, but it is much larger and heavier than the 745G and that makes it desirable.",
+                                "created": "Sat, 18 Feb 2017 20:33:25 GMT"
+                            },
+                            {
+                                "text": "The 745G3 <a href=\"https://browser.geekbench.com/v4/cpu/compare/1649084?baseline=1878795\">benchmarks slightly better</a> than my 2010 Macbook Air. Note that both older computers have faster (&gt; 2 Ghz) CPUs and fewer cores.",
+                                "created": "Sat, 18 Feb 2017 20:33:26 GMT"
+                            },
+                            {
+                                "text": "I find <a href=\"https://browser.geekbench.com/v4/cpu/compare/1641395?baseline=1878795\">the comparison between the 745G3 and the Surface 3</a> fascinating. Both have 1.6 GHz, 4 core CPUs, the Surface 3 having an Atom processor, the EliteBook having an AMD. The multicore score is nearly the same, while the 745G3 has a much better single core score.&nbsp;",
+                                "created": "Sat, 18 Feb 2017 20:33:27 GMT"
+                            },
+                            {
+                                "text": "The Surface 3 is the highest scoring of <a href=\"https://browser.geekbench.com/user/120423\">the computers that I own</a>, while the new Mintbox is in second place.",
+                                "created": "Sat, 18 Feb 2017 20:33:28 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "2/25/2017",
+                "created": "Sat, 25 Feb 2017 21:18:16 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sat, 25 Feb 2017 21:18:16 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "The Chicago Cubs are on the air. Spring is surely here!&nbsp;",
+                                "created": "Sat, 25 Feb 2017 21:18:17 GMT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "2/26/2017",
+                "created": "Sun, 26 Feb 2017 18:43:50 GMT",
+                "subs": [
+                    {
+                        "text": "",
+                        "created": "Sun, 26 Feb 2017 18:43:50 GMT",
+                        "type": "outline",
+                        "subs": [
+                            {
+                                "text": "Is the underlying principle of debate the intent to change the mind of those who disagree with you? And if so, what happens if one gives up wanting to change others minds? It sounds to me to be the difference between dictating decisions and making decisions based on consensus. It's also the difference between arguing and shouting. Let's not forget, democracy was never intended to be efficient, and in fact not all efficiency is good.&nbsp;",
+                                "created": "Sun, 26 Feb 2017 18:43:51 GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

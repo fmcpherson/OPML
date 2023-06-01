@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Tue, 21 Dec 2021 23:07:32 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2016-06.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2016-06.json</urlJson>
+		<flPublic>true</flPublic>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateCreated>Tue, 21 Dec 2021 23:04:55 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="6/1/2016" created="Thu, 02 Jun 2016 03:21:10 GMT">
+			<outline text="" created="Thu, 02 Jun 2016 03:21:10 GMT" type="outline">
+				<outline text="Thanks to Ron Chester for compiling and maintaining &lt;a href=&quot;http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fjybig60wiguxmfq%2F1999ioBloggingArchive.opml%3Fdl%3D0&quot;&gt;an outline of documentation about 1999.io&lt;/a&gt;. I've added it to my menubar. Ron maintains the outline using &lt;a href=&quot;http://fargo.io/docs/whatIsFargo.html&quot;&gt;Fargo&lt;/a&gt;  and is displayed using &lt;a href=&quot;http://reader.smallpicture.com/&quot;&gt;the Small Picture reader&lt;/a&gt;, which I think is one of the most overlooked useful feature." created="Thu, 02 Jun 2016 03:21:11 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/7/2016" created="Tue, 07 Jun 2016 14:55:25 GMT">
+			<outline text="Watching The Cubs While Traveling" created="Tue, 07 Jun 2016 14:55:25 GMT" type="outline">
+				<outline text="I recently went on a week long trip to visit family and friends, staying at hotels the entire time. None of the hotels carried broadcasts of Chicago Cubs games, but fortunately I had my &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt;  that runs the MLB At Bat app." created="Tue, 07 Jun 2016 14:55:26 GMT"/>
+				<outline text="&lt;span&gt;&lt;a href=&quot;http://writing.frankmcpherson.org/2016/05/07/0056.html&quot;&gt;I wrote earlier&lt;/a&gt; about the things I like about the Surface 3, and I can now add to that list the mini display port that enables me to connect the Surface 3 to any TV with an available HDMI port.&amp;nbsp;&lt;/span&gt;" created="Tue, 07 Jun 2016 14:55:27 GMT"/>
+				<outline text="&lt;span&gt;In my gadget bag I carry a mini display port to HDMI converter and an HDMI cable, with which I was able to connect the Surface 3 to the hotel room TV. I think start up the MLB At Bat app and select the Cubs game. I was pleasantly surprised by the quality of the video stream, it worked as well as when I am at home.&amp;nbsp;&lt;/span&gt;" created="Tue, 07 Jun 2016 14:55:28 GMT"/>
+				<outline text="&lt;span&gt;The experience highlights for me the benefit of being able to physically connect a device to an HDMI port. In the past I have tried connecting my Nexus 9 to a hotel TV using Chromecast, but the hotel WiFi did not cooperate.&amp;nbsp;&lt;/span&gt;" created="Tue, 07 Jun 2016 14:55:29 GMT"/>
+				<outline text="&lt;span&gt;I also have the first generation Microsoft wireless display adapter that I didn't even bother to try because the wired connection worked so well. &amp;nbsp;&lt;/span&gt;" created="Tue, 07 Jun 2016 14:55:30 GMT"/>
+				<outline text="&lt;span&gt;If you enjoy watching video from Netflix for the MLB At Bat app and want to watch that video while traveling, I can recommend the &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt; .&lt;/span&gt;" created="Tue, 07 Jun 2016 14:55:31 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/9/2016" created="Thu, 09 Jun 2016 13:52:04 GMT">
+			<outline text="Noticing Or Avoiding Comments" created="Thu, 09 Jun 2016 13:52:04 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;provides a mechanism for people to post comments to stories, but unfortunately it doesn't provide a method to notify the site owners that one has posted a comment.&amp;nbsp;" created="Thu, 09 Jun 2016 13:52:05 GMT"/>
+				<outline text="I have two suggestions for site owners. If you are going to basically ignore comments (meaning that you aren't really going to spend time to see whether anyone has posted a comment) you may consider turning comments off. &amp;nbsp;You do this in Settings, Access and uncheck the &quot;Allow anyone who is logged in to comment&quot; option.&amp;nbsp;" created="Thu, 09 Jun 2016 13:52:06 GMT"/>
+				<outline text="If you want to keep comments, I recommend thinking of your &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;editor page as a news feed. New comments will appear on this page and I think you will find them easier to find them here than in the rendered web site. Get in the habit of scanning through your &quot;feed&quot; at least once a day." created="Thu, 09 Jun 2016 13:52:07 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/13/2016" created="Mon, 13 Jun 2016 16:30:47 GMT">
+			<outline text="" created="Mon, 13 Jun 2016 16:30:47 GMT" type="outline">
+				<outline text="If we arm everyone, then everyone is part of the militia and we no longer need a standing military. Effectively, everyone will be required to purchase their weapons and be drafted to serve. Imagine all the money that can be saved by recalling all troops (restoring to them to militia status) and closing all bases, foreign and domestic. We will store all arms in armories across the country. After all, the founding fathers did not trust standing armies and preferred militias.&amp;nbsp;" created="Mon, 13 Jun 2016 16:30:48 GMT"/>
+				<outline text="And while we are at it, why do we need police? FBI? CIA? SEC? FDA? EAA? NHTSA?&amp;nbsp;" created="Mon, 13 Jun 2016 16:30:49 GMT"/>
+				<outline text="We all will be richer by not having to pay taxes and in full control of our own safety!&amp;nbsp;" created="Mon, 13 Jun 2016 16:30:50 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/20/2016" created="Mon, 20 Jun 2016 13:40:38 GMT">
+			<outline text="" created="Mon, 20 Jun 2016 13:40:38 GMT" type="outline">
+				<outline text="Extensions should be added to Microsoft Edge by the end of July, it is already available for Insiders. I really like using Edge on my &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt;  but the lack of extensions, particularly LastPass, has been a show stopper.&amp;nbsp;" created="Mon, 20 Jun 2016 13:40:39 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/25/2016" created="Sat, 25 Jun 2016 23:51:15 GMT">
+			<outline text="" created="Sat, 25 Jun 2016 23:51:15 GMT" type="outline">
+				<outline text="Last Wednesday I decided I needed a newer device to run the latest version of iOS. After a little comparison shopping I decided to buy an iPad Mini 4 from &lt;a href=&quot;https://www.gazelle.com/&quot;&gt;Gazelle&lt;/a&gt;. I got a good price on a 64 GB model so I now have a device capable of running &lt;a href=&quot;http://www.apple.com/ios/ios10-preview/&quot;&gt;the latest version of iOS&lt;/a&gt;.&amp;nbsp;" created="Sat, 25 Jun 2016 23:51:16 GMT"/>
+				<outline text="The Mini arrived on Friday, so I've been using it for about 24 hours. &amp;nbsp;It is taking me time to adjust to iOS after using Android almost exclusively for several years. &amp;nbsp;The Mini is a nice device, although I think it is a little too small in comparison to the Nexus 9. &amp;nbsp;" created="Sat, 25 Jun 2016 23:51:17 GMT"/>
+				<outline text="I am writing this blog post on the Mini and one thing I am finding annoying is that for some reason the keyboard is not automatically adding a period at the end of sentences, even it is configured to do so in settings. Perhaps it has something to do with the input box in Safari?&amp;nbsp;" created="Sat, 25 Jun 2016 23:51:18 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/26/2016" created="Sun, 26 Jun 2016 19:21:54 GMT">
+			<outline text="" created="Sun, 26 Jun 2016 19:21:54 GMT" type="outline">
+				<outline text="The iOS App Store is acting up for me, right now I can't install an app, it just continues to &quot;clock&quot; so I am going to restart the Mini. Restarting resolve the problem.&amp;nbsp;" created="Sun, 26 Jun 2016 19:21:55 GMT"/>
+				</outline>
+			<outline text="" created="Sun, 26 Jun 2016 19:54:42 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://www.imore.com/how-create-folders-add-apps-your-iphone-or-ipad&quot;&gt;The way one moves app icons in iOS&lt;/a&gt; is by far the worst user experience of any computing device I use. Almost every time I try to add an app to a folder I end up chasing the folder around the screen, which is incredibly frustrating. I've never had this type of experience with Android.&amp;nbsp;" created="Sun, 26 Jun 2016 19:54:43 GMT"/>
+				</outline>
+			<outline text="Does The Surface 3 Have A Successor?" created="Sun, 26 Jun 2016 22:14:46 GMT" type="outline">
+				<outline text="Several &lt;a href=&quot;https://www.engadget.com/2016/06/25/microsoft-halts-surface-3-production-in-december/&quot;&gt;articles &lt;/a&gt;published this week about Microsoft no longer manufacturing the Surface 3 with plans to end sales by the end of the year. &amp;nbsp;Personally this feels a little like when Apple stopped selling the Newton MessagePad, in both instances I found the device very useful." created="Sun, 26 Jun 2016 22:14:47 GMT"/>
+				<outline text="I appear to have a real minority position in my belief that the Surface Pros are too large. I think the 10.1 inch screen of the Surface 3 is a perfect size for writing notes in digital ink.&amp;nbsp;" created="Sun, 26 Jun 2016 22:14:48 GMT"/>
+				<outline text="&lt;a href=&quot;https://realpersonalcomputing.com/2016/05/13/why-i-like-the-surface-3/&quot;&gt;Last month I wrote an article &lt;/a&gt;describing how I use OneNote on thee Surface 3, noting how for me the Surface Pen is a key accessory. Most likely the failure for more people to appreciate the Surface Pen is at the root of why few view the Surface 3 favorably. &amp;nbsp;" created="Sun, 26 Jun 2016 22:14:49 GMT"/>
+				<outline text="The Surface 3 will continue to be functional even if Microsoft decides to not replace it with another Surface as long as it continues to run Windows well. Fortunately, several other companies also make lower price 2-in-1 devices to fill the void if Microsoft decides to stop selling a low price, smaller Surface. In fact, it existence of such alternatives might be the best reason for why Microsoft is opting to stop selling one. " created="Sun, 26 Jun 2016 22:14:50 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/27/2016" created="Mon, 27 Jun 2016 18:48:25 GMT">
+			<outline text="Using LastPass With Android And iOS" created="Mon, 27 Jun 2016 18:48:25 GMT" type="outline">
+				<outline text="Now that I am using iOS more thanks to my recent purchase of an iPad Mini, I am constantly being reminded of the restrictions if poses. &amp;nbsp;A perfect example is the difference in using LastPass with Android and iOS.&amp;nbsp;" created="Mon, 27 Jun 2016 18:48:26 GMT"/>
+				<outline text="With Android, LastPass runs in the background and detects whether an app or web page with login screen has appeared, and when it does, a dialog appears prompting the user to login to LastPass. The app is also capable of detecting which app or web site you are using so that the proper one is displayed as an option for AutoFill or to copy your credentials for pasting on the login screen. When combined with a finger print scanner, the process of using LastPass to enter credentials on Android is fast and easy." created="Mon, 27 Jun 2016 18:48:27 GMT"/>
+				<outline text="LastPass does not run in the background on iOS and therefore has no way to see whether you are in an app or web page that is prompting you for credentials. If you have to manually task switch or start the LastPass app, login to LastPass, copy the credentials (one at a time for userid and password), then manually paste on the login screen. While the process provides for access to your credentials, it is not nearly as easy or fast to use as with Android. " created="Mon, 27 Jun 2016 18:48:28 GMT"/>
+				<outline text="To be fair to iOS, the same issue occurs with Windows 10 store apps, although the LastPass Chrome extension runs on my Surface 3 and therefore detects and can autofill login credentials for web pages. " created="Mon, 27 Jun 2016 18:48:29 GMT"/>
+				<outline text="One will point out that iOS not allowing for apps to monitor what is displayed on your screen is a security and privacy feature, but one that in my opinion makes the mobile experience&amp;nbsp;harder. LastPass requires I provide credentials to access the information I store in it, why shouldn't I be able to specify to iOS that I want it to monitor and prompt to provide quick access to my credentials? " created="Mon, 27 Jun 2016 18:48:30 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/29/2016" created="Wed, 29 Jun 2016 18:31:37 GMT">
+			<outline text="No Free Notes for Ever" created="Wed, 29 Jun 2016 18:31:37 GMT" type="outline">
+				<outline text="Much &lt;a href=&quot;https://getpocket.com/a/read/1335620837&quot;&gt;consternation&lt;/a&gt; on the interwebs about Evernote's new pricing policy that limits the free version to only two devices. Frankly, I think the reaction is a bit ridiculous. If you want the service to continue to be available, you have got to be willing to pay for it. Evernote is a critical part of my workflow and therefore I think it important to pay for the service to do my part to keep the service in existence. Why should you be entitled to a free service?&amp;nbsp;" created="Wed, 29 Jun 2016 18:31:38 GMT"/>
+				<outline text="Some, &lt;a href=&quot;https://www.thurrott.com/cloud/office-365/71633/evernote-price-hike-office-365-even-better-deal&quot;&gt;like Paul Thurrott&lt;/a&gt;, will suggest Evernote users switch to OneNote, which is free. Frankly, I am skeptical that if a lot of users switched to OneNote that it will continue to be free. &lt;a href=&quot;http://bgr.com/2016/04/25/onedrive-free-storage-limit-decreasing-july/&quot;&gt;The changes made with OneDrive&lt;/a&gt; come to mind.&amp;nbsp;" created="Wed, 29 Jun 2016 18:31:39 GMT"/>
+				<outline text="I use OneNote and Evernote. In fact, I have been using OneNote more now that I have a Surface 3. The two apps have different UI approaches, and I personally find OneNote's mobile UIs less appealing than Evernote's. Evernote's tagging and search functions are in my opinion easier and more powerful to use." created="Wed, 29 Jun 2016 18:31:40 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.onenote.com/import-evernote-to-onenote&quot;&gt;Microsoft does provide a free tool&lt;/a&gt; to import notes from Evernote to OneNote, and I have considered using it to make a backup copy of my Evernote data. My fear, however, is that the import process will not work for me due to the amount of data I have and how much encryption I use in notes.&amp;nbsp;" created="Wed, 29 Jun 2016 18:31:41 GMT"/>
+				<outline text="One alternative to Evernote that I have been keeping my eye on is &lt;a href=&quot;https://turtl.it/&quot;&gt;an app called Turtl&lt;/a&gt; because it by default encrypts its entire note database. The app is still in development and in beta and the developer has indicated plans to provide a premium service to cover its hosting costs. One benefit, however, is that there is a way to &lt;a href=&quot;https://turtl.it/docs/server/&quot;&gt;host your own Turtl server&lt;/a&gt;, which provides you complete control of your data but also adds responsibility to maintain that server and any backups." created="Wed, 29 Jun 2016 18:31:42 GMT"/>
+				<outline text="If a service is not important to you, meaning that if it went away or your data was lost that would not be a big deal, then I see no problem using it for free. However, in my opinion, making a decision based on a service being free or not is the wrong approach if the service is important to you. Instead, you should determine the impact of losing your data and the features and functionality you want, and then consider what is a fair price of balancing that risk and value.&amp;nbsp;" created="Wed, 29 Jun 2016 18:31:43 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

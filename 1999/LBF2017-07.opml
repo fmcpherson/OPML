@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Mon, 27 Dec 2021 19:46:24 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2017-07.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2017-07.json</urlJson>
+		<flPublic>true</flPublic>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateCreated>Mon, 27 Dec 2021 19:45:35 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="This file contains blog posts I wrote using 1999.io in July, 2017" created="Mon, 27 Dec 2021 19:45:59 GMT" isComment="true"/>
+		<outline text="7/3/2017" created="Mon, 03 Jul 2017 19:55:39 GMT">
+			<outline text="July 3, 2017" created="Mon, 03 Jul 2017 19:55:39 GMT" type="outline">
+				<outline text="I have the day off today, and I have spent the day doing the two things I enjoy doing the most: reading and writing. First, &lt;a href=&quot;https://www.goodreads.com/book/show/25359165-the-real-paul&quot;&gt;I finished a book&lt;/a&gt; while enjoying the relatively cool morning on the patio. After lunch I headed to &lt;a href=&quot;http://www.novicoffee.com/&quot;&gt;one of my favorite coffee shops&lt;/a&gt; and did some writing. If I were retired, I imagine this is how I would spend most of my days.  " created="Mon, 03 Jul 2017 19:55:40 GMT"/>
+				<outline text="Today is the first day that I have used the iPad Pro to write while away from my home office. My writing workflow using the Pro is coming together. Physically, I will use the Apple Magic keyboard with a Canopy case, while using either &lt;a href=&quot;http://agiletortoise.com/drafts/&quot;&gt;Drafts&lt;/a&gt;, &lt;a href=&quot;https://www.omnigroup.com/omnioutliner/&quot;&gt;OmniOutliner&lt;/a&gt;, or &lt;a href=&quot;https://ulyssesapp.com/&quot;&gt;Ulysses&lt;/a&gt;.   " created="Mon, 03 Jul 2017 19:55:41 GMT"/>
+				<outline text="After considering whether to buy a keyboard case, I decided against it in favor of the &lt;a href=&quot;https://store.apple.com/xc/product/MLA22LL/A&quot;&gt;Apple Magic keyboard&lt;/a&gt;, which I am using to write this post. I don’t plan to always use a case with the iPad and a small but functional keyboard is just as useful to me, perhaps more so, than a keyboard case that I would be taking off most of the time anyway.   " created="Mon, 03 Jul 2017 19:55:42 GMT"/>
+				<outline text="I have a &lt;a href=&quot;https://www.studioneat.com/products/canopy&quot;&gt;Canopy case&lt;/a&gt; on order for the keyboard, and I think it will work well for carrying it around. The keyboard just fits inside my &lt;a href=&quot;http://the-gadgeteer.com/2013/08/03/waterfield-design-indy-bag-review/&quot;&gt;Waterfield Indie bag&lt;/a&gt;, so I am a little worried whether it will fit when in the Canopy case, but make do if it does not.   " created="Mon, 03 Jul 2017 19:55:43 GMT"/>
+				<outline text="Right now an using a cheap Moko case for the Pro, and the case does hold iPad in a good typing position, but one of the benefits of the Canopy case is that it also acts as a stand so plan to use a sleeve for the iPad once the one I ordered arrives. " created="Mon, 03 Jul 2017 19:55:44 GMT"/>
+				</outline>
+			<outline text="From Drafts to 1999" created="Mon, 03 Jul 2017 21:17:10 GMT" type="outline">
+				<outline text="I am still learning how to best use the apps that I have chosen for writing with the iPad Pro. The first step is determining the best way to write blog posts for this blog." created="Mon, 03 Jul 2017 21:17:11 GMT"/>
+				<outline text="I use &lt;a href=&quot;http://1999.io/&quot;&gt;1999.io&lt;/a&gt; for writing and publishing content here, but its browser based rich text editor is designed for desktops and doesn’t work well in mobile browsers. " created="Mon, 03 Jul 2017 21:17:12 GMT"/>
+				<outline text="The main problem is with linking, which I think is fundamental to blogging. To &lt;a href=&quot;http://blog.1999.io/2016/06/01/0028.html&quot;&gt;link to a web page in 1999&lt;/a&gt; on a desktop all you do is select the word or words you want to be the anchor and a pop-up menu automatically displays with the option for creating a link. The equivalent on a mobile browser is tap and hold, but the default iOS action menu appears rather than the menu 1999 normally displays. " created="Mon, 03 Jul 2017 21:17:13 GMT"/>
+				<outline text="My solution is to use &lt;a href=&quot;http://agiletortoise.com/drafts/&quot;&gt;Drafts&lt;/a&gt; along with a HTML source editor plugin for 1999. First, I write the blog post, along with any included hyperlinks in Drafts, which is a markdown editor. Ideally for me 1999 would have a markdown editor, at least as a plugin, but it does not, so my next step is to convert the markdown post in Drafts to HTML, and then copy the entire post to the clipboard. " created="Mon, 03 Jul 2017 21:17:14 GMT"/>
+				<outline text="Next, I have to switch to Safari. I have discovered that for some reason the input box of the HTML source editor in Chrome does not have access to the clipboard, so I have to use Safari. " created="Mon, 03 Jul 2017 21:17:15 GMT"/>
+				<outline text="I create or select the blog post, select the HTML source editor in the Editors menu, paste the contents of the clipboard in to the input box, and then tap Update to save my writing. &lt;blockquote&gt;&lt;b&gt;Update:&lt;/b&gt; I have found the above process to not be consistent, however, I think the better approach is to use the Insert HTML menu item, and that should work regardless of which browser I use.&lt;/blockquote&gt;" created="Mon, 03 Jul 2017 21:17:16 GMT"/>
+				<outline text="If I were more proficient at JavaScript I could probably improve the workflow significantly. First, I could write a front end to &lt;a href=&quot;https://github.com/scripting/nodeStorage&quot;&gt;nodestorage&lt;/a&gt;, which 1999 uses to publishes HTML content. Another option would be to create a markdown editor plugin so that I wouldn’t have to convert what I write in Drafts to HTML. " created="Mon, 03 Jul 2017 21:17:17 GMT"/>
+				<outline text="              " created="Mon, 03 Jul 2017 21:17:18 GMT"/>
+				<outline text="Ideally, I think 1999 should provide a way for a user to specify a default editor. While I might prefer markdown as the default, others may prefer rich text, and still more may prefer HTML. The plugin method provides alternatives to the default rich text editor but causes users to jump through too many hoops.&lt;blockquote&gt;I should note that I know that the process I describe above is not a use case for which 1999 was created. Dave created 1999 to do the writing and editing in a web browser, which for the most part I can do on the iPad except for the markup.&lt;/blockquote&gt;" created="Mon, 03 Jul 2017 21:17:19 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/5/2017" created="Wed, 05 Jul 2017 13:20:53 GMT">
+			<outline text="July 5, 2017" created="Wed, 05 Jul 2017 13:20:53 GMT" type="outline">
+				<outline text="I've been using the beta of iOS 11 on my &lt;a href=&quot;https://www.apple.com/ipad-pro/&quot;&gt;iPad Pro&lt;/a&gt; for a little over a week, and it has been solid, but today I noticed my first &quot;bug.&quot; I have Todoist and Outlook configured in split screen and for some reason the top line of my task list is not displaying. When I slide the list down, the rubber band effect causes the list to spring back and the top line goes under the title of the window. I fixed it by sliding the Todoist app nearly all the way to the left and then the window adjusted, slid it back and now the top line displays as it should. It appears that Todoist has an intermittent rubber banding issue.&lt;h4&gt;Titleless Posts&lt;/h4&gt;" created="Wed, 05 Jul 2017 13:20:54 GMT"/>
+				<outline text="I've noticed a navigation issue between story pages in 1999. If you go to &lt;a href=&quot;http://mywebstream.net:1999/users/frankm/2017/07/03/july32017.html&quot;&gt;the July 3 page&lt;/a&gt; and click the right navigation button, you will end up at a titleless page on which the right navigation button is not active. I think the issue is caused by when I create a title for a story. Everything appears to work as it should if I create the post in the immediate edit after creating the story, you can't add a title until a post is saved." created="Wed, 05 Jul 2017 13:20:55 GMT"/>
+				<outline text="What is happening is that the original page is created using the numerical page number assigned to a titleless post and then navigation link of the previous post is updated to point to hit. Next, when I add a title a new page is created using the title name for the page name but the previous page is not deleted nor is the navigation link updated again. The situation doesn't appear every time, so I have to pay more attention to the exact sequence that causes it." created="Wed, 05 Jul 2017 13:20:56 GMT"/>
+				<outline text="A related issue is apparent if you look at the &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://1999bloggers.andysylvester.com/&quot;&gt;Bloggers river&lt;/a&gt;&amp;nbsp;because you see entries of my posts, first when they are created without a title and later with a title. Andy's river must be getting a ping the instant I post an item because the RSS feed entry does get updated after I create a title." created="Wed, 05 Jul 2017 13:20:57 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/6/2017" created="Thu, 06 Jul 2017 14:27:27 GMT">
+			<outline text="Winning, Losing, Or A Third Way" created="Thu, 06 Jul 2017 14:27:27 GMT" type="outline">
+				<outline text="By definition you can't have winners without losers, and we struggle with the idea of equality, which can be another name for justice, within that context." created="Thu, 06 Jul 2017 14:27:28 GMT"/>
+				<outline text="One point of view of equality in a world focused on winners and losers is equal opportunity to win. In this point of view, everyone in the United States has the equal opportunity to win, but in the end there will always be winners and losers." created="Thu, 06 Jul 2017 14:27:29 GMT"/>
+				<outline text="Another point of view is to make everyone a winner by striving to eliminate losers. With this point of view everyone gets a &quot;winner's trophy&quot; and that robs a person the opportunity to learn from their loss. In reality, this point of view is still focused on winning, just in this case the claim is made that everyone wins." created="Thu, 06 Jul 2017 14:27:30 GMT"/>
+				<outline text="In reality both of these points of view are between oneself and the &quot;others.&quot;&amp;nbsp;" created="Thu, 06 Jul 2017 14:27:31 GMT"/>
+				<outline text="A third way is to strive to eliminate the focus on winning altogether and actually treat everyone as equals, which requires seeing everyone as the same as one self. In my opinion, fundamental to this third way is agreement that there are fundamental human rights that apply to everyone. Today we toss around the words &quot;human rights&quot; defined by winning and losing, which is to say the winners are the only ones who define what are the human rights they will tolerate.&amp;nbsp;" created="Thu, 06 Jul 2017 14:27:32 GMT"/>
+				</outline>
+			<outline text="Is Amazon A Trust?" created="Fri, 07 Jul 2017 02:33:45 GMT" type="outline">
+				<outline text="I’ve read Ben Thompson’s &lt;a href=&quot;https://stratechery.com/2016/the-amazon-tax/&quot;&gt;articles about Amazon&lt;/a&gt; and I can’t help but start to wonder how it isn’t a target for antitrust investigation. Trump’s feud with Bezos over the Washington Post makes me think he could ask the DOJ to investigate, but that would also be a very un-Republican thing to do. " created="Fri, 07 Jul 2017 02:33:46 GMT"/>
+				<outline text="  " created="Fri, 07 Jul 2017 02:33:47 GMT"/>
+				<outline text="So many people seem to fear Google and Facebook, but Amazon is slowly grabbing a piece of every financial transaction. It’s like a monopoly of the whole economy, not just an industry and &lt;a href=&quot;https://en.m.wikipedia.org/wiki/History_of_United_States_antitrust_law&quot;&gt;isn’t that a bit like the railroads back when antitrust became a thing?&lt;/a&gt;" created="Fri, 07 Jul 2017 02:33:48 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/7/2017" created="Fri, 07 Jul 2017 17:19:27 GMT">
+			<outline text="Deleting Apps From iOS 11" created="Fri, 07 Jul 2017 17:19:27 GMT" type="outline">
+				<outline text="One of the non-intuitive changes Apple made to iOS 11 is how you uninstall or delete an app from the device. In prior versions you tap and hold the app icon and then tap the X circle that appears to delete the app, but this does not happen in iOS 11." created="Fri, 07 Jul 2017 17:19:28 GMT"/>
+				<outline text="Apple has set up iOS to automatically offload apps that you do not frequently use, but I haven't seen any info on the criteria it uses to make such a decision. Even though iOS will delete an app, the app settings and data will stay on the device so if you reinstall it, you can pick up right where you left off. &amp;nbsp;iOS 11 calls this Offloading an App." created="Fri, 07 Jul 2017 17:19:29 GMT"/>
+				<outline text="To delete an app you tap Settings, General, iPad Storage, tap the name of the app you want to delete and then tap Delete App." created="Fri, 07 Jul 2017 17:19:30 GMT"/>
+				<outline text="While I get that when you delete an app you really are managing storage, I do not think this is an intuitive place to look to delete an app. After trying to delete an app the old way, my next step was to tap Settings, then scroll through the list of apps, tap it, expecting to find Delete, but instead all you see are all other application specific settings OTHER THAN delete." created="Fri, 07 Jul 2017 17:19:31 GMT"/>
+				<outline text="Frankly, having the OS take over control over something this as Apple appears to intend happening is very much a Microsoft way of doing things, which is not very user friendly in my opinion." created="Fri, 07 Jul 2017 17:19:32 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/8/2017" created="Sat, 08 Jul 2017 15:12:47 GMT">
+			<outline text="Not Just America's Orignal Sin" created="Sat, 08 Jul 2017 15:12:47 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://scripting.com/2017/07/07.html#a120734&quot;&gt;Dave points out&lt;/a&gt; how we are still dealing with slavery, and I very much agree. Not only do we see this in the structure of our government, but more importantly in how we live with each with other.  " created="Sat, 08 Jul 2017 15:12:48 GMT"/>
+				<outline text="I am convinced that racism is the modern term for original sin. By this I mean where sin originates, which is from seeing ourselves as apart from God. If we don’t see God in ourself, we cannot see God in everyone and everything around us. In short, we see ourself and others and from there we see ourself as better than others.   " created="Sat, 08 Jul 2017 15:12:49 GMT"/>
+				<outline text="&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;We cannot begin to see ourself as one with other people of different cultures and races until we recognize Yahweh in everyone and myself.&lt;/span&gt;" created="Sat, 08 Jul 2017 15:12:50 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/10/2017" created="Mon, 10 Jul 2017 12:51:03 GMT">
+			<outline text="Working On The Flow" created="Mon, 10 Jul 2017 12:51:03 GMT" type="outline">
+				<outline text="Over the weekend I worked on moving a document I created in &lt;a href=&quot;https://www.omnigroup.com/omnioutliner/ios/&quot;&gt;OmniOutliner &lt;/a&gt;on my iPad to &lt;a href=&quot;https://www.ulyssesapp.com/&quot;&gt;Ulysses&lt;/a&gt;. I am surprised that there isn't an easy way to create a clean plain text document out of OmniOutliner. When &amp;nbsp;I try to send a copy from OmniOutliner to Ulysses extraneous text keeps being added." created="Mon, 10 Jul 2017 12:51:04 GMT"/>
+				<outline text="What I found that worked was sending the document to Google Docs, and then from Google Docs to Ulysses." created="Mon, 10 Jul 2017 12:51:05 GMT"/>
+				<outline text="There is little documentation on creating documents based on an outline first created with OmniOutliner, which is surprising because I expect this to be one of the main use cases. In fact, I think that OmniOutliner ought to be smart enough to translate outline levels to markdown heads just as it does with HTML. I suspect that the Mac version of the app does this and that the markdown export type is just not included with the iOS version." created="Mon, 10 Jul 2017 12:51:06 GMT"/>
+				</outline>
+			<outline text="I Have It Covered" created="Mon, 10 Jul 2017 20:02:46 GMT" type="outline">
+				<outline text="I have received &lt;a href=&quot;http://www.help.studioneat.com/canopy/&quot;&gt;Studio Neat’s Canopy cover&lt;/a&gt; for the Apple Magic keyboard and I am using it right now to write this blog post on my iPad Pro. It appears to be a nice set up that will work nicely, although I think it holds the iPad more upright that I would prefer. " created="Mon, 10 Jul 2017 20:02:47 GMT"/>
+				<outline text="I was concerned about whether the case and keyboard would be too large to fit in my Waterfield Indie bag, but it turns out that it just fits and so there will be no trouble with carrying it in the bag. " created="Mon, 10 Jul 2017 20:02:48 GMT"/>
+				<outline text="The combination of the Apple Magic Keyboard, Canopy case, and iPad Pro should work well writing away from home. The keyboard is as large as most notebooks so I can type at my usual rate of speed, and all the keys are full size." created="Mon, 10 Jul 2017 20:02:49 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/11/2017" created="Tue, 11 Jul 2017 17:51:13 GMT">
+			<outline text="July 11, 2017" created="Tue, 11 Jul 2017 17:51:13 GMT" type="outline">
+				<outline text="There is something about the way Google Inbox looks on the &lt;a href=&quot;https://www.apple.com/ipad-pro/&quot;&gt;iPad Pro 10.5 inch&lt;/a&gt; that just doesn't look right." created="Tue, 11 Jul 2017 17:51:14 GMT"/>
+				<outline text="Today is Amazon Prime day. &lt;a href=&quot;http://writing.frankmcpherson.org/2016/07/14/0108.html&quot;&gt;Last year&lt;/a&gt; I bought the &lt;a href=&quot;https://www.cnet.com/products/huawei-watch/&quot;&gt;Huawei Watch&lt;/a&gt; but this year I didn't find anything as significant to buy. The interesting thing about that purchase is one of the reasons why I bought it was to have a watch that could run Android Wear 2, which then was expected to be available last fall. Turns out I didn't get Android Wear 2 on it until last month. OTOH, Android Wear 2 is a significant improvement and so I am still happy with the purchase.&amp;nbsp;" created="Tue, 11 Jul 2017 17:51:15 GMT"/>
+				<outline text="While I am concerned about &lt;a href=&quot;http://scripting.com/2017/07/11.html#a023446&quot;&gt;the possible collusion between the Trump campaign and Russia&lt;/a&gt;, the problem with all of the coverage is that many people don't understand why it matters. I fear that in the end it all appears as the &quot;liberal&quot; media and Democrats piling on and preventing Trump from doing his job. All of the &quot;fake news&quot; comments is really Trump's re-election strategy, and so if he doesn't deliver on his promises, he has a reason that his supporters will completely accept. Many people view Trump as &quot;one of us&quot; and so any opposition against him is opposition against us.&amp;nbsp;" created="Tue, 11 Jul 2017 17:51:16 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/13/2017" created="Thu, 13 Jul 2017 14:43:05 GMT">
+			<outline text="Because The Establishment Is Screwed Up" created="Thu, 13 Jul 2017 14:43:05 GMT" type="outline">
+				<outline text="I think people need to come to grips with this paradox: the more &quot;dirt&quot; that comes to light about Trump and his administration, the stronger will be his support.&amp;nbsp;" created="Thu, 13 Jul 2017 14:43:06 GMT"/>
+				<outline text="Everyone continues to view him and his presidency by the norms of politics, but the main reason why he was elected is because Trump is abnormal.&amp;nbsp;" created="Thu, 13 Jul 2017 14:43:07 GMT"/>
+				<outline text="In other words, Trump's supporters, mostly people in rural America, but many in urban areas too, see Trump as one of them, and they see the whole establishment, Republicans, Democrats, media, judges, everything as not them and all screwed up. I suspect that even pointing out Trump's violations of the U.S. Constitution doesn't matter because they don't really recognize the Constitution as their's, but rather a tool of the establishment.&amp;nbsp;" created="Thu, 13 Jul 2017 14:43:08 GMT"/>
+				<outline text="Consequently, why should they care if Trump partnered with Putin to get elected? So Putin dug up dirt about Hillary? Great, it just cemented their beliefs of how much of crook she is. In this case Putin is their friend, he helped their cause.&amp;nbsp;" created="Thu, 13 Jul 2017 14:43:09 GMT"/>
+				<outline text="Even if Trump doesn't deliver on this campaign promises, he wins because all he has to say to his supporters is that the establishment is preventing him from doing his job. Trump will say, re-elect me and more importantly, throw out ALL of these guys, Republicans and Democrats, who have been working against me.&amp;nbsp;" created="Thu, 13 Jul 2017 14:43:10 GMT"/>
+				<outline text="The 2018 election is a critical milestone. I bet Trump will be actively campaigning, first because he loves campaigning, but also because he knows he needs supporters in Congress. If he is smart he knows that Ryan and McConnell are just trying to use him, that's been the Republican playbook since Reagan. You don't need your guy in the office, you just need someone aligned to your party.&amp;nbsp;" created="Thu, 13 Jul 2017 14:43:11 GMT"/>
+				<outline text="Consequently, the real test is whether Trump starts campaigning against Republicans. Once he removes the Republican mask he wears, then his true colors will be exposed and we will start to see the real strength of his base." created="Thu, 13 Jul 2017 14:43:12 GMT"/>
+				</outline>
+			<outline text="Prime Purchases" created="Fri, 14 Jul 2017 01:47:09 GMT" type="outline">
+				<outline text="A bought two items on Amazon Prime day, a Hue color light bulb and the &lt;a href=&quot;https://www.amazon.com/Foldable-Multi-Angle-Accessories-Universal-Phones-Black/dp/B01LXP8Q29&quot;&gt;Nulaxy Foldable Aluminum stand&lt;/a&gt; to hold the iPad Pro on my desk. I had been using the original Compass stand but found it to be a little too low. " created="Fri, 14 Jul 2017 01:47:10 GMT"/>
+				<outline text="  " created="Fri, 14 Jul 2017 01:47:11 GMT"/>
+				<outline text="The Nulaxy stand is able to hold the iPad higher, but I can not push it too high or the iPad will tip over. The result is not exactly at the ergonomic height one wants for low term use, but is just right for at a glance reference throughout the day. If I am not writing notes using the Apple Pencil, I’ll keep the iPad on the Nulaxy stand to quickly see my calendar and task list.&amp;nbsp;" created="Fri, 14 Jul 2017 01:47:12 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/14/2017" created="Fri, 14 Jul 2017 16:57:23 GMT">
+			<outline text="Democrats Need A Plan For Future Elections" created="Fri, 14 Jul 2017 16:57:23 GMT" type="outline">
+				<outline text="I agree fully with this statement made by The Guardian in &lt;a href=&quot;https://www.theguardian.com/commentisfree/2017/jul/14/reality-check-donald-trump-jr-storm-not-affect-presidency&quot;&gt;a recent article&lt;/a&gt;:&lt;blockquote&gt;That’s why all of the anti-Trump energy would be much better spent organizing for the coming election than living in a fantasy world that sees Republicans growing a conscience and getting rid of Trump themselves.&lt;/blockquote&gt;" created="Fri, 14 Jul 2017 16:57:24 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/16/2017" created="Sun, 16 Jul 2017 21:36:03 GMT">
+			<outline text="Fish or Cut Bait" created="Sun, 16 Jul 2017 21:36:03 GMT" type="outline">
+				<outline text="I need to make a decision. The hosting provider I have been using for some of my sites, &lt;a href=&quot;http://www.cloudatcost.com&quot;&gt;CloudAtCost&lt;/a&gt;, appears to be melting down. I wouldn’t be surprised if they went out of business." created="Sun, 16 Jul 2017 21:36:04 GMT"/>
+				<outline text="I didn’t have anything critical running there as I moved my important stuff to Google Cloud Platform, but I was hosting a few servers. One was running &lt;a href=&quot;https://sandstorm.io&quot;&gt;Sandstorm&lt;/a&gt; and it appears to have been deleted and I doubt it will be recoverable. The other server is running &lt;a href=&quot;https://github.com/scripting/fargoPublisher&quot;&gt;Fargo Publisher&lt;/a&gt;." created="Sun, 16 Jul 2017 21:36:05 GMT"/>
+				<outline text="Fargo is a deprecated tool I was using to write and publish my blogs before I moved to 1999.io. A year ago word came that due to Dropbox closing down the API Fargo uses, Fargo would go dark. " created="Sun, 16 Jul 2017 21:36:06 GMT"/>
+				<outline text="In reality, there are two parts to Fargo, the editor that used Dropbox for its file system and Fargo Publisher that converted content stored in OPML to HTML and then published that content to Amazon S3." created="Sun, 16 Jul 2017 21:36:07 GMT"/>
+				<outline text="Fargo Publisher is also a web server that serves blogs that it maps to a directory structure on S3. Publisher can continue running and serve pages without the front end making changes. Consequently, if I want to keep what I wrote using Fargo available on the Internet, I need to have Fargo Publisher running and responding to the domains I created to host the content." created="Sun, 16 Jul 2017 21:36:08 GMT"/>
+				<outline text="          " created="Sun, 16 Jul 2017 21:36:09 GMT"/>
+				<outline text="Given the uncertainty of CloudAtCost, I need to decide whether to move my instance of Fargo Publisher to another server OR let the content I had written disappear.&amp;nbsp;" created="Sun, 16 Jul 2017 21:36:10 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/28/2017" created="Fri, 28 Jul 2017 22:53:39 GMT">
+			<outline text="Ode to Fargo Publisher" created="Fri, 28 Jul 2017 22:53:39 GMT" type="outline">
+				<outline text="I moved my instance of &lt;a href=&quot;https://github.com/scripting/fargoPublisher&quot;&gt;Fargo Publisher&lt;/a&gt; to Google Cloud Platform. The process was pretty straight forward except that I had to work around an issue caused because Nodejs doesn't have access to port 80.&amp;nbsp;" created="Fri, 28 Jul 2017 22:53:40 GMT"/>
+				<outline text="One of the interesting things about Fargo Publisher is that it does not store any data on the server in which it runs and it provides a CNAME-like functionality by mapping URLs to a folder structure. What this means is that there isn't much to configuring Fargo Publisher beyond storing the bucket name and associated directories, along with Amazon AWS credentials." created="Fri, 28 Jul 2017 22:53:41 GMT"/>
+				<outline text="I am &lt;a href=&quot;http://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html&quot;&gt;no longer using Fargo&lt;/a&gt; for my blogs, but I did want to provide access to what I had written using it. The provider I had been using to host Fargo Publisher has become very unreliable, and so I decided to move it to Google Cloud Platform. (Btw, Dropbox still has not turned off their old API and therefore &lt;a href=&quot;http://notes.frankmcpherson.net/2017/07/28/curious.html&quot;&gt;Fargo still works&lt;/a&gt; with it. Who knows for how long?)" created="Fri, 28 Jul 2017 22:53:42 GMT"/>
+				<outline text="The first post I wrote using Fargo was on &lt;a href=&quot;http://webnotes.frankmcpherson.net/2014/03/19/&quot;&gt;March 19, 2014&lt;/a&gt; and the last one of substance was on &lt;a href=&quot;http://webnotes.frankmcpherson.net/2016/10/10/&quot;&gt;October 10, 2016&lt;/a&gt;. All in all, a pretty good run." created="Fri, 28 Jul 2017 22:53:43 GMT"/>
+				</outline>
+			<outline text="" created="Sat, 29 Jul 2017 01:53:34 GMT" type="outline">
+				<outline text="I think I am going to start taking a look at the templates for this site. In looking back at &lt;a href=&quot;http://webnotes.frankmcpherson.net/&quot;&gt;the prior version created with Fargo&lt;/a&gt;, I find it looks much better on my iPad than this site. " created="Sat, 29 Jul 2017 01:53:35 GMT"/>
+				<outline text="  " created="Sat, 29 Jul 2017 01:53:36 GMT"/>
+				<outline text="My main issue is how the content on the home page is off center.&amp;nbsp;" created="Sat, 29 Jul 2017 01:53:37 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/30/2017" created="Sun, 30 Jul 2017 21:13:45 GMT">
+			<outline text="" created="Sun, 30 Jul 2017 21:13:45 GMT" type="outline">
+				<outline text="Buying eBooks on the iPad is a pain unless you use Apple’s app. Basically, I can’t buy a book from Amazon or B&amp;amp;N on my iPad because they don’t want to give Apple a cut on the sale. Consequently, whenever I want to buy a book I have to go to my smartphone, Android tablet, or notebook computer. It is a disappointing hassle." created="Sun, 30 Jul 2017 21:13:46 GMT"/>
+				</outline>
+			</outline>
+		<outline text="7/31/2017" created="Mon, 31 Jul 2017 20:12:18 GMT">
+			<outline text="" created="Mon, 31 Jul 2017 20:12:18 GMT" type="outline">
+				<outline text="Isn't it time to call Trump for what he is, which is &lt;a href=&quot;http://www.politico.com/magazine/story/2017/07/30/trump-priebus-unbound-215440&quot;&gt;not a Republican&lt;/a&gt;? For all the comments about how messed up the Democrats are, I see the Republicans as equally messed up. And the media ought to STOP saying that the Republicans have the White House, Senate, and House, they clearly do NOT have the White House. The sooner Republicans in Congress accept that the fact the better for all of us." created="Mon, 31 Jul 2017 20:12:19 GMT"/>
+				</outline>
+			<outline text="Template Tweaks" created="Mon, 31 Jul 2017 21:22:23 GMT" type="outline">
+				<outline text="I’ve made a tweak to the template used to render this site. When I viewed this site in portrait on my iPad the content was not centered on the page. To correct it I commented out the viewport meta name, and now the home page appears centered while in portrait. I probably shouldn't do it this way, but it seems like a quick fix to the issue.&amp;nbsp;" created="Mon, 31 Jul 2017 21:22:24 GMT"/>
+				<outline text="The home page renders nicely in large and small screens, but is a little odd in Safari on my iPad Mini.&amp;nbsp;" created="Mon, 31 Jul 2017 21:22:25 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Lets Be Frank</title>
+		<dateModified>Fri, 24 Dec 2021 19:43:52 GMT</dateModified>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<urlPublic>http://drummer.scripting.com/frankm/LBF2017-06.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/frankm/LBF2017-06.json</urlJson>
+		<flPublic>true</flPublic>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<dateCreated>Fri, 24 Dec 2021 19:43:02 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="This file contains blog posts that I wrote using 1999.io in June, 2017" created="Fri, 24 Dec 2021 19:43:23 GMT" isComment="true"/>
+		<outline text="6/5/2017" created="Mon, 05 Jun 2017 20:14:48 GMT">
+			<outline text="" created="Mon, 05 Jun 2017 20:14:48 GMT" type="outline">
+				<outline text="Why does Apple not have the same storage sizes available for &lt;a href=&quot;https://www.apple.com/ipad/compare/&quot;&gt;all iPad versions&lt;/a&gt;?" created="Mon, 05 Jun 2017 20:14:49 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/7/2017" created="Wed, 07 Jun 2017 16:53:08 GMT">
+			<outline text="" created="Wed, 07 Jun 2017 16:53:08 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://scripting.com/2017/06/07.html#a110643&quot;&gt;Three words&lt;/a&gt;: military industrial complex. I imagine there are some people who think that a full-scale war in the middle east will result in more money and more jobs for the United States. Never mind the consequences of the de-stablization that will cause.&amp;nbsp;" created="Wed, 07 Jun 2017 16:53:09 GMT"/>
+				<outline text="These will be the same people who thought the Iraq war was a good thing." created="Wed, 07 Jun 2017 16:53:10 GMT"/>
+				</outline>
+			<outline text="" created="Wed, 07 Jun 2017 18:47:48 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://www.thurrott.com/mobile/ios/117758/hands-ios-11-beta?_hsenc=p2ANqtz-88kqXO4OMyV9AgBlZ9WE5UmboA7LufGeAhmEmf_8awgJW8yE8QQ_G1HTm8g4SYCiA0Kn_VrqPf0bK9M0dP6bd_n4i2gP6Lwhx4PVr_c1P5387oCs8&amp;amp;_hsmi=52842369&quot;&gt;Replacement of the &quot;app icon wiggle&quot;&lt;/a&gt; associated with moving icons around is &lt;a href=&quot;http://writing.frankmcpherson.org/2016/06/26/0089.html&quot;&gt;for me&lt;/a&gt; the single biggest improvement in iOS 11.&amp;nbsp;" created="Wed, 07 Jun 2017 18:47:49 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/13/2017" created="Tue, 13 Jun 2017 12:43:38 GMT">
+			<outline text="Testing Android O Battery Life" created="Tue, 13 Jun 2017 12:43:38 GMT" type="outline">
+				<outline text="I installed &lt;a href=&quot;https://www.engadget.com/2017/03/21/android-o-developer-preview-announced/&quot;&gt;Android O&lt;/a&gt; on my Nexus 6P last week. My observation is that battery life has not been ask good as with Android N. I've installed &lt;a href=&quot;https://www.accubatteryapp.com/&quot;&gt;AccuBattery &lt;/a&gt;and over night the battery decreased 21%, which seems to me to be a higher percentage than it should be. I thought doze mode in Android N dramatically slowed that rate down when the phone is sitting, unused, with the screen off.&amp;nbsp;" created="Tue, 13 Jun 2017 12:43:39 GMT"/>
+				<outline text="Granted, the version of Android O I am using is a beta, or Developer Preview 3, and there is a chance battery life will improve with a later release." created="Tue, 13 Jun 2017 12:43:40 GMT"/>
+				<outline text="&lt;b&gt;Update&lt;/b&gt;: I restarted my phone, and the battery drain is much more in line with expectations at the moment; probably should have restarted my phone after the upgrade finished. I am anxious to see what the battery drain is like tonight.&amp;nbsp;" created="Tue, 13 Jun 2017 12:43:41 GMT"/>
+				</outline>
+			<outline text="" created="Tue, 13 Jun 2017 19:23:51 GMT" type="outline">
+				<outline text="Quick test, I have discovered Loom, which is a desktop video capture extension for Chrome. &lt;a href=&quot;https://www.useloom.com/share/b757c1027669486694bcd213f8b85e14&quot;&gt;Here is a desktop video&lt;/a&gt; I created as a test." created="Tue, 13 Jun 2017 19:23:52 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/14/2017" created="Wed, 14 Jun 2017 17:11:01 GMT">
+			<outline text="June 14, 2017" created="Wed, 14 Jun 2017 17:11:01 GMT" type="outline">
+				<outline text="Last time I charged my phone was at 11:45 PM last night for 10 minutes, it got to 59%. It is now at 19% for a drop of 40% over 13 hours, 22 minutes. The screen has been off for 13 h, 10 minutes, and screen off discharge speed has been at 2.3% per hour. &amp;nbsp;Based on 12 sessions, average screen off discharge speed is 3.1%/hour, screen on is 46.5%/hour. The question is, is this normal?&amp;nbsp;&lt;h4&gt;Reason #1001 Why I Am Not A Normal PC User&lt;/h4&gt;" created="Wed, 14 Jun 2017 17:11:02 GMT"/>
+				<outline text="Most of the iPad Pro reviews/first impressions have been negative. &lt;a href=&quot;https://www.thurrott.com/mobile/ios/118276/apple-ipad-pro-10-5-first-impressions-post-pc-world-isnt-yet&quot;&gt;Paul Thurrott's&lt;/a&gt; take is from a 2-in-1 perspective. I own, and use, a 2-in-1, the Surface 3, but I hardly use the keyboard, I mostly use the Surface as a tablet and write in OneNote using the Surface Pen. Consequently, I think I am the target audience for the 10.5-inch iPad Pro with Pencil, and that is why I will most likely buy one. The one thing the Surface 3 has that I will miss with the iPad Pro is the built-in kick stand. Otherwise, I expect that I will be able to write in OneNote using the Pencil as I do with the Surface 3.&amp;nbsp;" created="Wed, 14 Jun 2017 17:11:03 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.macstories.net/stories/workflows-of-a-casual-apple-pencil-user/&quot;&gt;The Apple Pencil is not a stylus&lt;/a&gt;. Good point!" created="Wed, 14 Jun 2017 17:11:04 GMT"/>
+				<outline text="I am beginning to think I am the only one still using &lt;a href=&quot;http://1999.io&quot;&gt;1999.io&lt;/a&gt;.&amp;nbsp;" created="Wed, 14 Jun 2017 17:11:05 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/16/2017" created="Fri, 16 Jun 2017 13:28:05 GMT">
+			<outline text="Android 0 Battery Life Update" created="Fri, 16 Jun 2017 13:28:05 GMT" type="outline">
+				<outline text="Based on 23 sessions over the last seven days, my Nexus 6P running Android 0 consumes 3.3% of battery per hour while the screen is off, 45.8% while the screen is on. Overall that seems to be decent battery life, but I don't think the phone is going in to deep sleep (Doze) long enough over night. Last night, during a 9 hour, 31 minute stretch of time, the phone was in deep seep for 2 hours, 33 minutes. Not even half the time." created="Fri, 16 Jun 2017 13:28:06 GMT"/>
+				</outline>
+			<outline text="June 16, 2017" created="Fri, 16 Jun 2017 13:37:24 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://www.logitech.com/en-us/product/slimcombo?wt.ac=HPB3-CTA1-slimcombo&quot;&gt;Logitech's Slim Combo case/keyboard&lt;/a&gt; for the iPad Pro 10.5&quot; appears to be the keyboard to get for the new iPad Pro." created="Fri, 16 Jun 2017 13:37:25 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.raspberrypi.org/blog/mira-robot-alonso-martinez/&quot;&gt;Mira&lt;/a&gt; is a cool little robot with a Raspberry Pi for a brain. &amp;nbsp;Very cool!" created="Fri, 16 Jun 2017 13:37:26 GMT"/>
+				<outline text="I am reading articles about people building things with parts they print on a 3D printer, and I think to myself, who can afford a 3D printer? Then I thought, what if I Google &quot;&lt;a href=&quot;https://www.google.com/search?q=3d+printers+near+me&amp;amp;rlz=1C1CHXU_enUS732US732&amp;amp;oq=3d+printers+near+me&amp;amp;aqs=chrome..69i57j0l4.4020j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&quot;&gt;3D printers near me&lt;/a&gt;&quot; and I see that UPS Stores have 3D Printers, although the nearest one is in Kalamazoo. However, it looks like there is a way to send a drawing over the Internet to &lt;a href=&quot;https://www.makexyz.com/&quot;&gt;a place that can print something for you&lt;/a&gt;.&amp;nbsp;" created="Fri, 16 Jun 2017 13:37:27 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.i3detroit.org/&quot;&gt;i3Detroit&lt;/a&gt;, which is a maker space in Ferndale, has &lt;a href=&quot;https://www.i3detroit.org/wiki/Category:Equipment&quot;&gt;several 3D printers&lt;/a&gt;." created="Fri, 16 Jun 2017 13:37:28 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/17/2017" created="Sat, 17 Jun 2017 21:23:05 GMT">
+			<outline text="My iPad Pro Out of Box Experience" created="Sat, 17 Jun 2017 21:23:05 GMT" type="outline">
+				<outline text="I bought the iPad Pro 10.5&quot; base model and am setting it up. The out of box experience has not exactly been stellar." created="Sat, 17 Jun 2017 21:23:06 GMT"/>
+				<outline text="I've been using an iPad Mini 4, from which I am trying to set up the Pro from, but the problem is that I have iOS 10.3.3 beta on the Mini, while the Pro has 10.3.2, so I cannot restore from a recent backup." created="Sat, 17 Jun 2017 21:23:07 GMT"/>
+				<outline text="I do have a backup of the Mini running 10.3.2 from just a couple of weeks ago, which I have used to restore from, however, not all of the apps that I had on the Mini have been restored to the Pro. It looks like I will have a fair amount of manual configuration to get it set up as I want." created="Sat, 17 Jun 2017 21:23:08 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/19/2017" created="Mon, 19 Jun 2017 14:35:40 GMT">
+			<outline text="June 19, 2017" created="Mon, 19 Jun 2017 14:35:40 GMT" type="outline">
+				<outline text="Happy Monday!" created="Mon, 19 Jun 2017 14:35:41 GMT"/>
+				<outline text="Ed Bott writes about&amp;nbsp;&lt;a href=&quot;http://www.zdnet.com/article/kiwi-for-gmail-lets-windows-users-break-free-of-the-browser/&quot;&gt;Kiwi, which&amp;nbsp;&lt;/a&gt;is a wrapper for Gmail that enables you to use Gmail as a standalone app on Windows or Mac OS X. I wonder if it was created using Electron? I don't have a problem using Gmail/Inbox in a browser, I basically view Chrome as my personal virtual machine. On my work laptop, I open Chrome in a second Windows 10 session and only have tabs open to my main personal apps: Inbox, &lt;a href=&quot;http://littleoutliner.com&quot;&gt;Little Outliner&lt;/a&gt;, River5, Instapaper, and &lt;a href=&quot;http://1999.io&quot;&gt;1999&lt;/a&gt;. &amp;nbsp;" created="Mon, 19 Jun 2017 14:35:42 GMT"/>
+				<outline text="Today is the first day that I using the iPad Pro at work. My biggest issue is working with OneNote. I've made some structural changes to my main OneNote notebook that should be syncing and so far that seems to be taking a long time to complete." created="Mon, 19 Jun 2017 14:35:43 GMT"/>
+				<outline text="I do like the size of the screen and the amount of information displayed in Outlook on the iPad Pro, but I wish that Microsoft would provide a way to specify a number of days to display like you can with the Windows 10 calendar app." created="Mon, 19 Jun 2017 14:35:44 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.mlbtraderumors.com/2017/06/rosenthals-latest-mccutchen-cole-hand-cubs.html&quot;&gt;Rosenthal's comments&lt;/a&gt; about the Cubs and Indians pitching problems this year has me thinking that the MLB season is too long. Teams that make it to the World Series are penalized the next year by forcing their pitchers to play too many games. MLB ought to think about whether it is smarter to cut back on some ticket sales for the sake of having a higher chance of repeating success on a yearly basis. In my opinion, the World Series should not be played in November!&amp;nbsp;" created="Mon, 19 Jun 2017 14:35:45 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/20/2017" created="Tue, 20 Jun 2017 13:42:57 GMT">
+			<outline text="June 20, 2017" created="Tue, 20 Jun 2017 13:42:57 GMT" type="outline">
+				<outline text="What is the best SSH/Telnet app for the iPad?&amp;nbsp;" created="Tue, 20 Jun 2017 13:42:58 GMT"/>
+				<outline text="How well can I write a blog post from my iPad? This well, I am writing this sentence on the Pro." created="Tue, 20 Jun 2017 13:42:59 GMT"/>
+				<outline text="There is no way to access the developer's console in Chrome or Safari on iOS, therefore, I cannot switch &lt;a href=&quot;http://littleoutliner.com&quot;&gt;Little Outliner&lt;/a&gt; to my personal server on iOS.&amp;nbsp;" created="Tue, 20 Jun 2017 13:43:00 GMT"/>
+				<outline text="How much should one pay for an iOS app? &lt;a href=&quot;https://www.omnigroup.com/omnioutliner/ios/&quot;&gt;OmniOutliner 2 costs $30&lt;/a&gt;, which feels expensive unless you start thinking of the iPad as a full time computer. The up side of OmniOutliner is that it supports OPML.&amp;nbsp;" created="Tue, 20 Jun 2017 13:43:01 GMT"/>
+				<outline text="I don't get &lt;a href=&quot;https://www.theverge.com/2017/6/20/15820802/oneplus-5-review-one-plus-phone&quot;&gt;The Verge's hang up&lt;/a&gt; on the OnePlus 5's price at $479. Sure, it is more expensive than prior models and therefore loses its high specs for low price appeal, but it is still hundreds of dollars cheaper than the Samsung S8 and the Google Pixel. I am thinking this is likely my next smartphone." created="Tue, 20 Jun 2017 13:43:02 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/21/2017" created="Wed, 21 Jun 2017 15:15:30 GMT">
+			<outline text="Blogrolls and RSS" created="Wed, 21 Jun 2017 15:15:30 GMT" type="outline">
+				<outline text="I remember &lt;a href=&quot;http://scripting.com/2017/06/21.html#a060651&quot;&gt;the blogrolls that Dave talks about&lt;/a&gt;, I had one on my original blogs too. Question: what is the purpose of a blogroll? Is it advertising of other blogs you read or is it a list of links (bookmarks) from which one goes to read other blogs?" created="Wed, 21 Jun 2017 15:15:31 GMT"/>
+				<outline text="For me, I used my blogroll as a bookmarks list, but that has been replaced by RSS. Today, I don't open blog web sites to read, I browse through &lt;a href=&quot;http://mywebstream.net&quot;&gt;my news river&lt;/a&gt; and share links of items I want to read to Radio3. I added a step to the process Dave describes where I have an &lt;a href=&quot;http://ifttt.com&quot;&gt;IFTTT&lt;/a&gt; applet that adds items that I add to my Radio3 linkblog to Instapaper and Pocket for later reading." created="Wed, 21 Jun 2017 15:15:32 GMT"/>
+				<outline text="Basically, &lt;a href=&quot;http://instantoutliner.com/43&quot;&gt;my RSS subscription list&lt;/a&gt; is my blogroll.&amp;nbsp;" created="Wed, 21 Jun 2017 15:15:33 GMT"/>
+				<outline text="In regards to the question of how to monitor a particular blogging topic, like IndieWeb or say 1999 blogs, that can be done with a topic-specific River. As an example, back when &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt;&amp;nbsp;was new and getting attention, Andy Sylvester created &lt;a href=&quot;http://1999bloggers.andysylvester.com/&quot;&gt;a 1999 river&lt;/a&gt; from feeds created just by blogs written on in 1999. Sadly, it looks like may one of the only 1999 bloggers left." created="Wed, 21 Jun 2017 15:15:34 GMT"/>
+				<outline text="The &amp;nbsp;missing item would be a way from the topic specific river to get a page of the sites that part of the river subscription list.&amp;nbsp;" created="Wed, 21 Jun 2017 15:15:35 GMT"/>
+				</outline>
+			<outline text="Using OneNote On The iPad" created="Wed, 21 Jun 2017 15:38:06 GMT" type="outline">
+				<outline text="I started using OneNote as my electronic notebook a couple of years ago when I bought the &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt;. With my purchase of the 10.5-inch iPad Pro, I've been using OneNote with it and the Apple Pencil.&amp;nbsp;" created="Wed, 21 Jun 2017 15:38:07 GMT"/>
+				<outline text="A big difference between the two is that I can use the full Windows desktop version of OneNote on the Surface 3, while the mobile version is the only one available for the iPad. I believe the iOS version is the same as the Windows Store version that I could use on the Surface 3." created="Wed, 21 Jun 2017 15:38:08 GMT"/>
+				<outline text="For the most part OneNote works well on the iPad, but there are a few annoying nits. For example, I use ruled lines which are added to ever new note I create in the full desktop version, but for some reason does not persist in the mobile version, I have to manually add them every time I create a new note." created="Wed, 21 Jun 2017 15:38:09 GMT"/>
+				<outline text="The other problem I have run in to is that the iOS version does not support collapsing of subpages. If you have a lot of pages and subpages in a list, you want to be able to collapse them so they are easier to manage.&amp;nbsp;" created="Wed, 21 Jun 2017 15:38:10 GMT"/>
+				<outline text="Finally, inking is not really &quot;native&quot; to the iOS version with Apple Pencil. By this I mean, you have to select drawing mode in order to enable inking, it does not automatically detect.&amp;nbsp;" created="Wed, 21 Jun 2017 15:38:11 GMT"/>
+				<outline text="My feedback to Microsoft is that if you fix these three areas, OneNote will be much better to use on iOS.&amp;nbsp;" created="Wed, 21 Jun 2017 15:38:12 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/22/2017" created="Thu, 22 Jun 2017 14:24:31 GMT">
+			<outline text="June 22, 2017" created="Thu, 22 Jun 2017 14:24:31 GMT" type="outline">
+				<outline text="IFTTT's &lt;a href=&quot;https://ifttt.com/blog/2017/06/introducing-the-data-access-project&quot;&gt;Data Access Project&lt;/a&gt; uses RSS, which I think means RSS continues to be valuable.&amp;nbsp;" created="Thu, 22 Jun 2017 14:24:32 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/23/2017" created="Fri, 23 Jun 2017 16:06:22 GMT">
+			<outline text="June 23, 2017" created="Fri, 23 Jun 2017 16:06:22 GMT" type="outline">
+				<outline text="I absolutely hate Apple's no refund policy on apps in their App Store. I've wasted $10 looking for an outlining app, basically trying to avoid spending $25 on OmniOutline.&amp;nbsp;" created="Fri, 23 Jun 2017 16:06:23 GMT"/>
+				<outline text="Google Inbox fonts look too large on the iPad Pro.&lt;h4&gt;My Writing Workflow Wish List&lt;/h4&gt;" created="Fri, 23 Jun 2017 16:06:24 GMT"/>
+				<outline text="I like drafting long-form articles in an outliner. An article might start in &lt;a href=&quot;http://littleoutliner.com&quot;&gt;Little Outliner&lt;/a&gt;, but I want to be able to transfer the OPML file I create to the iPad for further editing, and then export that outline to an editor for final edits and publishing. I want to use markdown for the formatting. I can't use Little Outliner on my iPad because I cannot get to the Javascript console to switch the server location.&amp;nbsp;" created="Fri, 23 Jun 2017 16:06:25 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/25/2017" created="Sun, 25 Jun 2017 21:27:20 GMT">
+			<outline text="June 25, 2017" created="Sun, 25 Jun 2017 21:27:20 GMT" type="outline">
+				<outline text="I gave in and bought OmniOutliner for my iPad, now I have to learn how to use it.&amp;nbsp;  " created="Sun, 25 Jun 2017 21:27:21 GMT"/>
+				<outline text="Today I installed and ran the GeekBench 4 benchmark on the iPad Pro and confirmed that the Pro is &lt;a href=&quot;https://browser.geekbench.com/user/120423&quot;&gt;the fastest computer that I own&lt;/a&gt;. The Surface 3 is the second fastest computer that I own, but it is way behind the Pro.   " created="Sun, 25 Jun 2017 21:27:22 GMT"/>
+				<outline text="I wrote the paragraph above using &lt;a href=&quot;http://agiletortoise.com/drafts/&quot;&gt;Drafts&lt;/a&gt; on the iPad Pro. The hyperlink was created in markdown, which I first attempted to paste into &lt;a href=&quot;http://1999.io&quot;&gt;1999&lt;/a&gt; but found that it does not convert markdown to HTML. I then found an Action in the Drafts Action Directory that converts a Draft in markdown to HTML, which I then copied to the clipboard and pasted into the &lt;a href=&quot;http://1999.io&quot;&gt;&lt;span data-auto-link=&quot;true&quot; data-href=&quot;http://1999.io&quot;&gt;1999.io&lt;/span&gt;&lt;/a&gt; HTML source editor plugin." created="Sun, 25 Jun 2017 21:27:23 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/26/2017" created="Mon, 26 Jun 2017 21:31:32 GMT">
+			<outline text="June 26, 2017" created="Mon, 26 Jun 2017 21:31:32 GMT" type="outline">
+				<outline text="&lt;a href=&quot;http://www.scotusblog.com/2017/06/opinion-analysis-church-prevails-funding-dispute/&quot;&gt;The SCOTUS opinion&lt;/a&gt; that the state of Missouri cannot not award a grant to churches simply because it is a church seems to imply that it thinks all non-profits are the same and have to be treated equally. Yet in other cases our government tends to want to give special status to religious institutions. At the least this seems to violate the traditional spirit of the first amendment." created="Mon, 26 Jun 2017 21:31:33 GMT"/>
+				<outline text="&lt;a href=&quot;http://bgr.com/2017/06/26/amazon-echo-show-reviews-call-feature/&quot;&gt;The reviews&lt;/a&gt; of the Amazon Echo Show appear to be positive. I wonder how well it will sell?" created="Mon, 26 Jun 2017 21:31:34 GMT"/>
+				<outline text="I wonder, if we ever get true anti-trust oversight back in the United States, whether Amazon might become the next large company &lt;a href=&quot;https://motherboard.vice.com/en_us/article/7xpgvx/amazons-is-trying-to-control-the-underlying-infrastructure-of-our-economy&quot;&gt;to be broken up by the government&lt;/a&gt;? I suspect that the Big-Cos have too much influence in Washington for this to ever happen, regardless of whether there are Democrats or Republicans running the government." created="Mon, 26 Jun 2017 21:31:35 GMT"/>
+				<outline text="I may be a glutton for punishment as I am installing the iOS 11 beta on my iPad Pro." created="Mon, 26 Jun 2017 21:31:36 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/27/2017" created="Tue, 27 Jun 2017 16:01:44 GMT">
+			<outline text="My Experiences With iOS 11" created="Tue, 27 Jun 2017 16:01:44 GMT" type="outline">
+				<outline text="Last night I installed the public beta of iOS 11 on my iPad Pro and I am happy that I did. First off, one of my main beefs with iOS has been addressed, which is the wiggling and running icons that appear when you move items on the home screens. No more frustrating chasing icons, the only icon that moves is the one you want to move!" created="Tue, 27 Jun 2017 16:01:45 GMT"/>
+				<outline text="I also love the new dock, and I've tried the new multitasking features but it is not obvious to me how one closes an overlayed app, it looks like &lt;a href=&quot;https://www.cnet.com/uk/how-to/tips-and-tricks-for-ipad-on-ios-11/&quot;&gt;you just swipe it right&lt;/a&gt; and it remains forever docked until you overlay a different app. In practice, I mostly use Lastpass in this swip-over, overlay mode." created="Tue, 27 Jun 2017 16:01:46 GMT"/>
+				<outline text="You can also configure apps to work side-by-side but I have found that certain apps do not work in this way, in particular Google Inbox appears to not allow side-by-side. My first use of this side-by-side is with Outlook and Todoist, with Outlook using about two thirds of the screen." created="Tue, 27 Jun 2017 16:01:47 GMT"/>
+				<outline text="&lt;a href=&quot;https://www.theverge.com/2017/6/28/15885400/ios-11-ipad-gestures-laptop-features&quot;&gt;The argument&lt;/a&gt; about whether an iPad Pro running iOS 11 can replace a laptop to me is pointless because it comes down to motivation. People who want to use an iPad Pro as their only computer will find a way to do it, people who are biased against the idea will point out &lt;a href=&quot;https://apple.slashdot.org/story/17/06/27/1516241/the-new-ipad-pro-review&quot;&gt;the many ways in which the iPad Pro falls short&lt;/a&gt;. The reality, this scenario has always been the case ever since the first iPad was announced and you could make external keyboards work with it. Right now, I think the main question in this argument is, can you live without a mouse and use touch or stylus for precision movement? &amp;nbsp;" created="Tue, 27 Jun 2017 16:01:48 GMT"/>
+				</outline>
+			</outline>
+		<outline text="6/30/2017" created="Fri, 30 Jun 2017 15:08:26 GMT">
+			<outline text="June 30, 2017" created="Fri, 30 Jun 2017 15:08:26 GMT" type="outline">
+				<outline text="I wish there was an easy way to see which RSS feeds I follow have not been updated for a long time. I don't know the cost of River5 constantly checking feeds that are dead.&amp;nbsp;" created="Fri, 30 Jun 2017 15:08:27 GMT"/>
+				<outline text="Near the end of another month, so just added June to the Archive menu." created="Fri, 30 Jun 2017 15:08:28 GMT"/>
+				<outline text="Last year I asked, &lt;a href=&quot;http://writing.frankmcpherson.org/2016/06/26/0090.html&quot;&gt;Does the Surface 3 have a successor&lt;/a&gt;? A year later, it doesn't appear as though it does from Microsoft, nor does it look like it will. I might have moved on to the iPad Pro 10.5 inch, since I bought it the &lt;a href=&quot;https://www.microsoft.com/surface/en-us/products/surface-3&quot;&gt;Surface 3&lt;/a&gt; has barely left its cradle.&amp;nbsp;" created="Fri, 30 Jun 2017 15:08:29 GMT"/>
+				<outline text="Earlier this week &lt;a href=&quot;https://fjmnotes.com/2017/06/28/hope-they-let-me-out/&quot;&gt;I went to the Detroit Zoo&lt;/a&gt;. They did let me out.&amp;nbsp;" created="Fri, 30 Jun 2017 15:08:30 GMT"/>
+				<outline text="I have a degree in computer science and was taught functional programming. Functional programming is a methodology of breaking a large problem down into smaller parts, which is an approach I naturally apply and why I like &lt;a href=&quot;http://fargo.io/docs/outlinerHowto.html&quot;&gt;outlines&lt;/a&gt;. The challenge is finding a tool built from the ground up to make and manipulate outlines. I like using Little Outliner in a web browser, but that doesn't work well on my &lt;a href=&quot;https://www.apple.com/ipad-pro/&quot;&gt;iPad Pro&lt;/a&gt; so on it I am using &lt;a href=&quot;https://www.omnigroup.com/omnioutliner/ios&quot;&gt;OmniOutliner&lt;/a&gt;. I wish a version of OmniOutliner were available for Windows. I could live with a copy of Electric Outline." created="Fri, 30 Jun 2017 15:08:31 GMT"/>
+				<outline text="Some people like creating &lt;a href=&quot;http://www.mindmapping.com/&quot;&gt;mind maps&lt;/a&gt;, which I consider to be a graphical outliner. I've used mind maps over the years, but find the graphics to slow me down. I guess I just think hierarchically.&amp;nbsp;" created="Fri, 30 Jun 2017 15:08:32 GMT"/>
+				<outline text="I am still &lt;a href=&quot;https://www.google.com/search?q=best+cases+for+the+ipad+pro+10.5&quot;&gt;looking a case&lt;/a&gt; for the &lt;a href=&quot;https://www.apple.com/ipad-pro/&quot;&gt;iPad Pro 10.5 inch&lt;/a&gt;. The thing is, I am leaning towards a sleeve given that when I am at home I really prefer using the iPad naked. I bought a cheap Moko case to attend a seminar last weekend, but doesn't have a pencil holder, which is another requirement. Right now I am leaning towards &lt;a href=&quot;https://www.sfbags.com/collections/ipad-pro-sleeves-and-bags/products/ipad-sleevecase&quot;&gt;the iPad Pro SleeveCase from Waterfield&lt;/a&gt;.&amp;nbsp;" created="Fri, 30 Jun 2017 15:08:33 GMT"/>
+				<outline text="I was planning to by the Logitech Slim Combo keyboard case but the reviews have turned me off. The Apple keyboard case doesn't sound too much better, but I have read that the Apple Magic Keyboard and &lt;a href=&quot;https://www.studioneat.com/products/canopy&quot;&gt;Canopy case&lt;/a&gt; make a great combo.&amp;nbsp;" created="Fri, 30 Jun 2017 15:08:34 GMT"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
