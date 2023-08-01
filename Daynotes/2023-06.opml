@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2023-06</title>
+		<dateCreated>Tue, 01 Aug 2023 20:17:58 GMT</dateCreated>
+		<dateModified>Tue, 01 Aug 2023 20:18:14 GMT</dateModified>
+		<ownerId>frank.mcpherson@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="June 2023" created="Thu, 01 Jun 2023 13:28:05 GMT" name="june2023" type="calendarMonth">
+			<outline text="June 29" created="Thu, 29 Jun 2023 13:09:52 GMT" type="calendarDay" name="29">
+				<outline text="I am wondering about Air Quality Index reporting because I see noticeable differences between the AccuWeather app, which currently shows 178 in my area (the app indicates Plume Labs, which AccuWeather owns, is the source), whereas Google and Shadow Weather show 154. Someone recommended &lt;a href=&quot;https://www.airnow.gov/?city=West%20Bloomfield&amp;state=MI&amp;country=USA&quot;&gt;Airnow.gov&lt;/a&gt;, which is currently showing 184 and appears to be in sync with Plume Labs but then when I go to &lt;a href=&quot;https://fire.airnow.gov/?aqi_v=1&amp;m_ids=&amp;pa_ids=151952%2C119675#&quot;&gt;the Fire and Smoke map&lt;/a&gt; that shows the location of sensors, the sensors near me range from 154 to 149 one hour ago. None of the sensors are within a mile of my location. The Airnow.gov made reading is indicative for the Detroit Reporting area so I assume that means a much larger geographical area that allows for variation. " created="Thu, 29 Jun 2023 13:09:53 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://www.airnow.gov/fires/using-airnow-during-wildfires/&quot;&gt;AirNow says&lt;/a&gt; that for wildfires the Fire and Smoke map may be more useful because it includes volunteer sensors that provide additional coverage. The AirNow FAQ says that the PurpleAir sensors that people can buy and share day from have a bias that over reports under certain conditions. " created="Thu, 29 Jun 2023 14:27:29 GMT"/>
+				<outline text="So my take away is that AccuWeather and Airnow.gov are providing readings for large geographic regions where it appears Google and Shadow Weather, which may be pulling from the same source, is getting readings closer to my location. Like most things weather, it would best to have my own outdoor sensor to see the values for my exact location. &lt;a href=&quot;https://fire.airnow.gov/?aqi_v=1&amp;m_ids=&amp;pa_ids=151952%2C119675#&quot;&gt;The Airnow.gov Fire and Smoke map&lt;/a&gt; shows air quality sensors near me that I can click to see details including history, and so that is probably the best source for information." created="Thu, 29 Jun 2023 13:17:59 GMT" type="outline"/>
+				</outline>
+			<outline text="June 28" created="Wed, 28 Jun 2023 13:46:42 GMT" type="calendarDay" name="28">
+				<outline text="Watching &lt;a href=&quot;https://www.youtube.com/live/1BEPX4bAnkw?feature=share&quot;&gt;Shane Craig's unboxing live stream of the Pixel Fold&lt;/a&gt;. I admit that what I see in this video is impressive in comparison to the Samsung Z Fold. Looks to me like Google was influenced by the Microsoft Duo. In fact, it looks to me like if Microsoft were to make a Surface Duo with one screen it would have looked very much like the Pixel Fold. Obviously, the price is a huge problem for the Pixel Fold but the weight is another. I can't imagine carrying the Microsoft Duo around with me every where." created="Wed, 28 Jun 2023 21:13:15 GMT" type="outline"/>
+				<outline text="Having observed what happened to third party Twitter apps, and what is happening to third party Reddit apps, I wonder why anyone would &lt;a href=&quot;https://om.co/2023/06/28/ai-hype-smoke-and-mirrors/&quot;&gt;build a business on another company's API&lt;/a&gt;. Sooner or later you will get the rug pulled out from under you." created="Wed, 28 Jun 2023 20:44:11 GMT" type="outline"/>
+				<outline text="I am thinking that I want to use Outlook.com more for my email. " created="Wed, 28 Jun 2023 20:31:36 GMT" type="outline"/>
+				<outline text="We have an &lt;a href=&quot;https://www.airthings.com/wave-mini&quot;&gt;Airthings Wave Mini&lt;/a&gt; in the basement to track humidity and temperature, but it also tracks what they call Volatile Organic Compounds, which are airborne chemicals emitted by every day items. The biggest influence I see on VOC in our house is the furnace and air conditioning and the good thing is that the AC was not running as much as it could so the VOC number has stayed in the good range. VOC is not the same as Particulate Matter pollution caused by the wildfires and currently affecting the outdoor air quality, I would need &lt;a href=&quot;https://www.airthings.com/view-pollution&quot;&gt;a different sensor&lt;/a&gt; for that reading. " created="Wed, 28 Jun 2023 14:00:42 GMT" type="outline"/>
+				<outline text="I watched the Air Quality Index for my home showing on the Nest Hub creeping up all yesterday afternoon to as high as 193, due to the &lt;a href=&quot;https://www.axios.com/2023/06/28/wildfire-smoke-chicago-midwest&quot;&gt;wildfires in Canada&lt;/a&gt;. Right now it is 187 and I am planning on not going on my normal walks. It's troubling to me for it not to be raining or incredibly hot yet avoid being outdoors. Last night I watched the Cubs play in Chicago, somewhat surprised they were even playing the game with the AQI over 200. I would have expected the teams and Major League Baseball to be concerned about the health of players and the fans. As far as I know, there is no change coming soon." created="Wed, 28 Jun 2023 13:46:43 GMT" type="outline"/>
+				</outline>
+			<outline text="June 27" created="Tue, 27 Jun 2023 13:02:14 GMT" type="calendarDay" name="27">
+				<outline text="Good &lt;a href=&quot;https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web&quot;&gt;article on the Verge&lt;/a&gt; about the potential consequence of LLMs on the web. It makes me wonder whether we need a true &quot;web 2&quot; that is separate from the original World Wide Web that is not cluttered by the influence or large corporations. A return to the original purpose of the web in some form.  " created="Tue, 27 Jun 2023 15:19:54 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://store.google.com/us/product/pixel_fold?hl=en-US&quot;&gt;The Pixel Fold&lt;/a&gt; has started to ship and &lt;a href=&quot;https://duckduckgo.com/?q=pixel+fold+review&amp;t=newext&amp;atb=v342-1&amp;ia=web&quot;&gt;tech reviews&lt;/a&gt; are being published. The reviews that I have read so far are biased by the cost of the phone, the gist being that it's not good enough for the price. Given the $1,800 price, I wonder whether it could ever be good enough at that price? In my opinion this is the consequence of a company releasing an expensive first generation device, the price does not allow any grace for the fact that it is first generation." created="Tue, 27 Jun 2023 14:51:32 GMT" type="outline"/>
+				<outline text="Just discovered that the fan noise I thought was coming from my work computer is actually the Pixel Stand. Looks like the fan kicks in whenever the phone starts displaying photos. I am unusually sensitive to white noise." created="Tue, 27 Jun 2023 13:02:15 GMT" type="outline"/>
+				</outline>
+			<outline text="June 26" created="Mon, 26 Jun 2023 14:51:13 GMT" type="calendarDay" name="26">
+				<outline text="It seems to me that humans need to live in a world in which they can trust at least some other humans. No one person can know every thing. I believe trust is our default expectation but that some due to early experience in their lives learn to distrust some, may, or all people. For me the very &lt;a href=&quot;https://www.merriam-webster.com/dictionary/dystopian&quot;&gt;definition of dystopian&lt;/a&gt; is a world in which I cannot trust anyone. " created="Mon, 26 Jun 2023 15:52:29 GMT" type="outline"/>
+				<outline text="I have created an account on &lt;a href=&quot;https://bsky.app&quot;&gt;Bluesky&lt;/a&gt;: @frankm.bsky.social. I've not done much with Bluesky, but it is surprising how it seems to look exactly like Twitter. " created="Mon, 26 Jun 2023 14:51:14 GMT" type="outline"/>
+				</outline>
+			<outline text="June 23" created="Fri, 23 Jun 2023 13:19:53 GMT" type="calendarDay" name="23">
+				<outline text="The fan of my work PC drives me crazy! Seems every Friday afternoon... probably because I good much of computing via VNC. " created="Fri, 23 Jun 2023 19:12:27 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://www.servethehome.com/proxmox-ve-8-0-is-out-upgrading-linux-and-more/&quot;&gt;Proxmox VE 8.0 is now available&lt;/a&gt;, a read through of the upgrade process looks a bit daunting. Not sure why or when I will upgrade." created="Fri, 23 Jun 2023 14:51:01 GMT" type="outline"/>
+				<outline text="I found graphics on &lt;a href=&quot;https://showyourstripes.info/faq&quot;&gt;#ShowYourStrips&lt;/a&gt; that plainly show how the climate has been warming since the turn of the century, which I personally think is pretty obvious to anyone willing to admit what they see with their eyes. Climate change is as real as cigarettes causing cancer, and we are in the same state of industry induced denial that leads to death!" created="Fri, 23 Jun 2023 13:19:54 GMT" type="outline"/>
+				<outline text="Temperatures In Michigan" created="Fri, 23 Jun 2023 13:21:18 GMT" inlineImage="https://shared.frankmcpherson.net/images/TempChangeInMichigan.png"/>
+				<outline text="My one complaint about the graphics created by #ShowYourStrips is that they might not show the complete geographical picture. For example, Michigan is two peninsulas with the Upper Peninsula being west of the Lower Peninsula, so temperatures for the U.P. are probably more aligned with Wisconsin than Michigan." created="Fri, 23 Jun 2023 13:22:31 GMT"/>
+				<outline text="Temperatures in Wisconsin" created="Fri, 23 Jun 2023 13:24:00 GMT" inlineImage="https://shared.frankmcpherson.net/images/TempChangeInWisconsin.png"/>
+				</outline>
+			<outline text="June 22" created="Thu, 22 Jun 2023 14:33:01 GMT" type="calendarDay" name="22">
+				<outline text="I have found the combination of Feedland and River5 to work best for me. I am managing my RSS feeds in Feedland and reading my subscriptions with my own instance of River5, which I find is much faster than Feedland." created="Thu, 22 Jun 2023 21:13:52 GMT" type="outline"/>
+				<outline text="I have an IFTTT applet that sends new blog posts to Day One by monitoring the blog's RSS feed. Unfortunately, the applet strips out HTML links in the blog post. " created="Thu, 22 Jun 2023 14:33:02 GMT" type="outline"/>
+				</outline>
+			<outline text="June 21" created="Wed, 21 Jun 2023 14:08:04 GMT" type="calendarDay" name="21">
+				<outline text="I often wish I could think faster on my feet. " created="Wed, 21 Jun 2023 14:08:05 GMT" type="outline"/>
+				</outline>
+			<outline text="June 20" created="Tue, 20 Jun 2023 15:52:08 GMT" type="calendarDay" name="20">
+				<outline text="&lt;a href=&quot;https://www.cnet.com/home/internet/fcc-wants-to-investigate-broadband-data-caps/#ftag=CAD590a51e&quot;&gt;CNET reports&lt;/a&gt; that the FCC is starting to ask questions about the data caps Internet Service Providers like Xfinity impose. I've long complained about these caps because I think COVID showed that they aren't necessary for providers to make a profile, the caps are basically a fee-based revenue stream with 100% margin. In my experience Xfinity makes the situation worse when they increase bandwidth &quot;for free,&quot; which enables one to consume their allowed bandwidth at a faster rate. Just last month we exceed the monthly cap and payed an extra $40, but that is still cheaper than paying an extra $30 per month for an unlimited plan." created="Tue, 20 Jun 2023 15:52:09 GMT" type="outline"/>
+				<outline text="Ideally, given that there is at best a duopoly for home Internet Service Providers, the government would outlaw data caps. At the very least, if consumers are &quot;buying&quot; a certain amount of data transfer per month they ought to be allowed to roll over they unused amount they bought to the next month.  " created="Tue, 20 Jun 2023 15:56:53 GMT"/>
+				</outline>
+			<outline text="June 19" created="Mon, 19 Jun 2023 15:48:56 GMT" type="calendarDay" name="19">
+				<outline text="The blog post titled &quot;&lt;a href=&quot;https://www.noahpinion.blog/p/how-technology-has-changed-the-world&quot;&gt;How technology has changed the world since I was young&lt;/a&gt;&quot; by &lt;a href=&quot;https://substack.com/@noahpinion&quot;&gt;Noah Smith&lt;/a&gt; lacks a very significant impact of the Internet on the world, which is our expectation of and thus perception on time. People who never lived in a time before the Internet have no concept of not knowing what is happening in the world in near real time. Such people have never lived in a time when it was not possible to buy something and have it delivered the next day... and in many cases that day! Consequently, such people expect change to happen much faster than those of us who lived before the Internet. I think the source of much tension in our society today is the battle between those who expect immediate change and those who are used to change taking years if not decades. Every battle over rights in the United States comes down to those demanding immediate change and those who either don't want change or want to at least slow down change." created="Mon, 19 Jun 2023 15:48:57 GMT" type="outline"/>
+				</outline>
+			<outline text="June 16" created="Fri, 16 Jun 2023 15:40:55 GMT" type="calendarDay" name="16">
+				<outline text="Religion Is Not Just Institutions" created="Fri, 16 Jun 2023 16:37:58 GMT" type="outline">
+					<outline text="I think there is a distinction between religion as it really is for humans and religion as the institutions that most people associate to it. From a human perspective to &quot;re-ligament&quot; or to &quot;re-bind&quot; is to acknowledge that it is human nature to attach ourselves to other &quot;things&quot; from which we often derive our own identity. With this understanding I think you can see that a problem today is actually too much religion because there are many more options than ever before. Despite people's claims to not being religious, in practice I think most people really substitute an &quot;institutional&quot; religion for another, be it a political party, sports team, life style, really anything by which we identify our selves. (I am a Packer fan, I am a Democrat, a liberal, a father, etc..) Trumpism has all the marks of a religion, that from which many see their own identity, which is why any perceived attack on Trump is taken so personally by his supporters." created="Fri, 16 Jun 2023 16:36:54 GMT" type="outline"/>
+					<outline text="When I think of the above and then come back to Jesus and realize that Jesus did not start a religion, (a noun), but rather a movement (a verb), I can't help but feel that religion is big part of &quot;the problem.&quot; The idea forming in my head is in reality all religions create idols and demand loyalty to those idols, and scriptures (particularly the Old Testament) focus much on the problems of idols. In this context the Way of Jesus is a path away from religion in all its forms and towards an invitation to be part of the divine dance. " created="Fri, 16 Jun 2023 16:37:24 GMT" type="outline"/>
+					</outline>
+				<outline text="I have not yet received the June Pixel feature drop on my Pixel 7a, which is a bit frustrating. " created="Fri, 16 Jun 2023 15:40:56 GMT" type="outline"/>
+				</outline>
+			<outline text="June 15" created="Thu, 15 Jun 2023 13:07:58 GMT" type="calendarDay" name="15">
+				<outline text="I got the June feature drop for my Pixel Watch but I can't take advantage of the blood oxygen saturation reading in Fitbit unless I wear the watch to bed, which I am not doing. I don't understand why I can't take that reading on demand." created="Thu, 15 Jun 2023 13:14:34 GMT" type="outline"/>
+				<outline text="The fan of my work PC often runs for no apparent reason, and I wonder why. " created="Thu, 15 Jun 2023 13:07:59 GMT" type="outline"/>
+				</outline>
+			<outline text="June 14" created="Wed, 14 Jun 2023 15:34:16 GMT" type="calendarDay" name="14">
+				<outline text="Tale of two articles. Wired, &lt;a href=&quot;https://www.wired.com/story/apple-vision-pro-doomed/?redirectURL=%2Fstory%2Fapple-vision-pro-doomed%2F&quot;&gt;Apple's Vision Pro Isn't The Future&lt;/a&gt;. Macstories, &lt;a href=&quot;https://www.macstories.net/stories/apple-vision-pro-a-watershed-moment/&quot;&gt;Apple Vision Pro: A Watershed Moment For Personal Computing&lt;/a&gt;.  What I get from reading the two is, Vision Pro demos very well and the technology is very cool, but how useful and desirable is the technology? " created="Wed, 14 Jun 2023 17:56:15 GMT" type="outline"/>
+				<outline text="Just learned that Google has released an &quot;At A Glance&quot; complication for the Utility Wear OS watch face. It is intended to be a small mirror to the same widget on the Android home screen.  Meanwhile, I found and installed the Digital Informer watch face on my Pixel Watch. " created="Wed, 14 Jun 2023 17:21:55 GMT" type="outline"/>
+				<outline text="With Vegas winning the Stanley Cup and &lt;a href=&quot;https://www.cnn.com/2023/06/12/sport/denver-nuggets-nba-championship-spt-intl/index.html&quot;&gt;the Denver Nuggets winning the NBA championship&lt;/a&gt; the night before, two of the North America professional sports champions are first time winners, which I think bodes well for the health of those sports." created="Wed, 14 Jun 2023 15:42:49 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://www.theguardian.com/sport/2023/jun/14/las-vegas-wanted-the-nhl-and-now-the-city-has-the-stanley-cup&quot;&gt;The Vegas Knights won the Stanley Cup&lt;/a&gt;. That seems weird, but they are the first expansion team in professional sports that was immediately competitive due to the expansion draft, and they kept the momentum by seeking out players to meet their short term goals. Vegas has not yet had to do a rebuild." created="Wed, 14 Jun 2023 15:39:55 GMT" type="outline"/>
+				<outline text="Yesterday I learned that Google may be enabling watches running Wear OS 4 switch between phones without requiring a factory reset, which will address &lt;a href=&quot;https://frankmcpherson.blog/2023/05/21/googles-tech-ecosystem.html&quot;&gt;a serious deficiency in their ecosystem&lt;/a&gt;." created="Wed, 14 Jun 2023 15:34:17 GMT" type="outline"/>
+				</outline>
+			<outline text="June 12" created="Mon, 12 Jun 2023 19:36:50 GMT" type="calendarDay" name="12">
+				<outline text="I was traveling last week, hence not at my desk, hence no updates here. I have not read much regarding Apple's announcements, but I did watch some of &lt;a href=&quot;https://twit.tv/shows/macbreak-weekly/episodes/873?autostart=false&quot;&gt;Macbreak Weekly&lt;/a&gt; during lunch. I find it amusing to watch the Apple fanboys attempt to sell Vision Pro for Apple. In my opinion what we should ponder is whether Vision Pro is the iPhone or the Newton MessagePad. Both of these Apple products had &quot;revolutionary&quot; technology, but one stuck the other did not, and worse became the topic of jokes." created="Mon, 12 Jun 2023 19:36:51 GMT" type="outline"/>
+				</outline>
+			<outline text="June 5" created="Mon, 05 Jun 2023 17:13:56 GMT" type="calendarDay" name="05">
+				<outline text="Apple WWDC 2023" created="Mon, 05 Jun 2023 17:18:23 GMT" type="outline">
+					<outline text="Well, I wasn't expecting to be able to watch the Apple WWDC keynote today, but circumstances have allowed me to do so. " created="Mon, 05 Jun 2023 17:13:57 GMT" type="outline"/>
+					<outline text="Macs" created="Mon, 05 Jun 2023 17:19:19 GMT" flBulletedSubs="true">
+						<outline text="Right now, Apple is announcing the Macs based on iterations of their M2 chip, including new Mac Studio and Mac Pro. The Pro with an M2 Ultra has 24-cores compute and 76 GPU cores. The Pros cost $6999, definitely a Pro cost, but available to preorder today. New 15-inch Macbook Air." created="Mon, 05 Jun 2023 17:15:43 GMT" type="outline"/>
+						</outline>
+					<outline text="iOS 17 / iPhone" created="Mon, 05 Jun 2023 17:19:38 GMT" flBulletedSubs="true">
+						<outline text="Live Voicemail, which is the same as Google Call Screening." created="Mon, 05 Jun 2023 17:19:44 GMT"/>
+						<outline text="Facetime &quot;voice mail&quot; equivalent if someone is not there to receive your call" created="Mon, 05 Jun 2023 17:21:04 GMT"/>
+						<outline text="Few references to &quot;on device machine learning&quot;" created="Mon, 05 Jun 2023 17:31:09 GMT"/>
+						<outline text="Announced their own version of Google Memories called Journal. Preserve rich and powerful memories, and practice gratitude!" created="Mon, 05 Jun 2023 17:21:47 GMT"/>
+						<outline text="Standby/dashboard view when you put your phone down in landscape. Appears to be triggered by a stand. " created="Mon, 05 Jun 2023 17:32:43 GMT"/>
+						</outline>
+					<outline text="iPadOS 17 / iPad" created="Mon, 05 Jun 2023 17:35:40 GMT" flBulletedSubs="true">
+						<outline text="Widgets and lock screen. Widgets are interactive. Bringing the iOS lock screen styles to iPad. Includes live activity. " created="Mon, 05 Jun 2023 17:35:43 GMT"/>
+						<outline text="Health coming to iPad. If memory services, this is centered around iWatch. " created="Mon, 05 Jun 2023 17:39:54 GMT"/>
+						<outline text="Integrated PDF support can automate PDF forms. " created="Mon, 05 Jun 2023 17:40:54 GMT"/>
+						</outline>
+					<outline text="macOS / Macs" created="Mon, 05 Jun 2023 17:44:19 GMT" flBulletedSubs="true">
+						<outline text="Name = Sonoma" created="Mon, 05 Jun 2023 17:44:24 GMT"/>
+						<outline text="Screen savers" created="Mon, 05 Jun 2023 17:45:34 GMT"/>
+						<outline text="Add widgets to the desktop. Fade in to the background when you open an app, and related to the wallpaper. Shortcut widgets.  " created="Mon, 05 Jun 2023 17:46:08 GMT"/>
+						<outline text="Password and passkey sharing in Safari. Of course that requires using the password manager feature of browsers, which I am not sold on." created="Mon, 05 Jun 2023 17:48:19 GMT"/>
+						<outline text="Something like PWA, web apps support in Safari" created="Mon, 05 Jun 2023 17:56:08 GMT"/>
+						</outline>
+					<outline text="Moved in to the second hour...." created="Mon, 05 Jun 2023 18:06:24 GMT"/>
+					<outline text="Airpods" created="Mon, 05 Jun 2023 17:59:39 GMT" flBulletedSubs="true">
+						<outline text="Fasting switching between Apple devices." created="Mon, 05 Jun 2023 18:00:23 GMT"/>
+						<outline text="External / ambient sound function so that you can keep wearing the Airpods when someone talks with you." created="Mon, 05 Jun 2023 18:00:40 GMT"/>
+						</outline>
+					<outline text="tvOS / Apple TV" created="Mon, 05 Jun 2023 18:02:58 GMT" flBulletedSubs="true">
+						<outline text="Control center redesign.  " created="Mon, 05 Jun 2023 18:03:02 GMT"/>
+						<outline text="Facetime wirelessly connects to iPhone / iPad, so you see the other person on the TV. Interact with gestures. Shareplay integration. Support for Zoom and WebEx coming to Apple TV. " created="Mon, 05 Jun 2023 18:03:58 GMT"/>
+						</outline>
+					<outline text="watchOS / Apple Watch" created="Mon, 05 Jun 2023 18:05:45 GMT" flBulletedSubs="true">
+						<outline text="Snoopy and Woodstock watch face, with animations." created="Mon, 05 Jun 2023 18:05:56 GMT"/>
+						</outline>
+					<outline text="One more thing.... Augmented Reality (AR)" created="Mon, 05 Jun 2023 18:10:41 GMT" flBulletedSubs="true">
+						<outline text="Ski goggle look. Seems to me this is the ultimate test of the cult of Apple. Will you start seeing people all around wearing these googles?  " created="Mon, 05 Jun 2023 18:22:12 GMT"/>
+						<outline text="Name = Vision Pro; operating system called visionOS." created="Mon, 05 Jun 2023 18:23:18 GMT"/>
+						<outline text="Doesn't look wireless. I see a wire coming down the back. USB-C? " created="Mon, 05 Jun 2023 18:23:31 GMT"/>
+						<outline text="Spacial computing. (Of course, Apple has to claim creation of a computing type.)" created="Mon, 05 Jun 2023 18:24:47 GMT"/>
+						<outline text="Pushing productivity, which Microsoft attempted with Hololens. " created="Mon, 05 Jun 2023 18:25:07 GMT"/>
+						<outline text="Environments is VR-like, adjustable with a crown. " created="Mon, 05 Jun 2023 18:26:59 GMT"/>
+						<outline text="Uses eyes, hands and voice for input. Some type of wrist sensor to use your fingers to click. " created="Mon, 05 Jun 2023 18:27:48 GMT"/>
+						<outline text="What is the field of view? Is it going to be as large as being shown during this demo. " created="Mon, 05 Jun 2023 18:31:13 GMT"/>
+						<outline text="Will Apple sell branded nausea bags?  Cost $10 per bag. " created="Mon, 05 Jun 2023 18:31:47 GMT"/>
+						<outline text="Wireless pick up the Macbook display. " created="Mon, 05 Jun 2023 18:32:33 GMT"/>
+						<outline text="Question... Apple mythology states they enter a market when they have a better take on it. In what way is Vision Pro a better take on prior AR / VR solutions? Definitely not with the hardware, looks like Apple is putting all their eggs in the software basket, which is interesting for a hardware company. " created="Mon, 05 Jun 2023 18:35:05 GMT" type="outline"/>
+						<outline text="How does something like this work for people who wear glasses? " created="Mon, 05 Jun 2023 18:38:29 GMT"/>
+						<outline text="Got Disney to produce content. This feels like a hard sell, all teasers to get people thinking about why they would want Vision Pro. " created="Mon, 05 Jun 2023 18:41:43 GMT"/>
+						<outline text="Another guy with a British accent to tell us about the specs o Vision Pro...." created="Mon, 05 Jun 2023 18:44:25 GMT"/>
+						<outline text="External battery gives two hours of life. Separate from the goggles to save weight, connects via cable. How much will Apple charge for batteries? $99?  " created="Mon, 05 Jun 2023 18:48:00 GMT"/>
+						<outline text="4K video per eye with special lenses. Micro OLED?" created="Mon, 05 Jun 2023 18:48:39 GMT"/>
+						<outline text="Special chip, called R1. Real time sensor processing.  " created="Mon, 05 Jun 2023 18:52:09 GMT"/>
+						<outline text="Press told to plan sticking around another day. We will see articles tomorrow about how real this all is. " created="Mon, 05 Jun 2023 18:55:20 GMT"/>
+						<outline text="Iris reading for security and encryption, calling it Optic ID." created="Mon, 05 Jun 2023 18:59:57 GMT"/>
+						<outline text="I'll admit this has all the tech inside one expects from Apple, but the industrial design is not revolutionary thus is going to share constraints with other devices like HoloLens. Seems like Apple is really hoping all of the software features will enable people to overcome the constraints. " created="Mon, 05 Jun 2023 19:01:05 GMT"/>
+						<outline text="Costs $3499, shipping early next year. When will developer kits ship? Nothing stated during the preso, but perhaps there will be answers over the next few days. Bet Dev Kits become available in the fall.  " created="Mon, 05 Jun 2023 19:02:21 GMT"/>
+						</outline>
+					<outline text="Crossing over the second hour...." created="Mon, 05 Jun 2023 19:00:26 GMT"/>
+					<outline text="Tim claims Vision Pro is a revolutionary product. Creating a new spatial computing platform. It does present a ton of new things for developers, but is there enough for consumers to want to buy. " created="Mon, 05 Jun 2023 19:03:59 GMT"/>
+					</outline>
+				</outline>
+			<outline text="June 1" created="Thu, 01 Jun 2023 13:28:06 GMT" type="calendarDay" name="01">
+				<outline text="I've created a public &lt;a href=&quot;https://github.com/fmcpherson/OPML&quot;&gt;repo on Github&lt;/a&gt; that contains an archive of my blog archive files. The files contain blog posts starting in March, 2014 to present. Perhaps some time in the future I will find a way to search against these files. One remaining group of blog posts are on my WordPress site going back to &lt;a href=&quot;https://fjmnotes.com/2008/05/10/welcome-to-my-new-site/&quot;&gt;May, 2008&lt;/a&gt;. I need to find a way to export those old posts, but that is a bit of a mess because I've been cross-posting to that WordPress site from my current blog. " created="Thu, 01 Jun 2023 14:16:21 GMT" type="outline"/>
+				<outline text="I wish that Dave would enable Daytona to working with Dummerland. He has it working for Scripting News but never enabled it for the rest of us. While I can still run searches on the OPML files indexed up until April, 2023, the only way to add OPML files to be indexed is through Drummer. Right now I can still login to Daytona because I was logged in using my Twitter account but I don't think I will be able to login from another browser. Daytona was for me a pre-cursor to the personal LLMs enjoyed by people today because I would query against my writing." created="Thu, 01 Jun 2023 13:28:07 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
