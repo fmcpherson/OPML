@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Books That I Read in 2023</title>
+		<dateCreated>Thu, 02 Feb 2023 21:31:22 GMT</dateCreated>
+		<dateModified>Thu, 02 Feb 2023 21:37:39 GMT</dateModified>
+		<ownerTwitterScreenName>frankm</ownerTwitterScreenName>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerId>http://twitter.com/frankm</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>1,4</expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="&lt;a href=&quot;https://micro.blog/books/9781506448213&quot;&gt;One Coin Found&lt;/a&gt; by Emmy Kegler" created="Tue, 17 Jan 2023 15:53:19 GMT" type="outline">
+			<outline text="Finished reading on January 16, 2023" created="Tue, 17 Jan 2023 15:53:51 GMT"/>
+			<outline text="I read this book in two days. It is a memoir of a queer ELCA pastor that describes how she found who she is. " created="Tue, 17 Jan 2023 15:54:02 GMT"/>
+			</outline>
+		<outline text="&lt;a href=&quot;https://micro.blog/books/9780664267315&quot;&gt;Journey To The Common Good&lt;/a&gt; by Walter Brueggemann" created="Fri, 27 Jan 2023 18:43:38 GMT" type="outline">
+			<outline text="Finished reading on January 29, 2023" created="Thu, 02 Feb 2023 21:32:34 GMT"/>
+			<outline text="“I believe it is impossible to overstate the defining nature of the empire of force among us, if empire is understood as a political, economic, military, ideological practice of self-security and control. It is not clear that life can be construed beyond empire; but the poets have to try. The poets, because they are poets, never arrive there, for their poetry would then become program. That, however, does not render the poetry as a failure or as an irrelevance. It only affirms that alternatives to the lethal reductionism of empire require imagination and courage and staying power. In that ancient world, it was required that old Jerusalem be relinquished and new Jerusalem be undertaken. It is no less required now that there be relinquishing and undertaking.”" created="Thu, 02 Feb 2023 21:35:44 GMT"/>
+			</outline>
+		</body>
+	</opml>
