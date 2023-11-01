@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2023-09</title>
+		<dateCreated>Wed, 01 Nov 2023 20:21:11 GMT</dateCreated>
+		<dateModified>Wed, 01 Nov 2023 20:21:26 GMT</dateModified>
+		<ownerId>frank.mcpherson@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="September 2023" created="Fri, 01 Sep 2023 17:25:43 GMT" name="september2023" type="calendarMonth">
+			<outline text="September 28" created="Thu, 28 Sep 2023 15:16:05 GMT" type="calendarDay" name="28">
+				<outline text="The Raspberry Pi5 has &lt;a href=&quot;https://www.raspberrypi.com/news/introducing-raspberry-pi-5/&quot;&gt;been announced&lt;/a&gt;. I did some quick, back of napkin math and the 8 GB model with case and 25W power supply will cost $102. I  would most likely also buy the M.2 HAT but there is no price announced for it and it won't ship until 2024. The case now includes a fan and appears to be designed with space to accommodate the HATs provided by &lt;a href=&quot;https://raspberrypi.com&quot;&gt;Raspberrypi.com&lt;/a&gt;. A new version of Raspberry PiOS is also being released." created="Thu, 28 Sep 2023 15:16:06 GMT" type="outline"/>
+				</outline>
+			<outline text="September 27" created="Wed, 27 Sep 2023 14:42:23 GMT" type="calendarDay" name="27">
+				<outline text="No surprise that I am a fan of Drummer, and I am using it to write nearly all of my blog posts, both here and on my blog. I also have blogs on Wordpress that frankly have been dormant. Dave recently added &lt;a href=&quot;http://docserver.scripting.com/?verb=wordpress.connectViaOauth&quot;&gt;Wordpress verbs&lt;/a&gt; to  DummerScript that I am interested in trying out. Problem is that as far as I can tell there are no example scripts, clearly it's a work in progress. " created="Wed, 27 Sep 2023 14:42:23 GMT" type="outline"/>
+				</outline>
+			<outline text="September 25" created="Mon, 25 Sep 2023 13:00:27 GMT" type="calendarDay" name="25">
+				<outline text="I upgraded the microcode and the kernel for Proxmox running on the Beelink U59 Pro and so far the VMs that have been crashing are still running ever since I started them Saturday afternoon. " created="Mon, 25 Sep 2023 13:00:28 GMT" type="outline"/>
+				</outline>
+			<outline text="September 22" created="Fri, 22 Sep 2023 13:10:45 GMT" type="calendarDay" name="22">
+				<outline text="Updating the Windows 11 Insider Preview on my Macbook. It must be a big update as it is taking a while to install." created="Fri, 22 Sep 2023 13:10:46 GMT" type="outline"/>
+				</outline>
+			<outline text="September 21" created="Thu, 21 Sep 2023 13:58:27 GMT" type="calendarDay" name="21">
+				<outline text="With checking out the ability to add widgets on the iPad lock screen I have started fiddling with the Focus modes. I think that the Focus modes make more sense for smartphones than tablets, but then the iPad Mini 6 is a bit more like a phone. I've created a Work mode with one pair of lock and home screen, a Personal mode with another, and a Sports mode cover while I am monitoring my fantasy football teams on Sundays." created="Thu, 21 Sep 2023 14:03:32 GMT" type="outline"/>
+				<outline text="Not sure what to think about the DietPi VM, it is still running after I had stopped and started it on Monday. I am running Home Assistant on this VM and that is hosting home bridge to enable me to control my Hue smart lights using Apple Home. " created="Thu, 21 Sep 2023 14:00:00 GMT" type="outline"/>
+				<outline text="I obviously don't know enough about the Equinox, aka first day of fall, which I though would be today  but apparently isn't until Saturday. So, bonus summer days? " created="Thu, 21 Sep 2023 13:58:28 GMT" type="outline"/>
+				</outline>
+			<outline text="September 18" created="Mon, 18 Sep 2023 15:39:48 GMT" type="calendarDay" name="18">
+				<outline text="iPad OS 17 is available to download and install on the iPad Mini 6. I installed the upgrade without incident." created="Mon, 18 Sep 2023 17:30:36 GMT" type="outline"/>
+				<outline text="The virtual machine based on DietPi was locked up on Proxmox this morning. " created="Mon, 18 Sep 2023 15:39:49 GMT" type="outline"/>
+				</outline>
+			<outline text="September 12" created="Tue, 12 Sep 2023 19:13:35 GMT" type="calendarDay" name="12">
+				<outline text="&lt;a href=&quot;https://experience-ai.org/&quot;&gt;Experience AI&lt;/a&gt; is a new educational programme that offers cutting-edge KS3 (ages 11–14) resources on artificial intelligence and machine learning for teachers and their students. Developed in collaboration by the Raspberry Pi Foundation and Google DeepMind, the programme supports teachers in the exciting and fast-moving area of AI, and gets young people passionate about the subject." created="Tue, 12 Sep 2023 19:26:18 GMT" type="outline"/>
+				<outline text="Apple held their annual iPhone event today. As I am not an iPhone user, there is not a ton here that of particular interest to me. The two applicable tidbits are that &lt;a href=&quot;https://www.theverge.com/2023/9/12/23863224/ios-17-release-date-apple-iphone-15-announcement&quot;&gt;iPad OS 17 will be released on September 18&lt;/a&gt; (this coming Monday) and Mac OS Sonoma will be released on September 26. " created="Tue, 12 Sep 2023 19:13:36 GMT" type="outline"/>
+				</outline>
+			<outline text="September 6" created="Wed, 06 Sep 2023 13:04:34 GMT" type="calendarDay" name="06">
+				<outline text="I am seeing issues with Joplin sync not completing on Android. I will need to decided whether if I can't get Joplin to sync properly on Android that means I need to find a different app. " created="Wed, 06 Sep 2023 19:41:09 GMT" type="outline"/>
+				<outline text="Happy 906 Day!" created="Wed, 06 Sep 2023 13:04:35 GMT" type="outline" inlineImage="https://shared.frankmcpherson.net/images/906DayLake.jpg"/>
+				</outline>
+			<outline text="September 5" created="Tue, 05 Sep 2023 12:59:38 GMT" type="calendarDay" name="05">
+				<outline text="Over the weekend I observed that the battery in my Pixel 7a seemed to be draining much faster than it ought. I when in to the Apps, App battery usage, and reviewed the Unrestricted apps, reverting several to Optimized. Battery drain appears to have slowed. " created="Tue, 05 Sep 2023 20:39:02 GMT" type="outline"/>
+				<outline text="Read &lt;a href=&quot;https://www.virtualizationhowto.com/2023/09/dietpi-tiny-os-for-home-server-self-hosting/&quot;&gt;an article about using DietPi as a Linux distro for VMs on Proxmox&lt;/a&gt;. Followed the instructions to make a template based on DietPi. Going to let this VM marinate to see whether or not it locks up." created="Tue, 05 Sep 2023 18:44:10 GMT" type="outline"/>
+				<outline text="Dave is doing some interesting &lt;a href=&quot;https://github.com/scripting/wpIdentity/tree/main&quot;&gt;things with Wordpress&lt;/a&gt;. Looks like he plans to use Wordpress as an identity provider and will probably add this to Drummer and Feedland.  He also seems to have some pieces that might enable one to use Drummer to edit a Wordpress site. " created="Tue, 05 Sep 2023 18:42:08 GMT" type="outline"/>
+				<outline text="The Ubuntu 22.04 VM was locked up this morning, so it would appear that upgrading the kernel to a 6.x version is not the fix to whatever is the problem. The Xebian VM has now been running for 10 days, so however it is configured, it is working." created="Tue, 05 Sep 2023 12:59:39 GMT" type="outline"/>
+				</outline>
+			<outline text="September 2" created="Sat, 02 Sep 2023 15:47:33 GMT" type="calendarDay" name="02">
+				<outline text="I've built an instance of &lt;a href=&quot;https://docs.ntfy.sh/&quot;&gt;the ntfy.sh notification application&lt;/a&gt; in a container in my homelab. First I installed the app on the Pixel 7a but I think the app is causing a bad drain on the battery so I have uninstalled it and installed the app on my iPad Mini. " created="Sat, 02 Sep 2023 15:47:34 GMT" type="outline"/>
+				</outline>
+			<outline text="September 1" created="Fri, 01 Sep 2023 17:25:44 GMT" type="calendarDay" name="01">
+				<outline text="Somewhat trapped in the house right now. The parking lot right outside our garage has been fixed with some new asphalt." created="Fri, 01 Sep 2023 17:32:08 GMT" type="outline"/>
+				<outline text="It's the first day of September. Feels like the summer has gone by way too fast. Fortunately, the weather forecast has temps in the 80s for the upcoming week. " created="Fri, 01 Sep 2023 17:25:45 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
