@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2023-11</title>
+		<dateCreated>Tue, 02 Jan 2024 14:11:57 GMT</dateCreated>
+		<dateModified>Tue, 02 Jan 2024 14:12:13 GMT</dateModified>
+		<ownerId>frank.mcpherson@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>1</expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="November 2023" created="Wed, 01 Nov 2023 20:17:49 GMT" name="november2023" type="calendarMonth">
+			<outline text="November 30" created="Thu, 30 Nov 2023 16:57:34 GMT" type="calendarDay" name="30">
+				<outline text="Apparently writing and maintaining &lt;a href=&quot;https://defaults.rknight.me/&quot;&gt;a list of apps that one uses&lt;/a&gt; is a thing. Some folks are even publishing this info via RSS, although I am not sure that makes sense to me. A while back I created &lt;a href=&quot;http://tech.frankm.info&quot;&gt;a page of technology that I use&lt;/a&gt; that has a section I call Every Day Apps that maps to this use case. I see that I never completed that list nor put in links, so perhaps I'll spend some time updating." created="Thu, 30 Nov 2023 16:59:02 GMT" type="outline"/>
+				<outline text="Seeing problems loading sites and web pages hosted by &lt;a href=&quot;https://micro.blog&quot;&gt;micro.blog&lt;/a&gt;. I know they have had back end server issues over the last several weeks. A bit ironic given that this morning I wrote a post singing my praises of micro.blog. " created="Thu, 30 Nov 2023 16:57:35 GMT" type="outline"/>
+				</outline>
+			<outline text="November 28" created="Tue, 28 Nov 2023 18:57:40 GMT" type="calendarDay" name="28">
+				<outline text="I've been using &lt;a href=&quot;https://read.readwise.io/&quot;&gt;Readwise Reader&lt;/a&gt; for more than a year and there are a few things I wish that it could do. One is that I wish it could provide me a report that showed me from which domains/sites I have read the most articles, which would tell me which of my RSS feeds are most valuable. I also wish it would be able to automatically categorize/tag inbound articles and then let me filter on those topics so that I could quickly read those articles. " created="Tue, 28 Nov 2023 18:57:41 GMT" type="outline"/>
+				</outline>
+			<outline text="November 20" created="Mon, 20 Nov 2023 14:43:16 GMT" type="calendarDay" name="20">
+				<outline text="The work PC was running massively slow this morning, with the CPU pegged at 100%. Still not sure what was going on, there was a HP audio process taking a lot of CPU that I killed along with the Microsoft experience analytics process that I disabled. Microsoft Defender is constantly consuming 20-30% of the CPU and that alone causes the fan to nearly constantly run.  " created="Mon, 20 Nov 2023 14:43:17 GMT" type="outline"/>
+				</outline>
+			<outline text="November 16" created="Thu, 16 Nov 2023 15:15:49 GMT" type="calendarDay" name="16">
+				<outline text="A while back I upgraded the kernel of one of my Proxmox hosts to version 5.19, which is newer than the &quot;standard&quot; version of 5.15. I see that the standard repository has a update to the 5.15 kernel and I am wondering what will happen if I do a update? While the system revert to the older kernel version or stay at the newer? " created="Thu, 16 Nov 2023 15:15:50 GMT" type="outline"/>
+				</outline>
+			<outline text="November 13" created="Mon, 13 Nov 2023 14:20:14 GMT" type="calendarDay" name="13">
+				<outline text="The fan in my work PC is whirring non-stop this morning and I find the white noise very annoying. I see 60% and higher CPU utilization and looks like the main culprit is &lt;a href=&quot;https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/&quot;&gt;MsMpEng.exe&lt;/a&gt; " created="Mon, 13 Nov 2023 14:20:15 GMT" type="outline"/>
+				</outline>
+			<outline text="November 6" created="Mon, 06 Nov 2023 15:34:41 GMT" type="calendarDay" name="06">
+				<outline text="Noted that rpi-srv.home is running low on disk space and my theory is that there are a lot of docker images that can be pruned. I saw in Portainer a good number of unused images. Ran &quot;&lt;a href=&quot;https://docs.docker.com/engine/reference/commandline/image_prune/&quot;&gt;docker image prune -a&lt;/a&gt;&quot;." created="Mon, 06 Nov 2023 15:34:42 GMT" type="outline"/>
+				</outline>
+			<outline text="November 1" created="Wed, 01 Nov 2023 20:17:50 GMT" type="calendarDay" name="01">
+				<outline text="Looks like &lt;a href=&quot;https://9to5google.com/2023/10/31/google-messages-web-account-pairing-emoji/&quot;&gt;the account pairing mode for Google Messages&lt;/a&gt; means that I can now pair the web app running on multiple devices to my text messages. The old QR pairing method appeared to only work when paired with the web app running on one device." created="Wed, 01 Nov 2023 20:17:51 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
