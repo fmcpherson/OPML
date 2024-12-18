@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2024-09</title>
+		<dateCreated>Fri, 01 Nov 2024 13:46:56 GMT</dateCreated>
+		<dateModified>Fri, 01 Nov 2024 13:47:37 GMT</dateModified>
+		<ownerId>frank.mcpherson@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>1,2,6,10,13,15,17,19,21,24</expansionState>
+		<lastCursor>3</lastCursor>
+		</head>
+	<body>
+		<outline text="September 2024" created="Wed, 04 Sep 2024 13:59:33 GMT" name="september2024" type="calendarMonth">
+			<outline text="September 26" created="Thu, 26 Sep 2024 14:09:42 GMT" type="calendarDay" name="26">
+				<outline text="I really enjoyed reading &lt;a href=&quot;https://www.theverge.com/24247369/the-browser-company-ceo-josh-miller-arc-google-chrome-ai-search-web-decoder-interview&quot;&gt;the transcript of Nilay Patel's (of The Verge) interview with Josh Miller&lt;/a&gt; the creator of Arc. I have just started using Arc and I am starting to appreciate the point of view from which it has been developed. Of course, I agree with the premise that the web browser is essentially the operating system that I use as I spend almost all of my laptop/desktop personal computing time in a browser. " created="Thu, 26 Sep 2024 21:14:25 GMT" type="outline"/>
+				<outline text="I find the essay, &lt;a href=&quot;https://www.amacad.org/publication/daedalus/free-speech-internet-crisis-epistemic-authority&quot;&gt;Free Speech on the Internet: The Crisis of Epistemic Authority&lt;/a&gt;, thought provoking. The essay establishes our reliance on trusting &quot;experts&quot; (epistemic authority) in forming our beliefs and how the  inherent disinter-mediation of the Internet is disposing of that trust because it infers anyone can be an expert and it enables us to find the experts we want to hear. It raises a question of how we view the First Amendment in light of the Internet. At the root of the problem is belief in a democracy that means anyone can pretty much do whatever they want, with no central authority (central government) in place to put limits on individuals. It seems to me that even after a Civil War the old &lt;a href=&quot;https://www.gilderlehrman.org/history-resources/teacher-resources/infographic-differences-between-federalists-and-antifederalists&quot;&gt;Federalist/Anti-Federalist debate&lt;/a&gt; has never been resolved, and that debate coming to a head." created="Thu, 26 Sep 2024 15:30:23 GMT" type="outline"/>
+				<outline text="I noticed yesterday that my Pixel Watch updated to Wear OS 5 but I was puzzled by why &lt;a href=&quot;https://www.androidpolice.com/wear-os-5-update-rolling-out-to-pixel-watch-and-pixel-watch-2/&quot;&gt;the new grid view of the app drawer&lt;/a&gt; was not appearing is that is considered a fundamental part of the new version. I should have been seeing options to switch between the views but I wasn't. This morning I decided to restart the watch, and after a restart I found the view options at the bottom of the drawer." created="Thu, 26 Sep 2024 14:09:43 GMT" type="outline"/>
+				</outline>
+			<outline text="September 25" created="Wed, 25 Sep 2024 14:11:44 GMT" type="calendarDay" name="25">
+				<outline text="I've installed &lt;a href=&quot;https://arc.net/&quot;&gt;Arc&lt;/a&gt; on my Macbook to check it out after having heard about it for a while." created="Wed, 25 Sep 2024 20:29:09 GMT" type="outline"/>
+				<outline text="I found the &lt;a href=&quot;https://support.google.com/pixelphone/answer/9516618?hl=en#:~:text=You%20can%20record%20and%20save,3%20and%20later%20Pixel%20phones.&quot;&gt;Google Recorder&lt;/a&gt; app, previously only available on Pixel Phones, for the Pixel Watch and installed it. Recordings appear to be stored on the watch and synced with the phone, which then appears to sync to the cloud. However, when I delete a recording from the phone that doesn't appear to change the watch." created="Wed, 25 Sep 2024 14:47:44 GMT" type="outline"/>
+				<outline text="Discovered that &lt;a href=&quot;https://9to5google.com/2024/09/24/pixel-watch-wear-os-5-update/&quot;&gt;Wear OS 5 was installed on my Pixel Watch&lt;/a&gt; recently, but so far none of the new &quot;features&quot; appear to be accessible." created="Wed, 25 Sep 2024 14:11:45 GMT" type="outline"/>
+				</outline>
+			<outline text="September 19" created="Thu, 19 Sep 2024 20:21:03 GMT" type="calendarDay" name="19">
+				<outline text="Really &lt;a href=&quot;https://www.theatlantic.com/entertainment/archive/2016/11/leonard-cohen/508157/&quot;&gt;good story&lt;/a&gt; about Leonard Cohen." created="Thu, 19 Sep 2024 21:08:17 GMT" type="outline"/>
+				<outline text="Played a bit with &lt;a href=&quot;https://www.androidpolice.com/google-geminis-latest-productivity-upgrades-give-the-ai-some-practical-smarts/&quot;&gt;Google Gemini&lt;/a&gt; today, asking it to find things in my Gmail. For example, what is the latest Clean Eatz meal plan in my Gmail. The extensions make Gemini more useful to me. I've also been able to ask Gemini to open up notes in Google Keep." created="Thu, 19 Sep 2024 20:21:04 GMT" type="outline"/>
+				</outline>
+			<outline text="September 17" created="Tue, 17 Sep 2024 12:51:38 GMT" type="calendarDay" name="17">
+				<outline text="Really disappointed that Google dropped the trade-in value of the Pixel Watch from $140 to $20! I was planning to buy the Pixel Watch 3 because of that high trade in value, but now that is no longer there so my plans have changed. " created="Tue, 17 Sep 2024 12:51:39 GMT" type="outline"/>
+				</outline>
+			<outline text="September 16" created="Mon, 16 Sep 2024 19:43:49 GMT" type="calendarDay" name="16">
+				<outline text="Installed the iPad OS 18 upgrade on the iPad Mini. Looks like the Perplexity app doesn't work. I now have a calculator on the  Mini. meh. Always amazed by the total lack of any promotion of new features whenever I do an Apple upgrade. " created="Mon, 16 Sep 2024 19:43:50 GMT" type="outline"/>
+				</outline>
+			<outline text="September 11" created="Wed, 11 Sep 2024 15:08:39 GMT" type="calendarDay" name="11">
+				<outline text="I wonder when Google will start adding &lt;a href=&quot;https://www.theverge.com/24237940/iphone-16-hands-on-pictures-price-features-apple&quot;&gt;buttons&lt;/a&gt; to the Pixel phones?" created="Wed, 11 Sep 2024 15:08:40 GMT" type="outline"/>
+				</outline>
+			<outline text="September 10" created="Tue, 10 Sep 2024 19:41:56 GMT" type="calendarDay" name="10">
+				<outline text="Tailscale has a new feature called &lt;a href=&quot;https://tailscale.com/kb/1106/taildrop&quot;&gt;Taildrop&lt;/a&gt; that enables one to transfer files between devices on their Tailnet." created="Tue, 10 Sep 2024 19:41:57 GMT" type="outline"/>
+				</outline>
+			<outline text="September 5" created="Thu, 05 Sep 2024 15:21:50 GMT" type="calendarDay" name="05">
+				<outline text="Learned about Xfinity rewards providing a free year of access to &lt;a href=&quot;https://perplexity.ai&quot;&gt;Perplexity.ai&lt;/a&gt; Pro, so I signed up. Ran a test by uploading a picture of a flower/weed in growing behind our condo and &lt;a href=&quot;https://www.perplexity.ai/page/what-flower-is-this-JM5_RY0CSduxBm_CjO.MJg&quot;&gt;produced this page&lt;/a&gt;.  " created="Thu, 05 Sep 2024 20:32:06 GMT" type="outline"/>
+				<outline text="Based on the &lt;a href=&quot;https://9to5google.com/2024/09/04/pixel-9-pro-fold-design/&quot;&gt;reviews&lt;/a&gt; that I've read and seen, I think &lt;a href=&quot;https://store.google.com/product/pixel_9_pro_fold?hl=en-US&quot;&gt;the Pixel 9 Pro Fold&lt;/a&gt; is a very nice device. For me the key to any foldable is how heavy it feels when folded because I don't want to feel that my pants are falling down while carrying the phone in my pocket. The price is way too high for me, and I will never buy a phone priced above $700, however, as I am a heavy iPad Mini user who carries a smartphone, I believe that I am the type of person for whom a foldable is targeted.  For the near term I expect to continue using the iPad Mini and smartphone because the combined cost is at my max but also because that cost is spread across two purchases at different times. " created="Thu, 05 Sep 2024 15:21:51 GMT" type="outline"/>
+				</outline>
+			<outline text="September 4" created="Wed, 04 Sep 2024 13:59:34 GMT" type="calendarDay" name="04">
+				<outline text="Good morning. We have now entered &lt;a href=&quot;https://www.accuweather.com/en/weather-news/why-meteorological-fall-starts-before-astronomical-fall/344058&quot;&gt;meteorological fall&lt;/a&gt;, and therefore the change the header graphic. " created="Wed, 04 Sep 2024 13:59:35 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
