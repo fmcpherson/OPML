@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2025-02</title>
+		<dateCreated>Wed, 02 Apr 2025 17:16:42 GMT</dateCreated>
+		<dateModified>Wed, 02 Apr 2025 17:17:01 GMT</dateModified>
+		<ownerId>frank.mcpherson@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>1</expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="February 2025" created="Mon, 03 Feb 2025 14:13:29 GMT" name="february2025" type="calendarMonth">
+			<outline text="February 28" created="Fri, 28 Feb 2025 16:54:37 GMT" type="calendarDay" name="28">
+				<outline text="I am probably about to jinx this, but it seems every since I upgrade Rust Desk on my remote desktop and configured the codec to default to AV1 that I have not had any display shearing.  " created="Fri, 28 Feb 2025 16:54:38 GMT" type="outline"/>
+				</outline>
+			<outline text="February 27" created="Thu, 27 Feb 2025 15:28:58 GMT" type="calendarDay" name="27">
+				<outline text="Looks like Dave has a simple utility for viewing/displaying a RSS subscription list. I think &lt;a href=&quot;https://viewfeedlist.opml.org/?url=https%3A%2F%2Fdrummer.land%2Ffrank.mcpherson%40gmail.com%2Ffeedland.opml&quot;&gt;this will link to mine&lt;/a&gt;. Wish Dave would turn this into a simple editor, all I would want is to add and delete items easily. A bonus would be some type of check to see which feeds have been updated recently." created="Thu, 27 Feb 2025 15:28:59 GMT" type="outline"/>
+				</outline>
+			<outline text="February 26" created="Wed, 26 Feb 2025 13:52:47 GMT" type="calendarDay" name="26">
+				<outline text="Just upgraded Rusk Desk on this remote desktop and set the default codec to AV1" created="Wed, 26 Feb 2025 14:19:18 GMT" type="outline"/>
+				<outline text="I am using Rust Desk as my primary remote access tool for the last couple of weeks and I am really happy, however, I do see occasional instances of display distortion that I clear up by changing the codec. My guess is that the distortion is caused by the wireless connectivity of my work PC. RDP drops the connection all together while VNC drops and automatically reconnects and both are more disruptive than what I experience with Rust Desk." created="Wed, 26 Feb 2025 13:52:48 GMT" type="outline"/>
+				</outline>
+			<outline text="February 25" created="Tue, 25 Feb 2025 14:08:20 GMT" type="calendarDay" name="25">
+				<outline text="At one point in time of my life I thought I was going to be a high school teacher. I can't imagine being a high school teacher today. How do you separate your own opinions and emotions about what is going on in the world today? " created="Tue, 25 Feb 2025 14:18:33 GMT" type="outline"/>
+				<outline text="Tried out Wordland and it looks to be an ok way for writing a post in Wordpress as it has all the basics. Most of what gets posted to &lt;a href=&quot;https://fjmnotes.com/&quot;&gt;my old Wordpress blog&lt;/a&gt; are what is cross-posted from my &lt;a href=&quot;https://frankmcpherson.blog&quot;&gt;main blog&lt;/a&gt; using IFTTT. Today my Wordpress site is mainly a backup though it provides some continuity &lt;a href=&quot;https://fjmnotes.com/2008/05/10/welcome-to-my-new-site/&quot;&gt;back to 2008&lt;/a&gt;." created="Tue, 25 Feb 2025 14:08:21 GMT" type="outline"/>
+				</outline>
+			<outline text="February 24" created="Mon, 24 Feb 2025 14:16:27 GMT" type="calendarDay" name="24">
+				<outline text="Because I don't know when Dave is going to shut off Feedland, I copied the feedlist I created there to Drummer where I can edit it for use with River5.  I have not spent much time regarding my own instance of Feedland behind installing mySQL. There is a high probability that I just use this file in Drummer rather than build my own instance." created="Mon, 24 Feb 2025 14:16:27 GMT" type="outline"/>
+				</outline>
+			<outline text="February 21" created="Fri, 21 Feb 2025 16:46:22 GMT" type="calendarDay" name="21">
+				<outline text="Here is [a really good article](https://www.androidauthority.com/notebooklm-car-manual-3527632/) describing a use case for Google NotebookLM: searching car manual information. I followed the instructions for installing NotebookLM on the &quot;home screen&quot; of my Pixel 7a. " created="Fri, 21 Feb 2025 19:41:51 GMT" type="markdown"/>
+				<outline text="I have optimized charging configured for my Pixel 7a, which should stop charging when the battery is at 80%. I have noticed the last several days it going above that amount. I looked at the settings and it says occasionally it will be charged to 100% for calibration, which appears to be what happened today. Need to monitor this." created="Fri, 21 Feb 2025 16:46:23 GMT" type="outline"/>
+				</outline>
+			<outline text="February 19" created="Wed, 19 Feb 2025 14:46:50 GMT" type="calendarDay" name="19">
+				<outline text="Second consecutive day of cold temps. Brrr.." created="Wed, 19 Feb 2025 14:46:51 GMT" type="outline"/>
+				</outline>
+			<outline text="February 16" created="Sun, 16 Feb 2025 20:39:28 GMT" type="calendarDay" name="16">
+				<outline text="I am currently in day 3 of a 4 day weekend. I spent most of day 1, which was Valentine's Day, with my wife. Yesterday and today I've spent at home, puttering with my homelab. The main fruit of my labor has been provisioning and configuring &lt;a href=&quot;https://gethomepage.dev/&quot;&gt;Homepage&lt;/a&gt; as my new homelab dashboard. When I built my first homelab server on a Raspberry Pi 4 a few years back I used Homer, but I did not maintain it very well. An article I recently read recommended Homepage and so I decided to give it a go." created="Sun, 16 Feb 2025 20:39:29 GMT" type="outline"/>
+				</outline>
+			<outline text="February 12" created="Wed, 12 Feb 2025 13:49:05 GMT" type="calendarDay" name="12">
+				<outline text="I wonder, if Dave is souring on hosting his apps, what that means for Drummer? Last I looked through Dave's repos I didn't see one for Drummer by which I mean the app behind https://drummer.land. Also wondering about http://oldschool.scripting.com, which is Dave's subdomain to which this blog is being published. I do think there is a way for my own instance of OldSchool but I am have to think hard about whether I want to go that far. " created="Wed, 12 Feb 2025 13:55:03 GMT" type="outline"/>
+				<outline text="A consequence of Dave shutting down the public instance of Feedland is that the blogroll to the right of this page will stop working. I'll probably remove the blogroll at that time. My plan is to only host Feedland on my home network as I don't really need a public instance just for myself. " created="Wed, 12 Feb 2025 13:52:06 GMT" type="outline"/>
+				<outline text="Feedland uses mySQL, which I don't really know so step one is getting myself familiar with it. I used the Proxmox mysql helper script to provision a new container running mySQL. This is a good opportunity to learn something new! " created="Wed, 12 Feb 2025 13:49:06 GMT" type="outline"/>
+				</outline>
+			<outline text="February 11" created="Tue, 11 Feb 2025 14:42:48 GMT" type="calendarDay" name="11">
+				<outline text="Dave has &lt;a href=&quot;http://scripting.com/2025/02/11.html#a125607&quot;&gt;announced&lt;/a&gt; that he is shutting down his hosting of Feedland. There is a way to self host that I will explore. I am using Feedland to manage my RSS subscription list, though I do use it to check my feeds for thing each day because I think it is slightly better retaining older updates than River5. I am thinking I can run my own instance of Feedland on the same server in my home lab that is running River5. I need to do this by the end of March." created="Tue, 11 Feb 2025 15:27:43 GMT" type="outline"/>
+				<outline text="I wonder what it is that the Trump administration has to do for the majority of folks to realize the U.S. Constitution is no more? Is it that he has to &lt;a href=&quot;https://www.propublica.org/article/trump-administration-funding-freeze-workarounds&quot;&gt;refuse the courts&lt;/a&gt;? Fail to enforce laws passed by Congress?  The whole point of the Constitution is to instill self (citizens) government and prevent tyranny. " created="Tue, 11 Feb 2025 14:42:49 GMT" type="outline"/>
+				</outline>
+			<outline text="February 10" created="Mon, 10 Feb 2025 14:00:11 GMT" type="calendarDay" name="10">
+				<outline text="BTW, while troubleshooting I connected to this new desktop using  RDP and it had a disconnect nearly right out of the hop. It dawned on me, however, that I might want to fiddle with the network connection options. I wonder whether I switched to WAN if that will make the RDP client more tolerant of issues? " created="Mon, 10 Feb 2025 15:36:49 GMT" type="outline"/>
+				<outline text="Using Rust Desk" created="Mon, 10 Feb 2025 15:47:50 GMT" type="outline">
+					<outline text="Today will be my first full work day using the new Ubuntu and KDE Plasma remote desktop container connecting using Rust Desk. Let's see how this goes." created="Mon, 10 Feb 2025 14:00:12 GMT" type="outline"/>
+					<outline text="I've made it through most of the work day and did not experience one disconnect while using Rust Desk. I did see some video display sheer, but that seem to go away when I switched from teh VP9 codec it defaults to to the VP8 codec. More troubling is the strange keyboard behavior. " created="Mon, 10 Feb 2025 21:11:40 GMT" type="outline"/>
+					<outline text="I use the Logitech MX Keys keyboard that is a near standard keyboard with a numeric keypad. By near standard I mean that in between the QWERTY keyboard and numeric keypad is a section of keys for page up, page down, home, end, insert, delete, and arrow keys that is not recognized in Chrome. I have to un-lock the numeric keypad and use the equivalent functions on it. However, this behavior does not exist when I am in the Readwise Reader app, in that app (browser tab) the &quot;middle&quot; Page Up and Page Down keys work and the numeric keypad is always numbers no matter when or not it is locked.  I've also found that the Page Up/Down sequence of Command+Up Arrow and Command+Down Arrow doesn't work from the Mac OS client on the Macbook Pro, which I find really surprising." created="Mon, 10 Feb 2025 21:18:06 GMT"/>
+					<outline text="Rust Desk is not very well documented. There are many options once connected that I don't understand and so far I haven't seen documentation about how to find out what they are. " created="Mon, 10 Feb 2025 15:48:39 GMT" type="outline"/>
+					</outline>
+				</outline>
+			<outline text="February 8" created="Sat, 08 Feb 2025 18:30:09 GMT" type="calendarDay" name="08">
+				<outline text="Playing around with Arch and Raycast. I have created a Raycast Quicklink to open Drummer, and it opens the app.  " created="Sat, 08 Feb 2025 18:30:10 GMT" type="outline"/>
+				</outline>
+			<outline text="February 7" created="Fri, 07 Feb 2025 18:38:14 GMT" type="calendarDay" name="07">
+				<outline text="I've been using Rust Desk Windows client to connect to a Lubuntu desktop running in a VM hosted in Proxmox all day and so far I have not had one disconnect or disruption like i&quot;ve experienced with RDP and VNC. Performance of this VM is a bit less than a container, so I would like to build a desktop in a container, but for now this VM will do." created="Fri, 07 Feb 2025 18:38:15 GMT" type="outline"/>
+				</outline>
+			<outline text="February 6" created="Thu, 06 Feb 2025 21:22:39 GMT" type="calendarDay" name="06">
+				<outline text="I may have found a remote desktop solution that will work more reliably on my home network, it's called &lt;a href=&quot;https://rustdesk.com/&quot;&gt;Rust Desk&lt;/a&gt;. I tried installing and using it on my existing remote desktops, but that would not work until I tried it with an old VM running &lt;a href=&quot;https://lubuntu.me/&quot;&gt;Lubuntu&lt;/a&gt;.  As that VM is running on a Proxmox node that seems to be having some disk problems, I built a new VM on my newest/fasted Proxmox host. So far I am happy with the result except that I can't seem to increase the resolution beyond 1920x1080. " created="Thu, 06 Feb 2025 21:22:40 GMT" type="outline"/>
+				<outline text="Found that if I set the display in Proxmox to VirtIO-GPU then I can increase the resolution and I have it set to 2048x1152, which is not the resolution I've been using for RDP and VNC but better than the above. I may fiddle with this more over time. I think 3840x2160 with a global scaling factor of 1.5 is just right. " created="Fri, 07 Feb 2025 00:42:47 GMT" type="outline"/>
+				<outline text="BTW, Rust Desk has a lot more options than any remote solution that I have tried, so there is more that I need to learn about. " created="Fri, 07 Feb 2025 00:46:37 GMT" type="outline"/>
+				</outline>
+			<outline text="February 3" created="Mon, 03 Feb 2025 14:13:30 GMT" type="calendarDay" name="03">
+				<outline text="The U.S. Constitution has &lt;a href=&quot;https://frankmcpherson.blog/2019/11/14/what-is-the.html&quot;&gt;emoluments clauses&lt;/a&gt; because the founders of the United States knew that government officials, elected and un-elected, could be bought. At the very beginning of a new country the risks, as the founders saw them, were foreign states and monarchs who had the means to provide these gifts and payments and thus establish quid pro quo. The truth is, any quid pro quo with any government official is a risk to the country, and as we are now living that danger is greater now from within. If the United States is to have a &lt;a href=&quot;https://tea25.party/&quot;&gt;self government&lt;/a&gt; future there must be an &lt;a href=&quot;https://frankmcpherson.blog/2024/04/04/we-need-an.html&quot;&gt;Emoluments Amendment&lt;/a&gt; added to the constitution. " created="Mon, 03 Feb 2025 16:47:29 GMT" type="outline"/>
+				<outline text="When I first learned about it I bought an eBook at &lt;a href=&quot;https://bookshop.org/&quot;&gt;Bookshop.org&lt;/a&gt;, which required me to install their app on my BOOX Note Air 3C. &lt;a href=&quot;https://www.wired.com/story/bookshop-now-sells-ebooks/?_sp=62e170e6-6fd8-4a8f-99e2-31f0fc87687c.1738593844199&quot;&gt;Descriptions of their eBook service&lt;/a&gt; say that &quot;local bookstores&quot; are the providers of these books, but that makes me wonder exactly how? I am skeptical that a small local book store as the means to provide eBooks, most likely they are still being provided by chains, though they may be smaller than Barnes and Nobel and Amazon." created="Mon, 03 Feb 2025 16:31:53 GMT" type="outline"/>
+				<outline text="Ever since the fall of the USSR the United States has been a country in search of an enemy. For a while it found one in the middle east but now it seems to be everyone other than ourselves, particularly China. Today's cold war is not an escalation of nuclear arms, although I wouldn't be surprised if that is also happening, but rather an escalation of economic warfare. During the cold war of my youth U.S. citizens were always at risk of being collateral damage, but in the new cold war U.S. citizens are collateral damage." created="Mon, 03 Feb 2025 14:31:17 GMT" type="outline"/>
+				<outline text="What is the word for when a person that is not elected to office and thus not a representative of the people takes over the U.S. government?" created="Mon, 03 Feb 2025 14:26:32 GMT" type="outline"/>
+				<outline text="I am expecting the stock market to tank today and a lot of people are going to lose money. " created="Mon, 03 Feb 2025 14:13:31 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>

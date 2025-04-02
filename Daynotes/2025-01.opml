@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>2025-01</title>
+		<dateCreated>Mon, 03 Mar 2025 15:06:50 GMT</dateCreated>
+		<dateModified>Mon, 03 Mar 2025 15:07:08 GMT</dateModified>
+		<ownerId>frank.mcpherson@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<expansionState>1</expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="January 2025" created="Mon, 06 Jan 2025 16:08:28 GMT" name="january2025" type="calendarMonth">
+			<outline text="January 31" created="Fri, 31 Jan 2025 19:16:14 GMT" type="calendarDay" name="31">
+				<outline text="Looking at &lt;a href=&quot;https://info.frankmcpherson.net/archive.opml&quot;&gt;my monthly archive&lt;/a&gt; and I see that I am starting the fourth year of this blog/sites." created="Fri, 31 Jan 2025 19:16:15 GMT" type="outline"/>
+				</outline>
+			<outline text="January 30" created="Thu, 30 Jan 2025 14:21:33 GMT" type="calendarDay" name="30">
+				<outline text="&lt;a href=&quot;https://arslan.io/2025/01/30/the-zettelkasten-note-taking-methodology/&quot;&gt;Here&lt;/a&gt; is a good overview of &lt;a href=&quot;https://www.google.com/search?q=Zettlekasten&amp;sourceid=chrome&amp;ie=UTF-8&quot;&gt;Zettlekasten&lt;/a&gt;. I find myself drawn to the concept but unable to invest in the amount of time it takes in re-writing the permanent notes. To me, notes are notes, and current technology ought to help with the connecting of the dots. My note taking system is really for storage and retrieval of information that I find useful or that I may need in the future. " created="Thu, 30 Jan 2025 14:21:34 GMT" type="outline"/>
+				<outline text="Searching For Readwise Reader Tags In Obsidian" created="Thu, 30 Jan 2025 20:44:02 GMT" type="outline">
+					<outline text="I use Readwise Reader for reading web article, and in some instances when I read an article I may assign it a document tag. One way that I use these tags is to flag articles that could be a source for a blog post/essay. I've wished for a way to export just the tagged articles and today I realize that I have something similar already working with Obsidian." created="Thu, 30 Jan 2025 20:39:42 GMT" type="outline"/>
+					<outline text="I have synchronization between Readwise and Obsidian so that all article, which come from Readwise Reader, and book (which come from Kindle) highlights are stored in my Obsidian vault. I realized today that the tags I am using appear in the Metadata section of an article that I highlight. The problem is that these &quot;tags&quot; in the metadata are not prepended with a hash (oddly, Readwise is using hash to flag categories rather than tags) but instead they are added as wiki links. If I click the &quot;tag&quot; link in one of the article documents a new file is added to my vault with that name and all of the articles with that tag are in the Linked mentions section of the document." created="Thu, 30 Jan 2025 20:44:29 GMT" type="outline"/>
+					<outline text="I think I like how this is working in Obsidian. To make it work better I changed the backlinks core plugin to display all the backlinks at the bottom of notes." created="Thu, 30 Jan 2025 20:50:19 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 24" created="Fri, 24 Jan 2025 19:01:38 GMT" type="calendarDay" name="24">
+				<outline text="I tried &lt;a href=&quot;https://www.theverge.com/2025/1/23/24350488/perplexity-ai-mobile-assistant-android&quot;&gt;the Perplexity Assistant&lt;/a&gt; on my Google Pixel 7a and while it works as advertised I lose access to the ability to trigger Google Home routines which I do with Google Gemini and Assistant." created="Fri, 24 Jan 2025 19:01:39 GMT" type="outline"/>
+				</outline>
+			<outline text="January 21" created="Tue, 21 Jan 2025 13:41:33 GMT" type="calendarDay" name="21">
+				<outline text="&lt;a href=&quot;https://frankmcpherson.blog/2019/01/21/today-i-am.html&quot;&gt;I see&lt;/a&gt; that it was colder on this date back in 2019. A benefit of having a blog." created="Tue, 21 Jan 2025 13:43:46 GMT" type="outline"/>
+				<outline text="Phone says that it is 2 degrees Fahrenheit this morning. Baby it's cold outside! " created="Tue, 21 Jan 2025 13:41:34 GMT" type="outline"/>
+				</outline>
+			<outline text="January 20" created="Mon, 20 Jan 2025 16:06:40 GMT" type="calendarDay" name="20">
+				<outline text="Got the day off from work due to it being Martin King Luther Jr. day. It's very cold outside so I'll be spending the day indoors." created="Mon, 20 Jan 2025 16:06:41 GMT" type="outline"/>
+				</outline>
+			<outline text="January 19" created="Sun, 19 Jan 2025 19:33:07 GMT" type="calendarDay" name="19">
+				<outline text="Now that we have serious winter temperatures it's time to change the header graphic." created="Sun, 19 Jan 2025 19:36:19 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;http://scripting.com/2025/01/18.html#a195403&quot;&gt;Dave says&lt;/a&gt;, &quot;Every blog should have a nice search engine like mine.&quot; I agree. Once upon a time Daytona worked with all Drummer blogs like this one and I enjoyed it very much. " created="Sun, 19 Jan 2025 19:33:08 GMT" type="outline"/>
+				</outline>
+			<outline text="January 16" created="Thu, 16 Jan 2025 13:50:04 GMT" type="calendarDay" name="16">
+				<outline text="Dave has created &lt;a href=&quot;http://scripting.com/2025/01/15/143544.html&quot;&gt;a new version of Daytona&lt;/a&gt;, which is the search engine he created a few years back for Drummer sites. The new iteration only works on Scripting News and I am not sure whether Dave will ever make this available for us few remaining Drummer users." created="Thu, 16 Jan 2025 13:50:05 GMT" type="outline"/>
+				</outline>
+			<outline text="January 13" created="Mon, 13 Jan 2025 15:22:05 GMT" type="calendarDay" name="13">
+				<outline text="Continue to see an increase in disconnects with my remote desktops. Trying some configuration changes." created="Mon, 13 Jan 2025 15:22:06 GMT" type="outline"/>
+				</outline>
+			<outline text="January 10" created="Fri, 10 Jan 2025 16:30:59 GMT" type="calendarDay" name="10">
+				<outline text="The rate of disconnects to my remote desktops has increased during the week to the point that I decided to reboot the Proxmox host, prior to which I decided to update the server. All of that happened as expected and right now I am connected to my debian12 remote desktop via RDP. " created="Fri, 10 Jan 2025 16:31:00 GMT" type="outline"/>
+				</outline>
+			<outline text="January 8" created="Wed, 08 Jan 2025 14:57:46 GMT" type="calendarDay" name="08">
+				<outline text="For some reason I don't have the permissions to use MX Package Installer when I connect to MX Linux using VNC. " created="Wed, 08 Jan 2025 15:26:49 GMT" type="outline"/>
+				<outline text="Decided I wanted to try out a new remote desktop when I read about &lt;a href=&quot;https://mxlinux.org/&quot;&gt;MX Linux&lt;/a&gt;, so I have provisioned a VM in my homelab, installed MX Linux and configured TigerVNC Server for remote access. I installed Google Chrome and I am now using this desktop for my work day today. It doesn't benchmark as fast as the LXC containers I normally use but so far browser performance appears to be just fine." created="Wed, 08 Jan 2025 14:57:47 GMT" type="outline"/>
+				</outline>
+			<outline text="January 7" created="Tue, 07 Jan 2025 16:47:39 GMT" type="calendarDay" name="07">
+				<outline text="&lt;a href=&quot;https://www.manton.org/&quot;&gt;Manton&lt;/a&gt; has created a low cost version the environment I used for my primary blog called &lt;a href=&quot;https://micro.one&quot;&gt;micro.one&lt;/a&gt;. I honestly think the $5 per month I pay for &lt;a href=&quot;https://micro.blog&quot;&gt;micro.blog&lt;/a&gt; is a good deal, but if you want to dip your toes in to blogging and the fediverse then micro.one is a very good way to start." created="Tue, 07 Jan 2025 16:47:40 GMT" type="outline"/>
+				</outline>
+			<outline text="January 6" created="Mon, 06 Jan 2025 16:08:29 GMT" type="calendarDay" name="06">
+				<outline text="For some reason I am getting a lot of RDP disconnects to my remote Debian 12 desktop due to encryption errors. I've had these issues forever and wish I could find a way to resolve it. VNC to my Fedora desktop has shown similar issues. " created="Mon, 06 Jan 2025 20:19:29 GMT" type="outline"/>
+				<outline text="Hello world! I am back for another year, although feeling like only a slight variant of myself because I have had COVID since New Year's day. It's my first work day of the year though I confess I am finding it difficult to focus as my brain still feels to be in a fog and I feel like I haven't had enough sleep." created="Mon, 06 Jan 2025 16:08:30 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
